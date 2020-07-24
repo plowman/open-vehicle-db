@@ -23,14 +23,12 @@ jobs:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Check the environment
-        run: find .
-      - name: Check for python
-        run: which python
-      - name: Try installing python.
-        run: apt-get install python
-      # Runs a single command using the runners shell
-      - name: Run the script
-        run: python ./scripts/update_car_data.py
+    - name: Check the environment
+      run: find .
+    - name: Check for python
+      run: which python
+    - name: Try installing python.
+      run: sudo apt-get install python
+    - name: Run the script
+      run: python ./scripts/update_car_data.py
