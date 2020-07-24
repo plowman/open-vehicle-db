@@ -1,4 +1,5 @@
 import json
+import os
 import sys
 from datetime import datetime
 
@@ -79,11 +80,13 @@ def get_types_for_make_id(make_id):
   return all_types
 
 
-def _get_model_dict(raw_model):
+def _get_model_dict(raw_model, vehicle_type=None):
+  assert vehicle_type
+
   return {
     "model_id": raw_model["Model_ID"],
     "model_name": raw_model["Model_Name"].strip(),
-    "vehicle_type": "car",
+    "vehicle_type": vehicle_type,
     "years": [],
     "model_styles": {},
   }
@@ -94,16 +97,16 @@ def get_models_for_make_id(make_id):
 
   raw_cars_list = _make_api_request(f"/GetModelsForMakeIdYear/makeId/{make_id}/vehicleType/car")
   for raw_model in raw_cars_list:
-    models.append(_get_model_dict(raw_model))
+    models.append(_get_model_dict(raw_model, vehicle_type="car"))
 
   raw_trucks_list = _make_api_request(f"/GetModelsForMakeIdYear/makeId/{make_id}/vehicleType/truck")
   for raw_model in raw_trucks_list:
-    models.append(_get_model_dict(raw_model))
+    models.append(_get_model_dict(raw_model, vehicle_type="truck"))
 
   # Multi-purpose Passenger Vehicles: SUV's, Minivans, etc.
   raw_mpv_list = _make_api_request(f"/GetModelsForMakeIdYear/makeId/{make_id}/vehicleType/mpv")
   for raw_model in raw_mpv_list:
-    models.append(_get_model_dict(raw_model))
+    models.append(_get_model_dict(raw_model, vehicle_type="mpv"))
 
   return models
 
@@ -131,16 +134,20 @@ def make_produces_passenger_vehicles(make_id):
   return bool(make_type_ids.intersection(PASSENGER_VEHICLE_TYPE_IDS))
 
 
-def persist_json_file(file_name, data_dict):
-  with open(file_name, mode="w") as json_file:
+scripts_path = os.path.dirname(__file__)
+project_root = os.path.dirname(scripts_path)
+
+
+def load_json(*json_path_segments):
+  json_path = os.path.join(project_root, *json_path_segments)
+  with open(json_path) as json_file:
+    return json.loads(json_file.read())
+
+
+def persist_json_file(data_dict, *json_path_segments):
+  json_path = os.path.join(project_root, *json_path_segments)
+  with open(json_path, mode="w") as json_file:
     json_file.write(json.dumps(data_dict, indent=2))
-
-
-def load_json(file_name):
-  with open(file_name) as json_file:
-    json_data = json.loads(json_file.read())
-
-  return json_data
 
 
 grey_list = set()
@@ -210,7 +217,7 @@ def get_vehicle_details(year=None, model=None, make=None):
     raw_data = {}
     for spec in specs:
       spec_name = spec.get("Name")
-      spec_value = spec.get("Value")
+      spec_value = spec.get("Value").strip()
       if spec_value == "":
         spec_value = None
       elif spec_name not in ["Model", "Make", "WD"]:
@@ -273,7 +280,11 @@ def update_makes_file():
       filtered_makes.append(make)
       print(f"{make['make_name']} produces passenger vehicles: {make}")
 
-  persist_json_file("../data/makes.json", {"makes": filtered_makes})
+  persist_json_file({"makes": filtered_makes}, "data", "makes.json")
+
+
+def load_models_json():
+  return load_json("data", "models.json")
 
 
 def update_models_files():
@@ -281,7 +292,7 @@ def update_models_files():
   Update models.json with the latest of makes and models from the
   """
   # all_makes = load_json("./makes.json")["makes"]
-  all_makes = load_json("../data/models.json")
+  all_makes = load_json("data", "models.json")
   for count, make in enumerate(all_makes):
     print("=" * 120)
     print("=" * 120)
@@ -309,57 +320,101 @@ def update_models_files():
     make["models"] = models
     print(models)
 
-  persist_json_file("../data/models.json", all_makes)
+  persist_json_file(all_makes, "data", "models.json")
 
 
 def update_styles():
-  all_makes = load_json("../data/models.json")
-  all_mismatched_models = []
+  all_makes = load_json("data", "models.json")
+  all_orphaned_styles = {}
 
   for count, make in enumerate(all_makes):
+    all_orphaned_styles[make["make_name"]] = {
+      "model_choices": [model["model_name"] for model in make["models"]],
+      "orphaned_styles": [],
+    }
     for year in range(make["first_year"], make["last_year"] + 1):
       details = get_vehicle_details(year=year, make=make["make_name"])
-      all_upper_model_names = [model["model_name"].upper() for model in make["models"]]
       for detail in details:
-        matching_list = [model_uc for model_uc in all_upper_model_names if detail["model_style"].startswith(model_uc)]
-        if not matching_list:
-          print(f"COULD NOT FIND MATCHING MODEL for details: {detail}")
-          all_mismatched_models.append(make["make_name"] + " " + detail["model_style"])
         model_style_name = detail["model_style"]
         del detail["model_style"]
+
+        found_match = False
         for model in make["models"]:
-          if model_style_name.startswith(model["model_name"].upper()):
+          if model_style_name.upper().startswith(model["model_name"].upper()):
+            found_match = True
             if model_style_name not in model["model_styles"]:
               model["model_styles"][model_style_name] = {
                 "years": [year],
-                "details": detail,
+                # "details": {year: detail},
               }
             else:
               model_style_details = model["model_styles"][model_style_name]
               model_style_details["years"].append(year)
-              model_style_details["details"][year] = detail
+              # model_style_details["details"][year] = detail
+
+        if not found_match:
+          all_orphaned_styles[make["make_name"]]["orphaned_styles"].append(model_style_name)
+
+    print(f"Found orphans for make {make['make_name']}: \n {all_orphaned_styles[make['make_name']]}")
 
     style_data = {}
     for model in make["models"]:
       style_data[model["model_name"]] = model["model_styles"]
-    persist_json_file("./data/styles/" + make["make_slug"] + ".json", style_data)
-    print(json.dumps(style_data, indent=2))
+    persist_json_file(style_data, "data", "styles", make["make_slug"] + ".json")
 
   print("ALL MODELS WE COULD NOT FIND:")
-  for model in all_mismatched_models:
+  for model in all_orphaned_styles:
     print(model)
+  persist_json_file(all_orphaned_styles, "data", "all_orphaned_styles.json")
+
+
+def update_stats():
+  make_models_data = load_models_json()
+  model_count = len(make_models_data)
+  make_count = sum(len(make_data["models"]) for make_data in make_models_data)
+
+  make_slugs = [make_data["make_slug"] for make_data in make_models_data]
+  style_count = 0
+  for make_slug in make_slugs:
+    make_style_data = load_json("data", "styles", f"{make_slug}.json")
+    for model in make_style_data:
+      for _ in make_style_data[model]:
+        style_count += 1
+
+  stat_data = {
+    "model_count": model_count,
+    "make_count": make_count,
+    "style_count": style_count,
+    "last_updated": datetime.utcnow().isoformat(),
+  }
+
+  persist_json_file(stat_data, "data", "stats.json")
 
 
 def update_everything():
   update_makes_file()
   update_models_files()
   update_styles()
+  update_stats()
 
 
 def main(args):
   print(f"Running update_car_data with args: {args}")
-  update_styles()
+  update_stats()
 
 
 if __name__ == "__main__":
   main(sys.argv[1:])
+
+"""
+Examples of model -> model_style mismatches
+* 328i not matching 328i CABRIOLET  
+* GMC: not matching G2500 VANDURA LONG W.B.
+* Acura 2.5 TL 4DR SEDAN != Acura TL
+* Alfa Romeo: GTV-6-2.5 != GTV6
+
+What to try next:
+difflib, which lets you enter the search word and possibilities:
+* difflib.get_close_matches('search word', list_of_choices)
+
+"""
