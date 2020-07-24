@@ -104,6 +104,16 @@
     }
   },
   "Mazda3": {
+    "MAZDA 3 4DR SEDAN FWE GX/GS/GT": {
+      "years": [
+        2004
+      ]
+    },
+    "MAZDA 3 SPORT 4DR HATCH FWD GS/GT": {
+      "years": [
+        2004
+      ]
+    },
     "MAZDA3 4DR SEDAN FWD /GX/GS/GT": {
       "years": [
         2005,
@@ -307,6 +317,36 @@
     }
   },
   "Mazda6": {
+    "MAZDA 6 GS-I4/GT-I4": {
+      "years": [
+        2003
+      ]
+    },
+    "MAZDA 6 GS-V6/GT-V6": {
+      "years": [
+        2003
+      ]
+    },
+    "MAZDA 6 4DR SEDAN FWD / GS-I4/GT-I4": {
+      "years": [
+        2004
+      ]
+    },
+    "MAZDA 6 4DR SEDAN FWD /GS-V6/GT-V6": {
+      "years": [
+        2004
+      ]
+    },
+    "MAZDA 6 SPORT HATCH": {
+      "years": [
+        2004
+      ]
+    },
+    "MAZDA 6 SPORT WAGON": {
+      "years": [
+        2004
+      ]
+    },
     "MAZDA6 4DR SEDAN FWD  /GS-I4/GT-I4": {
       "years": [
         2005,
@@ -552,6 +592,11 @@
     "PROTEGE5 4DR WAGON FWD": {
       "years": [
         2002,
+        2003
+      ]
+    },
+    "MAZDASPEED PROTEGE 4DR SEDAN FWD": {
+      "years": [
         2003
       ]
     }
@@ -968,6 +1013,12 @@
     }
   },
   "RX-7": {
+    "RX 7": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
     "RX-7 GSL SE": {
       "years": [
         1985,

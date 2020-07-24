@@ -73,9 +73,88 @@
       ]
     }
   },
-  "Regency": {},
+  "Regency": {
+    "98 REGENCY COUPE": {
+      "years": [
+        1985
+      ]
+    },
+    "NINETY-EIGHT REGENCY SEDAN": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "98 REGENCY COUPE (BASE)": {
+      "years": [
+        1986
+      ]
+    },
+    "NINETY-EIGHT REGENCY 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "NINETY-EIGHT REGENCY BROUGHAM 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "NINETY EIGHT REGENCY TOURING SEDAN": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "NINETY-EIGHT REGENCY BROUGHAM 4 DR SEDAN": {
+      "years": [
+        1988
+      ]
+    },
+    "NINETY-EIGHT REGENCY BROUGHAM 4 DR": {
+      "years": [
+        1989
+      ]
+    },
+    "98 REGENCY BROUGHAM/TOURING 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "98 REGENCY ELITE/TOURING 4DR SEDAN": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "98 REGENCY 4DR SEDAN ELITE": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    }
+  },
   "Eighty Eight (88)": {},
-  "LSS": {},
+  "LSS": {
+    "88 ROYALE 4DR SEDAN BASE/LS/LSS": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "88 4DR SEDAN BASE/LS/LSS": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    }
+  },
   "Cutlass": {
     "CUTLASS 2 DR CP": {
       "years": [
@@ -104,28 +183,7 @@
         1981
       ]
     },
-    "CUTLASS CALAIS 2 DR": {
-      "years": [
-        1982
-      ]
-    },
-    "CUTLASS CIERA": {
-      "years": [
-        1982
-      ]
-    },
-    "CUTLASS CRUISER WAGON": {
-      "years": [
-        1982,
-        1987
-      ]
-    },
     "CUTLASS SUPER WD 2 DR CP": {
-      "years": [
-        1982
-      ]
-    },
-    "CUTLASS SUPREME 4 DR SD": {
       "years": [
         1982
       ]
@@ -134,343 +192,6 @@
       "years": [
         1985,
         1986
-      ]
-    },
-    "CUTLASS CIERA BROUGHAM COUPE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CUTLASS CIERA BROUGHAM SEDAN": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CUTLASS CIERA LS SEDAN 4 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CUTLASS CIERA WAGON": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CUTLASS SUPREME BROUGHAM COUPE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CUTLASS SUPREME BROUGHAM SEDAN": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CUTLASS SUPREME COUPE": {
-      "years": [
-        1985
-      ]
-    },
-    "CUTLASS SUPREME SALON COUPE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CUTLASS SUPREME SEDAN": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CUTLASS CIERA 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "CUTLASS CIERA BROUGHAM 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "CUTLASS CIERA GT 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "CUTLASS CIERA GT 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "CUTLASS CIERA S 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "CUTLASS CIERA SL 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "CUTLASS CRUISER BROUGHAM WAGON": {
-      "years": [
-        1987
-      ]
-    },
-    "CUTLASS SUPREME 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "CUTLASS SUPREME BROUGHAM 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "CUTLASS SUPREME BROUGHAM 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "CUTLASS SUPREME SALON 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "CUTLASS CALAIS 2 DR COUPE": {
-      "years": [
-        1988
-      ]
-    },
-    "CUTLASS CALAIS BASE/SL 4 DR SEDAN": {
-      "years": [
-        1988
-      ]
-    },
-    "CUTLASS CALAIS INT'L SERIES 2DR COUPE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "CUTLASS CALAIS INT'L SERIES 4DR SEDAN": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "CUTLASS CIERA 2 DR COUPE": {
-      "years": [
-        1988
-      ]
-    },
-    "CUTLASS CIERA BASE/BROUGHAM 4 DR SEDAN": {
-      "years": [
-        1988
-      ]
-    },
-    "CUTLASS CIERA INT'L SERIES 2DR COUPE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "CUTLASS CIERA INT'L SERIES 4DR SEDAN": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "CUTLASS CRUISER BASE/BROUGHAM WAGON": {
-      "years": [
-        1988
-      ]
-    },
-    "CUTLASS SUPREME BASE/SL COUPE": {
-      "years": [
-        1988
-      ]
-    },
-    "CUTLASS SUPREME CLASSIC 2 DR COUPE": {
-      "years": [
-        1988
-      ]
-    },
-    "CUTLASS SUPREME CLASSIC BROUGHAM 2 DR": {
-      "years": [
-        1988
-      ]
-    },
-    "CUTLASS SUPREME INT'L SERIES 2DR COUPE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "CUTLASS CALAIS S 2 DR COUPE": {
-      "years": [
-        1989
-      ]
-    },
-    "CUTLASS CALAIS S/SL 4 DR SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "CUTLASS CIERA BASE 2 DR COUPE": {
-      "years": [
-        1989
-      ]
-    },
-    "CUTLASS CIERA BASE 4 DR SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "CUTLASS CRUISER BASE/SL WAGON": {
-      "years": [
-        1989,
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "CUTLASS SUPREME BASE/SL": {
-      "years": [
-        1989
-      ]
-    },
-    "CUTLASS CALAIS S/INTERNAT'L SERIES COUPE": {
-      "years": [
-        1990
-      ]
-    },
-    "CUTLASS CALAIS S/SL 4DR SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "CUTLASS CIERA BASE/SL 4 DR SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "CUTLASS CIERA INTERNAT'L SERIES SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "CUTLASS SUPREME BASE/SL 2DR COUPE": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "CUTLASS SUPREME BASE/SL 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "CUTLASS SUPREME CONVERTIBLE": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "CUTLASS SUPREME INTERNAT'L SERIES COUPE": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "CUTLASS SUPREME INTERNAT'L SERIES SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "CUTLASS CALAIS S/INT'L SER/QUAD442 COUPE": {
-      "years": [
-        1991,
-        1992
-      ]
-    },
-    "CUTLASS CALAIS S/SL/INT'L SER 4DR SEDAN": {
-      "years": [
-        1991,
-        1992
-      ]
-    },
-    "CUTLASS CIERA S/SL 4 DR SEDAN": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "CUTLASS SUPREME/INTERNATIONAL 2DR COUPE": {
-      "years": [
-        1993
-      ]
-    },
-    "CUTLASS SUPREME/INTERNATIONAL 4DR SEDAN": {
-      "years": [
-        1993
-      ]
-    },
-    "CUTLASS CIERA 4DR SEDAN S/SL": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "CUTLASS CRUISER 4DR WAGON S/SL": {
-      "years": [
-        1994,
-        1995
-      ]
-    },
-    "CUTLASS SUPREME 2DR CONVERTIBLE": {
-      "years": [
-        1994,
-        1995
-      ]
-    },
-    "CUTLASS SUPREME 2DR COUPE S/SL": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "CUTLASS SUPREME 4DR SEDAN S/SL": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "CUTLASS CIERA 4DR WAGON S/SL": {
-      "years": [
-        1996
       ]
     }
   },

@@ -1,8 +1,25 @@
 {
   "Continental": {
+    "BENTLEY CONTINENTAL R 2DR COUPE": {
+      "years": [
+        1995,
+        1996,
+        1997
+      ]
+    },
     "CONTINENTAL AZURE 2DR CONVERTIBLE": {
       "years": [
         1996
+      ]
+    },
+    "BENTLEY CONTINENTAL R 2DR COUPE LWB": {
+      "years": [
+        1998
+      ]
+    },
+    "BENTLEY CONTINENTAL T 2DR COUPE": {
+      "years": [
+        1998
       ]
     },
     "CONTINENTAL 2DR COUPE R LWB": {
@@ -137,6 +154,12 @@
         2016,
         2017
       ]
+    },
+    "NEW CONTINENTAL": {
+      "years": [
+        2018,
+        2019
+      ]
     }
   },
   "Brooklands": {
@@ -145,6 +168,21 @@
         1993,
         1994,
         1995
+      ]
+    },
+    "BENTLEY BROOKLANDS 4DR SEDAN": {
+      "years": [
+        1997
+      ]
+    },
+    "BENTLEY BROOKLANDS 4DR SEDAN LWB": {
+      "years": [
+        1997
+      ]
+    },
+    "BENTLEY BROOKLANDS R 4DR SEDAN": {
+      "years": [
+        1998
       ]
     },
     "BROOKLANDS 2 DR COUPE RWD": {
@@ -157,6 +195,12 @@
     }
   },
   "Azure": {
+    "BENTLEY AZURE 2DR CONVERTIBLE": {
+      "years": [
+        1997,
+        1998
+      ]
+    },
     "AZURE 2DR CONVERTIBLE": {
       "years": [
         1999,
@@ -190,9 +234,32 @@
       "years": [
         1996
       ]
+    },
+    "BENTLEY TURBO R 4DR SEDAN": {
+      "years": [
+        1997
+      ]
+    },
+    "BENTLEY TURBO RL 4DR SEDAN": {
+      "years": [
+        1997,
+        1998
+      ]
     }
   },
   "Mulsanne": {
+    "BENTLEY MULSANNE/TURBO R 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "BENTLEY MULSANNE S/TURBO R 4DR SEDAN": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
     "MULSANNE 4DR SEDAN RWD": {
       "years": [
         2011,

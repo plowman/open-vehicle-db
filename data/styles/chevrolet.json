@@ -644,13 +644,6 @@
         2018,
         2019
       ]
-    },
-    "IMPALA LIMITED 4DR SEDAN FWD": {
-      "years": [
-        2014,
-        2015,
-        2016
-      ]
     }
   },
   "Malibu": {
@@ -667,16 +660,6 @@
     "MALIBU WAGON": {
       "years": [
         1981
-      ]
-    },
-    "MALIBU CLASSIC 4 DR": {
-      "years": [
-        1982
-      ]
-    },
-    "MALIBU CLASSIC 4 DR WAGON": {
-      "years": [
-        1982
       ]
     },
     "MALIBU 4DR SEDAN BASE/LS": {
@@ -898,12 +881,108 @@
     }
   },
   "SS": {
-    "SSR REG CAB S/BOX RWD": {
+    "CAB & CHASSIS C2500 OR C20": {
       "years": [
-        2003,
-        2004,
-        2005,
-        2006
+        1981
+      ]
+    },
+    "CAB & CHASSIS C3500 or C30": {
+      "years": [
+        1981
+      ]
+    },
+    "CAB & CHASSIS C3500 OR C30": {
+      "years": [
+        1981,
+        1981,
+        1981
+      ]
+    },
+    "CAB CHASSIS K3500 OR K30": {
+      "years": [
+        1981,
+        1981,
+        1981
+      ]
+    },
+    "CAB & CHASSIS-C2500 OR C20": {
+      "years": [
+        1982
+      ]
+    },
+    "CAB & CHASSIS-C3500 OR C30": {
+      "years": [
+        1982,
+        1982,
+        1982,
+        1982
+      ]
+    },
+    "CAB CHASSIS-K3500 OR K30": {
+      "years": [
+        1982,
+        1982,
+        1982
+      ]
+    },
+    "ASTRO AWD PASSENGER VAN": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "ASTRO EXTENDED LENGTH AWD PASSENGER VAN": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "ASTRO EXTENDED LENGTH RWD PASSENGER VAN": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "ASTRO RWD PASSENGER VAN": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "C1500 P/U EXT CAB S/BOX S/SIDE": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "C1500 P/U REG CAB S/BOX S/SIDE": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "K1500 P/U EXT CAB S/BOX S/SIDE 4X4": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "K1500 P/U REG CAB S/BOX S/SIDE 4X4": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
       ]
     }
   },
@@ -923,6 +1002,26 @@
     }
   },
   "Suburban": {
+    "GMC SUBURBAN C1500": {
+      "years": [
+        1982
+      ]
+    },
+    "GMC SUBURBAN C2500": {
+      "years": [
+        1982
+      ]
+    },
+    "GMC SUBURBAN K1500": {
+      "years": [
+        1982
+      ]
+    },
+    "GMC SUBURBAN K2500": {
+      "years": [
+        1982
+      ]
+    },
     "SUBURBAN 4 X 2": {
       "years": [
         1985,
@@ -935,6 +1034,90 @@
         1985,
         1986,
         1987
+      ]
+    },
+    "R10 SUBURBAN": {
+      "years": [
+        1988
+      ]
+    },
+    "R20 SUBURBAN": {
+      "years": [
+        1988
+      ]
+    },
+    "V10 SUBURBAN": {
+      "years": [
+        1988
+      ]
+    },
+    "V20 SUBURBAN 4X4": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "R10 SUBURBAN  2WD": {
+      "years": [
+        1989,
+        1990
+      ]
+    },
+    "R20 SUBURBAN 2WD": {
+      "years": [
+        1989,
+        1990
+      ]
+    },
+    "V10 SUBURBAN 4X4": {
+      "years": [
+        1989,
+        1990
+      ]
+    },
+    "R1500 SUBURBAN  2WD": {
+      "years": [
+        1991
+      ]
+    },
+    "R2500 SUBURBAN  2WD": {
+      "years": [
+        1991
+      ]
+    },
+    "V1500 SUBURBAN 4X4": {
+      "years": [
+        1991
+      ]
+    },
+    "V2500 SUBURBAN 4X4": {
+      "years": [
+        1991
+      ]
+    },
+    "C1500 SUBURBAN  4X2": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "C2500 SUBURBAN 4X2": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "K1500 SUBURBAN 4X4": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "K2500 SUBURBAN 4X4": {
+      "years": [
+        1992,
+        1993
       ]
     },
     "SUBURBAN C1500 4DR 4X2": {
@@ -1093,6 +1276,73 @@
     }
   },
   "Tracker": {
+    "CHEVY (GEO) TRACKER   CONVERTIBLE": {
+      "years": [
+        1989,
+        1991
+      ]
+    },
+    "CHEVY (GEO) TRACKER   HARD TOP": {
+      "years": [
+        1989,
+        1991
+      ]
+    },
+    "CHEVY TRACKER   CONVERTIBLE": {
+      "years": [
+        1990
+      ]
+    },
+    "CHEVY TRACKER   HARD TOP": {
+      "years": [
+        1990
+      ]
+    },
+    "GEO TRACKER 4x4  CONVERTIBLE": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "GEO TRACKER 4x4  HARD TOP": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "GEO TRACKER 2DR CONVERTIBLE 2WD": {
+      "years": [
+        1994,
+        1994,
+        1995,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "GEO TRACKER 2DR CONVERTIBLE 4WD BASE/LSi": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "GEO TRACKER 2DR HARD TOP 4WD BASE/LSi": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "GEO TRACKER 2DR CONVERTIBLE 4WD": {
+      "years": [
+        1997
+      ]
+    },
+    "GEO TRACKER 4DR HARDTOP BASE/LSi": {
+      "years": [
+        1997
+      ]
+    },
     "TRACKER 2DR CONVERTIBLE 4WD": {
       "years": [
         1998,
@@ -1693,11 +1943,6 @@
         1989
       ]
     },
-    "LUMINA APV BASE/LE WAGON": {
-      "years": [
-        1990
-      ]
-    },
     "LUMINA BASE/EURO 2DR COUPE": {
       "years": [
         1990
@@ -1706,13 +1951,6 @@
     "LUMINA BASE/EURO 4DR SEDAN": {
       "years": [
         1990
-      ]
-    },
-    "LUMINA APV BASE/CL WAGON": {
-      "years": [
-        1991,
-        1992,
-        1993
       ]
     },
     "LUMINA COUPE/EURO 2DR COUPE": {
@@ -1978,6 +2216,55 @@
   },
   "Hearse/Limo": {},
   "Metro": {
+    "GEO METRO 2DR HATCHBACK": {
+      "years": [
+        1992,
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "GEO METRO 4DR HATCHBACK": {
+      "years": [
+        1992,
+        1993,
+        1994
+      ]
+    },
+    "GEO METRO 4DR SEDAN": {
+      "years": [
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "GEO METRO CONVERTIBLE": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "GEO METRO 2DR HATCHBACK GSi": {
+      "years": [
+        1994
+      ]
+    },
+    "GEO METRO 2DR HATCHBACK LSi": {
+      "years": [
+        1995,
+        1996
+      ]
+    },
+    "GEO METRO 4DR SEDAN LSi": {
+      "years": [
+        1995,
+        1996
+      ]
+    },
     "METRO 2DR HATCHBACK": {
       "years": [
         1998,
@@ -2046,6 +2333,78 @@
     "BLAZER K10": {
       "years": [
         1981
+      ]
+    },
+    "C10 BLAZER": {
+      "years": [
+        1982,
+        1982
+      ]
+    },
+    "K10 BLAZER": {
+      "years": [
+        1982,
+        1982
+      ]
+    },
+    "K-BLAZER 4DR 4 X 2": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "K-BLAZER 4DR 4 X 4": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "K-BLAZER 4DR 2 X 4": {
+      "years": [
+        1987
+      ]
+    },
+    "V-BLAZER 4DR 2X4": {
+      "years": [
+        1988
+      ]
+    },
+    "V-BLAZER 4DR 4X4": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "T-10 BLAZER 2DR 4X4": {
+      "years": [
+        1989
+      ]
+    },
+    "V-BLAZER 4DR 4X2": {
+      "years": [
+        1989
+      ]
+    },
+    "V-BLAZER 4DR 4 X 2": {
+      "years": [
+        1990
+      ]
+    },
+    "V-BLAZER 4DR 4 X 4": {
+      "years": [
+        1990
+      ]
+    },
+    "V-BLAZER 4 X 4": {
+      "years": [
+        1991
+      ]
+    },
+    "K1500 BLAZER 4X4": {
+      "years": [
+        1992,
+        1993
       ]
     },
     "BLAZER K1500 2DR SUV 4X4": {
@@ -2496,7 +2855,332 @@
       ]
     }
   },
-  "Express": {},
+  "Express": {
+    "G1500 EXPRESS PASSENGER": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "G2500 EXPRESS PASSENGER": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "G2500 EXPRESS PASSENGER EXTENDED": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "G3500 EXPRESS PASSENGER": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "G3500 EXPRESS PASSENGER EXTENDED": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "G1500 EXPRESS CARGO": {
+      "years": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "G2500 EXPRESS CARGO": {
+      "years": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "G2500 EXPRESS CARGO EXTENDED": {
+      "years": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "G3500 EXPRESS CARGO": {
+      "years": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "G3500 EXPRESS CARGO EXTENDED": {
+      "years": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "H1500 EXPRESS CARGO AWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "H1500 EXPRESS PASSENGER VAN AWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "H2500 EXPRESS CARGO AWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2009,
+        2010
+      ]
+    },
+    "1500 EXPRESS CARGO VAN SWB": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "1500 EXPRESS CARGO VAN SWB AWD": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "1500 EXPRESS PASSENGER VAN SWB": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "1500 EXPRESS PASSENGER VAN SWB AWD": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "2500 EXPRESS CARGO VAN LWB": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "2500 EXPRESS CARGO VAN SWB": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "2500 EXPRESS PASSENGER VAN LWB": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "2500 EXPRESS PASSENGER VAN SWB": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "3500 EXPRESS CARGO VAN LWB": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "3500 EXPRESS CARGO VAN SWB": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "3500 EXPRESS PASSENGER VAN LWB": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "3500 EXPRESS PASSENGER VAN SWB": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
   "Silverado": {
     "SILVERADO 1500 EXT CAB L/BOX F/SIDE": {
       "years": [
@@ -3110,6 +3794,166 @@
     "SILVERADO 3500 REG CAB L/BOX SRW 4X4": {
       "years": [
         2006
+      ]
+    },
+    "NEXT GEN SILVERADO 1500 CREW CAB S/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 1500 CREW CAB S/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 1500 EXT CAB L/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 1500 EXT CAB L/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 1500 EXT CAB M/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 1500 EXT CAB M/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 1500 EXT CAB S/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 1500 EXT CAB S/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 1500 REG CAB L/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 1500 REG CAB L/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 1500 REG CAB M/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 1500 REG CAB M/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 2500HD CREW CAB L/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 2500HD CREW CAB L/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 2500HD CREW CAB M/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 2500HD CREW CAB M/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 2500HD EXT CAB L/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 2500HD EXT CAB L/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 2500HD EXT CAB M/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 2500HD EXT CAB M/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 2500HD REG CAB L/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 2500HD REG CAB L/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 3500 CREW CAB L/BOX 2WD DR": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 3500 CREW CAB L/BOX 2WD SR": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 3500 CREW CAB L/BOX 4X4 DR": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 3500 CREW CAB L/BOX 4X4 SR": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 3500 EXT CAB L/BOX 2WD DRW": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 3500 EXT CAB L/BOX 2WD SRW": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 3500 EXT CAB L/BOX 4X4 DRW": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 3500 EXT CAB L/BOX 4X4 SRW": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 3500 REG CAB L/BOX 4X4 DRW": {
+      "years": [
+        2007
+      ]
+    },
+    "NEXT GEN SILVERADO 3500 REG CAB L/BOX 4X4 SRW": {
+      "years": [
+        2007
       ]
     },
     "SILVERADO CLASSIC 1500 CREW CAB S/BOX": {
@@ -3812,11 +4656,6 @@
       "years": [
         2019
       ]
-    },
-    "SILVERADO HD CREW CAB STANDARD BOX": {
-      "years": [
-        2020
-      ]
     }
   },
   "Tahoe": {
@@ -4317,10 +5156,23 @@
     }
   },
   "C5": {},
-  "C6": {},
+  "C6": {
+    "G30/C6P SPORTVAN": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    }
+  },
   "C7": {},
   "P6S": {},
   "S-10": {
+    "S10": {
+      "years": [
+        1982
+      ]
+    },
     "S-10 BLAZER 2DR 4 X 2": {
       "years": [
         1985,
@@ -4725,6 +5577,11 @@
         1999,
         2000,
         2001,
+        2002
+      ]
+    },
+    "S10 P/U CREW CAB Reg/BOX 4WD": {
+      "years": [
         2002
       ]
     },

@@ -117,36 +117,6 @@
         2017
       ]
     },
-    "WRANGLER JK 2DR SUV 4WD RUBICON": {
-      "years": [
-        2018
-      ]
-    },
-    "WRANGLER JK 2DR SUV 4WD SAHARA": {
-      "years": [
-        2018
-      ]
-    },
-    "WRANGLER JK 2DR SUV 4WD SPORT/WILLYS WHEELER": {
-      "years": [
-        2018
-      ]
-    },
-    "WRANGLER JK UNLIMITED 4DR SUV 4WD RUBICON": {
-      "years": [
-        2018
-      ]
-    },
-    "WRANGLER JK UNLIMITED 4DR SUV 4WD SAHARA": {
-      "years": [
-        2018
-      ]
-    },
-    "WRANGLER JK UNLIMITED 4DR SUV 4WD SPORT/WILLYS WHEELER": {
-      "years": [
-        2018
-      ]
-    },
     "WRANGLER JL 3.6L RUBICON 2DR SUV": {
       "years": [
         2018,
@@ -1039,6 +1009,19 @@
     }
   },
   "Renegade": {
+    "YJ RENEGADE": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "YJ SE/SPORT/SAHARA/RENEGADE SOFTTOP 2DR SUV": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
     "RENEGADE SPORT/LATITUDE/LIMITED 4X4": {
       "years": [
         2015,

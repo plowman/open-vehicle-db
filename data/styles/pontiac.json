@@ -1229,7 +1229,33 @@
       ]
     }
   },
-  "Lemans": {},
+  "Lemans": {
+    "LE MANS 2 DR": {
+      "years": [
+        1981
+      ]
+    },
+    "LE MANS 4 DR": {
+      "years": [
+        1981
+      ]
+    },
+    "LE MANS WAGON": {
+      "years": [
+        1981
+      ]
+    },
+    "LE MANS AERO COUPE/SE 3DR HATCHBACK": {
+      "years": [
+        1992
+      ]
+    },
+    "LE MANS SE SEDAN": {
+      "years": [
+        1992
+      ]
+    }
+  },
   "6000": {
     "6000 2 DR CP": {
       "years": [
@@ -1504,7 +1530,23 @@
       ]
     }
   },
-  "Grand Lemans": {},
+  "Grand Lemans": {
+    "GRAND LE MANS 4 DR": {
+      "years": [
+        1982
+      ]
+    },
+    "GRAND LE MANS 4 DR WAGON": {
+      "years": [
+        1982
+      ]
+    },
+    "GRAND LE MANS BROUGH. 4 DR SD": {
+      "years": [
+        1982
+      ]
+    }
+  },
   "Catalina": {},
   "J2000": {
     "J2000 2 DR CP": {
@@ -1626,7 +1668,45 @@
     }
   },
   "Laurentian": {},
-  "Montana/ SV6": {},
+  "Montana/ SV6": {
+    "MONTANA SV6 EWB AWD MINIVAN /UPLEVEL 1/UPLEVE": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "MONTANA SV6 EWB FWD MINIVAN /UPLEVEL 1/UPLEVE": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "MONTANA SV6 SWB AWD MINIVAN /UPLEVEL 1/UPLEVE": {
+      "years": [
+        2005
+      ]
+    },
+    "MONTANA SV6 SWB FWD MINIVAN /UPLEVEL 1/UPLEVE": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "MONTANA SV6 EWB FWD MINIVAN": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "MONTANA SV6 SWB FWD MINIVAN": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ]
+    }
+  },
   "Torrent": {
     "TORRENT /SPORT 4DR SUV AWD": {
       "years": [

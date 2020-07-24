@@ -89,6 +89,11 @@
     }
   },
   "Coupe": {
+    "MASERATI COUPE GT/Cambiocorsa 2D RWD": {
+      "years": [
+        2003
+      ]
+    },
     "COUPE GT/CAMBIOCORSA 2DR COUPE RWD": {
       "years": [
         2004
@@ -115,10 +120,28 @@
         1991
       ]
     },
+    "MASERATI SPYDER CAMBIOCORSA 2DR CONV RWD": {
+      "years": [
+        2002,
+        2003
+      ]
+    },
+    "MASERATI SPYDER GT 2DR CONVERTIBLE RWD": {
+      "years": [
+        2002,
+        2003
+      ]
+    },
     "SPYDER GT/CAMBIOCORSA 2DR CONV RWD": {
       "years": [
         2004,
         2005
+      ]
+    },
+    "GRANSPORT SPYDER 2DR CONV RWD": {
+      "years": [
+        2006,
+        2007
       ]
     }
   },

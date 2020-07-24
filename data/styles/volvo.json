@@ -90,13 +90,6 @@
         2017,
         2018
       ]
-    },
-    "S60 CROSS COUNTRY 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
     }
   },
   "S80": {
@@ -565,6 +558,33 @@
     }
   },
   "XC90": {
+    "XC 90 2.5T/T6": {
+      "years": [
+        2003
+      ]
+    },
+    "XC 90 4DR SUV AWD /2.5T/T6": {
+      "years": [
+        2004
+      ]
+    },
+    "XC 90 4DR SUV AWD /2.5T": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "XC 90 4DR SUV AWD /T6": {
+      "years": [
+        2005
+      ]
+    },
+    "XC 90 4DR SUV AWD /V8": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
     "XC90 4DR SUV AWD 3.2": {
       "years": [
         2007,

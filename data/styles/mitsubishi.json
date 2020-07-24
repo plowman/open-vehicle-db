@@ -95,12 +95,6 @@
         2018,
         2019
       ]
-    },
-    "OUTLANDER PHEV 4DR SUV": {
-      "years": [
-        2018,
-        2019
-      ]
     }
   },
   "Lancer": {
@@ -133,11 +127,6 @@
       "years": [
         2004,
         2005
-      ]
-    },
-    "LANCER SPORTBACK 4DR WAGON FWD LS/RALLIART": {
-      "years": [
-        2004
       ]
     },
     "LANCER 4DR SEDAN FWD /ES": {
@@ -212,17 +201,6 @@
         2010
       ]
     },
-    "LANCER SPORTBACK GTS 4DR FWD": {
-      "years": [
-        2010
-      ]
-    },
-    "LANCER SPORTBACK RALLIART 4DR AWD": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
     "LANCER 4DR SEDAN FWD DE/SE/GT": {
       "years": [
         2011,
@@ -230,18 +208,6 @@
         2013,
         2015,
         2016
-      ]
-    },
-    "LANCER SPORTBACK 4DR HATCH SE/GT FWD": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018
       ]
     },
     "LANCER 4DR SEDAN AWD SE-AWD": {
@@ -340,11 +306,6 @@
         2002
       ]
     },
-    "ECLIPSE SPYDER GS MT/GT MT": {
-      "years": [
-        2002
-      ]
-    },
     "ECLIPSE COUPE 2DR COUPE GT/GT PREMIUM": {
       "years": [
         2003,
@@ -359,34 +320,6 @@
         2005
       ]
     },
-    "ECLIPSE SPYDER 2DR CONV GS": {
-      "years": [
-        2003,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "ECLIPSE SPYDER 2DR CONV GT PREMIUM": {
-      "years": [
-        2003
-      ]
-    },
-    "ECLIPSE SPYDER 2DR CONV FWD /GS": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "ECLIPSE SPYDER 2DR CONV FWD /GT PREMIUM": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
     "ECLIPSE COUPE 2DR COUPE GS": {
       "years": [
         2006
@@ -395,16 +328,6 @@
     "ECLIPSE COUPE 2DR COUPE GT": {
       "years": [
         2006
-      ]
-    },
-    "ECLIPSE SPYDER 2DR CONV GT-P": {
-      "years": [
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
       ]
     },
     "ECLIPSE GS 2DR COUPE": {
@@ -423,12 +346,6 @@
         2010,
         2011,
         2012
-      ]
-    },
-    "ECLIPSE CROSS 4DR SUV": {
-      "years": [
-        2018,
-        2019
       ]
     }
   },
@@ -480,32 +397,12 @@
     }
   },
   "Montero": {
-    "MONTERO SPORT ES/LS": {
-      "years": [
-        2002
-      ]
-    },
-    "MONTERO SPORT XLS/LTD": {
-      "years": [
-        2002
-      ]
-    },
     "MONTERO XLS/LIMITED": {
       "years": [
         2002,
         2003,
         2004,
         2005
-      ]
-    },
-    "MONTERO SPORT ES": {
-      "years": [
-        2003
-      ]
-    },
-    "MONTERO SPORT LS/XLS/LTD": {
-      "years": [
-        2003
       ]
     },
     "MONTERO LIMITED": {
@@ -607,8 +504,31 @@
       ]
     }
   },
-  "i-MiEV": {},
-  "Outlander - PHEV": {},
+  "i-MiEV": {
+    "iMiEV": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "iMiEV 4DR HATCHBACK ES": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    }
+  },
+  "Outlander - PHEV": {
+    "OUTLANDER PHEV 4DR SUV": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
   "Mirage": {
     "MIRAGE COUPE": {
       "years": [
@@ -622,13 +542,6 @@
       ]
     },
     "MIRAGE 5DR HATCH": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "MIRAGE G4 SEDAN": {
       "years": [
         2017,
         2018,

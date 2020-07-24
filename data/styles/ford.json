@@ -827,12 +827,6 @@
         2009
       ]
     },
-    "TAURUS X 4DR CUV FWD SEL/LIMITED": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
     "TAURUS SE/SEL 4DR SEDAN FWD": {
       "years": [
         2010,
@@ -974,6 +968,30 @@
         2007,
         2008,
         2009
+      ]
+    },
+    "SHELBY GT500 4DR CONVERTIBLE RWD": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "SHELBY GT500 4DR COUPE RWD": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
       ]
     },
     "GT 2DR COUPE": {
@@ -1746,6 +1764,18 @@
   },
   "'34": {},
   "E-150": {
+    "E 150": {
+      "years": [
+        1981,
+        1981
+      ]
+    },
+    "E150": {
+      "years": [
+        1982,
+        1982
+      ]
+    },
     "E-150 CLUB WAGON": {
       "years": [
         1985,
@@ -2071,14 +2101,6 @@
         2011
       ]
     },
-    "EXPEDITION MAX 4WD SUV EDDIE BAUER/LIMITED/KI": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    },
     "EXPEDITION 4WD SUV XLT/LIMITED": {
       "years": [
         2012,
@@ -2087,23 +2109,7 @@
         2015
       ]
     },
-    "EXPEDITION MAX 4WD SUV LIMITED": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
     "EXPEDITION 4WD SUV": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "EXPEDITION MAX 4WD SUV": {
       "years": [
         2016,
         2017,
@@ -2275,25 +2281,6 @@
         2005
       ]
     },
-    "EXPLORER SPORT TRAC P/U 4DR 4X2": {
-      "years": [
-        2004,
-        2005,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "EXPLORER SPORT TRAC P/U 4DR 4X4": {
-      "years": [
-        2004,
-        2005,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
     "EXPLORER 4DR SUV 4WD XLS/XLT/Eddie Bauer/Limi": {
       "years": [
         2006
@@ -2360,6 +2347,61 @@
     }
   },
   "F-150": {
+    "F 150": {
+      "years": [
+        1981
+      ]
+    },
+    "F 150 FLARESIDE": {
+      "years": [
+        1981
+      ]
+    },
+    "F 150 LONG": {
+      "years": [
+        1981
+      ]
+    },
+    "F 150 SUPER CAB": {
+      "years": [
+        1981
+      ]
+    },
+    "F 150 SUPER CAB LONG": {
+      "years": [
+        1981
+      ]
+    },
+    "F150": {
+      "years": [
+        1982
+      ]
+    },
+    "F150 FLARESIDE": {
+      "years": [
+        1982
+      ]
+    },
+    "F150 LONG": {
+      "years": [
+        1982
+      ]
+    },
+    "F150 REG. 4 WD": {
+      "years": [
+        1982
+      ]
+    },
+    "F150 SUPER CAB": {
+      "years": [
+        1982
+      ]
+    },
+    "F150 SUPER CAB LONG": {
+      "years": [
+        1982
+      ]
+    },
     "F-150 FLARESIDE PICK-UP": {
       "years": [
         1985,
@@ -2811,56 +2853,6 @@
     "F-150 P/U SUPERCREW S/BOX 4X4": {
       "years": [
         2003
-      ]
-    },
-    "F-150 HERITAGE P/U REG CAB L/BOX": {
-      "years": [
-        2004
-      ]
-    },
-    "F-150 HERITAGE P/U REG CAB L/BOX 4X4": {
-      "years": [
-        2004
-      ]
-    },
-    "F-150 HERITAGE P/U REG CAB S/BOX": {
-      "years": [
-        2004
-      ]
-    },
-    "F-150 HERITAGE P/U REG CAB S/BOX 4X4": {
-      "years": [
-        2004
-      ]
-    },
-    "F-150 HERITAGE P/U SUPER CAB L/BOX": {
-      "years": [
-        2004
-      ]
-    },
-    "F-150 HERITAGE P/U SUPER CAB L/BOX 4X4": {
-      "years": [
-        2004
-      ]
-    },
-    "F-150 HERITAGE P/U SUPER CAB S/BOX": {
-      "years": [
-        2004
-      ]
-    },
-    "F-150 HERITAGE P/U SUPER CAB S/BOX 4X4": {
-      "years": [
-        2004
-      ]
-    },
-    "F-150 HERITAGE P/U SUPER CREW S/BOX": {
-      "years": [
-        2004
-      ]
-    },
-    "F-150 HERITAGE P/U SUPERCREW S/BOX 4X4": {
-      "years": [
-        2004
       ]
     },
     "F-150 P/U REG CAB 78 in. BOX": {
@@ -3691,6 +3683,56 @@
     }
   },
   "F-250": {
+    "F 250": {
+      "years": [
+        1981
+      ]
+    },
+    "F 250 HD": {
+      "years": [
+        1981
+      ]
+    },
+    "F 250 HD SP CAB": {
+      "years": [
+        1981
+      ]
+    },
+    "F 250 SUPER CAB": {
+      "years": [
+        1981
+      ]
+    },
+    "F 250 SUPERCAB LONG": {
+      "years": [
+        1981
+      ]
+    },
+    "F250": {
+      "years": [
+        1982
+      ]
+    },
+    "F250 HD": {
+      "years": [
+        1982
+      ]
+    },
+    "F250 HD SP CAB": {
+      "years": [
+        1982
+      ]
+    },
+    "F250 SUPER CAB": {
+      "years": [
+        1982
+      ]
+    },
+    "F250 SUPER CAB LONG": {
+      "years": [
+        1982
+      ]
+    },
     "F-250 HD STYLESIDE PU. REG. CAB": {
       "years": [
         1988,
@@ -4166,6 +4208,31 @@
     }
   },
   "F-350": {
+    "F 350 DR": {
+      "years": [
+        1981
+      ]
+    },
+    "F 350 REG 4 WD": {
+      "years": [
+        1981
+      ]
+    },
+    "F 350 SR": {
+      "years": [
+        1981
+      ]
+    },
+    "F350 DR": {
+      "years": [
+        1982
+      ]
+    },
+    "F350 SR": {
+      "years": [
+        1982
+      ]
+    },
     "F-350 STYLESIDE CREW CAB LONG BED": {
       "years": [
         1987
@@ -4826,6 +4893,30 @@
   "F-650": {},
   "F-750": {},
   "Transit Connect": {
+    "TRANSIT-CONNECT XLT/WAGON - CARGO": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "TRANSIT-CONNECT ELECTRIC": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "TRANSIT-CONNECT WAGON XLT/XLT PREMIUM": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "TRANSIT-CONNECT XLT CARGO": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
     "TRANSIT CONNECT VAN XL/XLT": {
       "years": [
         2014,
@@ -4848,6 +4939,18 @@
     }
   },
   "E-250": {
+    "E 250": {
+      "years": [
+        1981,
+        1981
+      ]
+    },
+    "E250": {
+      "years": [
+        1982,
+        1982
+      ]
+    },
     "E-250 CLUB WAGON": {
       "years": [
         1987,
@@ -4956,6 +5059,18 @@
     }
   },
   "E-350": {
+    "E 350": {
+      "years": [
+        1981,
+        1981
+      ]
+    },
+    "E350": {
+      "years": [
+        1982,
+        1982
+      ]
+    },
     "E-350 SUPER WAGON": {
       "years": [
         1987,
@@ -5192,50 +5307,6 @@
     }
   },
   "Transit": {
-    "TRANSIT-CONNECT XLT/WAGON - CARGO": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "TRANSIT-CONNECT ELECTRIC": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "TRANSIT-CONNECT WAGON XLT/XLT PREMIUM": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "TRANSIT-CONNECT XLT CARGO": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "TRANSIT CONNECT VAN XL/XLT": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "TRANSIT CONNECT WAGON XL/XLT/TITANIUM": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
     "TRANSIT VAN 150 LONG WB LOW ROOF": {
       "years": [
         2015,
@@ -5473,12 +5544,6 @@
         1986
       ]
     },
-    "BRONCO II": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
     "BRONCO 4X4": {
       "years": [
         1987,
@@ -5487,42 +5552,10 @@
         1991
       ]
     },
-    "BRONCO II 4 X 2": {
-      "years": [
-        1987
-      ]
-    },
-    "BRONCO II 4 X 4": {
-      "years": [
-        1987
-      ]
-    },
-    "BRONCO II 4X2": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "BRONCO II 4X4": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
     "BRONCO 4x4": {
       "years": [
         1990,
         1992
-      ]
-    },
-    "BRONCO II 4x2": {
-      "years": [
-        1990
-      ]
-    },
-    "BRONCO II 4x4": {
-      "years": [
-        1990
       ]
     },
     "BRONCO CUSTOM/XLT/EDDIE BAUER 2DR 4x4": {
@@ -5867,8 +5900,51 @@
   "LT800": {},
   "LN800": {},
   "LNT800": {},
-  "E-100": {},
-  "F-100": {},
+  "E-100": {
+    "E 100": {
+      "years": [
+        1981,
+        1981
+      ]
+    },
+    "E100": {
+      "years": [
+        1982
+      ]
+    }
+  },
+  "F-100": {
+    "F 100 CUSTOM": {
+      "years": [
+        1981
+      ]
+    },
+    "F 100 FLARESIDE": {
+      "years": [
+        1981
+      ]
+    },
+    "F 100 LONG": {
+      "years": [
+        1981
+      ]
+    },
+    "F100 CUSTOM": {
+      "years": [
+        1982
+      ]
+    },
+    "F100 FLARESIDE": {
+      "years": [
+        1982
+      ]
+    },
+    "F100 LONG": {
+      "years": [
+        1982
+      ]
+    }
+  },
   "CT800": {},
   "Edge": {
     "EDGE 4DR SUV FWD SE/SEL": {
@@ -6010,27 +6086,7 @@
       ]
     }
   },
-  "Explorer Sport": {
-    "EXPLORER SPORT TRAC P/U 4DR 4X2": {
-      "years": [
-        2004,
-        2005,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "EXPLORER SPORT TRAC P/U 4DR 4X4": {
-      "years": [
-        2004,
-        2005,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    }
-  },
+  "Explorer Sport": {},
   "Ecosport": {
     "ECOSPORT 4DR CUV": {
       "years": [

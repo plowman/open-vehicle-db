@@ -445,55 +445,13 @@
     }
   },
   "Ram": {
-    "RAM 50": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "RAMCHARGER 4 WD AW 150": {
-      "years": [
-        1981
-      ]
-    },
-    "RAMCHARGER DD150": {
-      "years": [
-        1981
-      ]
-    },
-    "RAMPAGE": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "RAMCHARGER AD150": {
-      "years": [
-        1982,
-        1988,
-        1989,
-        1990,
-        1991
-      ]
-    },
-    "RAMCHARGER AW150 4 WD": {
-      "years": [
-        1982
-      ]
-    },
-    "RAM 50 CUSTOM PICK-UP": {
+    "POWER RAM W100 LONG BED PICK-UP": {
       "years": [
         1985,
         1986
       ]
     },
-    "RAM 50 ROYAL PICK-UP": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "RAM CHARGER 4 X 2": {
+    "POWER RAM W100 SHORT BED PICK-UP": {
       "years": [
         1985,
         1986
@@ -511,18 +469,27 @@
         1986
       ]
     },
-    "RAMCHARGER 4 X 4": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "RAM 50 LONG WB PICK-UP": {
+    "B-250 RAM MAXIVAN": {
       "years": [
         1987
       ]
     },
-    "RAM 50 SHORT WB PICK-UP": {
+    "B-350 RAM MAXIVAN": {
+      "years": [
+        1987
+      ]
+    },
+    "POWER RAM W150 LONG WB PICK-UP": {
+      "years": [
+        1987
+      ]
+    },
+    "POWER RAM W150 SHORT WB PICK-UP": {
+      "years": [
+        1987
+      ]
+    },
+    "POWER RAM W250 LONG WB 4X4": {
       "years": [
         1987
       ]
@@ -545,49 +512,6 @@
     "RAM D350 LONG WB PICK-UP": {
       "years": [
         1987
-      ]
-    },
-    "RAMCHARGER 4X2": {
-      "years": [
-        1987
-      ]
-    },
-    "RAMCHARGER AW150 4X4": {
-      "years": [
-        1987,
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "RAM 50 LONG WB": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "RAM 50 SHORT WB": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "RAM 50 SPORT CAB": {
-      "years": [
-        1988,
-        1989,
-        1990
       ]
     },
     "RAM B150 WAGON LONG WB": {
@@ -797,14 +721,6 @@
         1990
       ]
     },
-    "RAM 50 SE": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
     "RAM D150S LONG WB": {
       "years": [
         1990,
@@ -916,12 +832,6 @@
       ]
     },
     "RAM W350 REGULAR CAB 4X4": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "RAMCHARGER AD150 4X2": {
       "years": [
         1992,
         1993
@@ -2249,6 +2159,11 @@
         1986
       ]
     },
+    "EXPO 4 DR HATCHBACK OMNI": {
+      "years": [
+        1989
+      ]
+    },
     "OMNI 4DR HATCHBACK": {
       "years": [
         1990
@@ -2485,7 +2400,13 @@
       ]
     }
   },
-  "ST.REGIS": {},
+  "ST.REGIS": {
+    "ST. REGIS": {
+      "years": [
+        1981
+      ]
+    }
+  },
   "Journey": {
     "JOURNEY 4DR CUV AWD SXT/RT": {
       "years": [
@@ -3262,6 +3183,12 @@
         1982
       ]
     },
+    "RAM CHARGER 4 X 2": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
     "RAMCHARGER 4 X 4": {
       "years": [
         1985,
@@ -3291,8 +3218,42 @@
       ]
     }
   },
-  "Ram Van": {},
-  "Ram Wagon": {},
+  "Ram Van": {
+    "B-150 RAM VAN LONG WB": {
+      "years": [
+        1987
+      ]
+    },
+    "B-150 RAM VAN SHORT WB": {
+      "years": [
+        1987
+      ]
+    },
+    "B-250 RAM VAN LONG WB": {
+      "years": [
+        1987
+      ]
+    },
+    "B-350 RAM VAN LONG WB": {
+      "years": [
+        1987
+      ]
+    }
+  },
+  "Ram Wagon": {
+    "B150 RAMWAGON LONG WB": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "B150 RAMWAGON SHORT WB": {
+      "years": [
+        1985,
+        1986
+      ]
+    }
+  },
   "Caravan": {
     "CARAVAN": {
       "years": [
@@ -3614,6 +3575,12 @@
         1982
       ]
     },
+    "POWER RAM 50 4 X 4 CUSTOM/SPORT": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
     "RAM 50 CUSTOM PICK-UP": {
       "years": [
         1985,
@@ -3626,6 +3593,22 @@
         1986
       ]
     },
+    "POWER RAM 50 LONG WB 4X4": {
+      "years": [
+        1987,
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "POWER RAM 50 SHORT WB 4X4": {
+      "years": [
+        1987,
+        1988,
+        1989,
+        1990
+      ]
+    },
     "RAM 50 LONG WB PICK-UP": {
       "years": [
         1987
@@ -3634,6 +3617,13 @@
     "RAM 50 SHORT WB PICK-UP": {
       "years": [
         1987
+      ]
+    },
+    "POWER RAM 50 SPORT CAB 4X4": {
+      "years": [
+        1988,
+        1989,
+        1990
       ]
     },
     "RAM 50 LONG WB": {

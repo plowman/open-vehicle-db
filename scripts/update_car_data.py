@@ -333,15 +333,15 @@ def choose_matching_model_for_style(model_style_name, model_choices):
   model_choices = set(model_choices)
   matching_models = []
 
-  # First, check if the model_style_name
-  model_style_uc = model_style_name.upper()
-  model_style_uc = model_style_uc.replace("&", "And")
+  # Remove punctuation and capitalize both terms for easier comparison
+  model_style_uc = model_style_name.replace("&", "And").upper()
   model_style_alphanumeric = not_alphanumeric.sub("", model_style_uc)
   model_choice_original_map = {}
   for model_choice in model_choices:
     model_choice_original_map[not_alphanumeric.sub("", model_choice.upper())] = model_choice
   model_choices_alphanumeric = model_choice_original_map.keys()
 
+  # First check if the model_style starts with the name of any of our models
   for model_choice in model_choices_alphanumeric:
     if model_style_alphanumeric.startswith(model_choice):
       matching_models.append(model_choice_original_map[model_choice])
@@ -349,7 +349,7 @@ def choose_matching_model_for_style(model_style_name, model_choices):
   if len(matching_models) == 1:
     return matching_models[0]
 
-  # If that fails, look for overlap
+  # If that fails, look for overlap between a model and the model_style
   for model_choice in model_choices_alphanumeric:
     if model_choice in model_style_alphanumeric:
       matching_models.append(model_choice_original_map[model_choice])
@@ -448,23 +448,9 @@ def update_everything():
 
 def main(args):
   print(f"Running update_car_data with args: {args}")
-  # update_styles()
+  update_styles()
   update_stats()
-  # test_difflib_for_make_matching()
 
 
 if __name__ == "__main__":
   main(sys.argv[1:])
-
-"""
-Examples of model -> model_style mismatches
-* 328i not matching 328i CABRIOLET  
-* GMC: not matching G2500 VANDURA LONG W.B.
-* Acura 2.5 TL 4DR SEDAN != Acura TL
-* Alfa Romeo: GTV-6-2.5 != GTV6
-
-What to try next:
-difflib, which lets you enter the search word and possibilities:
-* difflib.get_close_matches('search word', list_of_choices)
-
-"""

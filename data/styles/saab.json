@@ -343,11 +343,6 @@
         1986
       ]
     },
-    "9000": {
-      "years": [
-        1986
-      ]
-    },
     "900 S 2 DR COUPE": {
       "years": [
         1987
@@ -381,16 +376,6 @@
         1987
       ]
     },
-    "9000 TURBO 4 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "9000S 4 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
     "900 S 2 DR SEDAN": {
       "years": [
         1988
@@ -407,23 +392,12 @@
         1988
       ]
     },
-    "9000 TURBO/9000S 4 DR HATCHBACK": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
     "900 S 2 DR HATCHBACK": {
       "years": [
         1989
       ]
     },
     "900 TURBO 4 DR SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "9000 CD 4 DR SEDAN": {
       "years": [
         1989
       ]
@@ -458,24 +432,6 @@
         1993
       ]
     },
-    "9000 SPG 4DR HATCHBACK": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "9000S/9000 TURBO 4DR HATCHBACK": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "9000S/9000CD 4DR SEDAN": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
     "900S 2DR HATCHBACK": {
       "years": [
         1990,
@@ -486,22 +442,6 @@
       "years": [
         1990,
         1991
-      ]
-    },
-    "9000 TURBO 4DR HATCHBACK": {
-      "years": [
-        1992
-      ]
-    },
-    "9000CD/9000CD TURBO 4DR SEDAN": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "9000 CS/CSE TURBO 4DR HATCHBACK": {
-      "years": [
-        1993
       ]
     },
     "900 2DR CONVERTIBLE TURBO": {
@@ -516,24 +456,6 @@
         1996,
         1997,
         1998
-      ]
-    },
-    "9000 4DR HATCHBACK AREO": {
-      "years": [
-        1994
-      ]
-    },
-    "9000 4DR HATCHBACK CS/CSE TURBO": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "9000 4DR SEDAN CD/CDE TURBO": {
-      "years": [
-        1994
       ]
     },
     "900 2DR CONVERTIBLE S/SE TURBO": {
@@ -551,26 +473,7 @@
         1998
       ]
     },
-    "9000 4DR HATCHBACK AREO TURBO": {
-      "years": [
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "9000 4DR SEDAN CDE": {
-      "years": [
-        1995,
-        1996,
-        1997
-      ]
-    },
     "900 2DR CONVERTIBLE S/SE": {
-      "years": [
-        1998
-      ]
-    },
-    "9000 4DR HATCHBACK CSE": {
       "years": [
         1998
       ]

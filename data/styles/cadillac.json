@@ -401,7 +401,79 @@
   },
   "Limousine": {},
   "Hearse": {},
-  "Deville": {},
+  "Deville": {
+    "DE VILLE 2 DR CP": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "DE VILLE 4 DR SD": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "COUPE DE VILLE 2 DR": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "COUPE DE VILLE 2DR COUPE": {
+      "years": [
+        1993
+      ]
+    },
+    "SEDAN DE VILLE/TOURING 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "DE VILLE 4 DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "DE VILLE 4 DR SEDAN CONCOURS": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "DE VILLE 4DR SEDAN CONCOURS": {
+      "years": [
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "DE VILLE 4DR SEDAN D'ELEGANCE": {
+      "years": [
+        1997,
+        1998
+      ]
+    },
+    "DE VILLE 4DR SEDAN BASE/D'ELEGANCE": {
+      "years": [
+        1999
+      ]
+    },
+    "DE VILLE 4DR SEDAN BASE/DHS/DTS": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    }
+  },
   "Eldorado": {
     "ELDORADO 2 DR CP": {
       "years": [
@@ -584,7 +656,31 @@
         1989
       ]
     },
+    "SEDAN DE VILLE/ FLEETWOOD D'ELEGANCE 4DR": {
+      "years": [
+        1988
+      ]
+    },
+    "SEDAN DE VILLE/FLEETWOOD D'ELEGANCE 4DR": {
+      "years": [
+        1989
+      ]
+    },
+    "COUPE DE VILLE/FLEETWOOD 2DR COUPE": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    },
     "FLEETWOOD SIXTY SPECIAL 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "SEDAN DE VILLE/FLEETWOOD 4DR SEDAN": {
       "years": [
         1990,
         1991,
@@ -771,22 +867,6 @@
         2014
       ]
     },
-    "ESCALADE ESV 4DR SUV AWD": {
-      "years": [
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
     "ESCALADE HYBRID 4DR SUV 2WD": {
       "years": [
         2008,
@@ -804,15 +884,6 @@
       ]
     },
     "ESCALADE": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "ESCALADE ESV": {
       "years": [
         2015,
         2016,

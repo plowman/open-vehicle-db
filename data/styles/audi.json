@@ -1,5 +1,10 @@
 {
   "TT": {
+    "QUATTRO": {
+      "years": [
+        1985
+      ]
+    },
     "TT 2DR HATCHBACK": {
       "years": [
         1999
@@ -126,22 +131,6 @@
         2009
       ]
     },
-    "TTS 2DR COUPE": {
-      "years": [
-        2010,
-        2011,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "TTS ROADSTER 2DR CONVERTIBLE": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
     "TT 2DR COUPE 2.0 TFSI QUATTRO/S-LINE": {
       "years": [
         2011,
@@ -155,28 +144,6 @@
       "years": [
         2011,
         2012,
-        2015
-      ]
-    },
-    "TT RS 2DR COUPE 2.5 TFSI QUATTRO": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "TTS 2DR COUPE 2.0 TFSI QUATTRO": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "TTS ROADSTER 2DR CONVERTIBLE 2.0 TFSI QUATTRO": {
-      "years": [
-        2012,
-        2013,
-        2014,
         2015
       ]
     },
@@ -474,30 +441,11 @@
         2012
       ]
     },
-    "A4 ALLROAD 2.0 TFSI QUATTRO/PREMIUM/PREMIUM P": {
-      "years": [
-        2013
-      ]
-    },
     "A4 4DR SEDAN 2.0 TFSI QUATTRO": {
       "years": [
         2014,
         2015,
         2016
-      ]
-    },
-    "A4 ALLROAD 2.0 TFSI QUATTRO": {
-      "years": [
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "A4 ALLROAD": {
-      "years": [
-        2017,
-        2018,
-        2019
       ]
     },
     "A4 4DR SEDAN 2.0": {
@@ -939,7 +887,13 @@
       ]
     }
   },
-  "RS4": {},
+  "RS4": {
+    "RS 4 4DR SEDAN AWD": {
+      "years": [
+        2007
+      ]
+    }
+  },
   "A3": {
     "A3 4DR HATCH AWD": {
       "years": [
@@ -1020,14 +974,6 @@
         2016,
         2017,
         2018
-      ]
-    },
-    "A3 SPORTBACK e-tron": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
       ]
     },
     "A3 SEDAN 2.0 TFSI QUATTRO": {
@@ -1454,28 +1400,10 @@
     }
   },
   "TTS": {
-    "TTS 2DR COUPE": {
-      "years": [
-        2010,
-        2011,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
     "TTS ROADSTER 2DR CONVERTIBLE": {
       "years": [
         2010,
         2011
-      ]
-    },
-    "TTS 2DR COUPE 2.0 TFSI QUATTRO": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015
       ]
     },
     "TTS ROADSTER 2DR CONVERTIBLE 2.0 TFSI QUATTRO": {
@@ -1602,6 +1530,16 @@
       "years": [
         1994
       ]
+    },
+    "SPORT 90 4DR SEDAN": {
+      "years": [
+        1995
+      ]
+    },
+    "SPORT 90 QUATTRO 4DR SEDAN": {
+      "years": [
+        1995
+      ]
     }
   },
   "100": {
@@ -1681,7 +1619,13 @@
       ]
     }
   },
-  "Cabriolet": {},
+  "Cabriolet": {
+    "SPORT 90 2DR CABRIOLET": {
+      "years": [
+        1995
+      ]
+    }
+  },
   "S3": {
     "S3 SEDAN TFSI QUATTRO": {
       "years": [
@@ -1897,9 +1841,32 @@
         1986
       ]
     },
+    "QUATTRO COUPE": {
+      "years": [
+        1986
+      ]
+    },
     "COUPE GT 2 DR COUPE": {
       "years": [
         1987
+      ]
+    },
+    "TTS 2DR COUPE": {
+      "years": [
+        2010,
+        2011,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "TTS 2DR COUPE 2.0 TFSI QUATTRO": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015
       ]
     }
   },

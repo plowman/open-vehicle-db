@@ -1,5 +1,17 @@
 {
   "RL": {
+    "3.5 RL 4DR SEDAN": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    },
     "RL 4DR SEDAN AWD": {
       "years": [
         2005,
@@ -15,28 +27,34 @@
         2011,
         2012
       ]
-    },
-    "RLX 4DR SEDAN": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "RLX 4DR SEDAN - SPORT HYBRID": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "RLX 4DR SEDAN AWD HYBRID": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
     }
   },
   "TL": {
+    "2.5 TL 4DR SEDAN": {
+      "years": [
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "3.2 TL 4DR SEDAN": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "3.2 TL 4DR SEDAN TYPE S": {
+      "years": [
+        2002,
+        2003
+      ]
+    },
     "TL 4DR SEDAN FWD /DYNAMIC PACK": {
       "years": [
         2004,
@@ -90,37 +108,6 @@
         2012,
         2013,
         2014
-      ]
-    },
-    "TLX 4DR SEDAN V6 SH-AWD/Tech/Elite": {
-      "years": [
-        2015
-      ]
-    },
-    "TLX 4DR SEDAN V6/Tech/Elite": {
-      "years": [
-        2015
-      ]
-    },
-    "TLX 4DR SEDAN/Tech": {
-      "years": [
-        2015
-      ]
-    },
-    "TLX 4DR SEDAN FWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "TLX 4DR SEDAN SH-AWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
       ]
     }
   },
@@ -336,7 +323,40 @@
       ]
     }
   },
-  "CL": {},
+  "CL": {
+    "2.2 CL 2DR COUPE": {
+      "years": [
+        1997
+      ]
+    },
+    "3.0 CL 2DR COUPE": {
+      "years": [
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "2.3 CL 2DR COUPE": {
+      "years": [
+        1998,
+        1999
+      ]
+    },
+    "3.2 CL 2DR COUPE": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "3.2 CL 2DR COUPE TYPE S": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    }
+  },
   "NSX": {
     "NSX": {
       "years": [

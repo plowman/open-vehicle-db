@@ -48,47 +48,6 @@
         2018
       ]
     },
-    "500L": {
-      "years": [
-        2013
-      ]
-    },
-    "500L 4DR HATCHBACK POP/SPORT/TREKKING/LOUNGE": {
-      "years": [
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "500X 4DR SUV AWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "500X 4DR SUV FWD AUTOMATIC": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "500X 4DR SUV FWD MANUAL": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "500L 4DR HATCHBACK": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
     "500 2 DR HATCHBACK": {
       "years": [
         2019
@@ -130,6 +89,11 @@
     "X 1/9": {
       "years": [
         1981
+      ]
+    },
+    "X + 1/9": {
+      "years": [
+        1982
       ]
     }
   },

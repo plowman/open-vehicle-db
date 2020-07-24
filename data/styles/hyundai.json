@@ -125,84 +125,6 @@
         2011
       ]
     },
-    "SANTA FE SPORT 2.4L LUXURY/2.0T PREMIUM/2.0T": {
-      "years": [
-        2013
-      ]
-    },
-    "SANTA FE SPORT 2.4L/2.4L PREMIUM/2.0T PREMIUM": {
-      "years": [
-        2013
-      ]
-    },
-    "SANTA FE XL GLS/LIMITED AWD 4DR SUV": {
-      "years": [
-        2013
-      ]
-    },
-    "SANTA FE XL GLS/LIMITED FWD 4DR SUV": {
-      "years": [
-        2013
-      ]
-    },
-    "SANTA FE SPORT AWD 2.4L PREMIUM/2.4L LUXURY/2": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "SANTA FE SPORT FWD 2.4L/2.4L PREMIUM/2.0T": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "SANTA FE XL  FWD 4DR SUV": {
-      "years": [
-        2014
-      ]
-    },
-    "SANTA FE XL PREMIUM/LUXURY/LIMITED AWD 4DR SU": {
-      "years": [
-        2014
-      ]
-    },
-    "SANTA FE XL AWD 4DR SUV PREMIUM/LUXURY/LIMITE": {
-      "years": [
-        2015
-      ]
-    },
-    "SANTA FE XL FWD 4DR SUV": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "SANTA FE SPORT AWD 4DR SUV": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "SANTA FE SPORT FWD 4DR SUV": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "SANTA FE XL AWD 4DR SUV": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
     "SANTA FE 4DR SUV 2.0L AWD": {
       "years": [
         2019
@@ -675,12 +597,6 @@
         2003
       ]
     },
-    "ELANTRA GT": {
-      "years": [
-        2003,
-        2004
-      ]
-    },
     "ELANTRA 4DR SEDAN FWD /GL": {
       "years": [
         2004,
@@ -712,27 +628,9 @@
         2009
       ]
     },
-    "ELANTRA TOURING 5DR HATCH FWD": {
-      "years": [
-        2009
-      ]
-    },
     "ELANTRA 4DR SEDAN FWD L/GL/GLS/LIMITED": {
       "years": [
         2010
-      ]
-    },
-    "ELANTRA TOURING 5DR HATCH FWD GL/GLS": {
-      "years": [
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "ELANTRA TOURING 5DR HATCH FWD L": {
-      "years": [
-        2010,
-        2011
       ]
     },
     "ELANTRA 4 DR SEDAN AUTO L/GL/GLS/LIMITED": {
@@ -756,13 +654,6 @@
         2015
       ]
     },
-    "ELANTRA GT 5DR GL/GLS/SE": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
     "ELANTRA 4DR SEDAN L/GL/GLS/LIMITED": {
       "years": [
         2014,
@@ -775,23 +666,6 @@
         2017,
         2018,
         2019
-      ]
-    },
-    "ELANTRA GT 5DR HATCHBACK": {
-      "years": [
-        2016,
-        2017,
-        2019
-      ]
-    },
-    "ELANTRA GT 1.6T 5DR HATCHBACK": {
-      "years": [
-        2018
-      ]
-    },
-    "ELANTRA GT 2.0L 5DR HATCHBACK": {
-      "years": [
-        2018
       ]
     }
   },
@@ -1253,7 +1127,16 @@
       ]
     }
   },
-  "XG 350": {},
+  "XG 350": {
+    "XG350 4DR SEDAN FWD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    }
+  },
   "Excel": {
     "EXCEL GL/GLS": {
       "years": [
@@ -1335,6 +1218,18 @@
     }
   },
   "Scoupe": {
+    "S COUPE GL/GLS 2DR": {
+      "years": [
+        1990
+      ]
+    },
+    "S COUPE BASE/LS 2DR": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
     "SCOUPE 2DR COUPE BASE/LS": {
       "years": [
         1994,
@@ -1497,11 +1392,6 @@
     "KONA 2.0 FWD 4DR SUV": {
       "years": [
         2018,
-        2019
-      ]
-    },
-    "KONA ELECTRIC 4DR SUV": {
-      "years": [
         2019
       ]
     }

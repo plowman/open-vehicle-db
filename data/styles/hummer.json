@@ -1,5 +1,12 @@
 {
   "H2": {
+    "HUMMER H2 4DR SUV 4WD": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ]
+    },
     "H2 4DR SUV 4WD": {
       "years": [
         2005,
@@ -46,12 +53,6 @@
         2009,
         2010
       ]
-    },
-    "H3T 4DR PICKUP 4WD": {
-      "years": [
-        2009,
-        2010
-      ]
     }
   },
   "H3T": {
@@ -63,6 +64,20 @@
     }
   },
   "H1": {
+    "HUMMER H1 OPEN TOP 4DR SUV 4WD": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "HUMMER H1 WAGON 4DR SUV 4WD": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ]
+    },
     "H1 OPEN TOP 4DR SUV 4WD": {
       "years": [
         2005

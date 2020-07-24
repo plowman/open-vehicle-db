@@ -1050,14 +1050,56 @@
         1987
       ]
     },
+    "4WD GL/4WD RX TURBO COUPE": {
+      "years": [
+        1988
+      ]
+    },
+    "4WD GL/4WD RX TURBO COUPE/FWDGL": {
+      "years": [
+        1989
+      ]
+    },
     "XT COUPE FWD/4WD": {
       "years": [
         1990
       ]
     }
   },
-  "XT6": {},
+  "XT6": {
+    "4WD XT-6 COUPE": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "FWD XT DL/GL/XT6 COUPE": {
+      "years": [
+        1988
+      ]
+    },
+    "FWD GLXT/FWD XT6": {
+      "years": [
+        1989
+      ]
+    }
+  },
   "DL": {
+    "HARDTOP DL": {
+      "years": [
+        1981
+      ]
+    },
+    "SEDAN DL": {
+      "years": [
+        1981
+      ]
+    },
+    "WAGON DL 4 WD": {
+      "years": [
+        1981
+      ]
+    },
     "DL 4 WD WAGON": {
       "years": [
         1982
@@ -1075,6 +1117,11 @@
     }
   },
   "GL": {
+    "HATCHBACK GL": {
+      "years": [
+        1981
+      ]
+    },
     "GL 2 DR HB 4 WD": {
       "years": [
         1982
@@ -1106,6 +1153,11 @@
         1985
       ]
     },
+    "HATCHBACK GL 2 DR": {
+      "years": [
+        1985
+      ]
+    },
     "GL/GL-10 4WD TURBO WAGON": {
       "years": [
         1986
@@ -1131,6 +1183,97 @@
         1987
       ]
     },
+    "4WD GL 4 DR SEDAN": {
+      "years": [
+        1988
+      ]
+    },
+    "4WD GL/DL WAGON": {
+      "years": [
+        1988
+      ]
+    },
+    "FWD DL/GL COUPE": {
+      "years": [
+        1988
+      ]
+    },
+    "FWD DL/GL WAGON": {
+      "years": [
+        1989
+      ]
+    },
+    "FWD GL COUPE": {
+      "years": [
+        1989
+      ]
+    },
+    "FWD GL/DL 4 DR SEDAN": {
+      "years": [
+        1989
+      ]
+    }
+  },
+  "GL-10": {
+    "GL-10 TURBO 4WD 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "GL-10 TURBO 4WD WAGON": {
+      "years": [
+        1987
+      ]
+    },
+    "4WD GL-10 TURBO 4DR SEDAN": {
+      "years": [
+        1988
+      ]
+    },
+    "4WD GL-10 TURBO WAGON": {
+      "years": [
+        1988
+      ]
+    },
+    "FWD GL/DL/GL-10 TURBO SEDAN": {
+      "years": [
+        1988
+      ]
+    },
+    "FWD GL/DL/GL-10 TURBO WAGON": {
+      "years": [
+        1988
+      ]
+    },
+    "4WD GL/GL-10 TURBO 4 DR SEDAN": {
+      "years": [
+        1989
+      ]
+    },
+    "4WD GL/GL-10 TURBO WAGON": {
+      "years": [
+        1989
+      ]
+    },
+    "FWD GL/GL-10 TURBO SEDAN": {
+      "years": [
+        1989
+      ]
+    }
+  },
+  "RX": {},
+  "Standard": {},
+  "GLF": {
+    "SEDAN GL F": {
+      "years": [
+        1981
+      ]
+    },
+    "SUBARU GLF 2 DR": {
+      "years": [
+        1982
+      ]
+    },
     "GL FWD 4 DR SEDAN": {
       "years": [
         1987
@@ -1146,32 +1289,12 @@
         1987
       ]
     },
-    "GL-10 TURBO 4WD 4 DR SEDAN": {
+    "CHASER GL FWD 2 DR HATCHBACK": {
       "years": [
-        1987
-      ]
-    },
-    "GL-10 TURBO 4WD WAGON": {
-      "years": [
-        1987
+        1988
       ]
     }
   },
-  "GL-10": {
-    "GL-10 TURBO 4WD 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "GL-10 TURBO 4WD WAGON": {
-      "years": [
-        1987
-      ]
-    }
-  },
-  "RX": {},
-  "Standard": {},
-  "GLF": {},
   "XV CrossTrek": {
     "XV CROSSTREK TOURING/SPORT PACKAGE/LIMITED PA": {
       "years": [

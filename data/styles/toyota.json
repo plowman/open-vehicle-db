@@ -305,12 +305,6 @@
         2020
       ]
     },
-    "COROLLA iM 5DR HATCHBACK": {
-      "years": [
-        2017,
-        2018
-      ]
-    },
     "COROLLA 5DR HATCH": {
       "years": [
         2019
@@ -346,34 +340,7 @@
         2012
       ]
     },
-    "PRIUS C 4DR HATCHBACK/TECHNOLOGY": {
-      "years": [
-        2012
-      ]
-    },
-    "PRIUS V 4DR HATCHBACK": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
     "PRIUS 4DR LIFTBACK": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "PRIUS C /TECHNOLOGY 4DR HATCHBACK": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "PRIUS PLUG-IN HYBRID 4DR LIFTBACK": {
       "years": [
         2013,
         2014,
@@ -385,27 +352,6 @@
         2016,
         2017,
         2018,
-        2019
-      ]
-    },
-    "PRIUS C 5DR HATCHBACK": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "PRIUS V 5DR HATCHBACK": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "PRIUS PRIME 5DR LIFTBACK": {
-      "years": [
         2019
       ]
     }
@@ -693,21 +639,6 @@
         2000
       ]
     },
-    "CAMRY SOLARA 2DR COUPE SE/SE-V6": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "CAMRY SOLARA 2DR CONVERTIBLE SLE-V6": {
-      "years": [
-        2000,
-        2001,
-        2002
-      ]
-    },
     "CAMRY 4DR SEDAN CE V6": {
       "years": [
         2001
@@ -731,46 +662,11 @@
         2006
       ]
     },
-    "CAMRY SOLARA 2DR COUPE SLE V6": {
-      "years": [
-        2002
-      ]
-    },
-    "CAMRY SOLARA SE 2DR COUPE": {
-      "years": [
-        2003
-      ]
-    },
-    "CAMRY SOLARA SLE V6 2DR COUPE": {
-      "years": [
-        2003
-      ]
-    },
-    "CAMRY SOLARA SLE-V62DR CONVERTIBLE": {
-      "years": [
-        2003
-      ]
-    },
     "CAMRY 4DR SEDAN /SE": {
       "years": [
         2004,
         2005,
         2006
-      ]
-    },
-    "CAMRY SOLARA 2DR CONV": {
-      "years": [
-        2004
-      ]
-    },
-    "CAMRY SOLARA 2DR COUPE FWD / SE": {
-      "years": [
-        2004
-      ]
-    },
-    "CAMRY SOLARA 2DR COUPE FWD / SE V6/CLE V6": {
-      "years": [
-        2004
       ]
     },
     "CAMRY 4DR SEDAN FWD /SE": {
@@ -1594,9 +1490,254 @@
       "years": [
         1982
       ]
+    },
+    "LANDCRUISER HARDTOP 2 DR": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "LANDCRUISER WAGON 4 DR": {
+      "years": [
+        1985,
+        1986,
+        1987,
+        1988
+      ]
+    },
+    "LANDCRUISER WAGON 4 DR 4X4": {
+      "years": [
+        1989
+      ]
     }
   },
-  "4-Runner": {},
+  "4-Runner": {
+    "4 RUNNER SR5 PICK-UP": {
+      "years": [
+        1985,
+        1987
+      ]
+    },
+    "4 RUNNER SR5": {
+      "years": [
+        1986
+      ]
+    },
+    "4 RUNNER DELUXE/SR5": {
+      "years": [
+        1988
+      ]
+    },
+    "4 RUNNER BASE SR5 V6 4X4": {
+      "years": [
+        1989
+      ]
+    },
+    "4 RUNNER BASE/SR5 4X4": {
+      "years": [
+        1989
+      ]
+    },
+    "4RUNNER SR5 2DR 4x4": {
+      "years": [
+        1990
+      ]
+    },
+    "4RUNNER SR5 4DR 4x4": {
+      "years": [
+        1990
+      ]
+    },
+    "4RUNNER SR5 V6 4X4": {
+      "years": [
+        1990
+      ]
+    },
+    "4 RUNNER SR5 2DR/4DR 4WD": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "4 RUNNER SR5 4DR 2WD": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "4 RUNNER SR5 V6 2DR/4DR 4WD": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "4RUNNER 4DR SUV SR5 4WD": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "4RUNNER 4DR SUV SR5 V6 4WD": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "4RUNNER 4DR SUV SR5 V6 4WD W/TIRE PACKAGE": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "4RUNNER 4DR SUV SR5 V6 4WD LTD": {
+      "years": [
+        1996,
+        1997
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD LTD V6": {
+      "years": [
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD SR5": {
+      "years": [
+        1998,
+        1999,
+        2001,
+        2002
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD SR5 V6": {
+      "years": [
+        1998,
+        1999,
+        2000,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD BASE": {
+      "years": [
+        2001
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD LTD": {
+      "years": [
+        2001,
+        2002
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD BADLANDS": {
+      "years": [
+        2002
+      ]
+    },
+    "4RUNNER Limited V6 4DR SUV 4WD": {
+      "years": [
+        2003
+      ]
+    },
+    "4RUNNER Limited V8 4DR SUV 4WD": {
+      "years": [
+        2003
+      ]
+    },
+    "4RUNNER SR5 V6 4DR SUV 4WD": {
+      "years": [
+        2003
+      ]
+    },
+    "4RUNNER SR5 V8 4DR SUV 4WD": {
+      "years": [
+        2003
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD /Limited V6": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD /Limited V8": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD /SR5 V6": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD /SR5 V8": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD LIMITED V6": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD TRAIL EDITION V6": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
   "Tacoma": {
     "TACOMA P/U REGULAR CAB 2WD": {
       "years": [
@@ -2251,7 +2392,86 @@
       ]
     }
   },
-  "Pick-Up": {},
+  "Pick-Up": {
+    "PICKUP": {
+      "years": [
+        1981
+      ]
+    },
+    "PICKUP LONGBED": {
+      "years": [
+        1981
+      ]
+    },
+    "LONG BED DIESEL DELUXE 4 X 4 PICK-UP": {
+      "years": [
+        1985
+      ]
+    },
+    "LONG BED DIESEL PICK-UP": {
+      "years": [
+        1985
+      ]
+    },
+    "LONG BED SR5 4 X 4 PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "LONG BED SR5 PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "STANDARD BED 4 X 4 PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "STANDARD BED PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "XTRACAB DELUXE/SR5 PICK-UP": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "XTRACAB SR5 4 X 4 PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "LONG BED DELUXE 4 X 4 PICK-UP": {
+      "years": [
+        1986,
+        1987
+      ]
+    },
+    "LONG BED PICK-UP": {
+      "years": [
+        1986,
+        1987
+      ]
+    },
+    "XTRACAB SR5 PICK-UP": {
+      "years": [
+        1987
+      ]
+    }
+  },
   "Van": {
     "VAN LE": {
       "years": [

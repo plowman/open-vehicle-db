@@ -518,6 +518,36 @@
     }
   },
   "XL7": {
+    "XL-7 4DR 4WD": {
+      "years": [
+        2001
+      ]
+    },
+    "XL-7 4DR 4WD JX/JLX/LTD": {
+      "years": [
+        2002,
+        2003
+      ]
+    },
+    "XL-7 4DR 4WD /JLX/JLX PLUS/LTD": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "XL-7 4DR 4WD JX": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2009
+      ]
+    },
+    "XL-7 4DR 4WD JLX/JLX PLUS": {
+      "years": [
+        2006
+      ]
+    },
     "XL7 4DR 4WD JLX": {
       "years": [
         2007,
@@ -528,6 +558,11 @@
       "years": [
         2007,
         2008
+      ]
+    },
+    "XL-7 4DR 4WD JLX": {
+      "years": [
+        2009
       ]
     }
   },

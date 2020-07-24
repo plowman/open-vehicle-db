@@ -247,12 +247,6 @@
         2018,
         2019
       ]
-    },
-    "REGAL TOUR X WAGON": {
-      "years": [
-        2018,
-        2019
-      ]
     }
   },
   "Verano": {
@@ -369,6 +363,40 @@
     }
   },
   "LeSabre": {
+    "LE SABRE 2 DR CP": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "LE SABRE 4 DR SD": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "LE SABRE LTD. 2 DR CP": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "LE SABRE LTD. 4 DR SD": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "LE SABRE WAGON": {
+      "years": [
+        1981
+      ]
+    },
+    "LE SABRE EST. WAGON": {
+      "years": [
+        1982
+      ]
+    },
     "LESABRE CUSTOM COUPE": {
       "years": [
         1985,
@@ -1136,7 +1164,14 @@
       ]
     }
   },
-  "Regal TourX": {},
+  "Regal TourX": {
+    "REGAL TOUR X WAGON": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
   "Enclave": {
     "ENCLAVE 4DR SUV FWD CX/CXL": {
       "years": [

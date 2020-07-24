@@ -11,6 +11,82 @@
         1987
       ]
     },
+    "G-1500 RALLY": {
+      "years": [
+        1988,
+        1989,
+        1991
+      ]
+    },
+    "G-2500 RALLY": {
+      "years": [
+        1988,
+        1989,
+        1991
+      ]
+    },
+    "G-3500 RALLY": {
+      "years": [
+        1988,
+        1989,
+        1991
+      ]
+    },
+    "G-3500/C6P RALLY": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "G10 RALLY": {
+      "years": [
+        1990
+      ]
+    },
+    "G20 RALLY": {
+      "years": [
+        1990
+      ]
+    },
+    "G30 RALLY": {
+      "years": [
+        1990
+      ]
+    },
+    "G30/C6P RALLY": {
+      "years": [
+        1990
+      ]
+    },
+    "G-3500 RALLY EXTENDED BODY": {
+      "years": [
+        1991
+      ]
+    },
+    "G1500 RALLY": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "G2500 RALLY": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "G3500 RALLY": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "G3500 RALLY EXTENDED BODY": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
     "RALLY 2500 LONG W/B": {
       "years": [
         1994
@@ -95,7 +171,334 @@
       ]
     }
   },
-  "Savana": {},
+  "Savana": {
+    "G1500 SAVANA CARGO": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "G1500 SAVANA PASSENGER": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "G2500 SAVANA CARGO": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "G2500 SAVANA CARGO EXTENDED": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "G2500 SAVANA PASSENGER": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "G2500 SAVANA PASSENGER EXTENDED": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "G3500 SAVANA CARGO": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "G3500 SAVANA CARGO EXTENDED": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "G3500 SAVANA PASSENGER": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "G3500 SAVANA PASSENGER EXTENDED": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "1500 SAVANA CARGO VAN SWB": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "1500 SAVANA CARGO VAN SWB AWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "1500 SAVANA PASSENGER VAN SWB": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "1500 SAVANA PASSENGER VAN SWB AWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "2500 SAVANA CARGO VAN LWB": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "2500 SAVANA CARGO VAN SWB": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "2500 SAVANA PASSENGER VAN LWB": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "2500 SAVANA PASSENGER VAN SWB": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "3500 SAVANA CARGO VAN LWB": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "3500 SAVANA CARGO VAN SWB": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "3500 SAVANA PASSENGER VAN LWB": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "3500 SAVANA PASSENGER VAN SWB": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
   "Sierra": {
     "SIERRA 1500 P/U CLUB COUPE L/BOX W/SIDE": {
       "years": [
@@ -1182,6 +1585,166 @@
         2006
       ]
     },
+    "ALL NEW SIERRA 1500 CREW CAB S/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 1500 CREW CAB S/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 1500 EXT CAB L/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 1500 EXT CAB L/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 1500 EXT CAB M/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 1500 EXT CAB M/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 1500 EXT CAB S/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 1500 EXT CAB S/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 1500 REG CAB L/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 1500 REG CAB L/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 1500 REG CAB M/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 1500 REG CAB M/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 2500HD CREW CAB L/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 2500HD CREW CAB L/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 2500HD CREW CAB M/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 2500HD CREW CAB M/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 2500HD EXT CAB L/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 2500HD EXT CAB L/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 2500HD EXT CAB M/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 2500HD EXT CAB M/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 2500HD REG CAB L/BOX 2WD": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 2500HD REG CAB L/BOX 4X4": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 3500 CREW CAB L/BOX 2WD DRW": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 3500 CREW CAB L/BOX 2WD SRW": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 3500 CREW CAB L/BOX 4X4 DRW": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 3500 CREW CAB L/BOX 4X4 SRW": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 3500 EXT CAB L/BOX 2WD DRW": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 3500 EXT CAB L/BOX 2WD SRW": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 3500 EXT CAB L/BOX 4X4 DRW": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 3500 EXT CAB L/BOX 4X4 SRW": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 3500 REG CAB L/BOX 4X4 DRW": {
+      "years": [
+        2007
+      ]
+    },
+    "ALL NEW SIERRA 3500 REG CAB L/BOX 4X4 SRW": {
+      "years": [
+        2007
+      ]
+    },
     "SIERRA CLASSIC 1500 CREW CAB S/BOX": {
       "years": [
         2007
@@ -1952,11 +2515,6 @@
       "years": [
         2019
       ]
-    },
-    "SIERRA HD CREW CAB STANDARD BOX": {
-      "years": [
-        2020
-      ]
     }
   },
   "Terrain": {
@@ -2006,6 +2564,12 @@
     }
   },
   "Yukon": {
+    "K1500 YUKON 4X4": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
     "YUKON 1500 2DR SUV 4X4 SL/SLE/GT": {
       "years": [
         1994
@@ -2073,61 +2637,9 @@
         2000
       ]
     },
-    "YUKON-XL 1500 4DR 4X2": {
-      "years": [
-        2000,
-        2001,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "YUKON-XL 1500 4DR 4X4": {
-      "years": [
-        2000,
-        2001,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "YUKON-XL 2500 4DR 4X2": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "YUKON-XL 2500 4DR 4X4": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
     "YUKON 1500 4DR AWD DENALI": {
       "years": [
         2001
-      ]
-    },
-    "YUKON-XL 1500 4DR AWD DENALI": {
-      "years": [
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
       ]
     },
     "YUKON 1500 4DR 4WD DENALI": {
@@ -2142,16 +2654,6 @@
       ]
     },
     "YUKON 1500 4DR 4X2 SLT": {
-      "years": [
-        2002
-      ]
-    },
-    "YUKON-XL 1500 4DR 4X2 SLE": {
-      "years": [
-        2002
-      ]
-    },
-    "YUKON-XL 1500 4DR 4X2 SLT": {
       "years": [
         2002
       ]
@@ -2181,31 +2683,6 @@
       ]
     },
     "YUKON 4DR SUV RWD SLE/SLT": {
-      "years": [
-        2007,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "YUKON-XL 4DR SUV 4WD SLE/SLT/DENALI": {
-      "years": [
-        2007,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "YUKON-XL 4DR SUV RWD SLE/SLT": {
       "years": [
         2007,
         2010,
@@ -2254,23 +2731,6 @@
         2013
       ]
     },
-    "YUKON-XL 4DR SUV 4WD DENALI": {
-      "years": [
-        2008,
-        2009,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "YUKON-XL 4DR SUV RWD SL/SLE": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
     "YUKON 2500-XL 4DR SUV 4WD SLE/SLT/DENALI": {
       "years": [
         2010
@@ -2299,15 +2759,6 @@
       ]
     },
     "YUKON 4DR SUV 4WD SLE/SLT": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "YUKON-XL 4DR SUV 4WD SLE/SLT": {
       "years": [
         2015,
         2016,
@@ -2495,8 +2946,129 @@
       ]
     }
   },
-  "Yukon XL": {},
+  "Yukon XL": {
+    "YUKON-XL 1500 4DR 4X2": {
+      "years": [
+        2000,
+        2001,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "YUKON-XL 1500 4DR 4X4": {
+      "years": [
+        2000,
+        2001,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "YUKON-XL 2500 4DR 4X2": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "YUKON-XL 2500 4DR 4X4": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "YUKON-XL 1500 4DR AWD DENALI": {
+      "years": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "YUKON-XL 1500 4DR 4X2 SLE": {
+      "years": [
+        2002
+      ]
+    },
+    "YUKON-XL 1500 4DR 4X2 SLT": {
+      "years": [
+        2002
+      ]
+    },
+    "YUKON-XL 4DR SUV 4WD SLE/SLT/DENALI": {
+      "years": [
+        2007,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "YUKON-XL 4DR SUV RWD SLE/SLT": {
+      "years": [
+        2007,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "YUKON-XL 4DR SUV 4WD DENALI": {
+      "years": [
+        2008,
+        2009,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "YUKON-XL 4DR SUV RWD SL/SLE": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "YUKON-XL 4DR SUV 4WD SLE/SLT": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
   "Safari": {
+    "M-1500 SAFARI CARGO": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    },
     "SAFARI": {
       "years": [
         1988,
@@ -2922,6 +3494,70 @@
         1987
       ]
     },
+    "R-1500 SUBURBAN": {
+      "years": [
+        1988,
+        1989,
+        1991
+      ]
+    },
+    "R-2500 SUBURBAN": {
+      "years": [
+        1988,
+        1989,
+        1991
+      ]
+    },
+    "V-1500 SUBURBAN 4X4": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991
+      ]
+    },
+    "V-2500 SUBURBAN 4X4": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991
+      ]
+    },
+    "R-1500 SUBURBAN 4X2": {
+      "years": [
+        1990
+      ]
+    },
+    "R-2500 SUBURBAN 4X2": {
+      "years": [
+        1990
+      ]
+    },
+    "C1500 SUBURBAN 4X2": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "C2500 SUBURBAN 4X2": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "K1500 SUBURBAN 4X4": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "K2500 SUBURBAN 4X4": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
     "SUBURBAN 1500 4DR": {
       "years": [
         1994
@@ -2986,6 +3622,116 @@
   "Cutaway Chassis": {},
   "S15 Utility": {},
   "Vandura": {
+    "G-1500 VANDURA": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "G-2500 VANDURA": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "G-3500 VANDURA": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "G-3500/C6P VANDURA": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "G10 VANDURA": {
+      "years": [
+        1990
+      ]
+    },
+    "G20 VANDURA": {
+      "years": [
+        1990
+      ]
+    },
+    "G30 VANDURA": {
+      "years": [
+        1990
+      ]
+    },
+    "G30/C6P VANDURA": {
+      "years": [
+        1990
+      ]
+    },
+    "G-1500 VANDURA LONG W.B.": {
+      "years": [
+        1991
+      ]
+    },
+    "G-1500 VANDURA SHORT W.B.": {
+      "years": [
+        1991
+      ]
+    },
+    "G-2500 VANDURA LONG W.B.": {
+      "years": [
+        1991
+      ]
+    },
+    "G-2500 VANDURA SHORT W.B.": {
+      "years": [
+        1991
+      ]
+    },
+    "G-3500 VANDURA EXTENDED BODY": {
+      "years": [
+        1991
+      ]
+    },
+    "G-3500 VANDURA LONG W.B.": {
+      "years": [
+        1991
+      ]
+    },
+    "G1500 VANDURA LONG W.B.": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "G1500 VANDURA SHORT W.B.": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "G2500 VANDURA LONG W.B.": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "G2500 VANDURA SHORT W.B.": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "G3500 VANDURA EXTENDED BODY": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "G3500 VANDURA LONG W.B.": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
     "VANDURA 1500 LONG W/B": {
       "years": [
         1994,
@@ -3054,6 +3800,99 @@
   "Geo Tracker": {},
   "S6": {},
   "Jimmy": {
+    "K-JIMMY 4DR 4 X 2": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "K-JIMMY 4DR 4 X 4": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "S-15 JIMMY 2DR 2 X 4": {
+      "years": [
+        1985
+      ]
+    },
+    "S-15 JIMMY 2DR 4 X 4": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "S-15 JIMMY 2DR 4 X 2": {
+      "years": [
+        1986,
+        1987
+      ]
+    },
+    "S-15 JIMMY 2DR 4X2": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "S-15 JIMMY 2DR 4X4": {
+      "years": [
+        1988,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "V-JIMMY 4DR 2X4": {
+      "years": [
+        1988,
+        1990
+      ]
+    },
+    "V-JIMMY 4DR 4X4": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "T-15 JIMMY 2DR 4X4": {
+      "years": [
+        1989
+      ]
+    },
+    "V-JIMMY 2DR 4X2": {
+      "years": [
+        1989
+      ]
+    },
+    "S-15 JIMMY 4DR 4X2": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "S-15 JIMMY 4DR 4X4": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "V1500-JIMMY 2DR 4X4": {
+      "years": [
+        1991
+      ]
+    },
     "JIMMY 2DR SUV 2WD": {
       "years": [
         1994

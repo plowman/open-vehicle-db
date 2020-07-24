@@ -1,258 +1,5 @@
 {
   "XJ": {
-    "XJ6 SERIES III": {
-      "years": [
-        1981
-      ]
-    },
-    "XJ12 VANDEN PLAS": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "XJ-S": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "XJ-6SERIES III/SOVEREIGN": {
-      "years": [
-        1986
-      ]
-    },
-    "XJ12 VANDEN PLAS 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "XJ6 SOVEREIGN 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "XJ6/SOVEREIGN SERIES III 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "XJ-S 2 DR COUPE": {
-      "years": [
-        1987,
-        1988,
-        1989,
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "XJ-SC CONVERTIBLE": {
-      "years": [
-        1987
-      ]
-    },
-    "XJ6/ SOVEREIGN 4 DR SEDAN": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "XJ-SC CABRIOLET": {
-      "years": [
-        1988
-      ]
-    },
-    "XJ-S CONVERTIBLE": {
-      "years": [
-        1989,
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "XJ-6 EXECUTIVE/BASE/SOVEREIGN 4DR SEDAN": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "XJ-6 EXECUTIVE/SOVEREIGN 4DR SEDAN": {
-      "years": [
-        1992
-      ]
-    },
-    "XJ-6 SOVEREIGN 4DR SEDAN": {
-      "years": [
-        1993
-      ]
-    },
-    "XJ6 VANDEN PLAS 4DR SEDAN": {
-      "years": [
-        1993
-      ]
-    },
-    "XJS 4.0L 2DR CONVERTIBLE": {
-      "years": [
-        1993
-      ]
-    },
-    "XJS 4.0L 2DR COUPE": {
-      "years": [
-        1993
-      ]
-    },
-    "XJ12 4DR SEDAN": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "XJ6 4DR SEDAN": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "XJ6 4DR SEDAN VANDEN PLAS": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "XJS 2DR CONVERTIBLE 4.0L": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "XJS 2DR CONVERTIBLE V12": {
-      "years": [
-        1994,
-        1995
-      ]
-    },
-    "XJS 2DR COUPE 4.0L": {
-      "years": [
-        1994,
-        1995
-      ]
-    },
-    "XJS 2DR COUPE V12": {
-      "years": [
-        1994,
-        1995
-      ]
-    },
-    "XJR 4DR SEDAN": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2014,
-        2015
-      ]
-    },
-    "XJ8 4DR SEDAN": {
-      "years": [
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "XJ8 4DR SEDAN VANDEN PLAS": {
-      "years": [
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "XJ8L 4DR SEDAN": {
-      "years": [
-        1999
-      ]
-    },
-    "XJ8 4DR SEDAN VANDEN PLAS SUPERCHARGED": {
-      "years": [
-        2000,
-        2001
-      ]
-    },
-    "XJ8 4DR SEDAN VANDEN PLAS SUPERV8": {
-      "years": [
-        2002
-      ]
-    },
-    "XJ8 4DR SEDAN RWD BASE/VANDEN PLAS": {
-      "years": [
-        2004
-      ]
-    },
-    "XJR 4DR SEDAN RWD": {
-      "years": [
-        2004,
-        2006,
-        2007
-      ]
-    },
-    "XJ8 4DR SEDAN RWD": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "XJ8 4DR SEDAN RWD SUPER V8": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "XJ8 4DR SEDAN RWD VANDEN PLAS": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "XJ8 4DR SEDAN RWD XJR": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "XJ8 L 4DR SEDAN RWD SUPER V8": {
-      "years": [
-        2007
-      ]
-    },
-    "XJ8 L 4DR SEDAN RWD VANDEN PLAS": {
-      "years": [
-        2007
-      ]
-    },
-    "XJ SUPER V8 4DR SEDAN RWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
     "XJ VANDEN PLAS 4DR SEDAN RWD": {
       "years": [
         2008,
@@ -330,17 +77,6 @@
         2014
       ]
     },
-    "XJR LWB 4DR SEDAN": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "XJ S/C 4DR SEDAN RWD SUPERCHARGED": {
-      "years": [
-        2015
-      ]
-    },
     "XJL AWD 4DR SEDAN LWB": {
       "years": [
         2015
@@ -356,18 +92,6 @@
         2016,
         2017,
         2018
-      ]
-    },
-    "XJ SWB 4DR SEDAN XJ/XJR": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "XJ SWB 4DR SEDAN": {
-      "years": [
-        2019
       ]
     },
     "XJL LWB 4DR SEDAN V6": {
@@ -459,60 +183,6 @@
     }
   },
   "XK": {
-    "XK8 2DR CONVERTIBLE": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "XK8 2DR COUPE": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "XKR 2DR CONVERTIBLE": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "XKR 2DR COUPE": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "XK8 2DR COUPE RWD": {
-      "years": [
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
     "XK/XKR CONVERTIBLE": {
       "years": [
         2007
@@ -541,12 +211,6 @@
         2011
       ]
     },
-    "XKR COUPE/CABRIO": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
     "XK CABRIO": {
       "years": [
         2012
@@ -559,33 +223,9 @@
         2014
       ]
     },
-    "XKR CABRIO": {
-      "years": [
-        2012
-      ]
-    },
-    "XKR COUPE/XKR-S COUPE": {
-      "years": [
-        2012,
-        2013,
-        2015
-      ]
-    },
     "XK CONVERTIBLE": {
       "years": [
         2013,
-        2014
-      ]
-    },
-    "XKR CONVERTIBLE/XKR-S CONVERTIBLE": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "XKR COUPE/XKR-S COUPE/XKR-S GT COUPE": {
-      "years": [
         2014
       ]
     }
@@ -751,6 +391,17 @@
     }
   },
   "Vanden Plas": {
+    "XJ12 VANDEN PLAS": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "XJ12 VANDEN PLAS 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
     "VANDEN PLAS 4 DR SEDAN": {
       "years": [
         1988,
@@ -758,6 +409,39 @@
         1990,
         1991,
         1992
+      ]
+    },
+    "XJ6 VANDEN PLAS 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "XJ6 4DR SEDAN VANDEN PLAS": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "XJ8 4DR SEDAN VANDEN PLAS": {
+      "years": [
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "XJ8 4DR SEDAN VANDEN PLAS SUPERCHARGED": {
+      "years": [
+        2000,
+        2001
+      ]
+    },
+    "XJ8 4DR SEDAN VANDEN PLAS SUPERV8": {
+      "years": [
+        2002
       ]
     },
     "VANDEN PLAS 4DR SEDAN": {
@@ -768,6 +452,22 @@
     "VANDEN PLAS SUPERV8 4DR SEDAN": {
       "years": [
         2003
+      ]
+    },
+    "XJ8 4DR SEDAN RWD BASE/VANDEN PLAS": {
+      "years": [
+        2004
+      ]
+    },
+    "XJ8 4DR SEDAN RWD VANDEN PLAS": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "XJ8 L 4DR SEDAN RWD VANDEN PLAS": {
+      "years": [
+        2007
       ]
     }
   },
@@ -866,7 +566,25 @@
       ]
     }
   },
-  "Super V8": {},
+  "Super V8": {
+    "XJ8 4DR SEDAN RWD SUPER V8": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "XJ8 L 4DR SEDAN RWD SUPER V8": {
+      "years": [
+        2007
+      ]
+    },
+    "XJ SUPER V8 4DR SEDAN RWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    }
+  },
   "XJ8": {
     "XJ8 4DR SEDAN": {
       "years": [
@@ -878,34 +596,9 @@
         2003
       ]
     },
-    "XJ8 4DR SEDAN VANDEN PLAS": {
-      "years": [
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
     "XJ8L 4DR SEDAN": {
       "years": [
         1999
-      ]
-    },
-    "XJ8 4DR SEDAN VANDEN PLAS SUPERCHARGED": {
-      "years": [
-        2000,
-        2001
-      ]
-    },
-    "XJ8 4DR SEDAN VANDEN PLAS SUPERV8": {
-      "years": [
-        2002
-      ]
-    },
-    "XJ8 4DR SEDAN RWD BASE/VANDEN PLAS": {
-      "years": [
-        2004
       ]
     },
     "XJ8 4DR SEDAN RWD": {
@@ -915,32 +608,10 @@
         2007
       ]
     },
-    "XJ8 4DR SEDAN RWD SUPER V8": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "XJ8 4DR SEDAN RWD VANDEN PLAS": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
     "XJ8 4DR SEDAN RWD XJR": {
       "years": [
         2005,
         2006
-      ]
-    },
-    "XJ8 L 4DR SEDAN RWD SUPER V8": {
-      "years": [
-        2007
-      ]
-    },
-    "XJ8 L 4DR SEDAN RWD VANDEN PLAS": {
-      "years": [
-        2007
       ]
     }
   },
@@ -948,6 +619,16 @@
     "XJ6 SERIES III": {
       "years": [
         1981
+      ]
+    },
+    "SOVEREIGN XJ-6": {
+      "years": [
+        1985
+      ]
+    },
+    "XJ-6SERIES III/SOVEREIGN": {
+      "years": [
+        1986
       ]
     },
     "XJ6 SOVEREIGN 4 DR SEDAN": {
@@ -966,7 +647,18 @@
         1989
       ]
     },
-    "XJ6 VANDEN PLAS 4DR SEDAN": {
+    "XJ-6 EXECUTIVE/BASE/SOVEREIGN 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "XJ-6 EXECUTIVE/SOVEREIGN 4DR SEDAN": {
+      "years": [
+        1992
+      ]
+    },
+    "XJ-6 SOVEREIGN 4DR SEDAN": {
       "years": [
         1993
       ]
@@ -978,17 +670,43 @@
         1996,
         1997
       ]
-    },
-    "XJ6 4DR SEDAN VANDEN PLAS": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997
-      ]
     }
   },
   "XJS": {
+    "XJ-S": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "XJ-S 2 DR COUPE": {
+      "years": [
+        1987,
+        1988,
+        1989,
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "XJ-SC CONVERTIBLE": {
+      "years": [
+        1987
+      ]
+    },
+    "XJ-SC CABRIOLET": {
+      "years": [
+        1988
+      ]
+    },
+    "XJ-S CONVERTIBLE": {
+      "years": [
+        1989,
+        1990,
+        1991,
+        1992
+      ]
+    },
     "XJS 4.0L 2DR CONVERTIBLE": {
       "years": [
         1993
@@ -1023,20 +741,26 @@
         1994,
         1995
       ]
+    },
+    "XJ S/C 4DR SEDAN RWD SUPERCHARGED": {
+      "years": [
+        2015
+      ]
+    },
+    "XJ SWB 4DR SEDAN XJ/XJR": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "XJ SWB 4DR SEDAN": {
+      "years": [
+        2019
+      ]
     }
   },
   "XJ12": {
-    "XJ12 VANDEN PLAS": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "XJ12 VANDEN PLAS 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
     "XJ12 4DR SEDAN": {
       "years": [
         1994,

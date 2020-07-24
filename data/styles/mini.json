@@ -14,23 +14,6 @@
         2012
       ]
     },
-    "COOPER S 2DR HATCH FWD": {
-      "years": [
-        2002,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
     "COOPER 2DR CONVERTIBLE FWD": {
       "years": [
         2005,
@@ -43,12 +26,23 @@
         2012
       ]
     },
-    "COOPER S 2DR CONVERTIBLE FWD": {
+    "COOPER 2DR HATCH FWD": {
       "years": [
-        2005,
-        2006,
         2007,
-        2008,
+        2013,
+        2014
+      ]
+    },
+    "JOHN COOPER WORKS 2DR HATCH FWD": {
+      "years": [
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "JOHN COOPER WORKS CLUBMAN 3DR HATCH FWD": {
+      "years": [
         2009,
         2010,
         2011,
@@ -57,66 +51,21 @@
         2014
       ]
     },
-    "COOPER 2DR HATCH FWD": {
-      "years": [
-        2007,
-        2013,
-        2014
-      ]
-    },
-    "COOPER CLUBMAN / COOPER CLUBMAN S 5DR HATCH F": {
-      "years": [
-        2008
-      ]
-    },
-    "COOPER CLUBMAN 4DR HATCH FWD": {
-      "years": [
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "COOPER CLUBMAN S 4DR HATCH FWD": {
-      "years": [
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "COOPER CLUBMAN 3DR HATCH FWD": {
+    "JOHN COOPER WORKS 2DR CONVERTIBLE FWD": {
       "years": [
         2012,
         2013,
         2014
       ]
     },
-    "COOPER CLUBMAN S 3DR HATCH FWD": {
-      "years": [
-        2012
-      ]
-    },
-    "COOPER COUPE 2DR COUPE": {
+    "JOHN COOPER WORKS COUPE 2DR COUPE": {
       "years": [
         2012,
         2013,
         2014
       ]
     },
-    "COOPER ROADSTER": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "COOPER S COUPE 2DR COUPE": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "COOPER S ROADSTER": {
+    "JOHN COOPER WORKS ROADSTER": {
       "years": [
         2012,
         2013,
@@ -128,37 +77,121 @@
         2013
       ]
     },
-    "COOPER CONVERTIBLE 2DR FWD": {
+    "JOHN COOPER WORKS ALL4 COUNTRYMAN 4 DR SUV": {
       "years": [
         2013,
         2014
       ]
     },
-    "COOPER COUNTRYMAN 4 DR SUV": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "COOPER S CLUBMAN 3DR HATCH FWD": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "COOPER S COUNTRYMAN 4 DR SUV": {
+    "JOHN COOPER WORKS/JCW GP 2DR HATCH FWD": {
       "years": [
         2013
       ]
     },
-    "COOPER S COUNTRYMAN 4 DR SUV BASE/S": {
+    "3 DOOR COOPER HATCH FWD": {
       "years": [
-        2013
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
       ]
     },
-    "COOPER S ALL4 COUNTRYMAN 4 DR SUV AWD": {
+    "3 DOOR JOHN COOPER WORKS HATCH FWD": {
       "years": [
-        2014
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "5 DOOR COOPER HATCH FWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "CLUBMAN COOPER 3DR HATCH FWD": {
+      "years": [
+        2015
+      ]
+    },
+    "CLUBMAN JOHN COOPER WORKS 3DR HATCH FWD": {
+      "years": [
+        2015
+      ]
+    },
+    "CONVERTIBLE COOPER 2DR FWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "CONVERTIBLE JOHN COOPER WORKS 2DR FWD": {
+      "years": [
+        2015
+      ]
+    },
+    "COUNTRYMAN JOHN COOPER WORKS ALL4 4DR SUV": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "COUPE JOHN COOPER WORKS 2DR COUPE": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "PACEMAN JOHN COOPER WORKS 2DR COUPE AWD": {
+      "years": [
+        2015
+      ]
+    },
+    "ROADSTER JOHN COOPER WORKS 2D FWD": {
+      "years": [
+        2015
+      ]
+    },
+    "CLUBMAN COOPER": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "CLUBMAN COOPER ALL4": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "PACEMAN JOHN COOPER WORKS ALL4 2DR COUPE": {
+      "years": [
+        2016
+      ]
+    },
+    "COUNTRYMAN COOPER": {
+      "years": [
+        2017,
+        2018
+      ]
+    },
+    "COUNTRYMAN COOPER ALL4 4DR SUV": {
+      "years": [
+        2017,
+        2018,
+        2019
       ]
     }
   },
@@ -194,39 +227,106 @@
         2014
       ]
     },
-    "COOPER S COUPE 2DR COUPE": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "COOPER S ROADSTER": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "COOPER S CLUBMAN 3DR HATCH FWD": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "COOPER S COUNTRYMAN 4 DR SUV": {
-      "years": [
-        2013
-      ]
-    },
-    "COOPER S COUNTRYMAN 4 DR SUV BASE/S": {
-      "years": [
-        2013
-      ]
-    },
     "COOPER S ALL4 COUNTRYMAN 4 DR SUV AWD": {
       "years": [
         2014
+      ]
+    },
+    "3 DOOR COOPER S HATCH FWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "5 DOOR COOPER S HATCH FWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "CLUBMAN COOPER S 3DR HATCH FWD": {
+      "years": [
+        2015
+      ]
+    },
+    "CONVERTIBLE COOPER S 2DR FWD": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "COUNTRYMAN COOPER S ALL4 4DR SUV AWD": {
+      "years": [
+        2015
+      ]
+    },
+    "COUPE COOPER S 2DR COUPE": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "PACEMAN COOPER S 2DR COUPE AWD": {
+      "years": [
+        2015
+      ]
+    },
+    "ROADSTER COOPER S 2DR FWD": {
+      "years": [
+        2015
+      ]
+    },
+    "COUNTRYMAN COOPER S ALL4 4DR SUV": {
+      "years": [
+        2016
+      ]
+    },
+    "PACEMAN COOPER S ALL4 2DR COUPE": {
+      "years": [
+        2016,
+        2017
+      ]
+    },
+    "CLUBMAN COOPER S": {
+      "years": [
+        2017,
+        2018
+      ]
+    },
+    "CLUBMAN COOPER S ALL4 / JOHN COOPER WORKS ALL4": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "CONVERTIBLE COOPER S / JOHN COOPER WORKS 2DR FWD": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "COUNTRYMAN COOPER S / JOHN COOPER WORKS ALL4 4DR SUV": {
+      "years": [
+        2017,
+        2018
+      ]
+    },
+    "COUNTRYMAN COOPER S ALL4 / JOHN COOPER WORKS ALL4 4DR SUV": {
+      "years": [
+        2019
+      ]
+    },
+    "COUNTRYMAN COOPER S E ALL4": {
+      "years": [
+        2019
       ]
     }
   },

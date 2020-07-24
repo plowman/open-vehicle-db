@@ -177,6 +177,26 @@
     }
   },
   "Vantage": {
+    "DB7 VANTAGE 2DR COUPE": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "DB7 VANTAGE 2DR VOLANTE (CONVERTIBLE)": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "DB7 VANTAGE 2DR COUPE/GT": {
+      "years": [
+        2003
+      ]
+    },
     "VANTAGE 2DR COUPE RWD V8/V8 S/V12": {
       "years": [
         2011,
@@ -200,6 +220,12 @@
         2017,
         2018
       ]
+    },
+    "NEW VANTAGE": {
+      "years": [
+        2018,
+        2019
+      ]
     }
   },
   "V8": {
@@ -207,23 +233,6 @@
       "years": [
         1981,
         1982
-      ]
-    },
-    "V8 VANTAGE 2DR COUPE RWD": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "V8 VANTAGE ROADSTER 2DR CONV RWD": {
-      "years": [
-        2007,
-        2008,
-        2009,
-        2010
       ]
     }
   },

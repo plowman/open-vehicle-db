@@ -108,6 +108,11 @@
     }
   },
   "L200": {
+    "L100/L200 4DR SEDAN": {
+      "years": [
+        2002
+      ]
+    },
     "L200 4DR SEDAN": {
       "years": [
         2003
@@ -121,30 +126,9 @@
         1993
       ]
     },
-    "SL2 SPORT TOURING SEDAN": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
     "SL 4DR SEDAN": {
       "years": [
         1994
-      ]
-    },
-    "SL1 4DR SEDAN SPORT": {
-      "years": [
-        1994
-      ]
-    },
-    "SL2 4DR SEDAN SPORT TOURING": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999
       ]
     },
     "SL/SL1 4DR SEDAN BASE/SPORT": {
@@ -194,6 +178,11 @@
     }
   },
   "SC1": {
+    "SATURN SC1/SC2 2DR COUPE": {
+      "years": [
+        1993
+      ]
+    },
     "SC1 2DR COUPE": {
       "years": [
         1994,
@@ -240,16 +229,6 @@
         2000
       ]
     },
-    "LS2 4DR SEDAN": {
-      "years": [
-        2000
-      ]
-    },
-    "LS100/LS200 4DR SEDAN": {
-      "years": [
-        2001
-      ]
-    },
     "LS300 4DR SEDAN V6": {
       "years": [
         2001
@@ -257,6 +236,11 @@
     }
   },
   "SW1": {
+    "SATURN SW1/SW2 4DR WAGON": {
+      "years": [
+        1993
+      ]
+    },
     "SW1 4DR WAGON": {
       "years": [
         1994,
@@ -300,13 +284,6 @@
     "LW2 4DR WAGON": {
       "years": [
         2000
-      ]
-    },
-    "LW200 4DR WAGON": {
-      "years": [
-        2001,
-        2002,
-        2003
       ]
     }
   },

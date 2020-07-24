@@ -72,24 +72,6 @@
       "years": [
         2014
       ]
-    },
-    "VERSA NOTE 4DR HATCHBACK S/SV/SL": {
-      "years": [
-        2014
-      ]
-    },
-    "VERSA NOTE 4DR HATCHBACK S/SV/SR/SL": {
-      "years": [
-        2015
-      ]
-    },
-    "VERSA NOTE 4DR HATCHBACK": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
     }
   },
   "Versa Note": {
@@ -472,13 +454,6 @@
         1990
       ]
     },
-    "SENTRA CLASSIC 4 DR SEDAN": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
     "SENTRA DLX/XE/GXE 4 DR SEDAN": {
       "years": [
         1991,
@@ -786,6 +761,51 @@
     }
   },
   "240SX": {
+    "240 SX COUPE": {
+      "years": [
+        1989,
+        1990,
+        1992
+      ]
+    },
+    "240 SX HATCHBACK": {
+      "years": [
+        1989,
+        1990
+      ]
+    },
+    "240 SX XE/LE COUPE": {
+      "years": [
+        1991
+      ]
+    },
+    "240 SX XE/SE/LE HATCHBACK": {
+      "years": [
+        1991
+      ]
+    },
+    "240 SX SE/LE HATCHBACK": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "240 SX 2DR CONVERTIBLE": {
+      "years": [
+        1993
+      ]
+    },
+    "240 SX LE COUPE": {
+      "years": [
+        1993
+      ]
+    },
+    "240 SX 2DR COUPE": {
+      "years": [
+        1995,
+        1996
+      ]
+    },
     "240SX 2DR COUPE SE/LE": {
       "years": [
         1997,
@@ -794,6 +814,91 @@
     }
   },
   "300ZX": {
+    "300 ZX GL": {
+      "years": [
+        1985
+      ]
+    },
+    "300 ZX GL 2+2": {
+      "years": [
+        1985
+      ]
+    },
+    "300 ZX SPORTS COUPE": {
+      "years": [
+        1985
+      ]
+    },
+    "300 ZX 2+2 GL": {
+      "years": [
+        1986
+      ]
+    },
+    "300 ZX 2+2 TURBO GL": {
+      "years": [
+        1986
+      ]
+    },
+    "300 ZX DLX SPORT COUPE": {
+      "years": [
+        1986
+      ]
+    },
+    "300 ZX GL SPORT COUPE": {
+      "years": [
+        1986
+      ]
+    },
+    "300 ZX TURBO GL SPORT COUPE": {
+      "years": [
+        1986
+      ]
+    },
+    "300 ZX 2+2 GL 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "300 ZX 2+2 GL TURBO 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "300 ZX GL 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "300 ZX GL TURBO 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "300 ZX SPORT 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "300 ZX 2+2 GL/GLL/GLL TURBO 2 DR HATCHBA": {
+      "years": [
+        1988
+      ]
+    },
+    "300 ZX SPORT/GL/GL TURBO/GLL TURBO 2 DR": {
+      "years": [
+        1988
+      ]
+    },
+    "300 ZX 2+2 GL/GLL/GLL TURBO 2 DR HATCH": {
+      "years": [
+        1989
+      ]
+    },
+    "300 ZX SPORT/GL/GL TURBO/GLL TURBO 2DR": {
+      "years": [
+        1989
+      ]
+    },
     "300ZX 2+2 2DR COUPE": {
       "years": [
         1990,
@@ -972,6 +1077,47 @@
   },
   "Stanza Wagon": {},
   "200SX": {
+    "200 SX HATCHBACK COUPE": {
+      "years": [
+        1985
+      ]
+    },
+    "200 SX NOTCHBACK COUPE": {
+      "years": [
+        1985
+      ]
+    },
+    "200 SX DELUXE NOTCHBACK": {
+      "years": [
+        1986
+      ]
+    },
+    "200 SX TURBO HATCHBACK": {
+      "years": [
+        1986
+      ]
+    },
+    "200 SX TURBO 2 DR HATCHBACK": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "200 SX XE 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "200 SX XE 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "200 SX XE 2 DR HATCHBACK/NOTCHBACK": {
+      "years": [
+        1988
+      ]
+    },
     "200SX 2DR COUPE SE/SE-R": {
       "years": [
         1995,
@@ -2288,17 +2434,6 @@
     "NV3500 STANDARD ROOF V8 SV": {
       "years": [
         2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "NV200 S/SV VAN": {
-      "years": [
         2013,
         2014,
         2015,

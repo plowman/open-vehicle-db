@@ -219,13 +219,6 @@
         2007
       ]
     },
-    "300C 4DR SEDAN RWD": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
     "300 4DR SEDAN RWD SRT8": {
       "years": [
         2006,
@@ -233,20 +226,6 @@
       ]
     },
     "300 TOURING/LIMITED 4DR SEDAN RWD": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "300C /HERITAGE EDITION/SRT DESIGN 4DR SEDAN R": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "300C SRT8 4DR SEDAN RWD": {
       "years": [
         2008,
         2009,
@@ -679,9 +658,39 @@
     }
   },
   "Shadow": {},
-  "Prowler": {},
+  "Prowler": {
+    "PLYMOUTH PROWLER 2DR CONVERTIBLE": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    }
+  },
   "TC": {},
   "LeBaron": {
+    "LE BARON 2 DR": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "LE BARON 4 DR": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "LE BARON WAGON": {
+      "years": [
+        1981
+      ]
+    },
+    "LE BARON CONV.": {
+      "years": [
+        1982
+      ]
+    },
     "LeBARON CONVERTIBLE": {
       "years": [
         1985
@@ -775,6 +784,61 @@
     "LEBARON GTS BASE/PREMIUM GTS TURBO 4DR": {
       "years": [
         1989
+      ]
+    },
+    "LE BARON 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "LE BARON BASE/PREMIUM/GT/GTC 2DR COUPE": {
+      "years": [
+        1990
+      ]
+    },
+    "LE BARON BASE/PREMIUM/GT/GTC CONVERTIBLE": {
+      "years": [
+        1990
+      ]
+    },
+    "LE BARON CONVERTIBLE/LX/GTC CONVERTIBLE": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "LE BARON COUPE/LX/GTC 2DR COUPE": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "LE BARON /LX/LANDAU 4DR SEDAN": {
+      "years": [
+        1992
+      ]
+    },
+    "LE BARON LE/LANDAU 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "LE BARON LX/GTC CONVERTIBLE": {
+      "years": [
+        1993
+      ]
+    },
+    "LE BARON 2DR CONVERTIBLE GTC/LX": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "LE BARON 4DR SEDAN LE/LANDAU": {
+      "years": [
+        1994
       ]
     }
   },
@@ -982,12 +1046,114 @@
     }
   },
   "Town and Country": {
+    "TOWN & COUNTRY WAGON": {
+      "years": [
+        1982,
+        1985
+      ]
+    },
     "TOWN AND COUNTRY WAGON": {
       "years": [
         1990,
         1991,
         1992,
         1993
+      ]
+    },
+    "TOWN & COUNTRY 3DR WAGON": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "TOWN & COUNTRY 3DR WAGON AWD": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "TOWN & COUNTRY LXi": {
+      "years": [
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "TOWN & COUNTRY LXi AWD": {
+      "years": [
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "TOWN & COUNTRY LTD AWD": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "TOWN & COUNTRY LXi/LTD": {
+      "years": [
+        1999,
+        2000,
+        2001
+      ]
+    },
+    "TOWN & COUNTRY LTD FWD": {
+      "years": [
+        2002,
+        2003
+      ]
+    },
+    "TOWN & COUNTRY Lxi FWD": {
+      "years": [
+        2002,
+        2003
+      ]
+    },
+    "TOWN & COUNTRY LIMITED AWD": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "TOWN & COUNTRY LIMITED FWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "TOWN & COUNTRY TOURING FWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "TOWN & COUNTRY 4DR MINIVAN TOURING/TOURING-L/": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "TOWN & COUNTRY 4DR MINIVAN": {
+      "years": [
+        2015,
+        2016
       ]
     }
   },

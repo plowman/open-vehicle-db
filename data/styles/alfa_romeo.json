@@ -47,6 +47,17 @@
         1987
       ]
     },
+    "2000 SPIDER": {
+      "years": [
+        1982
+      ]
+    },
+    "GRADUATE/SPIDER VELOCE/QUADRIFOGLIO": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
     "SPIDER GRADUATE/VELOCE/QUADIFOGLIO": {
       "years": [
         1990
@@ -89,6 +100,11 @@
     }
   },
   "GTV6": {
+    "GTV-6-2.5": {
+      "years": [
+        1982
+      ]
+    },
     "GTV62.5": {
       "years": [
         1985,
