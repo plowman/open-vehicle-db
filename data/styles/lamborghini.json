@@ -4,223 +4,52 @@
       "years": [
         2002,
         2003
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 458,
-          "overall_width_cm": 205,
-          "overall_height_cm": 114,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1655,
-          "weight_distribution_pct": null
-        },
-        "2003": "<default>"
-      }
+      ]
     },
     "MURCIELAGO  2DR COUPE AWD": {
       "years": [
         2004,
         2005,
         2006
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 458,
-          "overall_width_cm": 205,
-          "overall_height_cm": 114,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1655,
-          "weight_distribution_pct": null
-        },
-        "2005": "<default>",
-        "2006": "<default>"
-      }
+      ]
     },
     "MURCIELAGO  2DR CONVERTIBLE AWD": {
       "years": [
         2005,
         2006
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 458,
-          "overall_width_cm": 205,
-          "overall_height_cm": 106,
-          "wheelbase_cm": 266,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1650,
-          "weight_distribution_pct": null
-        },
-        "2006": "<default>"
-      }
+      ]
     },
     "MURCIELAGO LP640 2DR COUPE AWD": {
       "years": [
         2007,
         2008,
         2009
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 461,
-          "overall_width_cm": 206,
-          "overall_height_cm": 114,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1655,
-          "weight_distribution_pct": null
-        },
-        "2008": "<default>",
-        "2009": "<default>"
-      }
+      ]
     },
     "MURCIELAGO LP640 ROADSTER 2DR CONVERTIBLE AWD": {
       "years": [
         2007,
         2008,
         2009
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 461,
-          "overall_width_cm": 206,
-          "overall_height_cm": 114,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1665,
-          "weight_distribution_pct": null
-        },
-        "2008": "<default>",
-        "2009": "<default>"
-      }
+      ]
     },
     "MURCIELAGO LP650 2DR COUPE AWD": {
       "years": [
         2010,
         2011
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 461,
-          "overall_width_cm": 206,
-          "overall_height_cm": 114,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1655,
-          "weight_distribution_pct": null
-        },
-        "2011": "<default>"
-      }
+      ]
     },
     "MURCIELAGO LP650 ROADSTER 2DR CONVERTIBLE AWD": {
       "years": [
         2010,
         2011
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 461,
-          "overall_width_cm": 206,
-          "overall_height_cm": 114,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1690,
-          "weight_distribution_pct": null
-        },
-        "2011": "<default>"
-      }
+      ]
     },
     "MURCIELAGO LP670 SUPERVELOCE 2DR COUPE AWD": {
       "years": [
         2010,
         2011
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 461,
-          "overall_width_cm": 206,
-          "overall_height_cm": 114,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1565,
-          "weight_distribution_pct": null
-        },
-        "2011": "<default>"
-      }
+      ]
     }
   },
   "Gallardo": {
@@ -237,197 +66,7 @@
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 430,
-          "overall_width_cm": 190,
-          "overall_height_cm": 117,
-          "wheelbase_cm": null,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1430,
-          "weight_distribution_pct": null
-        },
-        "2005": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 430,
-          "overall_width_cm": 190,
-          "overall_height_cm": 117,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1430,
-          "weight_distribution_pct": null
-        },
-        "2006": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 430,
-          "overall_width_cm": 190,
-          "overall_height_cm": 117,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1430,
-          "weight_distribution_pct": null
-        },
-        "2007": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 430,
-          "overall_width_cm": 190,
-          "overall_height_cm": 117,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1430,
-          "weight_distribution_pct": null
-        },
-        "2008": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 430,
-          "overall_width_cm": 190,
-          "overall_height_cm": 117,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1430,
-          "weight_distribution_pct": null
-        },
-        "2009": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 430,
-          "overall_width_cm": 190,
-          "overall_height_cm": 117,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1430,
-          "weight_distribution_pct": null
-        },
-        "2010": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 430,
-          "overall_width_cm": 190,
-          "overall_height_cm": 117,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1430,
-          "weight_distribution_pct": null
-        },
-        "2011": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 430,
-          "overall_width_cm": 190,
-          "overall_height_cm": 117,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1430,
-          "weight_distribution_pct": null
-        },
-        "2012": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 430,
-          "overall_width_cm": 190,
-          "overall_height_cm": 117,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1430,
-          "weight_distribution_pct": null
-        },
-        "2013": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 430,
-          "overall_width_cm": 190,
-          "overall_height_cm": 117,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1430,
-          "weight_distribution_pct": null
-        },
-        "2014": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 430,
-          "overall_width_cm": 190,
-          "overall_height_cm": 117,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1430,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "GALLARDO SPYDER 2DR CONV AWD": {
       "years": [
@@ -440,35 +79,7 @@
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 430,
-          "overall_width_cm": 190,
-          "overall_height_cm": 118,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1570,
-          "weight_distribution_pct": null
-        },
-        "2007": "<default>",
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>",
-        "2011": "<default>",
-        "2012": "<default>",
-        "2013": "<default>",
-        "2014": "<default>"
-      }
+      ]
     },
     "GALLARDO SUPERLEGGERA 2DR COUPE AWD": {
       "years": [
@@ -477,31 +88,7 @@
         2010,
         2011,
         2012
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 430,
-          "overall_width_cm": 190,
-          "overall_height_cm": 117,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1430,
-          "weight_distribution_pct": null
-        },
-        "2009": "<default>",
-        "2010": "<default>",
-        "2011": "<default>",
-        "2012": "<default>"
-      }
+      ]
     }
   },
   "Diablo": {
@@ -512,241 +99,43 @@
         1993,
         1994,
         1995
-      ],
-      "details": {
-        "1991": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 446,
-          "overall_width_cm": 204,
-          "overall_height_cm": 111,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1576,
-          "weight_distribution_pct": null
-        },
-        "1992": "<default>",
-        "1993": {
-          "hood_length_cm": 85,
-          "back_length_cm": 183,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 64,
-          "max_width_cm": 94,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 87,
-          "overall_length_cm": 446,
-          "overall_width_cm": 204,
-          "overall_height_cm": 111,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1576,
-          "weight_distribution_pct": null
-        },
-        "1994": {
-          "hood_length_cm": 85,
-          "back_length_cm": 183,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 64,
-          "max_width_cm": 94,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 87,
-          "overall_length_cm": 446,
-          "overall_width_cm": 204,
-          "overall_height_cm": 111,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 1576,
-          "weight_distribution_pct": null
-        },
-        "1995": {
-          "hood_length_cm": 85,
-          "back_length_cm": 183,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 64,
-          "max_width_cm": 94,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 87,
-          "overall_length_cm": 446,
-          "overall_width_cm": 204,
-          "overall_height_cm": 111,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 1576,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "DIABLO COUPE SE": {
       "years": [
         1996
-      ],
-      "details": {
-        "1996": "<default>",
-        "<default>": {
-          "hood_length_cm": 85,
-          "back_length_cm": 183,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 64,
-          "max_width_cm": 94,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 87,
-          "overall_length_cm": 446,
-          "overall_width_cm": 204,
-          "overall_height_cm": 111,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 1576,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "DIABLO COUPE VT AWD": {
       "years": [
         1996
-      ],
-      "details": {
-        "1996": "<default>",
-        "<default>": {
-          "hood_length_cm": 80,
-          "back_length_cm": 183,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 64,
-          "max_width_cm": 94,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 87,
-          "overall_length_cm": 446,
-          "overall_width_cm": 204,
-          "overall_height_cm": 111,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 1625,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "DIABLO VT 2DR COUPE AWD": {
       "years": [
         1997,
         1998
-      ],
-      "details": {
-        "1997": "<default>",
-        "<default>": {
-          "hood_length_cm": 83,
-          "back_length_cm": 183,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 64,
-          "max_width_cm": 94,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 454,
-          "overall_width_cm": 204,
-          "overall_height_cm": 113,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 168,
-          "curb_weight_kg": 1625,
-          "weight_distribution_pct": null
-        },
-        "1998": "<default>"
-      }
+      ]
     },
     "DIABLO VT 2DR ROADSTER AWD": {
       "years": [
         1997,
         1998
-      ],
-      "details": {
-        "1997": "<default>",
-        "<default>": {
-          "hood_length_cm": 83,
-          "back_length_cm": 182,
-          "side_glass_max_height_cm": 21,
-          "door_height_cm": 64,
-          "max_width_cm": 106,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 454,
-          "overall_width_cm": 204,
-          "overall_height_cm": 113,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 168,
-          "curb_weight_kg": 1625,
-          "weight_distribution_pct": null
-        },
-        "1998": "<default>"
-      }
+      ]
     },
     "DIABLO VT 2DR COUPE SV/VT AWD": {
       "years": [
         1999,
         2000,
         2001
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": 83,
-          "back_length_cm": 183,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 64,
-          "max_width_cm": 94,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 447,
-          "overall_width_cm": 204,
-          "overall_height_cm": 112,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 168,
-          "curb_weight_kg": 1625,
-          "weight_distribution_pct": "41/59"
-        },
-        "2000": "<default>",
-        "2001": "<default>"
-      }
+      ]
     },
     "DIABLO VT 2DR ROADSTER SV/VT AWD": {
       "years": [
         1999,
         2000,
         2001
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": 83,
-          "back_length_cm": 182,
-          "side_glass_max_height_cm": 21,
-          "door_height_cm": 64,
-          "max_width_cm": 106,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 447,
-          "overall_width_cm": 204,
-          "overall_height_cm": 112,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 168,
-          "curb_weight_kg": 1625,
-          "weight_distribution_pct": "41/59"
-        },
-        "2000": "<default>",
-        "2001": "<default>"
-      }
+      ]
     }
   },
   "147": {},
@@ -755,208 +144,35 @@
       "years": [
         2012,
         2013
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 478,
-          "overall_width_cm": 203,
-          "overall_height_cm": 114,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": null
-        },
-        "2013": "<default>"
-      }
+      ]
     },
     "AVENTADOR LP700-4 COUPE": {
       "years": [
         2014,
         2015,
         2016
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 478,
-          "overall_width_cm": 203,
-          "overall_height_cm": 114,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": null
-        },
-        "2015": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 478,
-          "overall_width_cm": 203,
-          "overall_height_cm": 114,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 172,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": "43/57"
-        },
-        "2016": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 478,
-          "overall_width_cm": 203,
-          "overall_height_cm": 114,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 172,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": "43/57"
-        }
-      }
+      ]
     },
     "AVENTADOR LP700-4 ROADSTER": {
       "years": [
         2014,
         2015,
         2016
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 478,
-          "overall_width_cm": 203,
-          "overall_height_cm": 114,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": null
-        },
-        "2015": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 478,
-          "overall_width_cm": 203,
-          "overall_height_cm": 114,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 172,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 1625,
-          "weight_distribution_pct": "43/57"
-        },
-        "2016": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 478,
-          "overall_width_cm": 203,
-          "overall_height_cm": 114,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 172,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 1625,
-          "weight_distribution_pct": "43/57"
-        }
-      }
+      ]
     },
     "AVENTADOR COUPE": {
       "years": [
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 478,
-          "overall_width_cm": 203,
-          "overall_height_cm": 114,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 172,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": "43/57"
-        },
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     },
     "AVENTADOR ROADSTER": {
       "years": [
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 478,
-          "overall_width_cm": 203,
-          "overall_height_cm": 114,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 172,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 1625,
-          "weight_distribution_pct": "43/57"
-        },
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     }
   },
   "Huracan": {
@@ -964,160 +180,35 @@
       "years": [
         2015,
         2016
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 446,
-          "overall_width_cm": 192,
-          "overall_height_cm": 117,
-          "wheelbase_cm": 262,
-          "front_track_width_cm": 167,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1422,
-          "weight_distribution_pct": null
-        },
-        "2016": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 446,
-          "overall_width_cm": 192,
-          "overall_height_cm": 117,
-          "wheelbase_cm": 262,
-          "front_track_width_cm": 167,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1422,
-          "weight_distribution_pct": "43/57"
-        }
-      }
+      ]
     },
     "HURACAN 2DR COUPE AWD": {
       "years": [
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 446,
-          "overall_width_cm": 192,
-          "overall_height_cm": 117,
-          "wheelbase_cm": 262,
-          "front_track_width_cm": 167,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1422,
-          "weight_distribution_pct": "43/57"
-        },
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     },
     "HURACAN 2DR COUPE RWD": {
       "years": [
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 446,
-          "overall_width_cm": 192,
-          "overall_height_cm": 118,
-          "wheelbase_cm": 262,
-          "front_track_width_cm": 167,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1509,
-          "weight_distribution_pct": "40/60"
-        },
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     },
     "HURACAN 2DR SPYDER AWD": {
       "years": [
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 446,
-          "overall_width_cm": 192,
-          "overall_height_cm": 118,
-          "wheelbase_cm": 262,
-          "front_track_width_cm": 167,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1542,
-          "weight_distribution_pct": "43/57"
-        },
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     },
     "HURACAN 2DR SPYDER RWD": {
       "years": [
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 446,
-          "overall_width_cm": 192,
-          "overall_height_cm": 118,
-          "wheelbase_cm": 262,
-          "front_track_width_cm": 167,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1509,
-          "weight_distribution_pct": "40/60"
-        },
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     }
   },
   "Roadster": {},
@@ -1126,28 +217,7 @@
       "years": [
         2018,
         2019
-      ],
-      "details": {
-        "2018": "<default>",
-        "<default>": {
-          "hood_length_cm": 152,
-          "back_length_cm": 154,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 98,
-          "max_width_cm": 115,
-          "front_overhang_cm": 108,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 511,
-          "overall_width_cm": 202,
-          "overall_height_cm": 164,
-          "wheelbase_cm": 300,
-          "front_track_width_cm": 170,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2200,
-          "weight_distribution_pct": null
-        },
-        "2019": "<default>"
-      }
+      ]
     }
   }
 }

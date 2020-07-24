@@ -4,69 +4,12 @@
       "years": [
         1999,
         2003
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": 75,
-          "max_width_cm": null,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 462,
-          "overall_width_cm": 171,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1450,
-          "weight_distribution_pct": "61/39"
-        },
-        "2003": {
-          "hood_length_cm": 131,
-          "back_length_cm": 67,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 75,
-          "max_width_cm": 126,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 463,
-          "overall_width_cm": 171,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1450,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "9-3 2DR HATCHBACK": {
       "years": [
         1999
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 75,
-          "max_width_cm": 103,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 462,
-          "overall_width_cm": 171,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1355,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "9-3 4DR HATCHBACK BASE/SE": {
       "years": [
@@ -74,530 +17,70 @@
         2000,
         2001,
         2002
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 119,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 75,
-          "max_width_cm": 103,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 462,
-          "overall_width_cm": 171,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "63/37"
-        },
-        "2000": {
-          "hood_length_cm": 131,
-          "back_length_cm": 119,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 75,
-          "max_width_cm": 103,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 462,
-          "overall_width_cm": 171,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "63/37"
-        },
-        "2001": {
-          "hood_length_cm": 131,
-          "back_length_cm": 119,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 75,
-          "max_width_cm": 103,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 463,
-          "overall_width_cm": 171,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "63/37"
-        },
-        "2002": {
-          "hood_length_cm": 131,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 75,
-          "max_width_cm": 103,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 463,
-          "overall_width_cm": 171,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "9-3 2DR CONVERTIBLE BASE/SE": {
       "years": [
         2000,
         2001,
         2002
-      ],
-      "details": {
-        "2000": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": 75,
-          "max_width_cm": null,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 462,
-          "overall_width_cm": 171,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1450,
-          "weight_distribution_pct": "61/39"
-        },
-        "2001": {
-          "hood_length_cm": 131,
-          "back_length_cm": 67,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 75,
-          "max_width_cm": 126,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 463,
-          "overall_width_cm": 171,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1450,
-          "weight_distribution_pct": "61/39"
-        },
-        "2002": {
-          "hood_length_cm": 131,
-          "back_length_cm": 67,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 75,
-          "max_width_cm": 126,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 463,
-          "overall_width_cm": 171,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1450,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "9-3 2DR CONVERTIBLE VIGGEN": {
       "years": [
         2000,
         2001,
         2002
-      ],
-      "details": {
-        "2000": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": 75,
-          "max_width_cm": null,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 462,
-          "overall_width_cm": 171,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1450,
-          "weight_distribution_pct": "61/39"
-        },
-        "2001": {
-          "hood_length_cm": 131,
-          "back_length_cm": 67,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 75,
-          "max_width_cm": 126,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 464,
-          "overall_width_cm": 171,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1450,
-          "weight_distribution_pct": "61/39"
-        },
-        "2002": {
-          "hood_length_cm": 131,
-          "back_length_cm": 67,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 75,
-          "max_width_cm": 126,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 464,
-          "overall_width_cm": 171,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1450,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "9-3 2DR HATCHBACK BASE/SE": {
       "years": [
         2000,
         2001,
         2002
-      ],
-      "details": {
-        "2000": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 119,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 75,
-          "max_width_cm": 103,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 462,
-          "overall_width_cm": 171,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1355,
-          "weight_distribution_pct": "63/37"
-        },
-        "2001": {
-          "hood_length_cm": 131,
-          "back_length_cm": 119,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 75,
-          "max_width_cm": 103,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 463,
-          "overall_width_cm": 171,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1355,
-          "weight_distribution_pct": "63/37"
-        },
-        "2002": {
-          "hood_length_cm": 131,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 75,
-          "max_width_cm": 103,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 463,
-          "overall_width_cm": 171,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1355,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "9-3 2DR HATCHBACK VIGGEN": {
       "years": [
         2000,
         2001,
         2002
-      ],
-      "details": {
-        "2000": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 119,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 75,
-          "max_width_cm": 103,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 462,
-          "overall_width_cm": 171,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1355,
-          "weight_distribution_pct": "63/37"
-        },
-        "2001": {
-          "hood_length_cm": 131,
-          "back_length_cm": 119,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 75,
-          "max_width_cm": 103,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 464,
-          "overall_width_cm": 171,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1355,
-          "weight_distribution_pct": "63/37"
-        },
-        "2002": {
-          "hood_length_cm": 131,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 75,
-          "max_width_cm": 103,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 464,
-          "overall_width_cm": 171,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1355,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "9-3 4DR HATCHBACK VIGGEN": {
       "years": [
         2000,
         2001,
         2002
-      ],
-      "details": {
-        "2000": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 119,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 75,
-          "max_width_cm": 103,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 462,
-          "overall_width_cm": 171,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "63/37"
-        },
-        "2001": {
-          "hood_length_cm": 131,
-          "back_length_cm": 119,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 75,
-          "max_width_cm": 103,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 464,
-          "overall_width_cm": 171,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "63/37"
-        },
-        "2002": {
-          "hood_length_cm": 131,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 75,
-          "max_width_cm": 103,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 464,
-          "overall_width_cm": 171,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "9-3 LINEAR/ARC 4DR SEDAN FWD": {
       "years": [
         2003
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 120,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 111,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 464,
-          "overall_width_cm": 179,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9-3 VECTOR 4DR SEDAN FWD": {
       "years": [
         2003
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 120,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 111,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 464,
-          "overall_width_cm": 179,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1460,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9-3 2DR CONVERTIBLE FWD ARC/AERO": {
       "years": [
         2004,
         2005
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 120,
-          "back_length_cm": 69,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 77,
-          "max_width_cm": 130,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 464,
-          "overall_width_cm": 176,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1578,
-          "weight_distribution_pct": null
-        },
-        "2005": {
-          "hood_length_cm": 120,
-          "back_length_cm": 69,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 77,
-          "max_width_cm": 130,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 464,
-          "overall_width_cm": 176,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1578,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "9-3 4DR SEDAN FWD /AERO": {
       "years": [
         2004,
         2005
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 120,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 111,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 464,
-          "overall_width_cm": 179,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1490,
-          "weight_distribution_pct": "62/38"
-        },
-        "2005": "<default>"
-      }
+      ]
     },
     "9-3 4DR SEDAN FWD /LINEAR/ARC": {
       "years": [
         2004,
         2005
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 120,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 111,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 464,
-          "overall_width_cm": 179,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1440,
-          "weight_distribution_pct": "62/38"
-        },
-        "2005": "<default>"
-      }
+      ]
     },
     "9-3 2DR CONVERTIBLE FWD": {
       "years": [
@@ -606,31 +89,7 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 120,
-          "back_length_cm": 69,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 77,
-          "max_width_cm": 130,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 464,
-          "overall_width_cm": 176,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1578,
-          "weight_distribution_pct": "60/40"
-        },
-        "2007": "<default>",
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>"
-      }
+      ]
     },
     "9-3 2DR CONVERTIBLE FWD AERO": {
       "years": [
@@ -639,31 +98,7 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 120,
-          "back_length_cm": 69,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 77,
-          "max_width_cm": 130,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 464,
-          "overall_width_cm": 176,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1678,
-          "weight_distribution_pct": "60/40"
-        },
-        "2007": "<default>",
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>"
-      }
+      ]
     },
     "9-3 4DR SEDAN FWD": {
       "years": [
@@ -673,48 +108,7 @@
         2009,
         2010,
         2011
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 120,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 111,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 464,
-          "overall_width_cm": 179,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1440,
-          "weight_distribution_pct": "62/38"
-        },
-        "2007": "<default>",
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>",
-        "2011": {
-          "hood_length_cm": 120,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 111,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 464,
-          "overall_width_cm": 179,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1540,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9-3 4DR SEDAN FWD AERO": {
       "years": [
@@ -723,31 +117,7 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 120,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 111,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 464,
-          "overall_width_cm": 179,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1490,
-          "weight_distribution_pct": "62/38"
-        },
-        "2007": "<default>",
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>"
-      }
+      ]
     },
     "9-3 SPORTCOMBI 4DR WAGON FWD": {
       "years": [
@@ -756,31 +126,7 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": 162,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 76,
-          "max_width_cm": 98,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 465,
-          "overall_width_cm": 175,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1440,
-          "weight_distribution_pct": "60/40"
-        },
-        "2007": "<default>",
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>"
-      }
+      ]
     },
     "9-3 SPORTCOMBI 4DR WAGON FWD AERO": {
       "years": [
@@ -789,131 +135,27 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": 162,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 76,
-          "max_width_cm": 98,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 465,
-          "overall_width_cm": 175,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1490,
-          "weight_distribution_pct": "60/40"
-        },
-        "2007": "<default>",
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>"
-      }
+      ]
     },
     "9-3 2DR CONVERTIBLE FWD 2.0T/AERO": {
       "years": [
         2011
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 120,
-          "back_length_cm": 69,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 77,
-          "max_width_cm": 130,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 464,
-          "overall_width_cm": 176,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1700,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "9-3 4DR SEDAN XWD AERO": {
       "years": [
         2011
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 120,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 111,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 464,
-          "overall_width_cm": 179,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1680,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9-3 SPORTCOMBI 4DR WAGON FWD 2.0T/AERO": {
       "years": [
         2011
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": 162,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 76,
-          "max_width_cm": 98,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 465,
-          "overall_width_cm": 175,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1615,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "9-3X 4DR WAGON XWD": {
       "years": [
         2011
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 122,
-          "back_length_cm": 162,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 76,
-          "max_width_cm": 98,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 469,
-          "overall_width_cm": 180,
-          "overall_height_cm": 157,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1735,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     }
   },
   "9-5": {
@@ -921,112 +163,18 @@
       "years": [
         1998,
         1999
-      ],
-      "details": {
-        "1998": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 114,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1490,
-          "weight_distribution_pct": null
-        },
-        "1999": {
-          "hood_length_cm": 128,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 114,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1490,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9-5 4DR SEDAN SE V6": {
       "years": [
         1998,
         1999
-      ],
-      "details": {
-        "1998": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 114,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1615,
-          "weight_distribution_pct": "60/40"
-        },
-        "1999": {
-          "hood_length_cm": 128,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 114,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1615,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9-5 4DR WAGON": {
       "years": [
         1999
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 219,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 115,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 150,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "9-5 4DR SEDAN AERO 2.3 TURBO HIGH PRESSURE": {
       "years": [
@@ -1034,387 +182,71 @@
         2001,
         2002,
         2003
-      ],
-      "details": {
-        "2000": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 114,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1565,
-          "weight_distribution_pct": "62/38"
-        },
-        "2001": "<default>",
-        "2002": "<default>",
-        "2003": {
-          "hood_length_cm": 128,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 114,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1565,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "9-5 4DR SEDAN SE 2.3 TURBO LIGHT PRESSURE": {
       "years": [
         2000,
         2001
-      ],
-      "details": {
-        "2000": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 114,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1565,
-          "weight_distribution_pct": "62/38"
-        },
-        "2001": "<default>"
-      }
+      ]
     },
     "9-5 4DR SEDAN SE 3.0 V6 TURBO": {
       "years": [
         2000,
         2001
-      ],
-      "details": {
-        "2000": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 114,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1615,
-          "weight_distribution_pct": "62/38"
-        },
-        "2001": "<default>"
-      }
+      ]
     },
     "9-5 4DR WAGON 2.3 TURBO LIGHT PRESSURE": {
       "years": [
         2000,
         2001
-      ],
-      "details": {
-        "2000": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 219,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 115,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 150,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": null
-        },
-        "2001": "<default>"
-      }
+      ]
     },
     "9-5 4DR WAGON 3.0 V6 TURBO": {
       "years": [
         2001
-      ],
-      "details": {
-        "2001": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 219,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 115,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 150,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1680,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "9-5 4DR WAGON AERO 2.3 TURBO HIGH PRESSURE": {
       "years": [
         2001,
         2002,
         2003
-      ],
-      "details": {
-        "2001": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 219,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 115,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 150,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": null
-        },
-        "2002": {
-          "hood_length_cm": 128,
-          "back_length_cm": 169,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 115,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 150,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": "59/41"
-        },
-        "2003": {
-          "hood_length_cm": 128,
-          "back_length_cm": 169,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 115,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 150,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "9-5 4DR SEDAN ARC 3.0 V6 TURBO": {
       "years": [
         2002
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 114,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1615,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9-5 4DR SEDAN LINEAR 2.3 TURBO LIGHT PRESSURE": {
       "years": [
         2002,
         2003
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 114,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1565,
-          "weight_distribution_pct": "62/38"
-        },
-        "2003": {
-          "hood_length_cm": 128,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 114,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1565,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "9-5 4DR WAGON ARC 3.0 V6 TURBO": {
       "years": [
         2002
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 169,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 115,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 150,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1680,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "9-5 4DR WAGON LINEAR 2.3 TURBO LIGHT PRESSURE": {
       "years": [
         2002,
         2003
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 219,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 115,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 150,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": "59/41"
-        },
-        "2003": "<default>"
-      }
+      ]
     },
     "9-5 4DR SEDAN FWD /ARC/AERO": {
       "years": [
         2004,
         2005
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 114,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1295,
-          "weight_distribution_pct": "59/41"
-        },
-        "2005": "<default>"
-      }
+      ]
     },
     "9-5 4DR WAGON FWD /ARC/AERO": {
       "years": [
         2004,
         2005
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 169,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 115,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 481,
-          "overall_width_cm": 179,
-          "overall_height_cm": 150,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1351,
-          "weight_distribution_pct": "59/41"
-        },
-        "2005": "<default>"
-      }
+      ]
     },
     "9-5 4DR SEDAN FWD": {
       "years": [
@@ -1423,47 +255,7 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 133,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 74,
-          "max_width_cm": 113,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 484,
-          "overall_width_cm": 179,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1295,
-          "weight_distribution_pct": "62/38"
-        },
-        "2007": {
-          "hood_length_cm": 133,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 74,
-          "max_width_cm": 113,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 484,
-          "overall_width_cm": 179,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1574,
-          "weight_distribution_pct": "62/38"
-        },
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>"
-      }
+      ]
     },
     "9-5 SPORTCOMBI 4DR WAGON FWD": {
       "years": [
@@ -1472,330 +264,58 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 167,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 75,
-          "max_width_cm": 113,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 484,
-          "overall_width_cm": 179,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1351,
-          "weight_distribution_pct": "62/38"
-        },
-        "2007": {
-          "hood_length_cm": 131,
-          "back_length_cm": 167,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 75,
-          "max_width_cm": 113,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 484,
-          "overall_width_cm": 179,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1642,
-          "weight_distribution_pct": "62/38"
-        },
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>"
-      }
+      ]
     },
     "9-5 AERO 4 DR SEDAN XWD": {
       "years": [
         2011
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 61,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 80,
-          "max_width_cm": 112,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 115,
-          "overall_length_cm": 501,
-          "overall_width_cm": 186,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 284,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 2005,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "9-5 TURBO4 4 DR SEDAN FWD": {
       "years": [
         2011
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 61,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 80,
-          "max_width_cm": 112,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 115,
-          "overall_length_cm": 501,
-          "overall_width_cm": 186,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 284,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1830,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     }
   },
   "900": {
     "900 SD": {
       "years": [
         1981
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 121,
-          "front_overhang_cm": 106,
-          "rear_overhang_cm": 120,
-          "overall_length_cm": 477,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1244,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "900 TURBO 3 DR": {
       "years": [
         1981
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 121,
-          "front_overhang_cm": 106,
-          "rear_overhang_cm": 120,
-          "overall_length_cm": 477,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1186,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "900 2 DR": {
       "years": [
         1982,
         1985
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 121,
-          "front_overhang_cm": 106,
-          "rear_overhang_cm": 120,
-          "overall_length_cm": 476,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1175,
-          "weight_distribution_pct": null
-        },
-        "1985": {
-          "hood_length_cm": 137,
-          "back_length_cm": 127,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 122,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 124,
-          "overall_length_cm": 474,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1209,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "900 4 DR": {
       "years": [
         1982,
         1985
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 121,
-          "front_overhang_cm": 106,
-          "rear_overhang_cm": 120,
-          "overall_length_cm": 476,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1275,
-          "weight_distribution_pct": null
-        },
-        "1985": {
-          "hood_length_cm": 137,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 122,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 124,
-          "overall_length_cm": 474,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1255,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "900 S 4 DR": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 122,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 124,
-          "overall_length_cm": 474,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1235,
-          "weight_distribution_pct": "60/40"
-        },
-        "1986": "<default>"
-      }
+      ]
     },
     "900 TURBO 16 2 DR": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 127,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 122,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 124,
-          "overall_length_cm": 474,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1266,
-          "weight_distribution_pct": "61/39"
-        },
-        "1986": {
-          "hood_length_cm": 137,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 122,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 124,
-          "overall_length_cm": 474,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1287,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "900 TURBO 16 4 DR": {
       "years": [
         1985
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 122,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 124,
-          "overall_length_cm": 474,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1285,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "900 2 DR HATCHBACK": {
       "years": [
@@ -1803,78 +323,7 @@
         1987,
         1988,
         1989
-      ],
-      "details": {
-        "1986": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 127,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 122,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 124,
-          "overall_length_cm": 474,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1178,
-          "weight_distribution_pct": "60/40"
-        },
-        "1987": {
-          "hood_length_cm": 136,
-          "back_length_cm": 128,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1218,
-          "weight_distribution_pct": "60/40"
-        },
-        "1988": {
-          "hood_length_cm": 135,
-          "back_length_cm": 131,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1222,
-          "weight_distribution_pct": "60/40"
-        },
-        "1989": {
-          "hood_length_cm": 135,
-          "back_length_cm": 131,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": 143,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1225,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "900 4 DR SEDAN": {
       "years": [
@@ -1882,264 +331,39 @@
         1987,
         1988,
         1989
-      ],
-      "details": {
-        "1986": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 122,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 124,
-          "overall_length_cm": 474,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1195,
-          "weight_distribution_pct": "60/40"
-        },
-        "1987": {
-          "hood_length_cm": 136,
-          "back_length_cm": 77,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1218,
-          "weight_distribution_pct": "60/40"
-        },
-        "1988": {
-          "hood_length_cm": 135,
-          "back_length_cm": 77,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": "60/40"
-        },
-        "1989": {
-          "hood_length_cm": 135,
-          "back_length_cm": 77,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": 143,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1225,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "900 S 2 DR": {
       "years": [
         1986
-      ],
-      "details": {
-        "1986": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 127,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 122,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 124,
-          "overall_length_cm": 474,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1266,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "900 TURBO 16S 2-DR": {
       "years": [
         1986
-      ],
-      "details": {
-        "1986": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 127,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 122,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 124,
-          "overall_length_cm": 474,
-          "overall_width_cm": 169,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1287,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "9000": {
       "years": [
         1986
-      ],
-      "details": {
-        "1986": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 90,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 72,
-          "max_width_cm": 115,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1321,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "900 S 2 DR COUPE": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 77,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1235,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "900 S 4 DR SEDAN": {
       "years": [
         1987,
         1988,
         1989
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 77,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1218,
-          "weight_distribution_pct": "60/40"
-        },
-        "1988": {
-          "hood_length_cm": 136,
-          "back_length_cm": 76,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 68,
-          "max_width_cm": 122,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": "60/40"
-        },
-        "1989": {
-          "hood_length_cm": 136,
-          "back_length_cm": 76,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 68,
-          "max_width_cm": 122,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": 143,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1255,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "900 TURBO 2 DR HATCHBACK": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 128,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1305,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "900 TURBO CONVERTIBLE": {
       "years": [
@@ -2150,415 +374,59 @@
         1991,
         1992,
         1993
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1325,
-          "weight_distribution_pct": null
-        },
-        "1988": {
-          "hood_length_cm": 136,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1354,
-          "weight_distribution_pct": null
-        },
-        "1989": {
-          "hood_length_cm": 136,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": 143,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1350,
-          "weight_distribution_pct": null
-        },
-        "1990": {
-          "hood_length_cm": 136,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": 143,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1365,
-          "weight_distribution_pct": "61/39"
-        },
-        "1991": {
-          "hood_length_cm": 136,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1365,
-          "weight_distribution_pct": null
-        },
-        "1992": {
-          "hood_length_cm": 136,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1365,
-          "weight_distribution_pct": null
-        },
-        "1993": {
-          "hood_length_cm": 136,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1365,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "900 TURBO SPG 2 DR HATCHBACK": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 127,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 122,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 124,
-          "overall_length_cm": 474,
-          "overall_width_cm": 169,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1287,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "9000 TURBO 4 DR HATCHBACK": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 71,
-          "max_width_cm": 109,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1346,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "9000S 4 DR HATCHBACK": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 71,
-          "max_width_cm": 109,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1346,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "900 S 2 DR SEDAN": {
       "years": [
         1988
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 76,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 68,
-          "max_width_cm": 122,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1282,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "900 TURBO HATCHBACK": {
       "years": [
         1988,
         1989
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 135,
-          "back_length_cm": 131,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1305,
-          "weight_distribution_pct": "61/39"
-        },
-        "1989": {
-          "hood_length_cm": 135,
-          "back_length_cm": 131,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": 113,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1320,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "900 TURBO SPG HATCHBACK": {
       "years": [
         1988
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 135,
-          "back_length_cm": 131,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 170,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "9000 TURBO/9000S 4 DR HATCHBACK": {
       "years": [
         1988,
         1989
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 71,
-          "max_width_cm": 109,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1371,
-          "weight_distribution_pct": "62/38"
-        },
-        "1989": {
-          "hood_length_cm": 131,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 71,
-          "max_width_cm": 109,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "900 S 2 DR HATCHBACK": {
       "years": [
         1989
-      ],
-      "details": {
-        "1989": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 76,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 68,
-          "max_width_cm": 122,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": 143,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1255,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "900 TURBO 4 DR SEDAN": {
       "years": [
         1989
-      ],
-      "details": {
-        "1989": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 76,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 68,
-          "max_width_cm": 122,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": 143,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1320,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "9000 CD 4 DR SEDAN": {
       "years": [
         1989
-      ],
-      "details": {
-        "1989": "<default>",
-        "<default>": {
-          "hood_length_cm": 355,
-          "back_length_cm": 64,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 63,
-          "max_width_cm": 110,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 478,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1430,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "900 2DR HATCHBACK": {
       "years": [
@@ -2566,78 +434,7 @@
         1991,
         1992,
         1993
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 135,
-          "back_length_cm": 131,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": 143,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1250,
-          "weight_distribution_pct": "60/40"
-        },
-        "1991": {
-          "hood_length_cm": 135,
-          "back_length_cm": 131,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1250,
-          "weight_distribution_pct": "60/40"
-        },
-        "1992": {
-          "hood_length_cm": 135,
-          "back_length_cm": 131,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1250,
-          "weight_distribution_pct": "60/40"
-        },
-        "1993": {
-          "hood_length_cm": 135,
-          "back_length_cm": 131,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1250,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "900 4DR SEDAN": {
       "years": [
@@ -2645,121 +442,13 @@
         1991,
         1992,
         1993
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 135,
-          "back_length_cm": 77,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": 143,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1250,
-          "weight_distribution_pct": "60/40"
-        },
-        "1991": {
-          "hood_length_cm": 135,
-          "back_length_cm": 77,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1250,
-          "weight_distribution_pct": "60/40"
-        },
-        "1992": {
-          "hood_length_cm": 135,
-          "back_length_cm": 77,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1250,
-          "weight_distribution_pct": "60/40"
-        },
-        "1993": {
-          "hood_length_cm": 135,
-          "back_length_cm": 77,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1250,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "900 SPG 2DR HATCHBACK": {
       "years": [
         1990,
         1991
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 131,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 68,
-          "max_width_cm": 122,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 170,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": 143,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1320,
-          "weight_distribution_pct": "60/40"
-        },
-        "1991": {
-          "hood_length_cm": 136,
-          "back_length_cm": 131,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 68,
-          "max_width_cm": 122,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 170,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1320,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "900 TURBO 2DR HATCHBACK": {
       "years": [
@@ -2767,411 +456,58 @@
         1991,
         1992,
         1993
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 131,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 68,
-          "max_width_cm": 122,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": 143,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1320,
-          "weight_distribution_pct": "61/39"
-        },
-        "1991": {
-          "hood_length_cm": 136,
-          "back_length_cm": 131,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 68,
-          "max_width_cm": 122,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1320,
-          "weight_distribution_pct": "61/39"
-        },
-        "1992": {
-          "hood_length_cm": 136,
-          "back_length_cm": 131,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 68,
-          "max_width_cm": 122,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1320,
-          "weight_distribution_pct": "61/39"
-        },
-        "1993": {
-          "hood_length_cm": 136,
-          "back_length_cm": 131,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 68,
-          "max_width_cm": 122,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1320,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "9000 SPG 4DR HATCHBACK": {
       "years": [
         1990,
         1991
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 73,
-          "max_width_cm": 100,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 96,
-          "overall_length_cm": 462,
-          "overall_width_cm": 181,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "61/39"
-        },
-        "1991": {
-          "hood_length_cm": 131,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 73,
-          "max_width_cm": 100,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 96,
-          "overall_length_cm": 462,
-          "overall_width_cm": 181,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9000S/9000 TURBO 4DR HATCHBACK": {
       "years": [
         1990,
         1991
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 116,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 73,
-          "max_width_cm": 100,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 96,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "62/38"
-        },
-        "1991": {
-          "hood_length_cm": 128,
-          "back_length_cm": 109,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 62,
-          "max_width_cm": 110,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9000S/9000CD 4DR SEDAN": {
       "years": [
         1990,
         1991
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 64,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 13,
-          "max_width_cm": 110,
-          "front_overhang_cm": 106,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 478,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1390,
-          "weight_distribution_pct": "62/38"
-        },
-        "1991": {
-          "hood_length_cm": 136,
-          "back_length_cm": 62,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 110,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 478,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1390,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "900S 2DR HATCHBACK": {
       "years": [
         1990,
         1991
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 135,
-          "back_length_cm": 129,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 71,
-          "max_width_cm": 121,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": 143,
-          "rear_track_width_cm": 143,
-          "curb_weight_kg": 1270,
-          "weight_distribution_pct": "60/40"
-        },
-        "1991": {
-          "hood_length_cm": 135,
-          "back_length_cm": 129,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 71,
-          "max_width_cm": 121,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 469,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1270,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "900S 4DR SEDAN": {
       "years": [
         1990,
         1991
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 135,
-          "back_length_cm": 77,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": 143,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1270,
-          "weight_distribution_pct": "60/40"
-        },
-        "1991": {
-          "hood_length_cm": 135,
-          "back_length_cm": 77,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1270,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "9000 TURBO 4DR HATCHBACK": {
       "years": [
         1992
-      ],
-      "details": {
-        "1992": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 109,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 62,
-          "max_width_cm": 110,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9000CD/9000CD TURBO 4DR SEDAN": {
       "years": [
         1992,
         1993
-      ],
-      "details": {
-        "1992": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 62,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 110,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 478,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1390,
-          "weight_distribution_pct": "62/38"
-        },
-        "1993": {
-          "hood_length_cm": 136,
-          "back_length_cm": 62,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 110,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 478,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1390,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "9000 CS/CSE TURBO 4DR HATCHBACK": {
       "years": [
         1993
-      ],
-      "details": {
-        "1993": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 117,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 71,
-          "max_width_cm": 111,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 476,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1411,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "900 2DR CONVERTIBLE TURBO": {
       "years": [
         1994
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 468,
-          "overall_width_cm": 169,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1365,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "900 4DR HATCHBACK S/SE": {
       "years": [
@@ -3180,88 +516,12 @@
         1996,
         1997,
         1998
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 119,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 75,
-          "max_width_cm": 104,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 464,
-          "overall_width_cm": 171,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1345,
-          "weight_distribution_pct": "63/37"
-        },
-        "1995": "<default>",
-        "1996": "<default>",
-        "1997": {
-          "hood_length_cm": 131,
-          "back_length_cm": 120,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 74,
-          "max_width_cm": 103,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 464,
-          "overall_width_cm": 171,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1345,
-          "weight_distribution_pct": "63/37"
-        },
-        "1998": {
-          "hood_length_cm": 131,
-          "back_length_cm": 120,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 74,
-          "max_width_cm": 103,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 464,
-          "overall_width_cm": 171,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1335,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "9000 4DR HATCHBACK AREO": {
       "years": [
         1994
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 476,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1460,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9000 4DR HATCHBACK CS/CSE TURBO": {
       "years": [
@@ -3269,164 +529,19 @@
         1995,
         1996,
         1997
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 117,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 71,
-          "max_width_cm": 111,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 476,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1411,
-          "weight_distribution_pct": "62/38"
-        },
-        "1995": {
-          "hood_length_cm": 138,
-          "back_length_cm": 117,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 476,
-          "overall_width_cm": 178,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1425,
-          "weight_distribution_pct": "62/38"
-        },
-        "1996": {
-          "hood_length_cm": 138,
-          "back_length_cm": 117,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 476,
-          "overall_width_cm": 178,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1425,
-          "weight_distribution_pct": "62/38"
-        },
-        "1997": {
-          "hood_length_cm": 138,
-          "back_length_cm": 117,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 476,
-          "overall_width_cm": 178,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1425,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9000 4DR SEDAN CD/CDE TURBO": {
       "years": [
         1994
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 62,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 110,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 478,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1390,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "900 2DR CONVERTIBLE S/SE TURBO": {
       "years": [
         1995,
         1996,
         1997
-      ],
-      "details": {
-        "1995": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 76,
-          "max_width_cm": 124,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 464,
-          "overall_width_cm": 171,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 143,
-          "curb_weight_kg": 1420,
-          "weight_distribution_pct": null
-        },
-        "1996": {
-          "hood_length_cm": 131,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 76,
-          "max_width_cm": 124,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 464,
-          "overall_width_cm": 171,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1420,
-          "weight_distribution_pct": null
-        },
-        "1997": {
-          "hood_length_cm": 131,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 76,
-          "max_width_cm": 124,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 464,
-          "overall_width_cm": 171,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1420,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "900 2DR HATCHBACK S/SE": {
       "years": [
@@ -3434,610 +549,98 @@
         1996,
         1997,
         1998
-      ],
-      "details": {
-        "1995": "<default>",
-        "<default>": {
-          "hood_length_cm": 132,
-          "back_length_cm": 120,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 76,
-          "max_width_cm": 101,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 464,
-          "overall_width_cm": 171,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1335,
-          "weight_distribution_pct": "63/37"
-        },
-        "1996": {
-          "hood_length_cm": 132,
-          "back_length_cm": 120,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 76,
-          "max_width_cm": 101,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 464,
-          "overall_width_cm": 171,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1335,
-          "weight_distribution_pct": "63/37"
-        },
-        "1997": {
-          "hood_length_cm": 131,
-          "back_length_cm": 120,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 76,
-          "max_width_cm": 101,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 464,
-          "overall_width_cm": 171,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1335,
-          "weight_distribution_pct": "63/37"
-        },
-        "1998": {
-          "hood_length_cm": 131,
-          "back_length_cm": 120,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 76,
-          "max_width_cm": 101,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 464,
-          "overall_width_cm": 171,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1335,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "9000 4DR HATCHBACK AREO TURBO": {
       "years": [
         1995,
         1996,
         1997
-      ],
-      "details": {
-        "1995": "<default>",
-        "<default>": {
-          "hood_length_cm": 138,
-          "back_length_cm": 117,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 476,
-          "overall_width_cm": 178,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1475,
-          "weight_distribution_pct": "62/38"
-        },
-        "1996": "<default>",
-        "1997": "<default>"
-      }
+      ]
     },
     "9000 4DR SEDAN CDE": {
       "years": [
         1995,
         1996,
         1997
-      ],
-      "details": {
-        "1995": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 479,
-          "overall_width_cm": 178,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1465,
-          "weight_distribution_pct": "62/38"
-        },
-        "1996": {
-          "hood_length_cm": 138,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 479,
-          "overall_width_cm": 178,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1465,
-          "weight_distribution_pct": "62/38"
-        },
-        "1997": {
-          "hood_length_cm": 138,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 479,
-          "overall_width_cm": 178,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1465,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "900 2DR CONVERTIBLE S/SE": {
       "years": [
         1998
-      ],
-      "details": {
-        "1998": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 76,
-          "max_width_cm": 124,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 464,
-          "overall_width_cm": 171,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1415,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "9000 4DR HATCHBACK CSE": {
       "years": [
         1998
-      ],
-      "details": {
-        "1998": "<default>",
-        "<default>": {
-          "hood_length_cm": 138,
-          "back_length_cm": 117,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 476,
-          "overall_width_cm": 178,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1420,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     }
   },
   "9000": {
     "9000": {
       "years": [
         1986
-      ],
-      "details": {
-        "1986": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 90,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 72,
-          "max_width_cm": 115,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1321,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "9000 TURBO 4 DR HATCHBACK": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 71,
-          "max_width_cm": 109,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1346,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "9000S 4 DR HATCHBACK": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 71,
-          "max_width_cm": 109,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1346,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "9000 TURBO/9000S 4 DR HATCHBACK": {
       "years": [
         1988,
         1989
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 71,
-          "max_width_cm": 109,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1371,
-          "weight_distribution_pct": "62/38"
-        },
-        "1989": {
-          "hood_length_cm": 131,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 71,
-          "max_width_cm": 109,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9000 CD 4 DR SEDAN": {
       "years": [
         1989
-      ],
-      "details": {
-        "1989": "<default>",
-        "<default>": {
-          "hood_length_cm": 355,
-          "back_length_cm": 64,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 63,
-          "max_width_cm": 110,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 478,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1430,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9000 SPG 4DR HATCHBACK": {
       "years": [
         1990,
         1991
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 73,
-          "max_width_cm": 100,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 96,
-          "overall_length_cm": 462,
-          "overall_width_cm": 181,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "61/39"
-        },
-        "1991": {
-          "hood_length_cm": 131,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 73,
-          "max_width_cm": 100,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 96,
-          "overall_length_cm": 462,
-          "overall_width_cm": 181,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9000S/9000 TURBO 4DR HATCHBACK": {
       "years": [
         1990,
         1991
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 116,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 73,
-          "max_width_cm": 100,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 96,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "62/38"
-        },
-        "1991": {
-          "hood_length_cm": 128,
-          "back_length_cm": 109,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 62,
-          "max_width_cm": 110,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9000S/9000CD 4DR SEDAN": {
       "years": [
         1990,
         1991
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 64,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 13,
-          "max_width_cm": 110,
-          "front_overhang_cm": 106,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 478,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1390,
-          "weight_distribution_pct": "62/38"
-        },
-        "1991": {
-          "hood_length_cm": 136,
-          "back_length_cm": 62,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 110,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 478,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1390,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9000 TURBO 4DR HATCHBACK": {
       "years": [
         1992
-      ],
-      "details": {
-        "1992": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 109,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 62,
-          "max_width_cm": 110,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9000CD/9000CD TURBO 4DR SEDAN": {
       "years": [
         1992,
         1993
-      ],
-      "details": {
-        "1992": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 62,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 110,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 478,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1390,
-          "weight_distribution_pct": "62/38"
-        },
-        "1993": {
-          "hood_length_cm": 136,
-          "back_length_cm": 62,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 110,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 478,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1390,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "9000 CS/CSE TURBO 4DR HATCHBACK": {
       "years": [
         1993
-      ],
-      "details": {
-        "1993": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 117,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 71,
-          "max_width_cm": 111,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 476,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1411,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9000 4DR HATCHBACK AREO": {
       "years": [
         1994
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 476,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1460,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9000 4DR HATCHBACK CS/CSE TURBO": {
       "years": [
@@ -4045,218 +648,31 @@
         1995,
         1996,
         1997
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 117,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 71,
-          "max_width_cm": 111,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 476,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1411,
-          "weight_distribution_pct": "62/38"
-        },
-        "1995": {
-          "hood_length_cm": 138,
-          "back_length_cm": 117,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 476,
-          "overall_width_cm": 178,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1425,
-          "weight_distribution_pct": "62/38"
-        },
-        "1996": {
-          "hood_length_cm": 138,
-          "back_length_cm": 117,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 476,
-          "overall_width_cm": 178,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1425,
-          "weight_distribution_pct": "62/38"
-        },
-        "1997": {
-          "hood_length_cm": 138,
-          "back_length_cm": 117,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 476,
-          "overall_width_cm": 178,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1425,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9000 4DR SEDAN CD/CDE TURBO": {
       "years": [
         1994
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 62,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 110,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 478,
-          "overall_width_cm": 176,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1390,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9000 4DR HATCHBACK AREO TURBO": {
       "years": [
         1995,
         1996,
         1997
-      ],
-      "details": {
-        "1995": "<default>",
-        "<default>": {
-          "hood_length_cm": 138,
-          "back_length_cm": 117,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 476,
-          "overall_width_cm": 178,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1475,
-          "weight_distribution_pct": "62/38"
-        },
-        "1996": "<default>",
-        "1997": "<default>"
-      }
+      ]
     },
     "9000 4DR SEDAN CDE": {
       "years": [
         1995,
         1996,
         1997
-      ],
-      "details": {
-        "1995": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 479,
-          "overall_width_cm": 178,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1465,
-          "weight_distribution_pct": "62/38"
-        },
-        "1996": {
-          "hood_length_cm": 138,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 479,
-          "overall_width_cm": 178,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1465,
-          "weight_distribution_pct": "62/38"
-        },
-        "1997": {
-          "hood_length_cm": 138,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 479,
-          "overall_width_cm": 178,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1465,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "9000 4DR HATCHBACK CSE": {
       "years": [
         1998
-      ],
-      "details": {
-        "1998": "<default>",
-        "<default>": {
-          "hood_length_cm": 138,
-          "back_length_cm": 117,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 476,
-          "overall_width_cm": 178,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1420,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     }
   },
   "9-2X": {
@@ -4265,160 +681,37 @@
         2005,
         2006,
         2007
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": 118,
-          "back_length_cm": 131,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 76,
-          "max_width_cm": 92,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 96,
-          "overall_length_cm": 447,
-          "overall_width_cm": 170,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 253,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1393,
-          "weight_distribution_pct": "56/44"
-        },
-        "2006": "<default>",
-        "2007": "<default>"
-      }
+      ]
     }
   },
   "9-4x": {
     "9-4X 4 DR SUV": {
       "years": [
         2011
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 165,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 90,
-          "max_width_cm": 111,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 483,
-          "overall_width_cm": 191,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 2113,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     }
   },
   "9-7X": {
     "9-7X 4DR SUV AWD /LINEAR/ARC": {
       "years": [
         2005
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": 119,
-          "back_length_cm": 163,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 84,
-          "max_width_cm": 102,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 492,
-          "overall_width_cm": 192,
-          "overall_height_cm": 179,
-          "wheelbase_cm": 287,
-          "front_track_width_cm": 159,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 2092,
-          "weight_distribution_pct": "53/47"
-        }
-      }
+      ]
     },
     "9-7X 4DR SUV AWD /V8": {
       "years": [
         2006
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 119,
-          "back_length_cm": 163,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 84,
-          "max_width_cm": 102,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 490,
-          "overall_width_cm": 192,
-          "overall_height_cm": 179,
-          "wheelbase_cm": 287,
-          "front_track_width_cm": 159,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 2141,
-          "weight_distribution_pct": "53/47"
-        }
-      }
+      ]
     },
     "9-7X 4DR SUV AWD 4.2i/5.3i": {
       "years": [
         2007
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 119,
-          "back_length_cm": 163,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 84,
-          "max_width_cm": 102,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 490,
-          "overall_width_cm": 192,
-          "overall_height_cm": 179,
-          "wheelbase_cm": 287,
-          "front_track_width_cm": 159,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 2141,
-          "weight_distribution_pct": "53/47"
-        }
-      }
+      ]
     },
     "9-7X 4DR SUV AWD 4.2i/5.3i/AERO": {
       "years": [
         2008,
         2009
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 119,
-          "back_length_cm": 163,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 84,
-          "max_width_cm": 102,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 490,
-          "overall_width_cm": 192,
-          "overall_height_cm": 179,
-          "wheelbase_cm": 287,
-          "front_track_width_cm": 159,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 2141,
-          "weight_distribution_pct": "53/47"
-        },
-        "2009": "<default>"
-      }
+      ]
     }
   }
 }

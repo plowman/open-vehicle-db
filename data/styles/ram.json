@@ -3,506 +3,106 @@
     "1500 CREW CAB 5.7-FT BOX 2WD": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 321,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 140,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 124,
-          "overall_length_cm": 592,
-          "overall_width_cm": 208,
-          "overall_height_cm": 197,
-          "wheelbase_cm": 367,
-          "front_track_width_cm": 174,
-          "rear_track_width_cm": 173,
-          "curb_weight_kg": 2255,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "1500 CREW CAB 5.7-FT BOX 4X4": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 321,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 140,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 124,
-          "overall_length_cm": 592,
-          "overall_width_cm": 208,
-          "overall_height_cm": 197,
-          "wheelbase_cm": 367,
-          "front_track_width_cm": 174,
-          "rear_track_width_cm": 173,
-          "curb_weight_kg": 2327,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "1500 CREW CAB 6.4-FT BOX 2WD": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 344,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 140,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 124,
-          "overall_length_cm": 615,
-          "overall_width_cm": 208,
-          "overall_height_cm": 197,
-          "wheelbase_cm": 390,
-          "front_track_width_cm": 174,
-          "rear_track_width_cm": 173,
-          "curb_weight_kg": 2277,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "1500 CREW CAB 6.4-FT BOX 4X4": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 344,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 140,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 124,
-          "overall_length_cm": 615,
-          "overall_width_cm": 208,
-          "overall_height_cm": 197,
-          "wheelbase_cm": 390,
-          "front_track_width_cm": 174,
-          "rear_track_width_cm": 173,
-          "curb_weight_kg": 2373,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "1500 QUAD CAB 6.4-FT BOX 2WD": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 311,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 140,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 124,
-          "overall_length_cm": 582,
-          "overall_width_cm": 208,
-          "overall_height_cm": 197,
-          "wheelbase_cm": 357,
-          "front_track_width_cm": 174,
-          "rear_track_width_cm": 173,
-          "curb_weight_kg": 2177,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "1500 QUAD CAB 6.4-FT BOX 4X4": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 311,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 140,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 124,
-          "overall_length_cm": 582,
-          "overall_width_cm": 208,
-          "overall_height_cm": 197,
-          "wheelbase_cm": 357,
-          "front_track_width_cm": 174,
-          "rear_track_width_cm": 173,
-          "curb_weight_kg": 2308,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "2500": {
     "2500 NEW GEN  MEGA CAB S/BOX 4WD": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 359,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 135,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 121,
-          "overall_length_cm": 632,
-          "overall_width_cm": 208,
-          "overall_height_cm": null,
-          "wheelbase_cm": 407,
-          "front_track_width_cm": 178,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "2500 NEW GEN CREW CAB L/BOX 2WD": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 359,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 135,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": null,
-          "overall_length_cm": null,
-          "overall_width_cm": 208,
-          "overall_height_cm": null,
-          "wheelbase_cm": 429,
-          "front_track_width_cm": 178,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "2500 NEW GEN CREW CAB L/BOX 4WD": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 359,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 135,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": null,
-          "overall_length_cm": null,
-          "overall_width_cm": 208,
-          "overall_height_cm": null,
-          "wheelbase_cm": 429,
-          "front_track_width_cm": 178,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "2500 NEW GEN CREW CAB S/BOX 2WD": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 359,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 135,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": null,
-          "overall_length_cm": null,
-          "overall_width_cm": null,
-          "overall_height_cm": null,
-          "wheelbase_cm": null,
-          "front_track_width_cm": 178,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "2500 NEW GEN CREW CAB S/BOX 4WD": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 359,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 135,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": null,
-          "overall_length_cm": null,
-          "overall_width_cm": null,
-          "overall_height_cm": null,
-          "wheelbase_cm": null,
-          "front_track_width_cm": 178,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "2500 NEW GEN MEGA CAB S/BOX 2WD": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 359,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 135,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 121,
-          "overall_length_cm": 632,
-          "overall_width_cm": 208,
-          "overall_height_cm": null,
-          "wheelbase_cm": 407,
-          "front_track_width_cm": 178,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "2500 NEW GEN REG CAB L/BOX 2WD": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 359,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 135,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": null,
-          "overall_length_cm": null,
-          "overall_width_cm": null,
-          "overall_height_cm": null,
-          "wheelbase_cm": null,
-          "front_track_width_cm": 178,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "2500 NEW GEN REG CAB L/BOX 4WD": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 359,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 135,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": null,
-          "overall_length_cm": null,
-          "overall_width_cm": null,
-          "overall_height_cm": null,
-          "wheelbase_cm": null,
-          "front_track_width_cm": 178,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "3500": {
     "3500 NEW GEN CREW CAB L/BOX 2WD DRW": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 359,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 135,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": null,
-          "overall_length_cm": null,
-          "overall_width_cm": 208,
-          "overall_height_cm": null,
-          "wheelbase_cm": 429,
-          "front_track_width_cm": 178,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "3500 NEW GEN CREW CAB L/BOX 4WD DRW": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 359,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 135,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": null,
-          "overall_length_cm": null,
-          "overall_width_cm": 208,
-          "overall_height_cm": null,
-          "wheelbase_cm": 429,
-          "front_track_width_cm": 178,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "3500 NEW GEN MEGA CAB S/BOX 2WD DRW": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 359,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 135,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 121,
-          "overall_length_cm": 632,
-          "overall_width_cm": 208,
-          "overall_height_cm": null,
-          "wheelbase_cm": 407,
-          "front_track_width_cm": 178,
-          "rear_track_width_cm": 194,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "3500 NEW GEN MEGA CAB S/BOX 4WD DRW": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 359,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 135,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 121,
-          "overall_length_cm": 632,
-          "overall_width_cm": 208,
-          "overall_height_cm": null,
-          "wheelbase_cm": 407,
-          "front_track_width_cm": 178,
-          "rear_track_width_cm": 194,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "3500 NEW GEN REG CAB L/BOX 2WD DRW": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 359,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 135,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": null,
-          "overall_length_cm": null,
-          "overall_width_cm": null,
-          "overall_height_cm": null,
-          "wheelbase_cm": null,
-          "front_track_width_cm": 178,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "3500 NEW GEN REG CAB L/BOX 4WD DRW": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 359,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 97,
-          "max_width_cm": 135,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": null,
-          "overall_length_cm": null,
-          "overall_width_cm": null,
-          "overall_height_cm": null,
-          "wheelbase_cm": null,
-          "front_track_width_cm": 178,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "4000": {},
@@ -517,32 +117,7 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 72,
-          "back_length_cm": 316,
-          "side_glass_max_height_cm": 66,
-          "door_height_cm": 101,
-          "max_width_cm": 190,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 541,
-          "overall_width_cm": 205,
-          "overall_height_cm": 252,
-          "wheelbase_cm": 345,
-          "front_track_width_cm": 181,
-          "rear_track_width_cm": 179,
-          "curb_weight_kg": 2145,
-          "weight_distribution_pct": null
-        },
-        "2015": "<default>",
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     },
     "PROMASTER 1500 LOW ROOF 118 IN. WB CARGO VAN": {
       "years": [
@@ -552,32 +127,7 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 72,
-          "back_length_cm": 271,
-          "side_glass_max_height_cm": 66,
-          "door_height_cm": 101,
-          "max_width_cm": 190,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 496,
-          "overall_width_cm": 205,
-          "overall_height_cm": 225,
-          "wheelbase_cm": 300,
-          "front_track_width_cm": 181,
-          "rear_track_width_cm": 179,
-          "curb_weight_kg": 2072,
-          "weight_distribution_pct": null
-        },
-        "2015": "<default>",
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     },
     "PROMASTER 1500 LOW ROOF 136 IN. WB CARGO VAN": {
       "years": [
@@ -587,32 +137,7 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 72,
-          "back_length_cm": 316,
-          "side_glass_max_height_cm": 66,
-          "door_height_cm": 101,
-          "max_width_cm": 190,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 541,
-          "overall_width_cm": 205,
-          "overall_height_cm": 225,
-          "wheelbase_cm": 345,
-          "front_track_width_cm": 181,
-          "rear_track_width_cm": 179,
-          "curb_weight_kg": 2104,
-          "weight_distribution_pct": null
-        },
-        "2015": "<default>",
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     }
   },
   "Promaster 2500": {
@@ -624,32 +149,7 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 72,
-          "back_length_cm": 316,
-          "side_glass_max_height_cm": 66,
-          "door_height_cm": 101,
-          "max_width_cm": 190,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 541,
-          "overall_width_cm": 205,
-          "overall_height_cm": 252,
-          "wheelbase_cm": 345,
-          "front_track_width_cm": 181,
-          "rear_track_width_cm": 179,
-          "curb_weight_kg": 2169,
-          "weight_distribution_pct": null
-        },
-        "2015": "<default>",
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     },
     "PROMASTER 2500 HIGH ROOF 159 IN. WB CARGO VAN": {
       "years": [
@@ -659,32 +159,7 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 72,
-          "back_length_cm": 375,
-          "side_glass_max_height_cm": 66,
-          "door_height_cm": 101,
-          "max_width_cm": 190,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 600,
-          "overall_width_cm": 205,
-          "overall_height_cm": 252,
-          "wheelbase_cm": 404,
-          "front_track_width_cm": 181,
-          "rear_track_width_cm": 179,
-          "curb_weight_kg": 2233,
-          "weight_distribution_pct": null
-        },
-        "2015": "<default>",
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     }
   },
   "Promaster 3500": {
@@ -696,59 +171,13 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 72,
-          "back_length_cm": 375,
-          "side_glass_max_height_cm": 66,
-          "door_height_cm": 101,
-          "max_width_cm": 190,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 600,
-          "overall_width_cm": 205,
-          "overall_height_cm": 252,
-          "wheelbase_cm": 404,
-          "front_track_width_cm": 181,
-          "rear_track_width_cm": 179,
-          "curb_weight_kg": 2251,
-          "weight_distribution_pct": null
-        },
-        "2015": "<default>",
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     },
     "PROMASTER 3500 HIGH ROOF 159 IN. WB EXT CARGO": {
       "years": [
         2014,
         2015
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 72,
-          "back_length_cm": 411,
-          "side_glass_max_height_cm": 66,
-          "door_height_cm": 101,
-          "max_width_cm": 190,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 137,
-          "overall_length_cm": 636,
-          "overall_width_cm": 205,
-          "overall_height_cm": 252,
-          "wheelbase_cm": 404,
-          "front_track_width_cm": 181,
-          "rear_track_width_cm": 179,
-          "curb_weight_kg": 2283,
-          "weight_distribution_pct": null
-        },
-        "2015": "<default>"
-      }
+      ]
     },
     "PROMASTER 3500 HIGH ROOF 159 IN. WB EXT CARGO VAN": {
       "years": [
@@ -756,30 +185,7 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 72,
-          "back_length_cm": 411,
-          "side_glass_max_height_cm": 66,
-          "door_height_cm": 101,
-          "max_width_cm": 190,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 137,
-          "overall_length_cm": 636,
-          "overall_width_cm": 205,
-          "overall_height_cm": 252,
-          "wheelbase_cm": 404,
-          "front_track_width_cm": 181,
-          "rear_track_width_cm": 179,
-          "curb_weight_kg": 2283,
-          "weight_distribution_pct": null
-        },
-        "2017": "<default>",
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     }
   },
   "Cargo Van": {},
@@ -791,31 +197,7 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 108,
-          "back_length_cm": 215,
-          "side_glass_max_height_cm": 50,
-          "door_height_cm": 87,
-          "max_width_cm": 133,
-          "front_overhang_cm": 92,
-          "rear_overhang_cm": 77,
-          "overall_length_cm": 477,
-          "overall_width_cm": 183,
-          "overall_height_cm": 188,
-          "wheelbase_cm": 308,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1610,
-          "weight_distribution_pct": null
-        },
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     },
     "PROMASTER CITY WAGON": {
       "years": [
@@ -824,31 +206,7 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 108,
-          "back_length_cm": 215,
-          "side_glass_max_height_cm": 50,
-          "door_height_cm": 87,
-          "max_width_cm": 133,
-          "front_overhang_cm": 92,
-          "rear_overhang_cm": 77,
-          "overall_length_cm": 477,
-          "overall_width_cm": 183,
-          "overall_height_cm": 188,
-          "wheelbase_cm": 308,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1678,
-          "weight_distribution_pct": null
-        },
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     }
   }
 }

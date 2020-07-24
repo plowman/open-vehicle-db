@@ -3,54 +3,14 @@
     "TR7": {
       "years": [
         1981
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 143,
-          "back_length_cm": 83,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 71,
-          "max_width_cm": 113,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 420,
-          "overall_width_cm": 168,
-          "overall_height_cm": 126,
-          "wheelbase_cm": 216,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1130,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "TR8": {
     "TR8": {
       "years": [
         1981
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 143,
-          "back_length_cm": 83,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 71,
-          "max_width_cm": 113,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 420,
-          "overall_width_cm": 168,
-          "overall_height_cm": 126,
-          "wheelbase_cm": 216,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   }
 }

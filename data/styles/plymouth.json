@@ -7,79 +7,7 @@
         1996,
         1997,
         1998
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 104,
-          "back_length_cm": 55,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 71,
-          "max_width_cm": 110,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 86,
-          "overall_length_cm": 437,
-          "overall_width_cm": 171,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1053,
-          "weight_distribution_pct": "64/36"
-        },
-        "1995": "<default>",
-        "1996": {
-          "hood_length_cm": 104,
-          "back_length_cm": 55,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 71,
-          "max_width_cm": 110,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 86,
-          "overall_length_cm": 437,
-          "overall_width_cm": 171,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1096,
-          "weight_distribution_pct": "64/36"
-        },
-        "1997": {
-          "hood_length_cm": 104,
-          "back_length_cm": 55,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 71,
-          "max_width_cm": 110,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 86,
-          "overall_length_cm": 436,
-          "overall_width_cm": 171,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1088,
-          "weight_distribution_pct": "64/36"
-        },
-        "1998": {
-          "hood_length_cm": 104,
-          "back_length_cm": 55,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 71,
-          "max_width_cm": 110,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 86,
-          "overall_length_cm": 436,
-          "overall_width_cm": 171,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1140,
-          "weight_distribution_pct": "64/36"
-        }
-      }
+      ]
     },
     "NEON 2DR COUPE": {
       "years": [
@@ -87,128 +15,17 @@
         1996,
         1997,
         1998
-      ],
-      "details": {
-        "1995": "<default>",
-        "<default>": {
-          "hood_length_cm": 104,
-          "back_length_cm": 55,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 87,
-          "overall_length_cm": 436,
-          "overall_width_cm": 171,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1053,
-          "weight_distribution_pct": "64/36"
-        },
-        "1996": {
-          "hood_length_cm": 104,
-          "back_length_cm": 55,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 87,
-          "overall_length_cm": 437,
-          "overall_width_cm": 171,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1082,
-          "weight_distribution_pct": "64/36"
-        },
-        "1997": {
-          "hood_length_cm": 104,
-          "back_length_cm": 55,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 87,
-          "overall_length_cm": 436,
-          "overall_width_cm": 171,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1084,
-          "weight_distribution_pct": "64/36"
-        },
-        "1998": {
-          "hood_length_cm": 104,
-          "back_length_cm": 55,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 87,
-          "overall_length_cm": 436,
-          "overall_width_cm": 171,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1121,
-          "weight_distribution_pct": "64/36"
-        }
-      }
+      ]
     },
     "NEON 2DR COUPE BASE/EX/EXPRESSO": {
       "years": [
         1999
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": 104,
-          "back_length_cm": 55,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 87,
-          "overall_length_cm": 436,
-          "overall_width_cm": 171,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1121,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "NEON 4DR SEDAN BASE/EX/EXPRESSO/STYLE": {
       "years": [
         1999
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": 104,
-          "back_length_cm": 55,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 71,
-          "max_width_cm": 110,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 86,
-          "overall_length_cm": 436,
-          "overall_width_cm": 171,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1140,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "Breeze": {
@@ -218,78 +35,7 @@
         1997,
         1998,
         1999
-      ],
-      "details": {
-        "1996": "<default>",
-        "<default>": {
-          "hood_length_cm": 108,
-          "back_length_cm": 63,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 69,
-          "max_width_cm": 111,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 473,
-          "overall_width_cm": 181,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1320,
-          "weight_distribution_pct": "64/36"
-        },
-        "1997": {
-          "hood_length_cm": 108,
-          "back_length_cm": 63,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 69,
-          "max_width_cm": 111,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 473,
-          "overall_width_cm": 181,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1330,
-          "weight_distribution_pct": "63/37"
-        },
-        "1998": {
-          "hood_length_cm": 108,
-          "back_length_cm": 63,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 69,
-          "max_width_cm": 111,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 473,
-          "overall_width_cm": 180,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1328,
-          "weight_distribution_pct": "63/37"
-        },
-        "1999": {
-          "hood_length_cm": 108,
-          "back_length_cm": 63,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 69,
-          "max_width_cm": 111,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 473,
-          "overall_width_cm": 180,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1383,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     }
   },
   "Prowler": {
@@ -298,88 +44,14 @@
         1997,
         1998,
         1999
-      ],
-      "details": {
-        "1997": "<default>",
-        "<default>": {
-          "hood_length_cm": 151,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": 81,
-          "max_width_cm": null,
-          "front_overhang_cm": 48,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 408,
-          "overall_width_cm": 193,
-          "overall_height_cm": 130,
-          "wheelbase_cm": 287,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1287,
-          "weight_distribution_pct": null
-        },
-        "1998": {
-          "hood_length_cm": 169,
-          "back_length_cm": 98,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": 60,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 420,
-          "overall_width_cm": 194,
-          "overall_height_cm": 130,
-          "wheelbase_cm": 288,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        },
-        "1999": {
-          "hood_length_cm": 169,
-          "back_length_cm": 98,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": 60,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 420,
-          "overall_width_cm": 194,
-          "overall_height_cm": 130,
-          "wheelbase_cm": 288,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1287,
-          "weight_distribution_pct": "45/55"
-        }
-      }
+      ]
     }
   },
   "Acclaim": {
     "ACCLAIME BASE/LE/LX 4 DR": {
       "years": [
         1989
-      ],
-      "details": {
-        "1989": "<default>",
-        "<default>": {
-          "hood_length_cm": 135,
-          "back_length_cm": 84,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 71,
-          "max_width_cm": 106,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 460,
-          "overall_width_cm": 173,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 262,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1249,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "ACCLAIM BASE/LE/LX 4DR SEDAN": {
       "years": [
@@ -389,112 +61,7 @@
         1993,
         1994,
         1995
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 133,
-          "back_length_cm": 82,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 70,
-          "max_width_cm": 105,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 460,
-          "overall_width_cm": 173,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 262,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1269,
-          "weight_distribution_pct": "62/38"
-        },
-        "1991": {
-          "hood_length_cm": 133,
-          "back_length_cm": 82,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 70,
-          "max_width_cm": 105,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 460,
-          "overall_width_cm": 173,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 262,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1269,
-          "weight_distribution_pct": "62/38"
-        },
-        "1992": {
-          "hood_length_cm": 133,
-          "back_length_cm": 82,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 70,
-          "max_width_cm": 105,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 460,
-          "overall_width_cm": 173,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 262,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1269,
-          "weight_distribution_pct": "62/38"
-        },
-        "1993": {
-          "hood_length_cm": 133,
-          "back_length_cm": 82,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 70,
-          "max_width_cm": 105,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 460,
-          "overall_width_cm": 173,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 262,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1269,
-          "weight_distribution_pct": "62/38"
-        },
-        "1994": {
-          "hood_length_cm": 133,
-          "back_length_cm": 82,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 70,
-          "max_width_cm": 105,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 460,
-          "overall_width_cm": 173,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 262,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1269,
-          "weight_distribution_pct": "62/38"
-        },
-        "1995": {
-          "hood_length_cm": 133,
-          "back_length_cm": 82,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 70,
-          "max_width_cm": 105,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 460,
-          "overall_width_cm": 173,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 262,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1269,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "Colt": {
@@ -502,71 +69,13 @@
       "years": [
         1981,
         1982
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 34,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 68,
-          "max_width_cm": 107,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 399,
-          "overall_width_cm": 159,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 230,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 851,
-          "weight_distribution_pct": null
-        },
-        "1982": {
-          "hood_length_cm": 124,
-          "back_length_cm": 34,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 68,
-          "max_width_cm": 107,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 399,
-          "overall_width_cm": 159,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 230,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "COLT 2DR COUPE GL": {
       "years": [
         1995,
         1996
-      ],
-      "details": {
-        "1995": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 61,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 103,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 435,
-          "overall_width_cm": 168,
-          "overall_height_cm": 131,
-          "wheelbase_cm": 244,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 945,
-          "weight_distribution_pct": null
-        },
-        "1996": "<default>"
-      }
+      ]
     }
   },
   "Sundance": {
@@ -574,481 +83,90 @@
       "years": [
         1987,
         1988
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 69,
-          "max_width_cm": 106,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 437,
-          "overall_width_cm": 171,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1115,
-          "weight_distribution_pct": "62/38"
-        },
-        "1988": {
-          "hood_length_cm": 137,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 68,
-          "max_width_cm": 106,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 436,
-          "overall_width_cm": 171,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 246,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1140,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "SUNDANCE 4 DR HATCHBACK": {
       "years": [
         1987,
         1988
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 69,
-          "max_width_cm": 106,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 437,
-          "overall_width_cm": 171,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1131,
-          "weight_distribution_pct": "62/38"
-        },
-        "1988": {
-          "hood_length_cm": 137,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 68,
-          "max_width_cm": 106,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 436,
-          "overall_width_cm": 171,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 246,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1154,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "SUNDANCE 2 DR": {
       "years": [
         1989
-      ],
-      "details": {
-        "1989": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 68,
-          "max_width_cm": 106,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 436,
-          "overall_width_cm": 171,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 246,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1180,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "SUNDANCE 4 DR": {
       "years": [
         1989
-      ],
-      "details": {
-        "1989": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 68,
-          "max_width_cm": 106,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 436,
-          "overall_width_cm": 171,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 246,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1199,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "SUNDANCE 2DR HATCHBACK": {
       "years": [
         1990
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 68,
-          "max_width_cm": 106,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 436,
-          "overall_width_cm": 171,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 246,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1155,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "SUNDANCE 4DR HATCHBACK": {
       "years": [
         1990
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 109,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 71,
-          "max_width_cm": 106,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 436,
-          "overall_width_cm": 171,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 246,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1174,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "SUNDANCE 3DR HATCHBACK": {
       "years": [
         1991,
         1992
-      ],
-      "details": {
-        "1991": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 68,
-          "max_width_cm": 106,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 436,
-          "overall_width_cm": 171,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 246,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1155,
-          "weight_distribution_pct": "62/38"
-        },
-        "1992": "<default>"
-      }
+      ]
     },
     "SUNDANCE 5DR HATCHBACK": {
       "years": [
         1991,
         1992
-      ],
-      "details": {
-        "1991": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 109,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 71,
-          "max_width_cm": 106,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 436,
-          "overall_width_cm": 171,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 246,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1174,
-          "weight_distribution_pct": "62/38"
-        },
-        "1992": "<default>"
-      }
+      ]
     },
     "SUNDANCE/DUSTER 3DR HATCHBACK": {
       "years": [
         1993,
         1994
-      ],
-      "details": {
-        "1993": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 110,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 68,
-          "max_width_cm": 106,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 436,
-          "overall_width_cm": 171,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 246,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1155,
-          "weight_distribution_pct": "62/38"
-        },
-        "1994": {
-          "hood_length_cm": 137,
-          "back_length_cm": 109,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 68,
-          "max_width_cm": 106,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 436,
-          "overall_width_cm": 171,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 246,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1155,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SUNDANCE/DUSTER 5DR HATCHBACK": {
       "years": [
         1993,
         1994
-      ],
-      "details": {
-        "1993": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 109,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 71,
-          "max_width_cm": 106,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 436,
-          "overall_width_cm": 171,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 246,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1174,
-          "weight_distribution_pct": "62/38"
-        },
-        "1994": {
-          "hood_length_cm": 137,
-          "back_length_cm": 109,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 71,
-          "max_width_cm": 106,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 436,
-          "overall_width_cm": 171,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 246,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1174,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "Laser": {
     "LASER BASE/RS 2DR HATCHBACK": {
       "years": [
         1990
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 133,
-          "back_length_cm": 145,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 69,
-          "max_width_cm": 110,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 433,
-          "overall_width_cm": 169,
-          "overall_height_cm": 131,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1145,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "LASER SPORTS COUPE/RS/RS TURBO": {
       "years": [
         1991
-      ],
-      "details": {
-        "1991": "<default>",
-        "<default>": {
-          "hood_length_cm": 133,
-          "back_length_cm": 145,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 69,
-          "max_width_cm": 110,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 433,
-          "overall_width_cm": 169,
-          "overall_height_cm": 131,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1145,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "LASER SPORTS COUPE/RS/RS TURBO/RS AWD": {
       "years": [
         1992,
         1993
-      ],
-      "details": {
-        "1992": "<default>",
-        "<default>": {
-          "hood_length_cm": 133,
-          "back_length_cm": 148,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 68,
-          "max_width_cm": 109,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 94,
-          "overall_length_cm": 438,
-          "overall_width_cm": 169,
-          "overall_height_cm": 131,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1145,
-          "weight_distribution_pct": "62/38"
-        },
-        "1993": "<default>"
-      }
+      ]
     },
     "LASER 2DR HATCHBACK": {
       "years": [
         1994
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 133,
-          "back_length_cm": 148,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 68,
-          "max_width_cm": 109,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 94,
-          "overall_length_cm": 438,
-          "overall_width_cm": 169,
-          "overall_height_cm": 131,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1134,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "LASER 2DR HATCHBACK RS": {
       "years": [
         1994
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 133,
-          "back_length_cm": 148,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 69,
-          "max_width_cm": 109,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 94,
-          "overall_length_cm": 438,
-          "overall_width_cm": 169,
-          "overall_height_cm": 131,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1250,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "LASER 2DR HATCHBACK RS TURBO AWD": {
       "years": [
         1994
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 133,
-          "back_length_cm": 148,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 69,
-          "max_width_cm": 109,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 94,
-          "overall_length_cm": 438,
-          "overall_width_cm": 169,
-          "overall_height_cm": 131,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1394,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "HORIZON": {
@@ -1056,1021 +174,159 @@
       "years": [
         1981,
         1982
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": 34,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 74,
-          "max_width_cm": 115,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 85,
-          "overall_length_cm": 419,
-          "overall_width_cm": 167,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 985,
-          "weight_distribution_pct": null
-        },
-        "1982": {
-          "hood_length_cm": 121,
-          "back_length_cm": 34,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 74,
-          "max_width_cm": 115,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 85,
-          "overall_length_cm": 419,
-          "overall_width_cm": 167,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "HORIZON TC-3": {
       "years": [
         1981,
         1982
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 142,
-          "back_length_cm": 28,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 72,
-          "max_width_cm": 114,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 441,
-          "overall_width_cm": 169,
-          "overall_height_cm": 130,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 962,
-          "weight_distribution_pct": null
-        },
-        "1982": {
-          "hood_length_cm": 142,
-          "back_length_cm": 28,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 72,
-          "max_width_cm": 114,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 442,
-          "overall_width_cm": 169,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "HORIZON TYPE E": {
       "years": [
         1981
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": 34,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 74,
-          "max_width_cm": 115,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 85,
-          "overall_length_cm": 419,
-          "overall_width_cm": 167,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 962,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "HORIZON TYPE-E": {
       "years": [
         1982
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": 34,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 74,
-          "max_width_cm": 115,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 85,
-          "overall_length_cm": 419,
-          "overall_width_cm": 167,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "HORIZON SE": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 122,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 64,
-          "max_width_cm": 114,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 80,
-          "overall_length_cm": 412,
-          "overall_width_cm": 168,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 977,
-          "weight_distribution_pct": "60/40"
-        },
-        "1986": {
-          "hood_length_cm": 123,
-          "back_length_cm": 100,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 64,
-          "max_width_cm": 115,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 85,
-          "overall_length_cm": 415,
-          "overall_width_cm": 162,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 991,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "HORIZON BASE": {
       "years": [
         1986
-      ],
-      "details": {
-        "1986": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 100,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 64,
-          "max_width_cm": 115,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 85,
-          "overall_length_cm": 415,
-          "overall_width_cm": 162,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 982,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "HORIZON 4DR HATCHBACK": {
       "years": [
         1990
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 415,
-          "overall_width_cm": 168,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1043,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     }
   },
   "TURISMO": {
     "TURISMO": {
       "years": [
         1982
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": null,
-          "overall_width_cm": null,
-          "overall_height_cm": null,
-          "wheelbase_cm": null,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "TURISMO (BASE)": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 146,
-          "back_length_cm": 139,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 65,
-          "max_width_cm": 114,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 444,
-          "overall_width_cm": 168,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1005,
-          "weight_distribution_pct": null
-        },
-        "1986": {
-          "hood_length_cm": 146,
-          "back_length_cm": 139,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 65,
-          "max_width_cm": 114,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 444,
-          "overall_width_cm": 168,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1011,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "TURISMO 2.2": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 146,
-          "back_length_cm": 139,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 65,
-          "max_width_cm": 114,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 444,
-          "overall_width_cm": 168,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1073,
-          "weight_distribution_pct": "62/38"
-        },
-        "1986": {
-          "hood_length_cm": 146,
-          "back_length_cm": 139,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 65,
-          "max_width_cm": 114,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 444,
-          "overall_width_cm": 168,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1070,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "TURISMO 2 DR HATCHBACK": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 146,
-          "back_length_cm": 139,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 65,
-          "max_width_cm": 114,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 444,
-          "overall_width_cm": 168,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1035,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     }
   },
   "RELIANT": {
     "RELIANT K SD 2 DR": {
       "years": [
         1981
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 67,
-          "max_width_cm": 121,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 447,
-          "overall_width_cm": 174,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 253,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1061,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "RELIANT K SD 4 DR": {
       "years": [
         1981
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 71,
-          "max_width_cm": 121,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 447,
-          "overall_width_cm": 174,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 253,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1061,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "RELIANT K WAGON": {
       "years": [
         1981,
         1982
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 186,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 67,
-          "max_width_cm": 121,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 448,
-          "overall_width_cm": 174,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 253,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1137,
-          "weight_distribution_pct": null
-        },
-        "1982": {
-          "hood_length_cm": 130,
-          "back_length_cm": 186,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 67,
-          "max_width_cm": 121,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 448,
-          "overall_width_cm": 174,
-          "overall_height_cm": 133,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "RELIANT K 2 DR SD": {
       "years": [
         1982
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 67,
-          "max_width_cm": 121,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 447,
-          "overall_width_cm": 174,
-          "overall_height_cm": 133,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "RELIANT K 4 DR SD": {
       "years": [
         1982
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 71,
-          "max_width_cm": 121,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 447,
-          "overall_width_cm": 174,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "RELIANT (BASE) 2 DR": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 454,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1077,
-          "weight_distribution_pct": "64/36"
-        },
-        "1986": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 454,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1093,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "RELIANT (BASE) 4 DR": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 454,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1085,
-          "weight_distribution_pct": "64/36"
-        },
-        "1986": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 454,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1095,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "RELIANT LE 2 DR": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 454,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1095,
-          "weight_distribution_pct": "64/36"
-        },
-        "1986": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 454,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1120,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "RELIANT LE WAGON": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 148,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 455,
-          "overall_width_cm": 173,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1155,
-          "weight_distribution_pct": null
-        },
-        "1986": {
-          "hood_length_cm": 130,
-          "back_length_cm": 148,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 455,
-          "overall_width_cm": 173,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1175,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "RELIANT SE 2 DR": {
       "years": [
         1985,
         1985,
         1986
-      ],
-      "details": {
-        "1985": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 454,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1084,
-          "weight_distribution_pct": "64/36"
-        },
-        "<default>": {
-          "hood_length_cm": 146,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 65,
-          "max_width_cm": 114,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 444,
-          "overall_width_cm": 168,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1005,
-          "weight_distribution_pct": "64/36"
-        },
-        "1986": {
-          "hood_length_cm": 146,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 65,
-          "max_width_cm": 114,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 444,
-          "overall_width_cm": 168,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1102,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "RELIANT SE 4 DR": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 454,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1110,
-          "weight_distribution_pct": "64/36"
-        },
-        "1986": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 454,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1109,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "RELIANT SE WAGON": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 148,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 455,
-          "overall_width_cm": 173,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1140,
-          "weight_distribution_pct": null
-        },
-        "1986": {
-          "hood_length_cm": 130,
-          "back_length_cm": 148,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 455,
-          "overall_width_cm": 173,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1133,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "RELIANT LE 4 DR": {
       "years": [
         1986
-      ],
-      "details": {
-        "1986": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 454,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1128,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "RELIANT CANADA-K 2 DR SEDAN": {
       "years": [
         1987,
         1988,
         1989
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 454,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1120,
-          "weight_distribution_pct": "64/36"
-        },
-        "1988": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 454,
-          "overall_width_cm": 173,
-          "overall_height_cm": 133,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1090,
-          "weight_distribution_pct": "64/36"
-        },
-        "1989": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 454,
-          "overall_width_cm": 173,
-          "overall_height_cm": 133,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1099,
-          "weight_distribution_pct": "64/36"
-        }
-      }
+      ]
     },
     "RELIANT CANADA-K 4 DR SEDAN": {
       "years": [
         1987,
         1988,
         1989
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 454,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1128,
-          "weight_distribution_pct": "64/36"
-        },
-        "1988": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 454,
-          "overall_width_cm": 173,
-          "overall_height_cm": 133,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1102,
-          "weight_distribution_pct": "64/36"
-        },
-        "1989": {
-          "hood_length_cm": 130,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 454,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1111,
-          "weight_distribution_pct": "64/36"
-        }
-      }
+      ]
     },
     "RELIANT CANADA-K WAGON": {
       "years": [
         1987,
         1988
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 148,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 455,
-          "overall_width_cm": 173,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1175,
-          "weight_distribution_pct": "64/36"
-        },
-        "1988": {
-          "hood_length_cm": 130,
-          "back_length_cm": 148,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 453,
-          "overall_width_cm": 173,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1138,
-          "weight_distribution_pct": "64/36"
-        }
-      }
+      ]
     }
   },
   "CARAVELLE": {
@@ -2078,327 +334,48 @@
       "years": [
         1981,
         1982
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 163,
-          "back_length_cm": 118,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 75,
-          "max_width_cm": 125,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 134,
-          "overall_length_cm": 521,
-          "overall_width_cm": 205,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 286,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1541,
-          "weight_distribution_pct": null
-        },
-        "1982": {
-          "hood_length_cm": 164,
-          "back_length_cm": 119,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 74,
-          "max_width_cm": 125,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 131,
-          "overall_length_cm": 523,
-          "overall_width_cm": 189,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 286,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "CARAVELLE 2 DR": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 146,
-          "back_length_cm": 90,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 459,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1151,
-          "weight_distribution_pct": "65/35"
-        },
-        "1986": {
-          "hood_length_cm": 139,
-          "back_length_cm": 85,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 69,
-          "max_width_cm": 118,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 459,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1151,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "CARAVELLE 4 DR": {
       "years": [
         1985
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 146,
-          "back_length_cm": 79,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 474,
-          "overall_width_cm": 173,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 262,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1175,
-          "weight_distribution_pct": "65/35"
-        }
-      }
+      ]
     },
     "CARAVELLE SALON": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 166,
-          "back_length_cm": 124,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 73,
-          "max_width_cm": 125,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 135,
-          "overall_length_cm": 523,
-          "overall_width_cm": 189,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 286,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1612,
-          "weight_distribution_pct": "58/42"
-        },
-        "1986": {
-          "hood_length_cm": 164,
-          "back_length_cm": 112,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 125,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 133,
-          "overall_length_cm": 520,
-          "overall_width_cm": 184,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 286,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1615,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "CARAVELLE BASE/SE (4-DR)": {
       "years": [
         1986
-      ],
-      "details": {
-        "1986": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 67,
-          "max_width_cm": 118,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 470,
-          "overall_width_cm": 173,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 262,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1180,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "CARAVELLE 4 DR SEDAN": {
       "years": [
         1987,
         1988
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 67,
-          "max_width_cm": 118,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 470,
-          "overall_width_cm": 173,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 262,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1180,
-          "weight_distribution_pct": "64/36"
-        },
-        "1988": {
-          "hood_length_cm": 137,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 67,
-          "max_width_cm": 118,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 470,
-          "overall_width_cm": 173,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 262,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1179,
-          "weight_distribution_pct": "64/36"
-        }
-      }
+      ]
     },
     "CARAVELLE SALON 4 DR SEDAN": {
       "years": [
         1987,
         1988,
         1989
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 164,
-          "back_length_cm": 112,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 125,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 133,
-          "overall_length_cm": 520,
-          "overall_width_cm": 184,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 286,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1615,
-          "weight_distribution_pct": "57/43"
-        },
-        "1988": {
-          "hood_length_cm": 164,
-          "back_length_cm": 112,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 124,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 133,
-          "overall_length_cm": 520,
-          "overall_width_cm": 181,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 286,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1622,
-          "weight_distribution_pct": "57/43"
-        },
-        "1989": {
-          "hood_length_cm": 164,
-          "back_length_cm": 121,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 76,
-          "max_width_cm": 125,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 132,
-          "overall_length_cm": 520,
-          "overall_width_cm": 184,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 286,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "CARAVELLE SE 4 DR SEDAN": {
       "years": [
         1987,
         1988
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 67,
-          "max_width_cm": 118,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 470,
-          "overall_width_cm": 173,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 262,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1180,
-          "weight_distribution_pct": "64/36"
-        },
-        "1988": {
-          "hood_length_cm": 137,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 67,
-          "max_width_cm": 118,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 470,
-          "overall_width_cm": 173,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 262,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1179,
-          "weight_distribution_pct": "64/36"
-        }
-      }
+      ]
     }
   },
   "GRAN FURY": {},
@@ -2408,44 +385,7 @@
       "years": [
         1981,
         1982
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 142,
-          "back_length_cm": 72,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 72,
-          "max_width_cm": 114,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 457,
-          "overall_width_cm": 167,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 251,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1286,
-          "weight_distribution_pct": null
-        },
-        "1982": {
-          "hood_length_cm": 142,
-          "back_length_cm": 72,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 72,
-          "max_width_cm": 114,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 457,
-          "overall_width_cm": 168,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 253,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "Champ": {},
@@ -2455,61 +395,7 @@
         1985,
         1988,
         1989
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 103,
-          "back_length_cm": 178,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 78,
-          "max_width_cm": 136,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 80,
-          "overall_length_cm": 447,
-          "overall_width_cm": 180,
-          "overall_height_cm": 163,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1320,
-          "weight_distribution_pct": "57/43"
-        },
-        "1988": {
-          "hood_length_cm": 104,
-          "back_length_cm": 216,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 79,
-          "max_width_cm": 138,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 76,
-          "overall_length_cm": 447,
-          "overall_width_cm": 180,
-          "overall_height_cm": 164,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1391,
-          "weight_distribution_pct": "59/41"
-        },
-        "1989": {
-          "hood_length_cm": 102,
-          "back_length_cm": 255,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 81,
-          "max_width_cm": 137,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 447,
-          "overall_width_cm": 180,
-          "overall_height_cm": 164,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1384,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "VOYAGER BASE/SE/LE": {
       "years": [
@@ -2517,575 +403,96 @@
         1997,
         1998,
         1999
-      ],
-      "details": {
-        "1986": "<default>",
-        "<default>": {
-          "hood_length_cm": 102,
-          "back_length_cm": 214,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 77,
-          "max_width_cm": 139,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 79,
-          "overall_length_cm": 447,
-          "overall_width_cm": 180,
-          "overall_height_cm": 164,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1323,
-          "weight_distribution_pct": "60/40"
-        },
-        "1997": {
-          "hood_length_cm": 91,
-          "back_length_cm": 229,
-          "side_glass_max_height_cm": 51,
-          "door_height_cm": 82,
-          "max_width_cm": 135,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 473,
-          "overall_width_cm": 192,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 288,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1600,
-          "weight_distribution_pct": "59/41"
-        },
-        "1998": {
-          "hood_length_cm": 91,
-          "back_length_cm": 229,
-          "side_glass_max_height_cm": 51,
-          "door_height_cm": 82,
-          "max_width_cm": 135,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 473,
-          "overall_width_cm": 192,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 288,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1601,
-          "weight_distribution_pct": "59/41"
-        },
-        "1999": {
-          "hood_length_cm": 91,
-          "back_length_cm": 229,
-          "side_glass_max_height_cm": 51,
-          "door_height_cm": 82,
-          "max_width_cm": 135,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 473,
-          "overall_width_cm": 192,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 288,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1672,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "VOYAGER (VAN)": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 102,
-          "back_length_cm": 214,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 77,
-          "max_width_cm": 139,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 79,
-          "overall_length_cm": 447,
-          "overall_width_cm": 180,
-          "overall_height_cm": 164,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1323,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "VOYAGER EXTENDED BODY LE VAN": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 102,
-          "back_length_cm": 250,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 82,
-          "max_width_cm": 137,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 95,
-          "overall_length_cm": 484,
-          "overall_width_cm": 180,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 302,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1499,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "VOYAGER EXTENDED BODY SE VAN": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 102,
-          "back_length_cm": 250,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 82,
-          "max_width_cm": 137,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 95,
-          "overall_length_cm": 484,
-          "overall_width_cm": 180,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1499,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "VOYAGER LE VAN": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 102,
-          "back_length_cm": 213,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 82,
-          "max_width_cm": 137,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 76,
-          "overall_length_cm": 447,
-          "overall_width_cm": 180,
-          "overall_height_cm": 164,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1323,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "VOYAGER SE VAN": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 102,
-          "back_length_cm": 213,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 82,
-          "max_width_cm": 137,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 76,
-          "overall_length_cm": 447,
-          "overall_width_cm": 180,
-          "overall_height_cm": 164,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1323,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "VOYAGER LE": {
       "years": [
         1988,
         1989
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 218,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 79,
-          "max_width_cm": 138,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 78,
-          "overall_length_cm": 450,
-          "overall_width_cm": 180,
-          "overall_height_cm": 164,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1491,
-          "weight_distribution_pct": "59/41"
-        },
-        "1989": {
-          "hood_length_cm": 102,
-          "back_length_cm": 255,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 81,
-          "max_width_cm": 137,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 447,
-          "overall_width_cm": 180,
-          "overall_height_cm": 164,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1518,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "VOYAGER SE": {
       "years": [
         1988,
         1989
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 104,
-          "back_length_cm": 216,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 79,
-          "max_width_cm": 138,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 76,
-          "overall_length_cm": 447,
-          "overall_width_cm": 180,
-          "overall_height_cm": 164,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1436,
-          "weight_distribution_pct": "59/41"
-        },
-        "1989": {
-          "hood_length_cm": 102,
-          "back_length_cm": 255,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 81,
-          "max_width_cm": 137,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 447,
-          "overall_width_cm": 180,
-          "overall_height_cm": 164,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1427,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "VOYAGER BASE/SE/LE WAGON": {
       "years": [
         1990,
         1991
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 102,
-          "back_length_cm": 255,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 81,
-          "max_width_cm": 137,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 447,
-          "overall_width_cm": 183,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1406,
-          "weight_distribution_pct": "59/41"
-        },
-        "1991": {
-          "hood_length_cm": 105,
-          "back_length_cm": 218,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 78,
-          "max_width_cm": 135,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 82,
-          "overall_length_cm": 447,
-          "overall_width_cm": 183,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1490,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "VOYAGER SE/LE AWD WAGON": {
       "years": [
         1991
-      ],
-      "details": {
-        "1991": "<default>",
-        "<default>": {
-          "hood_length_cm": 103,
-          "back_length_cm": 220,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 82,
-          "max_width_cm": 137,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 84,
-          "overall_length_cm": 447,
-          "overall_width_cm": 183,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1745,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "VOYAGER SE/LE/LX AWD WAGON": {
       "years": [
         1992,
         1993
-      ],
-      "details": {
-        "1992": "<default>",
-        "<default>": {
-          "hood_length_cm": 106,
-          "back_length_cm": 219,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 79,
-          "max_width_cm": 137,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 81,
-          "overall_length_cm": 452,
-          "overall_width_cm": 183,
-          "overall_height_cm": 172,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1762,
-          "weight_distribution_pct": null
-        },
-        "1993": {
-          "hood_length_cm": 106,
-          "back_length_cm": 219,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 79,
-          "max_width_cm": 137,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 81,
-          "overall_length_cm": 452,
-          "overall_width_cm": 183,
-          "overall_height_cm": 172,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1745,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "VOYAGER SE/LE/LX WAGON": {
       "years": [
         1992
-      ],
-      "details": {
-        "1992": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 220,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 79,
-          "max_width_cm": 137,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 80,
-          "overall_length_cm": 452,
-          "overall_width_cm": 183,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1485,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "VOYAGER LE/LX WAGON": {
       "years": [
         1993
-      ],
-      "details": {
-        "1993": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 220,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 79,
-          "max_width_cm": 137,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 80,
-          "overall_length_cm": 452,
-          "overall_width_cm": 183,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1762,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "VOYAGER SE WAGON": {
       "years": [
         1993
-      ],
-      "details": {
-        "1993": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 220,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 79,
-          "max_width_cm": 137,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 80,
-          "overall_length_cm": 452,
-          "overall_width_cm": 183,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1485,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "VOYAGER 3DR WAGON AWD SE/LE": {
       "years": [
         1994
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 218,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 79,
-          "max_width_cm": 137,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 82,
-          "overall_length_cm": 453,
-          "overall_width_cm": 183,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "VOYAGER 3DR WAGON BASE/SE/LE/LX": {
       "years": [
         1994
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 218,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 79,
-          "max_width_cm": 137,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 82,
-          "overall_length_cm": 453,
-          "overall_width_cm": 183,
-          "overall_height_cm": 163,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1502,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "VOYAGER 3DR WAGON BASE/SE/LE/ES": {
       "years": [
         1995
-      ],
-      "details": {
-        "1995": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 218,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 79,
-          "max_width_cm": 137,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 82,
-          "overall_length_cm": 453,
-          "overall_width_cm": 183,
-          "overall_height_cm": 163,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1491,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "VOYAGER 3DR WAGON BASE/SE/LE": {
       "years": [
         1996
-      ],
-      "details": {
-        "1996": "<default>",
-        "<default>": {
-          "hood_length_cm": 91,
-          "back_length_cm": 229,
-          "side_glass_max_height_cm": 51,
-          "door_height_cm": 82,
-          "max_width_cm": 135,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 473,
-          "overall_width_cm": 192,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 288,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1600,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     }
   },
   "Grand Voyager": {
@@ -3093,87 +500,13 @@
       "years": [
         1988,
         1989
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 103,
-          "back_length_cm": 253,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 78,
-          "max_width_cm": 139,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 487,
-          "overall_width_cm": 180,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1610,
-          "weight_distribution_pct": "57/43"
-        },
-        "1989": {
-          "hood_length_cm": 102,
-          "back_length_cm": 255,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 81,
-          "max_width_cm": 137,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 484,
-          "overall_width_cm": 180,
-          "overall_height_cm": 164,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1618,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "GRAND VOYAGER SE": {
       "years": [
         1988,
         1989
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 102,
-          "back_length_cm": 252,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 78,
-          "max_width_cm": 139,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 484,
-          "overall_width_cm": 180,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1523,
-          "weight_distribution_pct": "57/43"
-        },
-        "1989": {
-          "hood_length_cm": 102,
-          "back_length_cm": 255,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 81,
-          "max_width_cm": 137,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 484,
-          "overall_width_cm": 180,
-          "overall_height_cm": 164,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1477,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "GRAND VOYAGER SE/LE WAGON": {
       "years": [
@@ -3181,397 +514,50 @@
         1991,
         1992,
         1993
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 102,
-          "back_length_cm": 262,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 81,
-          "max_width_cm": 137,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 484,
-          "overall_width_cm": 183,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1568,
-          "weight_distribution_pct": "58/42"
-        },
-        "1991": {
-          "hood_length_cm": 105,
-          "back_length_cm": 258,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 78,
-          "max_width_cm": 137,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 484,
-          "overall_width_cm": 183,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1655,
-          "weight_distribution_pct": "58/42"
-        },
-        "1992": {
-          "hood_length_cm": 105,
-          "back_length_cm": 257,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 138,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 490,
-          "overall_width_cm": 183,
-          "overall_height_cm": 172,
-          "wheelbase_cm": 302,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1678,
-          "weight_distribution_pct": "58/42"
-        },
-        "1993": {
-          "hood_length_cm": 105,
-          "back_length_cm": 257,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 138,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 490,
-          "overall_width_cm": 183,
-          "overall_height_cm": 172,
-          "wheelbase_cm": 302,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1635,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "GRAND VOYAGER SE/LE AWD WAGON": {
       "years": [
         1991,
         1992,
         1993
-      ],
-      "details": {
-        "1991": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 258,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 78,
-          "max_width_cm": 137,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 484,
-          "overall_width_cm": 183,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1800,
-          "weight_distribution_pct": "58/42"
-        },
-        "1992": {
-          "hood_length_cm": 105,
-          "back_length_cm": 257,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 138,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 490,
-          "overall_width_cm": 183,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1816,
-          "weight_distribution_pct": null
-        },
-        "1993": {
-          "hood_length_cm": 105,
-          "back_length_cm": 257,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 138,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 490,
-          "overall_width_cm": 183,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1800,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "GRAND VOYAGER 3DR WAGON AWD SE/LE": {
       "years": [
         1994,
         1996
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 255,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 138,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 490,
-          "overall_width_cm": 183,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1821,
-          "weight_distribution_pct": null
-        },
-        "1996": {
-          "hood_length_cm": 91,
-          "back_length_cm": 264,
-          "side_glass_max_height_cm": 51,
-          "door_height_cm": 82,
-          "max_width_cm": 136,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 507,
-          "overall_width_cm": 192,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1874,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "GRAND VOYAGER 3DR WAGON BASE/SE/LE": {
       "years": [
         1994,
         1996
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 255,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 138,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 490,
-          "overall_width_cm": 183,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1624,
-          "weight_distribution_pct": "58/42"
-        },
-        "1996": {
-          "hood_length_cm": 91,
-          "back_length_cm": 264,
-          "side_glass_max_height_cm": 51,
-          "door_height_cm": 82,
-          "max_width_cm": 136,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 507,
-          "overall_width_cm": 192,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1671,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "GRAND VOYAGER 3DR WAGON AWD SE/LE/ES": {
       "years": [
         1995
-      ],
-      "details": {
-        "1995": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 255,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 138,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 490,
-          "overall_width_cm": 183,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1823,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "GRAND VOYAGER 3DR WAGON BASE/SE/LE/ES": {
       "years": [
         1995
-      ],
-      "details": {
-        "1995": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 255,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 138,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 490,
-          "overall_width_cm": 183,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1621,
-          "weight_distribution_pct": "55/45"
-        }
-      }
+      ]
     },
     "GRAND VOYAGER AWD SE/LE": {
       "years": [
         1997,
         1998,
         1999
-      ],
-      "details": {
-        "1997": "<default>",
-        "<default>": {
-          "hood_length_cm": 91,
-          "back_length_cm": 264,
-          "side_glass_max_height_cm": 51,
-          "door_height_cm": 82,
-          "max_width_cm": 136,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 507,
-          "overall_width_cm": 192,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1874,
-          "weight_distribution_pct": null
-        },
-        "1998": {
-          "hood_length_cm": 91,
-          "back_length_cm": 264,
-          "side_glass_max_height_cm": 51,
-          "door_height_cm": 82,
-          "max_width_cm": 136,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 507,
-          "overall_width_cm": 192,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1905,
-          "weight_distribution_pct": null
-        },
-        "1999": {
-          "hood_length_cm": 91,
-          "back_length_cm": 264,
-          "side_glass_max_height_cm": 51,
-          "door_height_cm": 82,
-          "max_width_cm": 136,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 507,
-          "overall_width_cm": 192,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1905,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "GRAND VOYAGER BASE/SE/LE": {
       "years": [
         1997,
         1998,
         1999
-      ],
-      "details": {
-        "1997": "<default>",
-        "<default>": {
-          "hood_length_cm": 91,
-          "back_length_cm": 264,
-          "side_glass_max_height_cm": 51,
-          "door_height_cm": 82,
-          "max_width_cm": 136,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 507,
-          "overall_width_cm": 192,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1671,
-          "weight_distribution_pct": "57/43"
-        },
-        "1998": {
-          "hood_length_cm": 91,
-          "back_length_cm": 264,
-          "side_glass_max_height_cm": 51,
-          "door_height_cm": 82,
-          "max_width_cm": 136,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 507,
-          "overall_width_cm": 192,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1750,
-          "weight_distribution_pct": "57/43"
-        },
-        "1999": {
-          "hood_length_cm": 91,
-          "back_length_cm": 264,
-          "side_glass_max_height_cm": 51,
-          "door_height_cm": 82,
-          "max_width_cm": 136,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 507,
-          "overall_width_cm": 192,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 303,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1747,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     }
   },
   "Scamp": {},

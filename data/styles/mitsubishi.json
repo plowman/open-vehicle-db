@@ -6,286 +6,33 @@
         2004,
         2005,
         2006
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 115,
-          "back_length_cm": 149,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 81,
-          "max_width_cm": 106,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 455,
-          "overall_width_cm": 175,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 263,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1470,
-          "weight_distribution_pct": "58/42"
-        },
-        "2004": {
-          "hood_length_cm": 115,
-          "back_length_cm": 149,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 81,
-          "max_width_cm": 106,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 455,
-          "overall_width_cm": 175,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 263,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1470,
-          "weight_distribution_pct": "58/42"
-        },
-        "2005": {
-          "hood_length_cm": 115,
-          "back_length_cm": 149,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 81,
-          "max_width_cm": 106,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 455,
-          "overall_width_cm": 175,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 263,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1470,
-          "weight_distribution_pct": "58/42"
-        },
-        "2006": {
-          "hood_length_cm": 115,
-          "back_length_cm": 149,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 81,
-          "max_width_cm": 106,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 455,
-          "overall_width_cm": 175,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 263,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1470,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "OUTLANDER XLS 4DR SUV AWD": {
       "years": [
         2003,
         2004,
         2005
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 115,
-          "back_length_cm": 149,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 81,
-          "max_width_cm": 106,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 455,
-          "overall_width_cm": 175,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 263,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1570,
-          "weight_distribution_pct": "58/42"
-        },
-        "2004": {
-          "hood_length_cm": 115,
-          "back_length_cm": 149,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 81,
-          "max_width_cm": 106,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 455,
-          "overall_width_cm": 175,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 263,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1570,
-          "weight_distribution_pct": "58/42"
-        },
-        "2005": {
-          "hood_length_cm": 115,
-          "back_length_cm": 149,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 81,
-          "max_width_cm": 106,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 455,
-          "overall_width_cm": 175,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 263,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1570,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "OUTLANDER SE/LIMITED 4DR SUV AWD": {
       "years": [
         2006
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 115,
-          "back_length_cm": 149,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 81,
-          "max_width_cm": 106,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 455,
-          "overall_width_cm": 175,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 263,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1610,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "OUTLANDER 4DR SUV AWD XLS": {
       "years": [
         2007,
         2008,
         2009
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 111,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 83,
-          "max_width_cm": 110,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 464,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1720,
-          "weight_distribution_pct": "55/45"
-        },
-        "2008": {
-          "hood_length_cm": 111,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 83,
-          "max_width_cm": 110,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 464,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1590,
-          "weight_distribution_pct": "55/45"
-        },
-        "2009": {
-          "hood_length_cm": 111,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 83,
-          "max_width_cm": 110,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 464,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1590,
-          "weight_distribution_pct": "55/45"
-        }
-      }
+      ]
     },
     "OUTLANDER 4DR SUV FWD LS": {
       "years": [
         2007,
         2008,
         2009
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 111,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 83,
-          "max_width_cm": 110,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 464,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1600,
-          "weight_distribution_pct": "55/45"
-        },
-        "2008": {
-          "hood_length_cm": 111,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 83,
-          "max_width_cm": 110,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 464,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1590,
-          "weight_distribution_pct": "55/45"
-        },
-        "2009": {
-          "hood_length_cm": 111,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 83,
-          "max_width_cm": 110,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 464,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1590,
-          "weight_distribution_pct": "55/45"
-        }
-      }
+      ]
     },
     "OUTLANDER 4DR SUV FWD ES": {
       "years": [
@@ -297,130 +44,7 @@
         2013,
         2014,
         2015
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 111,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 83,
-          "max_width_cm": 110,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 464,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1540,
-          "weight_distribution_pct": "55/45"
-        },
-        "2009": "<default>",
-        "2010": {
-          "hood_length_cm": 119,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 85,
-          "max_width_cm": 123,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 467,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1535,
-          "weight_distribution_pct": "55/45"
-        },
-        "2011": {
-          "hood_length_cm": 119,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 85,
-          "max_width_cm": 123,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 467,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1535,
-          "weight_distribution_pct": "55/45"
-        },
-        "2012": {
-          "hood_length_cm": 119,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 85,
-          "max_width_cm": 123,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 467,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1535,
-          "weight_distribution_pct": "55/45"
-        },
-        "2013": {
-          "hood_length_cm": 119,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 85,
-          "max_width_cm": 123,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 467,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1535,
-          "weight_distribution_pct": "55/45"
-        },
-        "2014": {
-          "hood_length_cm": 125,
-          "back_length_cm": 169,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 87,
-          "max_width_cm": 112,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 466,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1620,
-          "weight_distribution_pct": "57/43"
-        },
-        "2015": {
-          "hood_length_cm": 125,
-          "back_length_cm": 169,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 87,
-          "max_width_cm": 112,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 466,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1460,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "OUTLANDER 4DR SUV AWD ES": {
       "years": [
@@ -430,161 +54,25 @@
         2013,
         2014,
         2015
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 119,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 85,
-          "max_width_cm": 123,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 467,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1600,
-          "weight_distribution_pct": "55/45"
-        },
-        "2011": "<default>",
-        "2012": "<default>",
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": 125,
-          "back_length_cm": 169,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 87,
-          "max_width_cm": 112,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 466,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1460,
-          "weight_distribution_pct": "57/43"
-        },
-        "2015": {
-          "hood_length_cm": 125,
-          "back_length_cm": 169,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 87,
-          "max_width_cm": 112,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 466,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1525,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "OUTLANDER 4DR SUV AWD LS/XLS": {
       "years": [
         2010,
         2011
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 119,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 85,
-          "max_width_cm": 123,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 467,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1710,
-          "weight_distribution_pct": "55/45"
-        },
-        "2011": "<default>"
-      }
+      ]
     },
     "OUTLANDER 4DR SUV AWD LS/XLS S-AWC": {
       "years": [
         2012,
         2013
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 119,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 85,
-          "max_width_cm": 123,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 467,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1710,
-          "weight_distribution_pct": "55/45"
-        },
-        "2013": "<default>"
-      }
+      ]
     },
     "OUTLANDER 4DR SUV AWD SE/GT": {
       "years": [
         2014,
         2015
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 125,
-          "back_length_cm": 169,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 87,
-          "max_width_cm": 112,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 466,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1525,
-          "weight_distribution_pct": "57/43"
-        },
-        "2015": {
-          "hood_length_cm": 125,
-          "back_length_cm": 169,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 87,
-          "max_width_cm": 112,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 466,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1590,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "OUTLANDER 4DR SUV ES AWC": {
       "years": [
@@ -592,121 +80,13 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 125,
-          "back_length_cm": 169,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 87,
-          "max_width_cm": 112,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 466,
-          "overall_width_cm": 181,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1535,
-          "weight_distribution_pct": "56/44"
-        },
-        "2017": {
-          "hood_length_cm": 128,
-          "back_length_cm": 170,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 87,
-          "max_width_cm": 112,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 470,
-          "overall_width_cm": 181,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1535,
-          "weight_distribution_pct": "56/44"
-        },
-        "2018": {
-          "hood_length_cm": 128,
-          "back_length_cm": 170,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 87,
-          "max_width_cm": 112,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 470,
-          "overall_width_cm": 181,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1545,
-          "weight_distribution_pct": "56/44"
-        },
-        "2019": {
-          "hood_length_cm": 128,
-          "back_length_cm": 170,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 87,
-          "max_width_cm": 112,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 470,
-          "overall_width_cm": 181,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1545,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     },
     "OUTLANDER 4DR SUV ES FWD": {
       "years": [
         2016,
         2017
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 125,
-          "back_length_cm": 169,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 87,
-          "max_width_cm": 112,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 466,
-          "overall_width_cm": 181,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1475,
-          "weight_distribution_pct": "57/43"
-        },
-        "2017": {
-          "hood_length_cm": 128,
-          "back_length_cm": 170,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 87,
-          "max_width_cm": 112,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 470,
-          "overall_width_cm": 181,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1475,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "OUTLANDER 4DR SUV SE/GT S AWC": {
       "years": [
@@ -714,450 +94,81 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 125,
-          "back_length_cm": 169,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 87,
-          "max_width_cm": 112,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 466,
-          "overall_width_cm": 181,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1595,
-          "weight_distribution_pct": "57/43"
-        },
-        "2017": {
-          "hood_length_cm": 128,
-          "back_length_cm": 170,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 87,
-          "max_width_cm": 112,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 470,
-          "overall_width_cm": 181,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1595,
-          "weight_distribution_pct": "57/43"
-        },
-        "2018": {
-          "hood_length_cm": 128,
-          "back_length_cm": 170,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 87,
-          "max_width_cm": 112,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 470,
-          "overall_width_cm": 181,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1610,
-          "weight_distribution_pct": "57/43"
-        },
-        "2019": {
-          "hood_length_cm": 128,
-          "back_length_cm": 170,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 87,
-          "max_width_cm": 112,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 470,
-          "overall_width_cm": 181,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1610,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "OUTLANDER PHEV 4DR SUV": {
       "years": [
         2018,
         2019
-      ],
-      "details": {
-        "2018": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 170,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 87,
-          "max_width_cm": 112,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 470,
-          "overall_width_cm": 181,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1895,
-          "weight_distribution_pct": "57/43"
-        },
-        "2019": "<default>"
-      }
+      ]
     }
   },
   "Lancer": {
     "LANCER ES MT/ ES AT": {
       "years": [
         2002
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 111,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 75,
-          "max_width_cm": 117,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 451,
-          "overall_width_cm": 169,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1203,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "LANCER LS AT/ OZ MT/ OZ RALLY": {
       "years": [
         2002
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 111,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 75,
-          "max_width_cm": 117,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 451,
-          "overall_width_cm": 169,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1228,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "LANCER ES 4DR SEDAN FWD": {
       "years": [
         2003
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 111,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 75,
-          "max_width_cm": 117,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 451,
-          "overall_width_cm": 170,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1200,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "LANCER LS/OZ RALLY 4DR SEDAN FWD": {
       "years": [
         2003
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 111,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 75,
-          "max_width_cm": 117,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 451,
-          "overall_width_cm": 170,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1225,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "LANCER 4DR SEDAN FWD /ES/LS": {
       "years": [
         2004
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 117,
-          "back_length_cm": 64,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 72,
-          "max_width_cm": 104,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 459,
-          "overall_width_cm": 170,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1205,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "LANCER 4DR SEDAN FWD /OZ RALLY/RALLIART": {
       "years": [
         2004,
         2005
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 117,
-          "back_length_cm": 64,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 72,
-          "max_width_cm": 104,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 459,
-          "overall_width_cm": 170,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1290,
-          "weight_distribution_pct": "60/40"
-        },
-        "2005": {
-          "hood_length_cm": 117,
-          "back_length_cm": 64,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 72,
-          "max_width_cm": 104,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 459,
-          "overall_width_cm": 170,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1290,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "LANCER SPORTBACK 4DR WAGON FWD LS/RALLIART": {
       "years": [
         2004
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 118,
-          "back_length_cm": 170,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 73,
-          "max_width_cm": 104,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 463,
-          "overall_width_cm": 170,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1370,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "LANCER 4DR SEDAN FWD /ES": {
       "years": [
         2005
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": 117,
-          "back_length_cm": 64,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 72,
-          "max_width_cm": 104,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 459,
-          "overall_width_cm": 170,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1205,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "LANCER 4DR SEDAN FWD ES": {
       "years": [
         2006
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 117,
-          "back_length_cm": 64,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 72,
-          "max_width_cm": 104,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 459,
-          "overall_width_cm": 170,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1205,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "LANCER 4DR SEDAN FWD OZ RALLY": {
       "years": [
         2006
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 117,
-          "back_length_cm": 64,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 72,
-          "max_width_cm": 104,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 459,
-          "overall_width_cm": 170,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1225,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "LANCER 4DR SEDAN FWD RALLIART": {
       "years": [
         2006
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 117,
-          "back_length_cm": 64,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 72,
-          "max_width_cm": 104,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 459,
-          "overall_width_cm": 170,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1290,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "LANCER 4DR SEDAN FWD DE": {
       "years": [
         2007
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 109,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1325,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "LANCER 4DR SEDAN FWD EZ": {
       "years": [
         2007
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 109,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1335,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "LANCER 4DR SEDAN FWD GTS": {
       "years": [
@@ -1165,105 +176,13 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 109,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": null
-        },
-        "2008": {
-          "hood_length_cm": 109,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "61/39"
-        },
-        "2009": {
-          "hood_length_cm": 109,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "61/39"
-        },
-        "2010": {
-          "hood_length_cm": 109,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1380,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "LANCER 4DR SEDAN FWD DE/ES/SE": {
       "years": [
         2008,
         2009
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 109,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1325,
-          "weight_distribution_pct": "61/39"
-        },
-        "2009": "<default>"
-      }
+      ]
     },
     "LANCER EVO X 4DR SEDAN AWD GSR/MR": {
       "years": [
@@ -1275,146 +194,7 @@
         2013,
         2014,
         2015
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 106,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 84,
-          "max_width_cm": 108,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 455,
-          "overall_width_cm": 181,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1537,
-          "weight_distribution_pct": null
-        },
-        "2009": {
-          "hood_length_cm": 106,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 84,
-          "max_width_cm": 108,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 455,
-          "overall_width_cm": 181,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1537,
-          "weight_distribution_pct": "56/44"
-        },
-        "2010": {
-          "hood_length_cm": 106,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 84,
-          "max_width_cm": 108,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 455,
-          "overall_width_cm": 181,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": "56/44"
-        },
-        "2011": {
-          "hood_length_cm": 106,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 84,
-          "max_width_cm": 108,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 455,
-          "overall_width_cm": 181,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": "56/44"
-        },
-        "2012": {
-          "hood_length_cm": 106,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 84,
-          "max_width_cm": 108,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 455,
-          "overall_width_cm": 181,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": "56/44"
-        },
-        "2013": {
-          "hood_length_cm": 106,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 84,
-          "max_width_cm": 108,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 455,
-          "overall_width_cm": 181,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": "57/43"
-        },
-        "2014": {
-          "hood_length_cm": 106,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 84,
-          "max_width_cm": 108,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 455,
-          "overall_width_cm": 181,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": "57/43"
-        },
-        "2015": {
-          "hood_length_cm": 106,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 84,
-          "max_width_cm": 108,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 455,
-          "overall_width_cm": 181,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1595,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "LANCER RALLIART 4DR SEDAN AWD": {
       "years": [
@@ -1425,206 +205,23 @@
         2013,
         2014,
         2015
-      ],
-      "details": {
-        "2009": "<default>",
-        "<default>": {
-          "hood_length_cm": 109,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 83,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1570,
-          "weight_distribution_pct": null
-        },
-        "2010": {
-          "hood_length_cm": 109,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 83,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1570,
-          "weight_distribution_pct": "60/40"
-        },
-        "2011": {
-          "hood_length_cm": 109,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 83,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1570,
-          "weight_distribution_pct": "60/40"
-        },
-        "2012": {
-          "hood_length_cm": 109,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 83,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1570,
-          "weight_distribution_pct": "60/40"
-        },
-        "2013": {
-          "hood_length_cm": 109,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 83,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1570,
-          "weight_distribution_pct": "60/40"
-        },
-        "2014": {
-          "hood_length_cm": 109,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 83,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1570,
-          "weight_distribution_pct": "60/40"
-        },
-        "2015": {
-          "hood_length_cm": 109,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 83,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1570,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "LANCER 4DR SEDAN FWD DE/SE": {
       "years": [
         2010
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 109,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1325,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "LANCER SPORTBACK GTS 4DR FWD": {
       "years": [
         2010
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 118,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 459,
-          "overall_width_cm": 176,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1405,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "LANCER SPORTBACK RALLIART 4DR AWD": {
       "years": [
         2010,
         2011
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 118,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 459,
-          "overall_width_cm": 176,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1620,
-          "weight_distribution_pct": "59/41"
-        },
-        "2011": "<default>"
-      }
+      ]
     },
     "LANCER 4DR SEDAN FWD DE/SE/GT": {
       "years": [
@@ -1633,79 +230,7 @@
         2013,
         2015,
         2016
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 109,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1325,
-          "weight_distribution_pct": "61/39"
-        },
-        "2012": "<default>",
-        "2013": {
-          "hood_length_cm": 109,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1300,
-          "weight_distribution_pct": "61/39"
-        },
-        "2015": {
-          "hood_length_cm": 109,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1310,
-          "weight_distribution_pct": "61/39"
-        },
-        "2016": {
-          "hood_length_cm": 114,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1310,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "LANCER SPORTBACK 4DR HATCH SE/GT FWD": {
       "years": [
@@ -1717,155 +242,12 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 118,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 459,
-          "overall_width_cm": 176,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1405,
-          "weight_distribution_pct": "59/41"
-        },
-        "2012": "<default>",
-        "2013": {
-          "hood_length_cm": 118,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 459,
-          "overall_width_cm": 176,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1370,
-          "weight_distribution_pct": "59/41"
-        },
-        "2014": {
-          "hood_length_cm": 118,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 459,
-          "overall_width_cm": 176,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1385,
-          "weight_distribution_pct": "59/41"
-        },
-        "2015": {
-          "hood_length_cm": 118,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 459,
-          "overall_width_cm": 176,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1355,
-          "weight_distribution_pct": "59/41"
-        },
-        "2016": {
-          "hood_length_cm": 123,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 464,
-          "overall_width_cm": 176,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1355,
-          "weight_distribution_pct": "59/41"
-        },
-        "2017": {
-          "hood_length_cm": 123,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 464,
-          "overall_width_cm": 176,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1355,
-          "weight_distribution_pct": "59/41"
-        },
-        "2018": {
-          "hood_length_cm": 123,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 464,
-          "overall_width_cm": 176,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1355,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "LANCER 4DR SEDAN AWD SE-AWD": {
       "years": [
         2012
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 109,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1415,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "LANCER 4DR SEDAN AWD SE-AWD/GT-AWD": {
       "years": [
@@ -1873,157 +255,24 @@
         2014,
         2015,
         2016
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 109,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1415,
-          "weight_distribution_pct": "61/39"
-        },
-        "2014": {
-          "hood_length_cm": 109,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1425,
-          "weight_distribution_pct": "61/39"
-        },
-        "2015": {
-          "hood_length_cm": 109,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1425,
-          "weight_distribution_pct": "61/39"
-        },
-        "2016": {
-          "hood_length_cm": 114,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1425,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "LANCER 4DR SEDAN FWD DE/SE/LIMITED EDITION/GT": {
       "years": [
         2014
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 109,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 176,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1340,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "LANCER 4DR SEDAN AWD ES/SE LTD/GTS AWC": {
       "years": [
         2017,
         2018
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1425,
-          "weight_distribution_pct": "61/39"
-        },
-        "2018": "<default>"
-      }
+      ]
     },
     "LANCER 4DR SEDAN FWD ES/SE LTD/GTS": {
       "years": [
         2017,
         2018
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 108,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 462,
-          "overall_width_cm": 176,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1310,
-          "weight_distribution_pct": "61/39"
-        },
-        "2018": "<default>"
-      }
+      ]
     }
   },
   "Galant": {
@@ -2033,132 +282,19 @@
         2004,
         2005,
         2006
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 64,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 75,
-          "max_width_cm": 109,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 116,
-          "overall_length_cm": 478,
-          "overall_width_cm": 174,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "62/38"
-        },
-        "2004": {
-          "hood_length_cm": 124,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 81,
-          "max_width_cm": 110,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 112,
-          "overall_length_cm": 482,
-          "overall_width_cm": 184,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1520,
-          "weight_distribution_pct": "62/38"
-        },
-        "2005": {
-          "hood_length_cm": 124,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 81,
-          "max_width_cm": 110,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 112,
-          "overall_length_cm": 482,
-          "overall_width_cm": 184,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1520,
-          "weight_distribution_pct": "62/38"
-        },
-        "2006": {
-          "hood_length_cm": 124,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 81,
-          "max_width_cm": 110,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 112,
-          "overall_length_cm": 482,
-          "overall_width_cm": 184,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1520,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "GALANT 4DR SEDAN FWD /ES V6/ LS V6/ GTZ": {
       "years": [
         2003
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 64,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 75,
-          "max_width_cm": 109,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 116,
-          "overall_length_cm": 478,
-          "overall_width_cm": 174,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1475,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "GALANT 4DR SEDAN FWD /GTS-V6": {
       "years": [
         2004,
         2005,
         2006
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 81,
-          "max_width_cm": 110,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 112,
-          "overall_length_cm": 482,
-          "overall_width_cm": 184,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1655,
-          "weight_distribution_pct": "62/38"
-        },
-        "2005": "<default>",
-        "2006": "<default>"
-      }
+      ]
     },
     "GALANT 4DR SEDAN FWD /LS-V6": {
       "years": [
@@ -2166,321 +302,62 @@
         2005,
         2006,
         2007
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 81,
-          "max_width_cm": 110,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 112,
-          "overall_length_cm": 482,
-          "overall_width_cm": 184,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1655,
-          "weight_distribution_pct": "62/38"
-        },
-        "2005": "<default>",
-        "2006": {
-          "hood_length_cm": 124,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 81,
-          "max_width_cm": 110,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 112,
-          "overall_length_cm": 482,
-          "overall_width_cm": 184,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1615,
-          "weight_distribution_pct": "62/38"
-        },
-        "2007": {
-          "hood_length_cm": 124,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 81,
-          "max_width_cm": 110,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 112,
-          "overall_length_cm": 482,
-          "overall_width_cm": 184,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1615,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "GALANT 4DR SEDAN FWD /ES": {
       "years": [
         2007
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 81,
-          "max_width_cm": 110,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 112,
-          "overall_length_cm": 482,
-          "overall_width_cm": 184,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1520,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "GALANT 4DR SEDAN FWD /RALLIART-V6": {
       "years": [
         2007
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 81,
-          "max_width_cm": 110,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 112,
-          "overall_length_cm": 482,
-          "overall_width_cm": 184,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1655,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "GALANT 4DR SEDAN FWD ES": {
       "years": [
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 81,
-          "max_width_cm": 110,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 112,
-          "overall_length_cm": 482,
-          "overall_width_cm": 184,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1520,
-          "weight_distribution_pct": "62/38"
-        },
-        "2009": "<default>",
-        "2010": {
-          "hood_length_cm": 124,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 81,
-          "max_width_cm": 110,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 112,
-          "overall_length_cm": 482,
-          "overall_width_cm": 184,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1540,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "GALANT 4DR SEDAN FWD LS": {
       "years": [
         2008,
         2009
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 81,
-          "max_width_cm": 110,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 112,
-          "overall_length_cm": 482,
-          "overall_width_cm": 184,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1615,
-          "weight_distribution_pct": "62/38"
-        },
-        "2009": "<default>"
-      }
+      ]
     },
     "GALANT 4DR SEDAN FWD RALLIART": {
       "years": [
         2008,
         2009
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 81,
-          "max_width_cm": 110,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 112,
-          "overall_length_cm": 482,
-          "overall_width_cm": 184,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1655,
-          "weight_distribution_pct": "62/38"
-        },
-        "2009": "<default>"
-      }
+      ]
     }
   },
   "Eclipse": {
     "ECLIPSE RS MT/GS MT/GT MT": {
       "years": [
         2002
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 122,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 75,
-          "max_width_cm": 117,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 446,
-          "overall_width_cm": 175,
-          "overall_height_cm": 131,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1298,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "ECLIPSE SPYDER GS MT/GT MT": {
       "years": [
         2002
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 69,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 73,
-          "max_width_cm": null,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 446,
-          "overall_width_cm": 175,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1383,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "ECLIPSE COUPE 2DR COUPE GT/GT PREMIUM": {
       "years": [
         2003,
         2004,
         2005
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 122,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 75,
-          "max_width_cm": 117,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 449,
-          "overall_width_cm": 175,
-          "overall_height_cm": 131,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1425,
-          "weight_distribution_pct": "63/37"
-        },
-        "2004": "<default>",
-        "2005": "<default>"
-      }
+      ]
     },
     "ECLIPSE COUPE 2DR COUPE RS/GS": {
       "years": [
         2003,
         2004,
         2005
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 122,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 75,
-          "max_width_cm": 117,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 449,
-          "overall_width_cm": 175,
-          "overall_height_cm": 131,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1320,
-          "weight_distribution_pct": "63/37"
-        },
-        "2004": "<default>",
-        "2005": "<default>"
-      }
+      ]
     },
     "ECLIPSE SPYDER 2DR CONV GS": {
       "years": [
@@ -2491,258 +368,34 @@
         2010,
         2011,
         2012
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 69,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 73,
-          "max_width_cm": null,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 449,
-          "overall_width_cm": 175,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1405,
-          "weight_distribution_pct": "63/37"
-        },
-        "2007": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": null
-        },
-        "2008": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": "59/41"
-        },
-        "2009": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": "59/41"
-        },
-        "2010": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": "59/41"
-        },
-        "2011": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": "59/41"
-        },
-        "2012": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "ECLIPSE SPYDER 2DR CONV GT PREMIUM": {
       "years": [
         2003
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 69,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 73,
-          "max_width_cm": null,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 449,
-          "overall_width_cm": 175,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1495,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "ECLIPSE SPYDER 2DR CONV FWD /GS": {
       "years": [
         2004,
         2005
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 69,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 73,
-          "max_width_cm": null,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 449,
-          "overall_width_cm": 175,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1405,
-          "weight_distribution_pct": "63/37"
-        },
-        "2005": "<default>"
-      }
+      ]
     },
     "ECLIPSE SPYDER 2DR CONV FWD /GT PREMIUM": {
       "years": [
         2004,
         2005
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 69,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 73,
-          "max_width_cm": null,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 449,
-          "overall_width_cm": 175,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1510,
-          "weight_distribution_pct": "63/37"
-        },
-        "2005": "<default>"
-      }
+      ]
     },
     "ECLIPSE COUPE 2DR COUPE GS": {
       "years": [
         2006
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 75,
-          "max_width_cm": 105,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1485,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "ECLIPSE COUPE 2DR COUPE GT": {
       "years": [
         2006
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 75,
-          "max_width_cm": 105,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "ECLIPSE SPYDER 2DR CONV GT-P": {
       "years": [
@@ -2752,112 +405,7 @@
         2010,
         2011,
         2012
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1705,
-          "weight_distribution_pct": null
-        },
-        "2008": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1665,
-          "weight_distribution_pct": "59/41"
-        },
-        "2009": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1665,
-          "weight_distribution_pct": "59/41"
-        },
-        "2010": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1665,
-          "weight_distribution_pct": "59/41"
-        },
-        "2011": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1665,
-          "weight_distribution_pct": "59/41"
-        },
-        "2012": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1665,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "ECLIPSE GS 2DR COUPE": {
       "years": [
@@ -2866,31 +414,7 @@
         2010,
         2011,
         2012
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1485,
-          "weight_distribution_pct": "59/41"
-        },
-        "2009": "<default>",
-        "2010": "<default>",
-        "2011": "<default>",
-        "2012": "<default>"
-      }
+      ]
     },
     "ECLIPSE GT-P 2DR COUPE": {
       "years": [
@@ -2899,90 +423,13 @@
         2010,
         2011,
         2012
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": "59/41"
-        },
-        "2009": "<default>",
-        "2010": "<default>",
-        "2011": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1607,
-          "weight_distribution_pct": "59/41"
-        },
-        "2012": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1607,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "ECLIPSE CROSS 4DR SUV": {
       "years": [
         2018,
         2019
-      ],
-      "details": {
-        "2018": "<default>",
-        "<default>": {
-          "hood_length_cm": 119,
-          "back_length_cm": 129,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 89,
-          "max_width_cm": 105,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 78,
-          "overall_length_cm": 440,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1565,
-          "weight_distribution_pct": "58/42"
-        },
-        "2019": "<default>"
-      }
+      ]
     }
   },
   "Endeavor": {
@@ -2992,278 +439,56 @@
         2005,
         2006,
         2007
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 113,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 85,
-          "max_width_cm": 128,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 485,
-          "overall_width_cm": 187,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 2381,
-          "weight_distribution_pct": "55/45"
-        },
-        "2005": "<default>",
-        "2006": {
-          "hood_length_cm": 113,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 85,
-          "max_width_cm": 128,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 485,
-          "overall_width_cm": 187,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1885,
-          "weight_distribution_pct": "55/45"
-        },
-        "2007": {
-          "hood_length_cm": 113,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 85,
-          "max_width_cm": 128,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 485,
-          "overall_width_cm": 187,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1885,
-          "weight_distribution_pct": "55/45"
-        }
-      }
+      ]
     },
     "ENDEAVOR 4DR SUV FWD LS/XLS": {
       "years": [
         2004,
         2005
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 113,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 85,
-          "max_width_cm": 128,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 485,
-          "overall_width_cm": 187,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 2290,
-          "weight_distribution_pct": "55/45"
-        },
-        "2005": "<default>"
-      }
+      ]
     },
     "ENDEAVOR 4DR SUV FWD LS": {
       "years": [
         2006,
         2007
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 113,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 85,
-          "max_width_cm": 128,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 485,
-          "overall_width_cm": 187,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1745,
-          "weight_distribution_pct": "55/45"
-        },
-        "2007": "<default>"
-      }
+      ]
     },
     "ENDEAVOR 4DR SUV AWD LTD": {
       "years": [
         2008,
         2009
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 113,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 85,
-          "max_width_cm": 128,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 485,
-          "overall_width_cm": 187,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1890,
-          "weight_distribution_pct": "55/45"
-        },
-        "2009": "<default>"
-      }
+      ]
     },
     "ENDEAVOR 4DR SUV FWD BASE": {
       "years": [
         2008,
         2009
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 113,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 85,
-          "max_width_cm": 128,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 485,
-          "overall_width_cm": 187,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1800,
-          "weight_distribution_pct": "55/45"
-        },
-        "2009": "<default>"
-      }
+      ]
     },
     "ENDEAVOR 4DR SUV FWD SE": {
       "years": [
         2008,
         2009
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 113,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 85,
-          "max_width_cm": 128,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 485,
-          "overall_width_cm": 187,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1890,
-          "weight_distribution_pct": "55/45"
-        },
-        "2009": "<default>"
-      }
+      ]
     },
     "ENDEAVOR 4DR SUV AWD SE": {
       "years": [
         2010,
         2011,
         2012
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 113,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 85,
-          "max_width_cm": 128,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 485,
-          "overall_width_cm": 187,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1850,
-          "weight_distribution_pct": "55/45"
-        },
-        "2011": "<default>",
-        "2012": "<default>"
-      }
+      ]
     }
   },
   "Montero": {
     "MONTERO SPORT ES/LS": {
       "years": [
         2002
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 89,
-          "max_width_cm": 122,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 460,
-          "overall_width_cm": 169,
-          "overall_height_cm": 172,
-          "wheelbase_cm": 271,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1743,
-          "weight_distribution_pct": "55/45"
-        }
-      }
+      ]
     },
     "MONTERO SPORT XLS/LTD": {
       "years": [
         2002
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 89,
-          "max_width_cm": 122,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 460,
-          "overall_width_cm": 178,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 271,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1805,
-          "weight_distribution_pct": "55/45"
-        }
-      }
+      ]
     },
     "MONTERO XLS/LIMITED": {
       "years": [
@@ -3271,180 +496,29 @@
         2003,
         2004,
         2005
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 122,
-          "back_length_cm": 184,
-          "side_glass_max_height_cm": 48,
-          "door_height_cm": 85,
-          "max_width_cm": 134,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 463,
-          "overall_width_cm": 188,
-          "overall_height_cm": 182,
-          "wheelbase_cm": 277,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 2091,
-          "weight_distribution_pct": "47/53"
-        },
-        "2003": {
-          "hood_length_cm": 124,
-          "back_length_cm": 184,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 82,
-          "max_width_cm": 112,
-          "front_overhang_cm": 74,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 465,
-          "overall_width_cm": 190,
-          "overall_height_cm": 182,
-          "wheelbase_cm": 278,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 2140,
-          "weight_distribution_pct": "47/53"
-        },
-        "2004": {
-          "hood_length_cm": 124,
-          "back_length_cm": 184,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 82,
-          "max_width_cm": 112,
-          "front_overhang_cm": 74,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 465,
-          "overall_width_cm": 190,
-          "overall_height_cm": 182,
-          "wheelbase_cm": 278,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 2140,
-          "weight_distribution_pct": "47/53"
-        },
-        "2005": {
-          "hood_length_cm": 124,
-          "back_length_cm": 184,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 82,
-          "max_width_cm": 112,
-          "front_overhang_cm": 74,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 465,
-          "overall_width_cm": 190,
-          "overall_height_cm": 182,
-          "wheelbase_cm": 278,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 2140,
-          "weight_distribution_pct": "47/53"
-        }
-      }
+      ]
     },
     "MONTERO SPORT ES": {
       "years": [
         2003
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 89,
-          "max_width_cm": 122,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 460,
-          "overall_width_cm": 170,
-          "overall_height_cm": 172,
-          "wheelbase_cm": 273,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1865,
-          "weight_distribution_pct": "55/45"
-        }
-      }
+      ]
     },
     "MONTERO SPORT LS/XLS/LTD": {
       "years": [
         2003
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 89,
-          "max_width_cm": 122,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 460,
-          "overall_width_cm": 178,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 273,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1915,
-          "weight_distribution_pct": "55/45"
-        }
-      }
+      ]
     },
     "MONTERO LIMITED": {
       "years": [
         2006
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 184,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 82,
-          "max_width_cm": 112,
-          "front_overhang_cm": 74,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 465,
-          "overall_width_cm": 190,
-          "overall_height_cm": 182,
-          "wheelbase_cm": 278,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 2140,
-          "weight_distribution_pct": "47/53"
-        }
-      }
+      ]
     }
   },
   "Eclipse Spyder": {
     "ECLIPSE SPYDER GS MT/GT MT": {
       "years": [
         2002
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 69,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 73,
-          "max_width_cm": null,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 446,
-          "overall_width_cm": 175,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1383,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "ECLIPSE SPYDER 2DR CONV GS": {
       "years": [
@@ -3455,208 +529,24 @@
         2010,
         2011,
         2012
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 69,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 73,
-          "max_width_cm": null,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 449,
-          "overall_width_cm": 175,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1405,
-          "weight_distribution_pct": "63/37"
-        },
-        "2007": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": null
-        },
-        "2008": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": "59/41"
-        },
-        "2009": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": "59/41"
-        },
-        "2010": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": "59/41"
-        },
-        "2011": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": "59/41"
-        },
-        "2012": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1575,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "ECLIPSE SPYDER 2DR CONV GT PREMIUM": {
       "years": [
         2003
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 69,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 73,
-          "max_width_cm": null,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 449,
-          "overall_width_cm": 175,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1495,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "ECLIPSE SPYDER 2DR CONV FWD /GS": {
       "years": [
         2004,
         2005
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 69,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 73,
-          "max_width_cm": null,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 449,
-          "overall_width_cm": 175,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1405,
-          "weight_distribution_pct": "63/37"
-        },
-        "2005": "<default>"
-      }
+      ]
     },
     "ECLIPSE SPYDER 2DR CONV FWD /GT PREMIUM": {
       "years": [
         2004,
         2005
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 69,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 73,
-          "max_width_cm": null,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 449,
-          "overall_width_cm": 175,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1510,
-          "weight_distribution_pct": "63/37"
-        },
-        "2005": "<default>"
-      }
+      ]
     },
     "ECLIPSE SPYDER 2DR CONV GT-P": {
       "years": [
@@ -3666,112 +556,7 @@
         2010,
         2011,
         2012
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1705,
-          "weight_distribution_pct": null
-        },
-        "2008": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1665,
-          "weight_distribution_pct": "59/41"
-        },
-        "2009": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1665,
-          "weight_distribution_pct": "59/41"
-        },
-        "2010": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1665,
-          "weight_distribution_pct": "59/41"
-        },
-        "2011": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1665,
-          "weight_distribution_pct": "59/41"
-        },
-        "2012": {
-          "hood_length_cm": 126,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 77,
-          "max_width_cm": 123,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 457,
-          "overall_width_cm": 184,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1665,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     }
   },
   "RVR": {
@@ -3781,168 +566,30 @@
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 108,
-          "back_length_cm": 136,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 116,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 430,
-          "overall_width_cm": 177,
-          "overall_height_cm": 163,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "59/41"
-        },
-        "2012": "<default>",
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": 108,
-          "back_length_cm": 136,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 116,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 430,
-          "overall_width_cm": 177,
-          "overall_height_cm": 163,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1405,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "RVR 4 DR SUV SE 4WD/GT 4WD": {
       "years": [
         2011,
         2012,
         2013
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 108,
-          "back_length_cm": 136,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 116,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 430,
-          "overall_width_cm": 177,
-          "overall_height_cm": 163,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1470,
-          "weight_distribution_pct": "59/41"
-        },
-        "2012": "<default>",
-        "2013": "<default>"
-      }
+      ]
     },
     "RVR 4 DR SUV SE AWD/GT AWD": {
       "years": [
         2014
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 108,
-          "back_length_cm": 136,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 116,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 430,
-          "overall_width_cm": 177,
-          "overall_height_cm": 163,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1485,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "RVR 4DR SUV ES 2WD/SE 2WD": {
       "years": [
         2015,
         2016
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 108,
-          "back_length_cm": 136,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 116,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 430,
-          "overall_width_cm": 177,
-          "overall_height_cm": 163,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1370,
-          "weight_distribution_pct": "59/41"
-        },
-        "2016": {
-          "hood_length_cm": 113,
-          "back_length_cm": 136,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 116,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 435,
-          "overall_width_cm": 181,
-          "overall_height_cm": 163,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "RVR 4DR SUV SE AWD/GT AWD": {
       "years": [
         2015
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 108,
-          "back_length_cm": 136,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 116,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 430,
-          "overall_width_cm": 177,
-          "overall_height_cm": 163,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1470,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "RVR 4DR SUV SE/GT AWC": {
       "years": [
@@ -3950,91 +597,14 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 113,
-          "back_length_cm": 136,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 116,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 435,
-          "overall_width_cm": 181,
-          "overall_height_cm": 163,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1475,
-          "weight_distribution_pct": "59/41"
-        },
-        "2017": "<default>",
-        "2018": "<default>",
-        "2019": {
-          "hood_length_cm": 113,
-          "back_length_cm": 136,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 116,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 436,
-          "overall_width_cm": 181,
-          "overall_height_cm": 163,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1475,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "RVR 4DR SUV ES/SE FWD": {
       "years": [
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 113,
-          "back_length_cm": 136,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 116,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 435,
-          "overall_width_cm": 181,
-          "overall_height_cm": 163,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "59/41"
-        },
-        "2018": "<default>",
-        "2019": {
-          "hood_length_cm": 113,
-          "back_length_cm": 136,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 116,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 436,
-          "overall_width_cm": 181,
-          "overall_height_cm": 163,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1375,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     }
   },
   "i-MiEV": {},
@@ -4043,160 +613,27 @@
     "MIRAGE COUPE": {
       "years": [
         2002
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 427,
-          "overall_width_cm": 169,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 242,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 992,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "MIRAGE 4DR HATCHBACK ES/SE": {
       "years": [
         2014,
         2015
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 90,
-          "back_length_cm": 114,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 82,
-          "max_width_cm": 107,
-          "front_overhang_cm": 74,
-          "rear_overhang_cm": 60,
-          "overall_length_cm": 378,
-          "overall_width_cm": 167,
-          "overall_height_cm": 150,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": 143,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 930,
-          "weight_distribution_pct": "61/39"
-        },
-        "2015": {
-          "hood_length_cm": 90,
-          "back_length_cm": 114,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 82,
-          "max_width_cm": 107,
-          "front_overhang_cm": 74,
-          "rear_overhang_cm": 60,
-          "overall_length_cm": 378,
-          "overall_width_cm": 167,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": 143,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 895,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "MIRAGE 5DR HATCH": {
       "years": [
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 90,
-          "back_length_cm": 112,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 106,
-          "front_overhang_cm": 75,
-          "rear_overhang_cm": 61,
-          "overall_length_cm": 380,
-          "overall_width_cm": 167,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": 143,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 940,
-          "weight_distribution_pct": "61/39"
-        },
-        "2018": {
-          "hood_length_cm": 90,
-          "back_length_cm": 112,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 106,
-          "front_overhang_cm": 75,
-          "rear_overhang_cm": 61,
-          "overall_length_cm": 380,
-          "overall_width_cm": 167,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": 143,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 940,
-          "weight_distribution_pct": "60/40"
-        },
-        "2019": {
-          "hood_length_cm": 90,
-          "back_length_cm": 112,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 106,
-          "front_overhang_cm": 75,
-          "rear_overhang_cm": 61,
-          "overall_length_cm": 380,
-          "overall_width_cm": 167,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": 143,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 940,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "MIRAGE G4 SEDAN": {
       "years": [
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 83,
-          "max_width_cm": 108,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 431,
-          "overall_width_cm": 167,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 143,
-          "curb_weight_kg": 975,
-          "weight_distribution_pct": "58/42"
-        },
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     }
   },
   "Expo": {},
@@ -4206,77 +643,17 @@
     "DIAMANTE ES": {
       "years": [
         2002
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 116,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 118,
-          "overall_length_cm": 493,
-          "overall_width_cm": 179,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1560,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "DIAMANTE LS": {
       "years": [
         2002
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 116,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 118,
-          "overall_length_cm": 493,
-          "overall_width_cm": 179,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1610,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "DIAMANTE 4DR SEDAN FWD ES/LS/VR-X": {
       "years": [
         2004
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 134,
-          "back_length_cm": 67,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 78,
-          "max_width_cm": 98,
-          "front_overhang_cm": 106,
-          "rear_overhang_cm": 120,
-          "overall_length_cm": 498,
-          "overall_width_cm": 179,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1590,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     }
   },
   "Truck": {},
@@ -4284,181 +661,40 @@
     "MONTERO SPORT ES/LS": {
       "years": [
         2002
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 89,
-          "max_width_cm": 122,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 460,
-          "overall_width_cm": 169,
-          "overall_height_cm": 172,
-          "wheelbase_cm": 271,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1743,
-          "weight_distribution_pct": "55/45"
-        }
-      }
+      ]
     },
     "MONTERO SPORT XLS/LTD": {
       "years": [
         2002
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 89,
-          "max_width_cm": 122,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 460,
-          "overall_width_cm": 178,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 271,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1805,
-          "weight_distribution_pct": "55/45"
-        }
-      }
+      ]
     },
     "MONTERO SPORT ES": {
       "years": [
         2003
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 89,
-          "max_width_cm": 122,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 460,
-          "overall_width_cm": 170,
-          "overall_height_cm": 172,
-          "wheelbase_cm": 273,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1865,
-          "weight_distribution_pct": "55/45"
-        }
-      }
+      ]
     },
     "MONTERO SPORT LS/XLS/LTD": {
       "years": [
         2003
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 89,
-          "max_width_cm": 122,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 460,
-          "overall_width_cm": 178,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 273,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1915,
-          "weight_distribution_pct": "55/45"
-        }
-      }
+      ]
     }
   },
   "Lancer SportBack": {
     "LANCER SPORTBACK 4DR WAGON FWD LS/RALLIART": {
       "years": [
         2004
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 118,
-          "back_length_cm": 170,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 73,
-          "max_width_cm": 104,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 463,
-          "overall_width_cm": 170,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1370,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "LANCER SPORTBACK GTS 4DR FWD": {
       "years": [
         2010
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 118,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 459,
-          "overall_width_cm": 176,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1405,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "LANCER SPORTBACK RALLIART 4DR AWD": {
       "years": [
         2010,
         2011
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 118,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 459,
-          "overall_width_cm": 176,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1620,
-          "weight_distribution_pct": "59/41"
-        },
-        "2011": "<default>"
-      }
+      ]
     },
     "LANCER SPORTBACK 4DR HATCH SE/GT FWD": {
       "years": [
@@ -4470,130 +706,7 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 118,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 459,
-          "overall_width_cm": 176,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1405,
-          "weight_distribution_pct": "59/41"
-        },
-        "2012": "<default>",
-        "2013": {
-          "hood_length_cm": 118,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 459,
-          "overall_width_cm": 176,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1370,
-          "weight_distribution_pct": "59/41"
-        },
-        "2014": {
-          "hood_length_cm": 118,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 459,
-          "overall_width_cm": 176,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1385,
-          "weight_distribution_pct": "59/41"
-        },
-        "2015": {
-          "hood_length_cm": 118,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 459,
-          "overall_width_cm": 176,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1355,
-          "weight_distribution_pct": "59/41"
-        },
-        "2016": {
-          "hood_length_cm": 123,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 464,
-          "overall_width_cm": 176,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1355,
-          "weight_distribution_pct": "59/41"
-        },
-        "2017": {
-          "hood_length_cm": 123,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 464,
-          "overall_width_cm": 176,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1355,
-          "weight_distribution_pct": "59/41"
-        },
-        "2018": {
-          "hood_length_cm": 123,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 464,
-          "overall_width_cm": 176,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1355,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     }
   },
   "Lancer Evolution": {},
@@ -4603,29 +716,7 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 83,
-          "max_width_cm": 108,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 431,
-          "overall_width_cm": 167,
-          "overall_height_cm": 151,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 143,
-          "curb_weight_kg": 975,
-          "weight_distribution_pct": "58/42"
-        },
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     }
   },
   "Outlander Sport": {},
@@ -4648,28 +739,7 @@
       "years": [
         2018,
         2019
-      ],
-      "details": {
-        "2018": "<default>",
-        "<default>": {
-          "hood_length_cm": 119,
-          "back_length_cm": 129,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 89,
-          "max_width_cm": 105,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 78,
-          "overall_length_cm": 440,
-          "overall_width_cm": 180,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1565,
-          "weight_distribution_pct": "58/42"
-        },
-        "2019": "<default>"
-      }
+      ]
     }
   }
 }

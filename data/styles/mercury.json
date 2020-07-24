@@ -5,240 +5,35 @@
         1985,
         1986,
         1987
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 156,
-          "back_length_cm": 209,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 71,
-          "max_width_cm": 130,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 151,
-          "overall_length_cm": 546,
-          "overall_width_cm": 201,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1800,
-          "weight_distribution_pct": null
-        },
-        "1986": {
-          "hood_length_cm": 156,
-          "back_length_cm": 209,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 71,
-          "max_width_cm": 130,
-          "front_overhang_cm": 104,
-          "rear_overhang_cm": 151,
-          "overall_length_cm": 546,
-          "overall_width_cm": 201,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1811,
-          "weight_distribution_pct": null
-        },
-        "1987": {
-          "hood_length_cm": 164,
-          "back_length_cm": 209,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 71,
-          "max_width_cm": 130,
-          "front_overhang_cm": 112,
-          "rear_overhang_cm": 151,
-          "overall_length_cm": 554,
-          "overall_width_cm": 201,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1811,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     },
     "GRAND MARQUIS 2 DR COUPE": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 169,
-          "back_length_cm": 107,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 71,
-          "max_width_cm": 130,
-          "front_overhang_cm": 112,
-          "rear_overhang_cm": 141,
-          "overall_length_cm": 544,
-          "overall_width_cm": 197,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1715,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     },
     "GRAND MARQUIS 4 DR SEDAN": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 164,
-          "back_length_cm": 107,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 71,
-          "max_width_cm": 130,
-          "front_overhang_cm": 112,
-          "rear_overhang_cm": 141,
-          "overall_length_cm": 544,
-          "overall_width_cm": 197,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1732,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     },
     "GRAND MARQUIS COLONY PARK GS/LS WAGON": {
       "years": [
         1988,
         1990,
         1991
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 164,
-          "back_length_cm": 209,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 71,
-          "max_width_cm": 130,
-          "front_overhang_cm": 112,
-          "rear_overhang_cm": 151,
-          "overall_length_cm": 555,
-          "overall_width_cm": 201,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1823,
-          "weight_distribution_pct": null
-        },
-        "1990": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 554,
-          "overall_width_cm": 201,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1821,
-          "weight_distribution_pct": null
-        },
-        "1991": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 554,
-          "overall_width_cm": 201,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1821,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "GRAND MARQUIS GS/LS 4 DR SEDAN": {
       "years": [
         1988,
         1989
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 164,
-          "back_length_cm": 107,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 71,
-          "max_width_cm": 130,
-          "front_overhang_cm": 112,
-          "rear_overhang_cm": 141,
-          "overall_length_cm": 542,
-          "overall_width_cm": 197,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1736,
-          "weight_distribution_pct": "56/44"
-        },
-        "1989": {
-          "hood_length_cm": 169,
-          "back_length_cm": 102,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 69,
-          "max_width_cm": 131,
-          "front_overhang_cm": 115,
-          "rear_overhang_cm": 140,
-          "overall_length_cm": 545,
-          "overall_width_cm": 197,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1704,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "GRAND MARQUIS GS/LS WAGON": {
       "years": [
         1989
-      ],
-      "details": {
-        "1989": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 556,
-          "overall_width_cm": 201,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1812,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "GRAND MARQUIS GS/LS SEDAN": {
       "years": [
@@ -246,78 +41,7 @@
         1991,
         1992,
         1993
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 169,
-          "back_length_cm": 102,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 69,
-          "max_width_cm": 131,
-          "front_overhang_cm": 115,
-          "rear_overhang_cm": 140,
-          "overall_length_cm": 543,
-          "overall_width_cm": 197,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1742,
-          "weight_distribution_pct": "57/43"
-        },
-        "1991": {
-          "hood_length_cm": 159,
-          "back_length_cm": 99,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 76,
-          "max_width_cm": 116,
-          "front_overhang_cm": 108,
-          "rear_overhang_cm": 141,
-          "overall_length_cm": 540,
-          "overall_width_cm": 198,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 291,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1707,
-          "weight_distribution_pct": "57/43"
-        },
-        "1992": {
-          "hood_length_cm": 159,
-          "back_length_cm": 99,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 76,
-          "max_width_cm": 116,
-          "front_overhang_cm": 108,
-          "rear_overhang_cm": 141,
-          "overall_length_cm": 540,
-          "overall_width_cm": 198,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 291,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1707,
-          "weight_distribution_pct": "56/44"
-        },
-        "1993": {
-          "hood_length_cm": 159,
-          "back_length_cm": 99,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 76,
-          "max_width_cm": 116,
-          "front_overhang_cm": 108,
-          "rear_overhang_cm": 141,
-          "overall_length_cm": 540,
-          "overall_width_cm": 198,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 291,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1707,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     },
     "GRAND MARQUIS 4DR SEDAN GS/LS": {
       "years": [
@@ -327,137 +51,12 @@
         1997,
         1998,
         1999
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 161,
-          "back_length_cm": 98,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 76,
-          "max_width_cm": 116,
-          "front_overhang_cm": 108,
-          "rear_overhang_cm": 141,
-          "overall_length_cm": 540,
-          "overall_width_cm": 198,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 291,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 1717,
-          "weight_distribution_pct": "56/44"
-        },
-        "1995": {
-          "hood_length_cm": 163,
-          "back_length_cm": 96,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 76,
-          "max_width_cm": 116,
-          "front_overhang_cm": 107,
-          "rear_overhang_cm": 139,
-          "overall_length_cm": 539,
-          "overall_width_cm": 198,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 291,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1717,
-          "weight_distribution_pct": "55/45"
-        },
-        "1996": {
-          "hood_length_cm": 163,
-          "back_length_cm": 96,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 76,
-          "max_width_cm": 116,
-          "front_overhang_cm": 107,
-          "rear_overhang_cm": 139,
-          "overall_length_cm": 538,
-          "overall_width_cm": 198,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 291,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 1722,
-          "weight_distribution_pct": "55/45"
-        },
-        "1997": {
-          "hood_length_cm": 163,
-          "back_length_cm": 96,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 76,
-          "max_width_cm": 116,
-          "front_overhang_cm": 107,
-          "rear_overhang_cm": 139,
-          "overall_length_cm": 538,
-          "overall_width_cm": 198,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 291,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 1722,
-          "weight_distribution_pct": "55/45"
-        },
-        "1998": {
-          "hood_length_cm": 161,
-          "back_length_cm": 96,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 76,
-          "max_width_cm": 116,
-          "front_overhang_cm": 108,
-          "rear_overhang_cm": 139,
-          "overall_length_cm": 539,
-          "overall_width_cm": 198,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 291,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 1722,
-          "weight_distribution_pct": "56/44"
-        },
-        "1999": {
-          "hood_length_cm": 161,
-          "back_length_cm": 96,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 76,
-          "max_width_cm": 116,
-          "front_overhang_cm": 108,
-          "rear_overhang_cm": 139,
-          "overall_length_cm": 538,
-          "overall_width_cm": 199,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 291,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 166,
-          "curb_weight_kg": 1722,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     },
     "GRAND MARQUIS 4DR SEDAN RWD LS ULTIMATE": {
       "years": [
         2009
-      ],
-      "details": {
-        "2009": "<default>",
-        "<default>": {
-          "hood_length_cm": 161,
-          "back_length_cm": 96,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 76,
-          "max_width_cm": 116,
-          "front_overhang_cm": 108,
-          "rear_overhang_cm": 139,
-          "overall_length_cm": 538,
-          "overall_width_cm": 199,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 291,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 166,
-          "curb_weight_kg": 1857,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     }
   },
   "Milan": {},
@@ -465,27 +64,7 @@
     "SABLE GS/LS SEDAN": {
       "years": [
         1986
-      ],
-      "details": {
-        "1986": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 67,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 70,
-          "max_width_cm": 111,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 487,
-          "overall_width_cm": 180,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1330,
-          "weight_distribution_pct": "65/35"
-        }
-      }
+      ]
     },
     "SABLE GS/LS WAGON": {
       "years": [
@@ -497,207 +76,14 @@
         1991,
         1992,
         1993
-      ],
-      "details": {
-        "1986": "<default>",
-        "<default>": {
-          "hood_length_cm": 133,
-          "back_length_cm": 220,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 72,
-          "max_width_cm": 111,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 116,
-          "overall_length_cm": 487,
-          "overall_width_cm": 180,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1456,
-          "weight_distribution_pct": null
-        },
-        "1987": {
-          "hood_length_cm": 133,
-          "back_length_cm": 220,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 72,
-          "max_width_cm": 111,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 116,
-          "overall_length_cm": 488,
-          "overall_width_cm": 180,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1465,
-          "weight_distribution_pct": null
-        },
-        "1988": {
-          "hood_length_cm": 133,
-          "back_length_cm": 220,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 72,
-          "max_width_cm": 111,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 116,
-          "overall_length_cm": 487,
-          "overall_width_cm": 180,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1455,
-          "weight_distribution_pct": null
-        },
-        "1989": {
-          "hood_length_cm": 133,
-          "back_length_cm": 227,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 65,
-          "max_width_cm": 114,
-          "front_overhang_cm": 105,
-          "rear_overhang_cm": 118,
-          "overall_length_cm": 491,
-          "overall_width_cm": 180,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1453,
-          "weight_distribution_pct": null
-        },
-        "1990": {
-          "hood_length_cm": 134,
-          "back_length_cm": 236,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 111,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 119,
-          "overall_length_cm": 491,
-          "overall_width_cm": 180,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1482,
-          "weight_distribution_pct": null
-        },
-        "1991": {
-          "hood_length_cm": 134,
-          "back_length_cm": 236,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 111,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 119,
-          "overall_length_cm": 491,
-          "overall_width_cm": 180,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1482,
-          "weight_distribution_pct": null
-        },
-        "1992": {
-          "hood_length_cm": 135,
-          "back_length_cm": 229,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 71,
-          "max_width_cm": 112,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 119,
-          "overall_length_cm": 491,
-          "overall_width_cm": 181,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1493,
-          "weight_distribution_pct": null
-        },
-        "1993": {
-          "hood_length_cm": 135,
-          "back_length_cm": 229,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 71,
-          "max_width_cm": 112,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 119,
-          "overall_length_cm": 491,
-          "overall_width_cm": 181,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1493,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SABLE GS/LS 4 DR SEDAN": {
       "years": [
         1987,
         1988,
         1989
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 67,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 70,
-          "max_width_cm": 111,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 487,
-          "overall_width_cm": 180,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1385,
-          "weight_distribution_pct": "63/37"
-        },
-        "1988": {
-          "hood_length_cm": 130,
-          "back_length_cm": 69,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 72,
-          "max_width_cm": 111,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 117,
-          "overall_length_cm": 485,
-          "overall_width_cm": 180,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1405,
-          "weight_distribution_pct": "63/37"
-        },
-        "1989": {
-          "hood_length_cm": 133,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 65,
-          "max_width_cm": 114,
-          "front_overhang_cm": 105,
-          "rear_overhang_cm": 118,
-          "overall_length_cm": 488,
-          "overall_width_cm": 180,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1411,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "SABLE GS/LS 4DR SEDAN": {
       "years": [
@@ -705,78 +91,7 @@
         1991,
         1992,
         1993
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 133,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 65,
-          "max_width_cm": 114,
-          "front_overhang_cm": 105,
-          "rear_overhang_cm": 118,
-          "overall_length_cm": 488,
-          "overall_width_cm": 180,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1423,
-          "weight_distribution_pct": "65/35"
-        },
-        "1991": {
-          "hood_length_cm": 133,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 65,
-          "max_width_cm": 114,
-          "front_overhang_cm": 105,
-          "rear_overhang_cm": 118,
-          "overall_length_cm": 488,
-          "overall_width_cm": 180,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1423,
-          "weight_distribution_pct": "65/35"
-        },
-        "1992": {
-          "hood_length_cm": 134,
-          "back_length_cm": 74,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 113,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 115,
-          "overall_length_cm": 488,
-          "overall_width_cm": 181,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1433,
-          "weight_distribution_pct": "64/36"
-        },
-        "1993": {
-          "hood_length_cm": 134,
-          "back_length_cm": 74,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 113,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 115,
-          "overall_length_cm": 488,
-          "overall_width_cm": 181,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1433,
-          "weight_distribution_pct": "64/36"
-        }
-      }
+      ]
     },
     "SABLE 4DR SEDAN GS/LS": {
       "years": [
@@ -784,78 +99,7 @@
         1997,
         1998,
         1999
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 134,
-          "back_length_cm": 74,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 113,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 115,
-          "overall_length_cm": 488,
-          "overall_width_cm": 180,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1418,
-          "weight_distribution_pct": "64/36"
-        },
-        "1997": {
-          "hood_length_cm": 123,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 74,
-          "max_width_cm": 119,
-          "front_overhang_cm": 106,
-          "rear_overhang_cm": 126,
-          "overall_length_cm": 507,
-          "overall_width_cm": 185,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1537,
-          "weight_distribution_pct": "64/36"
-        },
-        "1998": {
-          "hood_length_cm": 123,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 74,
-          "max_width_cm": 119,
-          "front_overhang_cm": 106,
-          "rear_overhang_cm": 126,
-          "overall_length_cm": 507,
-          "overall_width_cm": 185,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1537,
-          "weight_distribution_pct": "65/35"
-        },
-        "1999": {
-          "hood_length_cm": 123,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 74,
-          "max_width_cm": 119,
-          "front_overhang_cm": 106,
-          "rear_overhang_cm": 126,
-          "overall_length_cm": 507,
-          "overall_width_cm": 185,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1537,
-          "weight_distribution_pct": "65/35"
-        }
-      }
+      ]
     },
     "SABLE 4DR WAGON GS/LS": {
       "years": [
@@ -864,147 +108,18 @@
         1996,
         1997,
         1998
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 135,
-          "back_length_cm": 229,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 71,
-          "max_width_cm": 112,
-          "front_overhang_cm": 103,
-          "rear_overhang_cm": 119,
-          "overall_length_cm": 490,
-          "overall_width_cm": 180,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1485,
-          "weight_distribution_pct": null
-        },
-        "1995": "<default>",
-        "1996": {
-          "hood_length_cm": 123,
-          "back_length_cm": 239,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 74,
-          "max_width_cm": 119,
-          "front_overhang_cm": 106,
-          "rear_overhang_cm": 125,
-          "overall_length_cm": 506,
-          "overall_width_cm": 185,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1604,
-          "weight_distribution_pct": null
-        },
-        "1997": {
-          "hood_length_cm": 123,
-          "back_length_cm": 239,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 74,
-          "max_width_cm": 119,
-          "front_overhang_cm": 106,
-          "rear_overhang_cm": 125,
-          "overall_length_cm": 506,
-          "overall_width_cm": 185,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1604,
-          "weight_distribution_pct": null
-        },
-        "1998": {
-          "hood_length_cm": 123,
-          "back_length_cm": 239,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 74,
-          "max_width_cm": 119,
-          "front_overhang_cm": 106,
-          "rear_overhang_cm": 125,
-          "overall_length_cm": 506,
-          "overall_width_cm": 185,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1604,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SABLE 4DR SEDAN GS/LS/LTS": {
       "years": [
         1995,
         1996
-      ],
-      "details": {
-        "1995": "<default>",
-        "<default>": {
-          "hood_length_cm": 134,
-          "back_length_cm": 74,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 113,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 115,
-          "overall_length_cm": 488,
-          "overall_width_cm": 180,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1418,
-          "weight_distribution_pct": "64/36"
-        },
-        "1996": {
-          "hood_length_cm": 123,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 74,
-          "max_width_cm": 119,
-          "front_overhang_cm": 106,
-          "rear_overhang_cm": 126,
-          "overall_length_cm": 507,
-          "overall_width_cm": 185,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1537,
-          "weight_distribution_pct": "64/36"
-        }
-      }
+      ]
     },
     "SABLE 4DR WAGON LS": {
       "years": [
         1999
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 239,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 74,
-          "max_width_cm": 119,
-          "front_overhang_cm": 106,
-          "rear_overhang_cm": 125,
-          "overall_length_cm": 506,
-          "overall_width_cm": 185,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1604,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "Montego": {},
@@ -1013,397 +128,60 @@
       "years": [
         1981,
         1982
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 156,
-          "back_length_cm": 102,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 68,
-          "max_width_cm": 125,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 129,
-          "overall_length_cm": 500,
-          "overall_width_cm": 180,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1273,
-          "weight_distribution_pct": null
-        },
-        "1982": {
-          "hood_length_cm": 156,
-          "back_length_cm": 102,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 68,
-          "max_width_cm": 125,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 129,
-          "overall_length_cm": 499,
-          "overall_width_cm": 180,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1330,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "COUGAR 4 DR": {
       "years": [
         1981,
         1982
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 156,
-          "back_length_cm": 102,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 68,
-          "max_width_cm": 125,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 129,
-          "overall_length_cm": 500,
-          "overall_width_cm": 180,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1333,
-          "weight_distribution_pct": null
-        },
-        "1982": {
-          "hood_length_cm": 156,
-          "back_length_cm": 102,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 68,
-          "max_width_cm": 125,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 129,
-          "overall_length_cm": 499,
-          "overall_width_cm": 180,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1350,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "COUGAR XR7": {
       "years": [
         1981
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 159,
-          "back_length_cm": 115,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 71,
-          "max_width_cm": 129,
-          "front_overhang_cm": 105,
-          "rear_overhang_cm": 126,
-          "overall_length_cm": 509,
-          "overall_width_cm": 180,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1427,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "COUGAR WAGON": {
       "years": [
         1982
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 158,
-          "back_length_cm": 216,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 68,
-          "max_width_cm": 125,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 129,
-          "overall_length_cm": 499,
-          "overall_width_cm": 180,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1410,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "COUGAR XR 7": {
       "years": [
         1982
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 159,
-          "back_length_cm": 115,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 71,
-          "max_width_cm": 129,
-          "front_overhang_cm": 105,
-          "rear_overhang_cm": 126,
-          "overall_length_cm": 509,
-          "overall_width_cm": 188,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1430,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "COUGAR BASE": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 156,
-          "back_length_cm": 108,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 66,
-          "max_width_cm": 110,
-          "front_overhang_cm": 111,
-          "rear_overhang_cm": 127,
-          "overall_length_cm": 502,
-          "overall_width_cm": 181,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1399,
-          "weight_distribution_pct": "56/44"
-        },
-        "1986": "<default>"
-      }
+      ]
     },
     "COUGAR LS": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 156,
-          "back_length_cm": 108,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 66,
-          "max_width_cm": 110,
-          "front_overhang_cm": 111,
-          "rear_overhang_cm": 127,
-          "overall_length_cm": 502,
-          "overall_width_cm": 181,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1413,
-          "weight_distribution_pct": "56/44"
-        },
-        "1986": {
-          "hood_length_cm": 156,
-          "back_length_cm": 108,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 66,
-          "max_width_cm": 110,
-          "front_overhang_cm": 111,
-          "rear_overhang_cm": 127,
-          "overall_length_cm": 502,
-          "overall_width_cm": 181,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1417,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     },
     "COUGAR XR-7": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 156,
-          "back_length_cm": 108,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 66,
-          "max_width_cm": 110,
-          "front_overhang_cm": 111,
-          "rear_overhang_cm": 127,
-          "overall_length_cm": 502,
-          "overall_width_cm": 181,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1406,
-          "weight_distribution_pct": "56/44"
-        },
-        "1986": {
-          "hood_length_cm": 156,
-          "back_length_cm": 108,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 66,
-          "max_width_cm": 110,
-          "front_overhang_cm": 111,
-          "rear_overhang_cm": 127,
-          "overall_length_cm": 502,
-          "overall_width_cm": 181,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1432,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "COUGAR LS 2 DR COUPE": {
       "years": [
         1987,
         1988,
         1989
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 166,
-          "back_length_cm": 95,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 68,
-          "max_width_cm": 110,
-          "front_overhang_cm": 114,
-          "rear_overhang_cm": 133,
-          "overall_length_cm": 510,
-          "overall_width_cm": 181,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1421,
-          "weight_distribution_pct": "56/44"
-        },
-        "1988": {
-          "hood_length_cm": 166,
-          "back_length_cm": 95,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 68,
-          "max_width_cm": 110,
-          "front_overhang_cm": 114,
-          "rear_overhang_cm": 133,
-          "overall_length_cm": 510,
-          "overall_width_cm": 181,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1468,
-          "weight_distribution_pct": "56/44"
-        },
-        "1989": {
-          "hood_length_cm": 147,
-          "back_length_cm": 95,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 117,
-          "front_overhang_cm": 108,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 505,
-          "overall_width_cm": 185,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 287,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1612,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "COUGAR XR-7 2 DR COUPE": {
       "years": [
         1987,
         1988,
         1989
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 166,
-          "back_length_cm": 95,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 68,
-          "max_width_cm": 110,
-          "front_overhang_cm": 114,
-          "rear_overhang_cm": 133,
-          "overall_length_cm": 510,
-          "overall_width_cm": 181,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1522,
-          "weight_distribution_pct": "58/42"
-        },
-        "1988": {
-          "hood_length_cm": 166,
-          "back_length_cm": 95,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 68,
-          "max_width_cm": 110,
-          "front_overhang_cm": 114,
-          "rear_overhang_cm": 133,
-          "overall_length_cm": 510,
-          "overall_width_cm": 181,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1581,
-          "weight_distribution_pct": "56/44"
-        },
-        "1989": {
-          "hood_length_cm": 145,
-          "back_length_cm": 96,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 70,
-          "max_width_cm": 117,
-          "front_overhang_cm": 107,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 505,
-          "overall_width_cm": 185,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 287,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1687,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "COUGAR LS/XR7 2DR COUPE": {
       "years": [
@@ -1411,78 +189,7 @@
         1991,
         1992,
         1993
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 145,
-          "back_length_cm": 95,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 71,
-          "max_width_cm": 117,
-          "front_overhang_cm": 107,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 505,
-          "overall_width_cm": 185,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 287,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1640,
-          "weight_distribution_pct": "57/43"
-        },
-        "1991": {
-          "hood_length_cm": 145,
-          "back_length_cm": 95,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 71,
-          "max_width_cm": 117,
-          "front_overhang_cm": 107,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 505,
-          "overall_width_cm": 185,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 287,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1640,
-          "weight_distribution_pct": "57/43"
-        },
-        "1992": {
-          "hood_length_cm": 145,
-          "back_length_cm": 95,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 71,
-          "max_width_cm": 117,
-          "front_overhang_cm": 107,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 505,
-          "overall_width_cm": 185,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 287,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1640,
-          "weight_distribution_pct": "57/43"
-        },
-        "1993": {
-          "hood_length_cm": 145,
-          "back_length_cm": 95,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 71,
-          "max_width_cm": 117,
-          "front_overhang_cm": 107,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 508,
-          "overall_width_cm": 185,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 287,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1724,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "COUGAR 2DR COUPE XR7": {
       "years": [
@@ -1490,128 +197,17 @@
         1995,
         1996,
         1997
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 149,
-          "back_length_cm": 96,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 70,
-          "max_width_cm": 117,
-          "front_overhang_cm": 109,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 508,
-          "overall_width_cm": 185,
-          "overall_height_cm": 133,
-          "wheelbase_cm": 287,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1690,
-          "weight_distribution_pct": "57/43"
-        },
-        "1995": {
-          "hood_length_cm": 149,
-          "back_length_cm": 96,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 70,
-          "max_width_cm": 117,
-          "front_overhang_cm": 109,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 508,
-          "overall_width_cm": 185,
-          "overall_height_cm": 133,
-          "wheelbase_cm": 287,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1690,
-          "weight_distribution_pct": "59/41"
-        },
-        "1996": {
-          "hood_length_cm": 149,
-          "back_length_cm": 94,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 69,
-          "max_width_cm": 117,
-          "front_overhang_cm": 109,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 508,
-          "overall_width_cm": 185,
-          "overall_height_cm": 133,
-          "wheelbase_cm": 287,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1665,
-          "weight_distribution_pct": "59/41"
-        },
-        "1997": {
-          "hood_length_cm": 149,
-          "back_length_cm": 94,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 69,
-          "max_width_cm": 117,
-          "front_overhang_cm": 109,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 508,
-          "overall_width_cm": 185,
-          "overall_height_cm": 133,
-          "wheelbase_cm": 287,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1665,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "COUGAR 2DR HATCHBACK": {
       "years": [
         1999
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 151,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 71,
-          "max_width_cm": 114,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 470,
-          "overall_width_cm": 177,
-          "overall_height_cm": 133,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1283,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "COUGAR 2DR HATCHBACK V6": {
       "years": [
         1999
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 151,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 71,
-          "max_width_cm": 114,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 470,
-          "overall_width_cm": 177,
-          "overall_height_cm": 133,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1334,
-          "weight_distribution_pct": "63/35"
-        }
-      }
+      ]
     }
   },
   "Tracer": {
@@ -1619,194 +215,37 @@
       "years": [
         1987,
         1988
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 97,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 104,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 86,
-          "overall_length_cm": 412,
-          "overall_width_cm": 165,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 240,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 955,
-          "weight_distribution_pct": "61/39"
-        },
-        "1988": {
-          "hood_length_cm": 123,
-          "back_length_cm": 97,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 104,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 86,
-          "overall_length_cm": 412,
-          "overall_width_cm": 166,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 240,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 991,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "TRACER LS/GS/LS 2 DR HATCHBACK": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 97,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 104,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 86,
-          "overall_length_cm": 412,
-          "overall_width_cm": 165,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 240,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 955,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "TRACER L/LS/GS 2 DR HATCHBACK": {
       "years": [
         1988
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 97,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 104,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 86,
-          "overall_length_cm": 412,
-          "overall_width_cm": 166,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 240,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 979,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "TRACER LS WAGON": {
       "years": [
         1988
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 195,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 69,
-          "max_width_cm": 106,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 431,
-          "overall_width_cm": 166,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 241,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1012,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "TRACER 2 DR HATCHBACK": {
       "years": [
         1989
-      ],
-      "details": {
-        "1989": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 97,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 104,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 86,
-          "overall_length_cm": 412,
-          "overall_width_cm": 166,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 241,
-          "front_track_width_cm": 139,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 979,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "TRACER 4 DR HATCHBACK": {
       "years": [
         1989
-      ],
-      "details": {
-        "1989": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 97,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 104,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 86,
-          "overall_length_cm": 412,
-          "overall_width_cm": 166,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 241,
-          "front_track_width_cm": 139,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 991,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "TRACER WAGON": {
       "years": [
         1989
-      ],
-      "details": {
-        "1989": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 195,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 69,
-          "max_width_cm": 106,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 431,
-          "overall_width_cm": 166,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 241,
-          "front_track_width_cm": 139,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 1012,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "TRACER BASE/LTS 4DR SEDAN": {
       "years": [
@@ -1814,78 +253,7 @@
         1991,
         1992,
         1993
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 434,
-          "overall_width_cm": 170,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1030,
-          "weight_distribution_pct": "61/39"
-        },
-        "1991": {
-          "hood_length_cm": 114,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 68,
-          "max_width_cm": 113,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 434,
-          "overall_width_cm": 170,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1030,
-          "weight_distribution_pct": "60/40"
-        },
-        "1992": {
-          "hood_length_cm": 114,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 68,
-          "max_width_cm": 113,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 434,
-          "overall_width_cm": 170,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1030,
-          "weight_distribution_pct": "60/40"
-        },
-        "1993": {
-          "hood_length_cm": 114,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 68,
-          "max_width_cm": 113,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 434,
-          "overall_width_cm": 170,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1030,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     }
   },
   "Mystique": {
@@ -1896,95 +264,7 @@
         1997,
         1998,
         1999
-      ],
-      "details": {
-        "1995": "<default>",
-        "<default>": {
-          "hood_length_cm": 120,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 68,
-          "max_width_cm": 110,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 467,
-          "overall_width_cm": 176,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1280,
-          "weight_distribution_pct": "65/35"
-        },
-        "1996": {
-          "hood_length_cm": 120,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 68,
-          "max_width_cm": 110,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 466,
-          "overall_width_cm": 176,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1303,
-          "weight_distribution_pct": "65/35"
-        },
-        "1997": {
-          "hood_length_cm": 120,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 68,
-          "max_width_cm": 110,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 466,
-          "overall_width_cm": 176,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1303,
-          "weight_distribution_pct": "65/35"
-        },
-        "1998": {
-          "hood_length_cm": 124,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 68,
-          "max_width_cm": 110,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 469,
-          "overall_width_cm": 176,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 271,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1276,
-          "weight_distribution_pct": "65/35"
-        },
-        "1999": {
-          "hood_length_cm": 124,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 68,
-          "max_width_cm": 110,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 469,
-          "overall_width_cm": 176,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 271,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1276,
-          "weight_distribution_pct": "65/35"
-        }
-      }
+      ]
     }
   },
   "Capri": {
@@ -1992,130 +272,19 @@
       "years": [
         1981,
         1982
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 156,
-          "back_length_cm": 59,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 64,
-          "max_width_cm": 116,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 92,
-          "overall_length_cm": 455,
-          "overall_width_cm": 176,
-          "overall_height_cm": 131,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1200,
-          "weight_distribution_pct": null
-        },
-        "1982": {
-          "hood_length_cm": 156,
-          "back_length_cm": 59,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 64,
-          "max_width_cm": 116,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 455,
-          "overall_width_cm": 176,
-          "overall_height_cm": 131,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1220,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "CAPRI GS": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 157,
-          "back_length_cm": 123,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 65,
-          "max_width_cm": 117,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 455,
-          "overall_width_cm": 175,
-          "overall_height_cm": 132,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1303,
-          "weight_distribution_pct": "56/44"
-        },
-        "1986": {
-          "hood_length_cm": 157,
-          "back_length_cm": 123,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 65,
-          "max_width_cm": 117,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 455,
-          "overall_width_cm": 175,
-          "overall_height_cm": 132,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1267,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "CAPRI RS": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 157,
-          "back_length_cm": 123,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 65,
-          "max_width_cm": 117,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 455,
-          "overall_width_cm": 175,
-          "overall_height_cm": 132,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1332,
-          "weight_distribution_pct": "58/42"
-        },
-        "1986": {
-          "hood_length_cm": 157,
-          "back_length_cm": 123,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 65,
-          "max_width_cm": 117,
-          "front_overhang_cm": 100,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 455,
-          "overall_width_cm": 175,
-          "overall_height_cm": 132,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1432,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     }
   },
   "Topaz": {
@@ -2123,706 +292,116 @@
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 71,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 67,
-          "max_width_cm": 105,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 448,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1102,
-          "weight_distribution_pct": "62/38"
-        },
-        "1986": {
-          "hood_length_cm": 128,
-          "back_length_cm": 70,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 70,
-          "max_width_cm": 104,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 448,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1118,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "TOPAZ GS 4 DR": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 71,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 67,
-          "max_width_cm": 105,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 448,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1127,
-          "weight_distribution_pct": "62/38"
-        },
-        "1986": {
-          "hood_length_cm": 127,
-          "back_length_cm": 72,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 67,
-          "max_width_cm": 106,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 448,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1107,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "TOPAZ L 2 DR": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 71,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 67,
-          "max_width_cm": 105,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 448,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1080,
-          "weight_distribution_pct": "62/38"
-        },
-        "1986": {
-          "hood_length_cm": 128,
-          "back_length_cm": 70,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 70,
-          "max_width_cm": 104,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 448,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1107,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "TOPAZ L 4 DR": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 71,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 67,
-          "max_width_cm": 105,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 448,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1105,
-          "weight_distribution_pct": "62/38"
-        },
-        "1986": {
-          "hood_length_cm": 127,
-          "back_length_cm": 72,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 67,
-          "max_width_cm": 106,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 448,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1107,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "TOPAZ LS 2 DR": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 71,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 67,
-          "max_width_cm": 105,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 448,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1112,
-          "weight_distribution_pct": "62/38"
-        },
-        "1986": {
-          "hood_length_cm": 128,
-          "back_length_cm": 70,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 70,
-          "max_width_cm": 104,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 448,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1107,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "TOPAZ LS 4 DR": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 71,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 67,
-          "max_width_cm": 105,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 448,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1137,
-          "weight_distribution_pct": "62/38"
-        },
-        "1986": {
-          "hood_length_cm": 127,
-          "back_length_cm": 72,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 67,
-          "max_width_cm": 106,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 448,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1148,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "TOPAZ GS 2 DR COUPE": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 129,
-          "back_length_cm": 71,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 70,
-          "max_width_cm": 104,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 450,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1135,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "TOPAZ GS 4 DR SEDAN": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 67,
-          "max_width_cm": 106,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 450,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1160,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "TOPAZ L 2 DR COUPE": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 129,
-          "back_length_cm": 71,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 70,
-          "max_width_cm": 104,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 450,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1135,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "TOPAZ L 4 DR SEDAN": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 67,
-          "max_width_cm": 106,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 450,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1160,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "TOPAZ LS 4 DR SEDAN": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 67,
-          "max_width_cm": 106,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 450,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1160,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "TOPAZ L/GS/LS/LTS 4 DR SEDAN": {
       "years": [
         1988,
         1989
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 68,
-          "max_width_cm": 105,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 450,
-          "overall_width_cm": 170,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1182,
-          "weight_distribution_pct": "63/37"
-        },
-        "1989": {
-          "hood_length_cm": 131,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 71,
-          "max_width_cm": 105,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 450,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1182,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "TOPAZ L/GS/XR5 2 DR COUPE": {
       "years": [
         1988,
         1989
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 72,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 68,
-          "max_width_cm": 105,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 449,
-          "overall_width_cm": 174,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1163,
-          "weight_distribution_pct": "63/37"
-        },
-        "1989": {
-          "hood_length_cm": 131,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 71,
-          "max_width_cm": 105,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 449,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1164,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "TOPAZ L/GS/LS/LTS 4DR SEDAN": {
       "years": [
         1990,
         1991
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 69,
-          "max_width_cm": 106,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 450,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1183,
-          "weight_distribution_pct": "61/39"
-        },
-        "1991": {
-          "hood_length_cm": 126,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 69,
-          "max_width_cm": 106,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 450,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1183,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "TOPAZ L/GS/XR5 2DR SEDAN": {
       "years": [
         1990,
         1991
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 69,
-          "max_width_cm": 106,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 449,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1157,
-          "weight_distribution_pct": "61/39"
-        },
-        "1991": {
-          "hood_length_cm": 126,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 69,
-          "max_width_cm": 106,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 449,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1157,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "TOPAZ GS/LS/LTS 4DR SEDAN": {
       "years": [
         1992
-      ],
-      "details": {
-        "1992": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 69,
-          "max_width_cm": 106,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 450,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1183,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "TOPAZ GS/XR5 2DR SEDAN": {
       "years": [
         1992
-      ],
-      "details": {
-        "1992": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 69,
-          "max_width_cm": 106,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 449,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1157,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "TOPAZ GS 2DR SEDAN": {
       "years": [
         1993
-      ],
-      "details": {
-        "1993": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 69,
-          "max_width_cm": 106,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 449,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1157,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "TOPAZ GS/LS 4DR SEDAN": {
       "years": [
         1993
-      ],
-      "details": {
-        "1993": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 69,
-          "max_width_cm": 106,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 450,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1183,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "TOPAZ 2DR COUPE GS": {
       "years": [
         1994
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 69,
-          "max_width_cm": 106,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 449,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": 139,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1148,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "TOPAZ 4DR SEDAN GS/LS": {
       "years": [
         1994
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 69,
-          "max_width_cm": 106,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 450,
-          "overall_width_cm": 173,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 254,
-          "front_track_width_cm": 139,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1173,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     }
   },
   "Lynx": {
@@ -2830,388 +409,55 @@
       "years": [
         1981,
         1982
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 125,
-          "back_length_cm": 28,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 72,
-          "max_width_cm": 113,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 416,
-          "overall_width_cm": 167,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 239,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 910,
-          "weight_distribution_pct": null
-        },
-        "1982": {
-          "hood_length_cm": 125,
-          "back_length_cm": 28,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 72,
-          "max_width_cm": 113,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 416,
-          "overall_width_cm": 167,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 239,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 920,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "LYNX 5 DR": {
       "years": [
         1981,
         1982
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 26,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 72,
-          "max_width_cm": 113,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 419,
-          "overall_width_cm": 167,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 239,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 955,
-          "weight_distribution_pct": null
-        },
-        "1982": {
-          "hood_length_cm": 127,
-          "back_length_cm": 26,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 72,
-          "max_width_cm": 113,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 416,
-          "overall_width_cm": 167,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 239,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 950,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "LYNX WAGON": {
       "years": [
         1981,
         1982
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 72,
-          "max_width_cm": 113,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 419,
-          "overall_width_cm": 167,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 239,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 955,
-          "weight_distribution_pct": null
-        },
-        "1982": {
-          "hood_length_cm": 127,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 72,
-          "max_width_cm": 113,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 419,
-          "overall_width_cm": 167,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 239,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 960,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "LYNX GS 2 DR": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 95,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 67,
-          "max_width_cm": 112,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 416,
-          "overall_width_cm": 167,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 239,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 976,
-          "weight_distribution_pct": "63/37"
-        },
-        "1986": {
-          "hood_length_cm": 131,
-          "back_length_cm": 108,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 67,
-          "max_width_cm": 103,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 424,
-          "overall_width_cm": 167,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 239,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1043,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "LYNX GS 4 DR": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 95,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 67,
-          "max_width_cm": 112,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 416,
-          "overall_width_cm": 167,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 239,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1006,
-          "weight_distribution_pct": "63/37"
-        },
-        "1986": {
-          "hood_length_cm": 133,
-          "back_length_cm": 105,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 70,
-          "max_width_cm": 113,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 424,
-          "overall_width_cm": 167,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 239,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1043,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "LYNX GS WAGON": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 133,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 67,
-          "max_width_cm": 112,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 419,
-          "overall_width_cm": 167,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 239,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1013,
-          "weight_distribution_pct": null
-        },
-        "1986": {
-          "hood_length_cm": 133,
-          "back_length_cm": 183,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 70,
-          "max_width_cm": 113,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 427,
-          "overall_width_cm": 167,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 239,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1053,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "LYNX L 2 DR": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 95,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 67,
-          "max_width_cm": 112,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 416,
-          "overall_width_cm": 167,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 239,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 945,
-          "weight_distribution_pct": "63/37"
-        },
-        "1986": {
-          "hood_length_cm": 131,
-          "back_length_cm": 108,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 67,
-          "max_width_cm": 103,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 424,
-          "overall_width_cm": 167,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 239,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 983,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "LYNX L 4 DR": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 95,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 67,
-          "max_width_cm": 112,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 416,
-          "overall_width_cm": 167,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 239,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 974,
-          "weight_distribution_pct": "63/37"
-        },
-        "1986": {
-          "hood_length_cm": 133,
-          "back_length_cm": 105,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 67,
-          "max_width_cm": 113,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 424,
-          "overall_width_cm": 167,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 239,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1006,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "LYNX L WAGON": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 133,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 67,
-          "max_width_cm": 112,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 419,
-          "overall_width_cm": 167,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 239,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 985,
-          "weight_distribution_pct": null
-        },
-        "1986": {
-          "hood_length_cm": 133,
-          "back_length_cm": 183,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 70,
-          "max_width_cm": 113,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 427,
-          "overall_width_cm": 167,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 239,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1020,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "MARQUIS": {
@@ -3219,302 +465,62 @@
       "years": [
         1981,
         1982
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 170,
-          "back_length_cm": 105,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 73,
-          "max_width_cm": 130,
-          "front_overhang_cm": 110,
-          "rear_overhang_cm": 138,
-          "overall_length_cm": 539,
-          "overall_width_cm": 197,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1679,
-          "weight_distribution_pct": null
-        },
-        "1982": "<default>"
-      }
+      ]
     },
     "MARQUIS 4 DR": {
       "years": [
         1981,
         1982
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 170,
-          "back_length_cm": 101,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 73,
-          "max_width_cm": 130,
-          "front_overhang_cm": 110,
-          "rear_overhang_cm": 138,
-          "overall_length_cm": 539,
-          "overall_width_cm": 197,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1679,
-          "weight_distribution_pct": null
-        },
-        "1982": "<default>"
-      }
+      ]
     },
     "MARQUIS WAGON": {
       "years": [
         1982
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 170,
-          "back_length_cm": 252,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 71,
-          "max_width_cm": 129,
-          "front_overhang_cm": 105,
-          "rear_overhang_cm": 126,
-          "overall_length_cm": 554,
-          "overall_width_cm": 197,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1778,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "MARQUIS BASE 4 DR": {
       "years": [
         1985
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 156,
-          "back_length_cm": 84,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 67,
-          "max_width_cm": 124,
-          "front_overhang_cm": 105,
-          "rear_overhang_cm": 126,
-          "overall_length_cm": 499,
-          "overall_width_cm": 180,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1361,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     },
     "MARQUIS LTS 4 DR": {
       "years": [
         1985
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 156,
-          "back_length_cm": 84,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 67,
-          "max_width_cm": 124,
-          "front_overhang_cm": 105,
-          "rear_overhang_cm": 126,
-          "overall_length_cm": 499,
-          "overall_width_cm": 180,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1496,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "MARQUIS STATION WAGON": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 156,
-          "back_length_cm": 161,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 67,
-          "max_width_cm": 124,
-          "front_overhang_cm": 105,
-          "rear_overhang_cm": 126,
-          "overall_length_cm": 499,
-          "overall_width_cm": 180,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1413,
-          "weight_distribution_pct": null
-        },
-        "1986": "<default>"
-      }
+      ]
     },
     "MARQUIS BASE/BROUGHAM 4 DR": {
       "years": [
         1986
-      ],
-      "details": {
-        "1986": "<default>",
-        "<default>": {
-          "hood_length_cm": 156,
-          "back_length_cm": 84,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 67,
-          "max_width_cm": 124,
-          "front_overhang_cm": 105,
-          "rear_overhang_cm": 126,
-          "overall_length_cm": 499,
-          "overall_width_cm": 180,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1329,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     }
   },
   "Zephyr": {
     "ZEPHYR  Z-7": {
       "years": [
         1981
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 151,
-          "back_length_cm": 109,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 69,
-          "max_width_cm": 126,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 127,
-          "overall_length_cm": 501,
-          "overall_width_cm": 180,
-          "overall_height_cm": 131,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1261,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "ZEPHYR 4 DR": {
       "years": [
         1981,
         1982
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 151,
-          "back_length_cm": 96,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 70,
-          "max_width_cm": 124,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 123,
-          "overall_length_cm": 497,
-          "overall_width_cm": 180,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1239,
-          "weight_distribution_pct": null
-        },
-        "1982": {
-          "hood_length_cm": 151,
-          "back_length_cm": 99,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 69,
-          "max_width_cm": 126,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 127,
-          "overall_length_cm": 497,
-          "overall_width_cm": 180,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1250,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "ZEPHYR WAGON": {
       "years": [
         1981
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 150,
-          "back_length_cm": 220,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 70,
-          "max_width_cm": 124,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 140,
-          "overall_length_cm": 497,
-          "overall_width_cm": 180,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1336,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "ZEPHYR Z-7": {
       "years": [
         1982
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 151,
-          "back_length_cm": 109,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 69,
-          "max_width_cm": 120,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 127,
-          "overall_length_cm": 501,
-          "overall_width_cm": 180,
-          "overall_height_cm": 133,
-          "wheelbase_cm": 268,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1250,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "Marauder": {},

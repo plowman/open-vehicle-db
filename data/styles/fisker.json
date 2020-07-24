@@ -3,52 +3,12 @@
     "KARMA": {
       "years": [
         2012
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 165,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 74,
-          "max_width_cm": 114,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 500,
-          "overall_width_cm": 198,
-          "overall_height_cm": 133,
-          "wheelbase_cm": 316,
-          "front_track_width_cm": 169,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2404,
-          "weight_distribution_pct": "47/53"
-        }
-      }
+      ]
     },
     "KARMA 4DR SEDAN": {
       "years": [
         2013
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 165,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 74,
-          "max_width_cm": 114,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 500,
-          "overall_width_cm": 198,
-          "overall_height_cm": 133,
-          "wheelbase_cm": 316,
-          "front_track_width_cm": 169,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2404,
-          "weight_distribution_pct": "47/53"
-        }
-      }
+      ]
     }
   }
 }

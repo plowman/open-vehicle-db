@@ -8,80 +8,7 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 201,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 92,
-          "max_width_cm": 156,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 473,
-          "overall_width_cm": 206,
-          "overall_height_cm": 208,
-          "wheelbase_cm": 313,
-          "front_track_width_cm": 175,
-          "rear_track_width_cm": 177,
-          "curb_weight_kg": 2909,
-          "weight_distribution_pct": "54/46"
-        },
-        "2006": "<default>",
-        "2007": "<default>",
-        "2008": {
-          "hood_length_cm": 123,
-          "back_length_cm": 205,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 93,
-          "max_width_cm": 158,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 86,
-          "overall_length_cm": 482,
-          "overall_width_cm": 206,
-          "overall_height_cm": 201,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": 174,
-          "rear_track_width_cm": 177,
-          "curb_weight_kg": 3017,
-          "weight_distribution_pct": "54/46"
-        },
-        "2009": {
-          "hood_length_cm": 123,
-          "back_length_cm": 205,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 93,
-          "max_width_cm": 158,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 86,
-          "overall_length_cm": 482,
-          "overall_width_cm": 206,
-          "overall_height_cm": 201,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": 174,
-          "rear_track_width_cm": 177,
-          "curb_weight_kg": 3017,
-          "weight_distribution_pct": "54/46"
-        },
-        "2010": {
-          "hood_length_cm": 123,
-          "back_length_cm": 205,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 93,
-          "max_width_cm": 158,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 86,
-          "overall_length_cm": 482,
-          "overall_width_cm": 206,
-          "overall_height_cm": 201,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": 174,
-          "rear_track_width_cm": 177,
-          "curb_weight_kg": 3017,
-          "weight_distribution_pct": "54/46"
-        }
-      }
+      ]
     },
     "H2 SUT P/U REG CAB S/BOX 4WD": {
       "years": [
@@ -89,57 +16,13 @@
         2006,
         2007,
         2008
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": 125,
-          "back_length_cm": 224,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 90,
-          "max_width_cm": 154,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 84,
-          "overall_length_cm": 479,
-          "overall_width_cm": 206,
-          "overall_height_cm": 189,
-          "wheelbase_cm": 310,
-          "front_track_width_cm": 175,
-          "rear_track_width_cm": 177,
-          "curb_weight_kg": 2902,
-          "weight_distribution_pct": "54/46"
-        },
-        "2006": "<default>",
-        "2007": "<default>",
-        "2008": "<default>"
-      }
+      ]
     },
     "H2 4DR PICKUP 4WD": {
       "years": [
         2009,
         2010
-      ],
-      "details": {
-        "2009": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 482,
-          "overall_width_cm": 206,
-          "overall_height_cm": 201,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 3006,
-          "weight_distribution_pct": null
-        },
-        "2010": "<default>"
-      }
+      ]
     }
   },
   "H3": {
@@ -147,28 +30,7 @@
       "years": [
         2005,
         2006
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 185,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 85,
-          "max_width_cm": 107,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 463,
-          "overall_width_cm": 190,
-          "overall_height_cm": 189,
-          "wheelbase_cm": 284,
-          "front_track_width_cm": 165,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 2132,
-          "weight_distribution_pct": "50/50"
-        },
-        "2006": "<default>"
-      }
+      ]
     },
     "H3 4DR SUV 4WD /X": {
       "years": [
@@ -176,86 +38,20 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 185,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 85,
-          "max_width_cm": 107,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 463,
-          "overall_width_cm": 190,
-          "overall_height_cm": 189,
-          "wheelbase_cm": 284,
-          "front_track_width_cm": 165,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 2132,
-          "weight_distribution_pct": "50/50"
-        },
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>"
-      }
+      ]
     },
     "H3 4DR SUV 4WD ALPHA": {
       "years": [
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 185,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 85,
-          "max_width_cm": 107,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 463,
-          "overall_width_cm": 190,
-          "overall_height_cm": 189,
-          "wheelbase_cm": 284,
-          "front_track_width_cm": 165,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 2206,
-          "weight_distribution_pct": "50/50"
-        },
-        "2009": "<default>",
-        "2010": "<default>"
-      }
+      ]
     },
     "H3T 4DR PICKUP 4WD": {
       "years": [
         2009,
         2010
-      ],
-      "details": {
-        "2009": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 287,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 86,
-          "max_width_cm": 130,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 118,
-          "overall_length_cm": 540,
-          "overall_width_cm": 191,
-          "overall_height_cm": 183,
-          "wheelbase_cm": 341,
-          "front_track_width_cm": 165,
-          "rear_track_width_cm": 166,
-          "curb_weight_kg": 2232,
-          "weight_distribution_pct": null
-        },
-        "2010": "<default>"
-      }
+      ]
     }
   },
   "H3T": {
@@ -263,80 +59,19 @@
       "years": [
         2009,
         2010
-      ],
-      "details": {
-        "2009": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 287,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 86,
-          "max_width_cm": 130,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 118,
-          "overall_length_cm": 540,
-          "overall_width_cm": 191,
-          "overall_height_cm": 183,
-          "wheelbase_cm": 341,
-          "front_track_width_cm": 165,
-          "rear_track_width_cm": 166,
-          "curb_weight_kg": 2232,
-          "weight_distribution_pct": null
-        },
-        "2010": "<default>"
-      }
+      ]
     }
   },
   "H1": {
     "H1 OPEN TOP 4DR SUV 4WD": {
       "years": [
         2005
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": 154,
-          "back_length_cm": 216,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 202,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 81,
-          "overall_length_cm": 476,
-          "overall_width_cm": 257,
-          "overall_height_cm": 196,
-          "wheelbase_cm": 330,
-          "front_track_width_cm": 182,
-          "rear_track_width_cm": 181,
-          "curb_weight_kg": 3271,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "H1 WAGON 4DR SUV 4WD": {
       "years": [
         2005
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": 154,
-          "back_length_cm": 216,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 82,
-          "max_width_cm": 202,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 81,
-          "overall_length_cm": 476,
-          "overall_width_cm": 257,
-          "overall_height_cm": 190,
-          "wheelbase_cm": 330,
-          "front_track_width_cm": 182,
-          "rear_track_width_cm": 181,
-          "curb_weight_kg": 3428,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   }
 }

@@ -4,248 +4,49 @@
       "years": [
         2001,
         2002
-      ],
-      "details": {
-        "2001": "<default>",
-        "<default>": {
-          "hood_length_cm": 108,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 422,
-          "overall_width_cm": 168,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 241,
-          "front_track_width_cm": 143,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 944,
-          "weight_distribution_pct": null
-        },
-        "2002": {
-          "hood_length_cm": 111,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 76,
-          "max_width_cm": 109,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 96,
-          "overall_length_cm": 422,
-          "overall_width_cm": 168,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 241,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 977,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "RIO RX-V/RX-V SPORT 4DR HATCH FWD": {
       "years": [
         2002
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 111,
-          "back_length_cm": 129,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 76,
-          "max_width_cm": 109,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 96,
-          "overall_length_cm": 422,
-          "overall_width_cm": 168,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 241,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 997,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "RIO 4DR SEDAN S/RS/LS AT": {
       "years": [
         2003
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 111,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 76,
-          "max_width_cm": 109,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 96,
-          "overall_length_cm": 421,
-          "overall_width_cm": 168,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 241,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1090,
-          "weight_distribution_pct": "64/36"
-        }
-      }
+      ]
     },
     "RIO RX-V/RX-V CONV 4DR HATCH FWD": {
       "years": [
         2003
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 111,
-          "back_length_cm": 129,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 76,
-          "max_width_cm": 109,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 96,
-          "overall_length_cm": 421,
-          "overall_width_cm": 168,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 241,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1110,
-          "weight_distribution_pct": "64/36"
-        }
-      }
+      ]
     },
     "RIO 4DR HATCH FWD /RX-V/RX-V CONV": {
       "years": [
         2004,
         2005
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 111,
-          "back_length_cm": 129,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 76,
-          "max_width_cm": 109,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 96,
-          "overall_length_cm": 421,
-          "overall_width_cm": 168,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 241,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1110,
-          "weight_distribution_pct": "64/36"
-        },
-        "2005": "<default>"
-      }
+      ]
     },
     "RIO 4DR SEDAN FWD /S/RS/LS": {
       "years": [
         2004,
         2005
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 111,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 76,
-          "max_width_cm": 109,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 96,
-          "overall_length_cm": 421,
-          "overall_width_cm": 168,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 241,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1090,
-          "weight_distribution_pct": "64/36"
-        },
-        "2005": "<default>"
-      }
+      ]
     },
     "RIO 4DR SEDAN FWD": {
       "years": [
         2006
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 104,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 78,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 424,
-          "overall_width_cm": 170,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1104,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "RIO5 4DR HATCH FWD": {
       "years": [
         2006
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 104,
-          "back_length_cm": 123,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 100,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 68,
-          "overall_length_cm": 399,
-          "overall_width_cm": 170,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1114,
-          "weight_distribution_pct": "63/38"
-        }
-      }
+      ]
     },
     "RIO 4DR SEDAN FWD EX/EX CONVENIENCE/EX PREMIU": {
       "years": [
         2007
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 104,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 78,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 424,
-          "overall_width_cm": 170,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1104,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "RIO5 4DR HATCH FWD EX/EX CONVENIENCE/EX SPORT": {
       "years": [
@@ -254,47 +55,7 @@
         2009,
         2010,
         2011
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 104,
-          "back_length_cm": 123,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 100,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 68,
-          "overall_length_cm": 399,
-          "overall_width_cm": 170,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1114,
-          "weight_distribution_pct": "63/38"
-        },
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>",
-        "2011": {
-          "hood_length_cm": 104,
-          "back_length_cm": 123,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 100,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 68,
-          "overall_length_cm": 399,
-          "overall_width_cm": 170,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1114,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "RIO 4DR SEDAN FWD EX/EX CONVENIENCE": {
       "years": [
@@ -302,216 +63,39 @@
         2009,
         2010,
         2011
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 104,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 78,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 424,
-          "overall_width_cm": 170,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1104,
-          "weight_distribution_pct": "63/37"
-        },
-        "2009": "<default>",
-        "2010": "<default>",
-        "2011": "<default>"
-      }
+      ]
     },
     "RIO 4DR SEDAN FWD LX/LX+/EX/EX LUXURY": {
       "years": [
         2012
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 94,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 79,
-          "max_width_cm": 109,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 436,
-          "overall_width_cm": 172,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1179,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "RIO 5DR HATCHBACK FWD LX/LX+/EX/EX LUXURY": {
       "years": [
         2012
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 94,
-          "back_length_cm": 121,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 80,
-          "max_width_cm": 108,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 67,
-          "overall_length_cm": 405,
-          "overall_width_cm": 172,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1179,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "RIO 4DR SEDAN FWD LX/LX+/EX/SX": {
       "years": [
         2013
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 94,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 79,
-          "max_width_cm": 109,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 436,
-          "overall_width_cm": 172,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1126,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "RIO 5DR HATCHBACK FWD LX/LX+/EX/SX": {
       "years": [
         2013
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 94,
-          "back_length_cm": 121,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 80,
-          "max_width_cm": 108,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 67,
-          "overall_length_cm": 405,
-          "overall_width_cm": 172,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1126,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "RIO 4DR SEDAN FWD LX/EX/SX": {
       "years": [
         2014,
         2015
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 94,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 79,
-          "max_width_cm": 109,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 436,
-          "overall_width_cm": 172,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1167,
-          "weight_distribution_pct": "63/37"
-        },
-        "2015": {
-          "hood_length_cm": 94,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 79,
-          "max_width_cm": 109,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 436,
-          "overall_width_cm": 172,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1131,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "RIO 5DR HATCHBACK FWD LX/EX/SX": {
       "years": [
         2014,
         2015
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 94,
-          "back_length_cm": 121,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 80,
-          "max_width_cm": 108,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 67,
-          "overall_length_cm": 405,
-          "overall_width_cm": 172,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1163,
-          "weight_distribution_pct": "63/37"
-        },
-        "2015": {
-          "hood_length_cm": 94,
-          "back_length_cm": 121,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 80,
-          "max_width_cm": 108,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 67,
-          "overall_length_cm": 405,
-          "overall_width_cm": 172,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1124,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "RIO 4DR SEDAN": {
       "years": [
@@ -519,259 +103,46 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 94,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 79,
-          "max_width_cm": 109,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 436,
-          "overall_width_cm": 172,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1131,
-          "weight_distribution_pct": "63/37"
-        },
-        "2017": "<default>",
-        "2018": {
-          "hood_length_cm": 108,
-          "back_length_cm": 48,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 81,
-          "max_width_cm": 109,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 439,
-          "overall_width_cm": 173,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1201,
-          "weight_distribution_pct": "57/43"
-        },
-        "2019": {
-          "hood_length_cm": 108,
-          "back_length_cm": 48,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 81,
-          "max_width_cm": 109,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 439,
-          "overall_width_cm": 173,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1156,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "RIO 5DR HATCHBACK": {
       "years": [
         2016,
         2017
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 94,
-          "back_length_cm": 121,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 80,
-          "max_width_cm": 108,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 67,
-          "overall_length_cm": 405,
-          "overall_width_cm": 172,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1124,
-          "weight_distribution_pct": "63/37"
-        },
-        "2017": "<default>"
-      }
+      ]
     },
     "RIO 5DR HATCH": {
       "years": [
         2018,
         2019
-      ],
-      "details": {
-        "2018": "<default>",
-        "<default>": {
-          "hood_length_cm": 108,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 81,
-          "max_width_cm": 109,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 66,
-          "overall_length_cm": 407,
-          "overall_width_cm": 173,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1201,
-          "weight_distribution_pct": "57/43"
-        },
-        "2019": {
-          "hood_length_cm": 108,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 81,
-          "max_width_cm": 109,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 66,
-          "overall_length_cm": 407,
-          "overall_width_cm": 173,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 258,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1156,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     }
   },
   "Borrego": {
     "BORREGO 4DR SUV 4WD LX-V6/LX-V8": {
       "years": [
         2009
-      ],
-      "details": {
-        "2009": "<default>",
-        "<default>": {
-          "hood_length_cm": 120,
-          "back_length_cm": 190,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 84,
-          "max_width_cm": 123,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 488,
-          "overall_width_cm": 192,
-          "overall_height_cm": 177,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 2027,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "BORREGO 4DR SUV 4WD LX-V6": {
       "years": [
         2010
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 120,
-          "back_length_cm": 190,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 84,
-          "max_width_cm": 123,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 488,
-          "overall_width_cm": 192,
-          "overall_height_cm": 177,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 2023,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "BORREGO 4DR SUV 4WD LX-V8": {
       "years": [
         2010
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 120,
-          "back_length_cm": 190,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 84,
-          "max_width_cm": 123,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 488,
-          "overall_width_cm": 192,
-          "overall_height_cm": 177,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 2096,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "BORREGO 4DR SUV 4WD LX-V6/EX-V6 LUXURY": {
       "years": [
         2011
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 120,
-          "back_length_cm": 190,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 84,
-          "max_width_cm": 123,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 488,
-          "overall_width_cm": 192,
-          "overall_height_cm": 177,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 2023,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "BORREGO 4DR SUV 4WD LX-V8/EX-V8 LUXURY": {
       "years": [
         2011
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 120,
-          "back_length_cm": 190,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 84,
-          "max_width_cm": 123,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 488,
-          "overall_width_cm": 192,
-          "overall_height_cm": 177,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 2096,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     }
   },
   "Forte": {
@@ -781,57 +152,13 @@
         2011,
         2012,
         2013
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 54,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 77,
-          "max_width_cm": 112,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 453,
-          "overall_width_cm": 178,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1228,
-          "weight_distribution_pct": "62/38"
-        },
-        "2011": "<default>",
-        "2012": "<default>",
-        "2013": "<default>"
-      }
+      ]
     },
     "FORTE 4DR SEDAN SX": {
       "years": [
         2010,
         2011
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 54,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 77,
-          "max_width_cm": 112,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 453,
-          "overall_width_cm": 178,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1294,
-          "weight_distribution_pct": "62/38"
-        },
-        "2011": "<default>"
-      }
+      ]
     },
     "FORTE KOUP EX 2DR COUPE": {
       "years": [
@@ -839,424 +166,74 @@
         2011,
         2012,
         2013
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 77,
-          "max_width_cm": 118,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 448,
-          "overall_width_cm": 177,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1232,
-          "weight_distribution_pct": "63/37"
-        },
-        "2011": "<default>",
-        "2012": {
-          "hood_length_cm": 116,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 77,
-          "max_width_cm": 118,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 448,
-          "overall_width_cm": 177,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1270,
-          "weight_distribution_pct": "63/37"
-        },
-        "2013": {
-          "hood_length_cm": 116,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 77,
-          "max_width_cm": 118,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 448,
-          "overall_width_cm": 177,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1270,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "FORTE KOUP SX 2DR COUPE": {
       "years": [
         2010,
         2011
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 77,
-          "max_width_cm": 118,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 448,
-          "overall_width_cm": 177,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1297,
-          "weight_distribution_pct": "63/37"
-        },
-        "2011": "<default>"
-      }
+      ]
     },
     "FORTE5 4 DR HATCHBACK LX/EX": {
       "years": [
         2011,
         2012,
         2013
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 132,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 77,
-          "max_width_cm": 107,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 79,
-          "overall_length_cm": 434,
-          "overall_width_cm": 178,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1261,
-          "weight_distribution_pct": "62/38"
-        },
-        "2012": "<default>",
-        "2013": "<default>"
-      }
+      ]
     },
     "FORTE5 4 DR HATCHBACK SX": {
       "years": [
         2011,
         2014
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 132,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 77,
-          "max_width_cm": 107,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 79,
-          "overall_length_cm": 434,
-          "overall_width_cm": 178,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1261,
-          "weight_distribution_pct": "62/38"
-        },
-        "2014": {
-          "hood_length_cm": 107,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 79,
-          "max_width_cm": 111,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 77,
-          "overall_length_cm": 435,
-          "overall_width_cm": 178,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1381,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "FORTE 4DR SEDAN SX/SX LUXURY": {
       "years": [
         2012,
         2013
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 54,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 77,
-          "max_width_cm": 112,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 453,
-          "overall_width_cm": 178,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1339,
-          "weight_distribution_pct": "62/38"
-        },
-        "2013": {
-          "hood_length_cm": 116,
-          "back_length_cm": 54,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 77,
-          "max_width_cm": 112,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 453,
-          "overall_width_cm": 178,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1339,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "FORTE KOUP SX 2DR COUPE /SX LUXURY": {
       "years": [
         2012,
         2013
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 77,
-          "max_width_cm": 118,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 448,
-          "overall_width_cm": 177,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1315,
-          "weight_distribution_pct": "63/37"
-        },
-        "2013": {
-          "hood_length_cm": 116,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 77,
-          "max_width_cm": 118,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 448,
-          "overall_width_cm": 177,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1341,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "FORTE5 4 DR HATCHBACK SX/SX LUXURY": {
       "years": [
         2012,
         2013
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 132,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 77,
-          "max_width_cm": 107,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 79,
-          "overall_length_cm": 434,
-          "overall_width_cm": 178,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1348,
-          "weight_distribution_pct": "62/38"
-        },
-        "2013": "<default>"
-      }
+      ]
     },
     "FORTE 4DR SEDAN EX/SX": {
       "years": [
         2014
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 79,
-          "max_width_cm": 111,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 456,
-          "overall_width_cm": 178,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1314,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "FORTE 4DR SEDAN LX": {
       "years": [
         2014
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 79,
-          "max_width_cm": 111,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 456,
-          "overall_width_cm": 178,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1288,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "FORTE KOUPE EX": {
       "years": [
         2014
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 113,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 95,
-          "overall_length_cm": 453,
-          "overall_width_cm": 178,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1317,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "FORTE KOUPE SX": {
       "years": [
         2014
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 113,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 95,
-          "overall_length_cm": 453,
-          "overall_width_cm": 178,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1358,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "FORTE5 4 DR HATCHBACK EX": {
       "years": [
         2014
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 79,
-          "max_width_cm": 111,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 77,
-          "overall_length_cm": 435,
-          "overall_width_cm": 178,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1350,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "FORTE EX/SX 4DR SEDAN": {
       "years": [
         2015
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 79,
-          "max_width_cm": 111,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 456,
-          "overall_width_cm": 178,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1318,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "FORTE KOUPE EX 2DR COUPE": {
       "years": [
@@ -1264,78 +241,7 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 113,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 95,
-          "overall_length_cm": 453,
-          "overall_width_cm": 178,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1279,
-          "weight_distribution_pct": "63/37"
-        },
-        "2016": {
-          "hood_length_cm": 107,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 113,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 95,
-          "overall_length_cm": 453,
-          "overall_width_cm": 178,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1302,
-          "weight_distribution_pct": "63/37"
-        },
-        "2017": {
-          "hood_length_cm": 107,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 113,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 95,
-          "overall_length_cm": 453,
-          "overall_width_cm": 178,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1302,
-          "weight_distribution_pct": "63/37"
-        },
-        "2018": {
-          "hood_length_cm": 107,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 113,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 95,
-          "overall_length_cm": 453,
-          "overall_width_cm": 178,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1302,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "FORTE KOUPE SX/SX LUXURY 2DR COUPE": {
       "years": [
@@ -1343,30 +249,7 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 113,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 95,
-          "overall_length_cm": 453,
-          "overall_width_cm": 178,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1353,
-          "weight_distribution_pct": "63/37"
-        },
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>"
-      }
+      ]
     },
     "FORTE LX 4DR SEDAN": {
       "years": [
@@ -1374,80 +257,17 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 79,
-          "max_width_cm": 111,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 456,
-          "overall_width_cm": 178,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1272,
-          "weight_distribution_pct": "62/38"
-        },
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>"
-      }
+      ]
     },
     "FORTE5 LX/EX 4DR HATCHBACK": {
       "years": [
         2015
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 79,
-          "max_width_cm": 111,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 77,
-          "overall_length_cm": 435,
-          "overall_width_cm": 178,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1298,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "FORTE5 SX/SX LUXURY 4DR HATCHBACK": {
       "years": [
         2015
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 79,
-          "max_width_cm": 111,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 77,
-          "overall_length_cm": 435,
-          "overall_width_cm": 178,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1372,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "FORTE 4DR SEDAN": {
       "years": [
@@ -1455,129 +275,26 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 79,
-          "max_width_cm": 111,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 456,
-          "overall_width_cm": 178,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1318,
-          "weight_distribution_pct": "62/38"
-        },
-        "2017": "<default>",
-        "2018": "<default>",
-        "2019": {
-          "hood_length_cm": 120,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 81,
-          "max_width_cm": 112,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 464,
-          "overall_width_cm": 180,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1253,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "FORTE5 LX/EX 5DR HATCHBACK": {
       "years": [
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 79,
-          "max_width_cm": 111,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 77,
-          "overall_length_cm": 435,
-          "overall_width_cm": 178,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1321,
-          "weight_distribution_pct": "62/38"
-        },
-        "2017": "<default>",
-        "2018": "<default>"
-      }
+      ]
     },
     "FORTE5 SX/SX LUXURY 5DR HATCHBACK": {
       "years": [
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 79,
-          "max_width_cm": 111,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 77,
-          "overall_length_cm": 435,
-          "overall_width_cm": 178,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1372,
-          "weight_distribution_pct": "62/38"
-        },
-        "2017": "<default>",
-        "2018": "<default>"
-      }
+      ]
     },
     "FORTE5 5DR HATCH": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 120,
-          "back_length_cm": 136,
-          "side_glass_max_height_cm": 28,
-          "door_height_cm": 86,
-          "max_width_cm": 108,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 92,
-          "overall_length_cm": 452,
-          "overall_width_cm": 180,
-          "overall_height_cm": 144,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     }
   },
   "Rondo": {
@@ -1590,97 +307,7 @@
         2011,
         2012,
         2013
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 167,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 83,
-          "max_width_cm": 90,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 455,
-          "overall_width_cm": 182,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1565,
-          "weight_distribution_pct": "60/40"
-        },
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": {
-          "hood_length_cm": 107,
-          "back_length_cm": 167,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 83,
-          "max_width_cm": 90,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 455,
-          "overall_width_cm": 182,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1686,
-          "weight_distribution_pct": "60/40"
-        },
-        "2011": {
-          "hood_length_cm": 107,
-          "back_length_cm": 167,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 83,
-          "max_width_cm": 90,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 455,
-          "overall_width_cm": 182,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1686,
-          "weight_distribution_pct": "60/40"
-        },
-        "2012": {
-          "hood_length_cm": 107,
-          "back_length_cm": 167,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 83,
-          "max_width_cm": 90,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 455,
-          "overall_width_cm": 182,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1686,
-          "weight_distribution_pct": "60/40"
-        },
-        "2013": {
-          "hood_length_cm": 107,
-          "back_length_cm": 167,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 83,
-          "max_width_cm": 90,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 455,
-          "overall_width_cm": 182,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1686,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "RONDO 4DR WAGON FWD LX/EX/EX PREMIUM": {
       "years": [
@@ -1691,33 +318,7 @@
         2011,
         2012,
         2013
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 167,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 83,
-          "max_width_cm": 90,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 455,
-          "overall_width_cm": 182,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1515,
-          "weight_distribution_pct": "60/40"
-        },
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>",
-        "2011": "<default>",
-        "2012": "<default>",
-        "2013": "<default>"
-      }
+      ]
     },
     "RONDO LX - 5 PASSENGER": {
       "years": [
@@ -1726,95 +327,7 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 100,
-          "back_length_cm": 168,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 91,
-          "max_width_cm": 105,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 452,
-          "overall_width_cm": 181,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1474,
-          "weight_distribution_pct": "60/40"
-        },
-        "2015": {
-          "hood_length_cm": 100,
-          "back_length_cm": 168,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 91,
-          "max_width_cm": 105,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 452,
-          "overall_width_cm": 181,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1445,
-          "weight_distribution_pct": "60/40"
-        },
-        "2016": {
-          "hood_length_cm": 100,
-          "back_length_cm": 168,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 91,
-          "max_width_cm": 105,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 452,
-          "overall_width_cm": 181,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1445,
-          "weight_distribution_pct": "60/40"
-        },
-        "2017": {
-          "hood_length_cm": 100,
-          "back_length_cm": 168,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 91,
-          "max_width_cm": 105,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 452,
-          "overall_width_cm": 181,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1445,
-          "weight_distribution_pct": "60/40"
-        },
-        "2018": {
-          "hood_length_cm": 100,
-          "back_length_cm": 168,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 91,
-          "max_width_cm": 105,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 452,
-          "overall_width_cm": 181,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1445,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "RONDO LX/EX/EX LUXURY - 7 PASSENGER": {
       "years": [
@@ -1823,95 +336,7 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 100,
-          "back_length_cm": 168,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 91,
-          "max_width_cm": 105,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 452,
-          "overall_width_cm": 181,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1543,
-          "weight_distribution_pct": "60/40"
-        },
-        "2015": {
-          "hood_length_cm": 100,
-          "back_length_cm": 168,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 91,
-          "max_width_cm": 105,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 452,
-          "overall_width_cm": 181,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1505,
-          "weight_distribution_pct": "60/40"
-        },
-        "2016": {
-          "hood_length_cm": 100,
-          "back_length_cm": 168,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 91,
-          "max_width_cm": 105,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 452,
-          "overall_width_cm": 181,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1505,
-          "weight_distribution_pct": "60/40"
-        },
-        "2017": {
-          "hood_length_cm": 100,
-          "back_length_cm": 168,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 91,
-          "max_width_cm": 105,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 452,
-          "overall_width_cm": 181,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1505,
-          "weight_distribution_pct": "60/40"
-        },
-        "2018": {
-          "hood_length_cm": 100,
-          "back_length_cm": 168,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 91,
-          "max_width_cm": 105,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 452,
-          "overall_width_cm": 181,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1505,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     }
   },
   "Optima": {
@@ -1920,292 +345,55 @@
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 133,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 84,
-          "max_width_cm": 113,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 484,
-          "overall_width_cm": 183,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 280,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1583,
-          "weight_distribution_pct": "60/40"
-        },
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": 133,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 84,
-          "max_width_cm": 113,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 484,
-          "overall_width_cm": 183,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 280,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1615,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "OPTIMA 4DR SEDAN LX/EX/EX LUXURY": {
       "years": [
         2012,
         2013
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 133,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 84,
-          "max_width_cm": 113,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 484,
-          "overall_width_cm": 183,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 280,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1454,
-          "weight_distribution_pct": "60/40"
-        },
-        "2013": {
-          "hood_length_cm": 133,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 84,
-          "max_width_cm": 113,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 484,
-          "overall_width_cm": 183,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 280,
-          "front_track_width_cm": 159,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1454,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "OPTIMA 4DR SEDAN SX": {
       "years": [
         2012
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 133,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 84,
-          "max_width_cm": 113,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 484,
-          "overall_width_cm": 183,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 280,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1535,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "OPTIMA 4DR SEDAN EX TURBO/SX": {
       "years": [
         2013
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 133,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 84,
-          "max_width_cm": 113,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 484,
-          "overall_width_cm": 183,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 280,
-          "front_track_width_cm": 159,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1535,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "OPTIMA 4DR SEDAN LX/EX/SX": {
       "years": [
         2014
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 133,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 84,
-          "max_width_cm": 113,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 484,
-          "overall_width_cm": 183,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 280,
-          "front_track_width_cm": 159,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1484,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "OPTIMA 4DR SEDAN SX TURBO": {
       "years": [
         2014
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 133,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 84,
-          "max_width_cm": 113,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 484,
-          "overall_width_cm": 183,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 280,
-          "front_track_width_cm": 159,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1573,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "OPTIMA HYBRID LX/EX/EX PREMIUM 4DR SEDAN": {
       "years": [
         2015
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 133,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 84,
-          "max_width_cm": 113,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 484,
-          "overall_width_cm": 183,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 280,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1586,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "OPTIMA LX/EX/SX 4DR SEDAN": {
       "years": [
         2015
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 133,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 84,
-          "max_width_cm": 113,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 484,
-          "overall_width_cm": 183,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 280,
-          "front_track_width_cm": 159,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1468,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "OPTIMA SX TURBO 4DR SEDAN": {
       "years": [
         2015
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 133,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 84,
-          "max_width_cm": 113,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 484,
-          "overall_width_cm": 183,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 280,
-          "front_track_width_cm": 159,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1573,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "OPTIMA LX/LX+/EX/LX ECO TURBO 4DR SEDAN": {
       "years": [
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 134,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 84,
-          "max_width_cm": 109,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 486,
-          "overall_width_cm": 186,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1463,
-          "weight_distribution_pct": "61/39"
-        },
-        "2017": "<default>",
-        "2018": "<default>"
-      }
+      ]
     },
     "OPTIMA SX/SXL 4DR SEDAN": {
       "years": [
@@ -2213,129 +401,26 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 134,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 84,
-          "max_width_cm": 109,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 486,
-          "overall_width_cm": 186,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": "61/39"
-        },
-        "2017": "<default>",
-        "2018": "<default>",
-        "2019": {
-          "hood_length_cm": 134,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 84,
-          "max_width_cm": 109,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 486,
-          "overall_width_cm": 186,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1614,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "OPTIMA HYBRID 4DR SEDAN": {
       "years": [
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 134,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 84,
-          "max_width_cm": 109,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 486,
-          "overall_width_cm": 186,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1583,
-          "weight_distribution_pct": "61/39"
-        },
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     },
     "OPTIMA PHEV 4DR SEDAN": {
       "years": [
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 134,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 84,
-          "max_width_cm": 109,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 486,
-          "overall_width_cm": 186,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1720,
-          "weight_distribution_pct": "61/39"
-        },
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     },
     "OPTIMA LX/LX+/EX/EX TECH 4DR SEDAN": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 134,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 84,
-          "max_width_cm": 109,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 486,
-          "overall_width_cm": 186,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1465,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     }
   },
   "Sedona": {
@@ -2343,98 +428,19 @@
       "years": [
         2002,
         2003
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 112,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 66,
-          "door_height_cm": 83,
-          "max_width_cm": 120,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 493,
-          "overall_width_cm": 190,
-          "overall_height_cm": 173,
-          "wheelbase_cm": 291,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 2674,
-          "weight_distribution_pct": "58/42"
-        },
-        "2003": {
-          "hood_length_cm": 112,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 66,
-          "door_height_cm": 83,
-          "max_width_cm": 120,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 493,
-          "overall_width_cm": 190,
-          "overall_height_cm": 173,
-          "wheelbase_cm": 291,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 2136,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "SEDONA LX 5DR VAN FWD": {
       "years": [
         2002,
         2003
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 112,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 66,
-          "door_height_cm": 83,
-          "max_width_cm": 120,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 493,
-          "overall_width_cm": 190,
-          "overall_height_cm": 173,
-          "wheelbase_cm": 291,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 2136,
-          "weight_distribution_pct": "58/42"
-        },
-        "2003": "<default>"
-      }
+      ]
     },
     "SEDONA 5DR VAN FWD /LX/LXE/EX/EX LUXURY": {
       "years": [
         2004,
         2005
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 112,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 66,
-          "door_height_cm": 83,
-          "max_width_cm": 120,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 493,
-          "overall_width_cm": 190,
-          "overall_height_cm": 173,
-          "wheelbase_cm": 291,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 2136,
-          "weight_distribution_pct": "58/42"
-        },
-        "2005": "<default>"
-      }
+      ]
     },
     "SEDONA 5DR VAN FWD EX": {
       "years": [
@@ -2443,31 +449,7 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 215,
-          "side_glass_max_height_cm": 48,
-          "door_height_cm": 88,
-          "max_width_cm": 114,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 513,
-          "overall_width_cm": 199,
-          "overall_height_cm": 183,
-          "wheelbase_cm": 302,
-          "front_track_width_cm": 168,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 2107,
-          "weight_distribution_pct": "57/43"
-        },
-        "2007": "<default>",
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>"
-      }
+      ]
     },
     "SEDONA 5DR VAN FWD LX": {
       "years": [
@@ -2479,136 +461,19 @@
         2011,
         2012,
         2013
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 215,
-          "side_glass_max_height_cm": 48,
-          "door_height_cm": 88,
-          "max_width_cm": 114,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 513,
-          "overall_width_cm": 199,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 302,
-          "front_track_width_cm": 168,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 1990,
-          "weight_distribution_pct": "57/43"
-        },
-        "2007": "<default>",
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>",
-        "2011": {
-          "hood_length_cm": 101,
-          "back_length_cm": 215,
-          "side_glass_max_height_cm": 48,
-          "door_height_cm": 88,
-          "max_width_cm": 114,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 513,
-          "overall_width_cm": 199,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 302,
-          "front_track_width_cm": 169,
-          "rear_track_width_cm": 169,
-          "curb_weight_kg": 2087,
-          "weight_distribution_pct": "57/43"
-        },
-        "2012": {
-          "hood_length_cm": 101,
-          "back_length_cm": 215,
-          "side_glass_max_height_cm": 48,
-          "door_height_cm": 88,
-          "max_width_cm": 114,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 513,
-          "overall_width_cm": 199,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 302,
-          "front_track_width_cm": 169,
-          "rear_track_width_cm": 169,
-          "curb_weight_kg": 2087,
-          "weight_distribution_pct": "57/43"
-        },
-        "2013": {
-          "hood_length_cm": 101,
-          "back_length_cm": 215,
-          "side_glass_max_height_cm": 48,
-          "door_height_cm": 88,
-          "max_width_cm": 114,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 513,
-          "overall_width_cm": 199,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 302,
-          "front_track_width_cm": 169,
-          "rear_track_width_cm": 169,
-          "curb_weight_kg": 2087,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "SEDONA 5DR VAN FWD LX-CONVENIENCE/EX": {
       "years": [
         2011,
         2012,
         2013
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 215,
-          "side_glass_max_height_cm": 48,
-          "door_height_cm": 88,
-          "max_width_cm": 114,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 513,
-          "overall_width_cm": 199,
-          "overall_height_cm": 183,
-          "wheelbase_cm": 302,
-          "front_track_width_cm": 169,
-          "rear_track_width_cm": 169,
-          "curb_weight_kg": 2087,
-          "weight_distribution_pct": "57/43"
-        },
-        "2012": "<default>",
-        "2013": "<default>"
-      }
+      ]
     },
     "SEDONA 5DR VAN FWD LX/LX-CONVENIENCE/EX/EX CO": {
       "years": [
         2014
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 215,
-          "side_glass_max_height_cm": 48,
-          "door_height_cm": 88,
-          "max_width_cm": 114,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 513,
-          "overall_width_cm": 199,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 302,
-          "front_track_width_cm": 169,
-          "rear_track_width_cm": 169,
-          "curb_weight_kg": 2108,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "SEDONA L/LX/SX 5DR VAN FWD": {
       "years": [
@@ -2616,30 +481,7 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 225,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 94,
-          "max_width_cm": 114,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 512,
-          "overall_width_cm": 199,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": 174,
-          "rear_track_width_cm": 175,
-          "curb_weight_kg": 2002,
-          "weight_distribution_pct": "57/43"
-        },
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>"
-      }
+      ]
     },
     "SEDONA SXL 5DR VAN FWD": {
       "years": [
@@ -2648,689 +490,122 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 225,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 94,
-          "max_width_cm": 114,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 512,
-          "overall_width_cm": 199,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": 174,
-          "rear_track_width_cm": 175,
-          "curb_weight_kg": 2127,
-          "weight_distribution_pct": "57/43"
-        },
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>",
-        "2019": {
-          "hood_length_cm": 107,
-          "back_length_cm": 225,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 94,
-          "max_width_cm": 114,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 512,
-          "overall_width_cm": 199,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": 174,
-          "rear_track_width_cm": 175,
-          "curb_weight_kg": 2150,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "SEDONA L 5DR VAN FWD": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 225,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 94,
-          "max_width_cm": 114,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 512,
-          "overall_width_cm": 199,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": 174,
-          "rear_track_width_cm": 175,
-          "curb_weight_kg": 2005,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "SEDONA LX/SX 5DR VAN FWD": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 225,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 94,
-          "max_width_cm": 114,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 512,
-          "overall_width_cm": 199,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": 174,
-          "rear_track_width_cm": 175,
-          "curb_weight_kg": 2079,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     }
   },
   "Sorento": {
     "SORENTO EX/EX Luxury 4DR SUV 4WD": {
       "years": [
         2003
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 122,
-          "back_length_cm": 153,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 86,
-          "max_width_cm": 127,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 457,
-          "overall_width_cm": 186,
-          "overall_height_cm": 181,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1930,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     },
     "SORENTO LX  4DR SUV 4WD": {
       "years": [
         2003
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 122,
-          "back_length_cm": 153,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 86,
-          "max_width_cm": 127,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 457,
-          "overall_width_cm": 186,
-          "overall_height_cm": 181,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1930,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     },
     "SORENTO 4DR SUV 4WD /LX": {
       "years": [
         2004,
         2005,
         2006
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 122,
-          "back_length_cm": 153,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 86,
-          "max_width_cm": 127,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 457,
-          "overall_width_cm": 186,
-          "overall_height_cm": 181,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1930,
-          "weight_distribution_pct": "56/44"
-        },
-        "2005": "<default>",
-        "2006": {
-          "hood_length_cm": 122,
-          "back_length_cm": 153,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 86,
-          "max_width_cm": 127,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 457,
-          "overall_width_cm": 186,
-          "overall_height_cm": 181,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1971,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     },
     "SORENTO 4DR SUV 4WD EX/EX LUXURY": {
       "years": [
         2004,
         2005,
         2006
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 122,
-          "back_length_cm": 153,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 86,
-          "max_width_cm": 127,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 457,
-          "overall_width_cm": 186,
-          "overall_height_cm": 181,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1950,
-          "weight_distribution_pct": "56/44"
-        },
-        "2005": "<default>",
-        "2006": {
-          "hood_length_cm": 122,
-          "back_length_cm": 153,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 86,
-          "max_width_cm": 127,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 102,
-          "overall_length_cm": 457,
-          "overall_width_cm": 186,
-          "overall_height_cm": 188,
-          "wheelbase_cm": 272,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1990,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     },
     "SORENTO 4DR SUV 4WD LX LUXURY": {
       "years": [
         2007
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 155,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 85,
-          "max_width_cm": 97,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 459,
-          "overall_width_cm": 188,
-          "overall_height_cm": 181,
-          "wheelbase_cm": 271,
-          "front_track_width_cm": 159,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 2024,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     },
     "SORENTO 4DR SUV 4WD LX/LX LUXURY": {
       "years": [
         2008,
         2009
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 155,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 85,
-          "max_width_cm": 97,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 459,
-          "overall_width_cm": 188,
-          "overall_height_cm": 181,
-          "wheelbase_cm": 271,
-          "front_track_width_cm": 159,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 2024,
-          "weight_distribution_pct": "56/44"
-        },
-        "2009": "<default>"
-      }
+      ]
     },
     "SORENTO LX/EX 4DR SUV AWD": {
       "years": [
         2011,
         2012,
         2013
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 177,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 121,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 467,
-          "overall_width_cm": 189,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1837,
-          "weight_distribution_pct": "56/44"
-        },
-        "2012": "<default>",
-        "2013": {
-          "hood_length_cm": 126,
-          "back_length_cm": 177,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 121,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 467,
-          "overall_width_cm": 189,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1730,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     },
     "SORENTO LX/EX 4DR SUV FWD": {
       "years": [
         2011,
         2012
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 177,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 121,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 467,
-          "overall_width_cm": 189,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1635,
-          "weight_distribution_pct": "56/44"
-        },
-        "2012": "<default>"
-      }
+      ]
     },
     "SORENTO LX 4DR SUV FWD": {
       "years": [
         2013,
         2014,
         2015
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 177,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 121,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 467,
-          "overall_width_cm": 189,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1722,
-          "weight_distribution_pct": "56/44"
-        },
-        "2014": {
-          "hood_length_cm": 127,
-          "back_length_cm": 177,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 121,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 468,
-          "overall_width_cm": 189,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1722,
-          "weight_distribution_pct": "56/44"
-        },
-        "2015": {
-          "hood_length_cm": 127,
-          "back_length_cm": 177,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 121,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 468,
-          "overall_width_cm": 189,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1722,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     },
     "SORENTO LX-V6 4DR SUV FWD": {
       "years": [
         2013,
         2014,
         2015
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 177,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 121,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 467,
-          "overall_width_cm": 189,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1830,
-          "weight_distribution_pct": "56/44"
-        },
-        "2014": {
-          "hood_length_cm": 127,
-          "back_length_cm": 177,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 121,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 468,
-          "overall_width_cm": 189,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1830,
-          "weight_distribution_pct": "56/44"
-        },
-        "2015": {
-          "hood_length_cm": 127,
-          "back_length_cm": 177,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 121,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 468,
-          "overall_width_cm": 189,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1830,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     },
     "SORENTO LX-V6/EX-V6/EX-V6LUXURY/SX 4DR SUV AW": {
       "years": [
         2013,
         2014,
         2015
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 177,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 121,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 467,
-          "overall_width_cm": 189,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1837,
-          "weight_distribution_pct": "56/44"
-        },
-        "2014": {
-          "hood_length_cm": 127,
-          "back_length_cm": 177,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 121,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 468,
-          "overall_width_cm": 189,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1837,
-          "weight_distribution_pct": "56/44"
-        },
-        "2015": {
-          "hood_length_cm": 127,
-          "back_length_cm": 177,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 121,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 468,
-          "overall_width_cm": 189,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1837,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     },
     "SORENTO LX 4DR SUV AWD": {
       "years": [
         2014,
         2015
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 177,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 87,
-          "max_width_cm": 121,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 468,
-          "overall_width_cm": 189,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1730,
-          "weight_distribution_pct": "56/44"
-        },
-        "2015": "<default>"
-      }
+      ]
     },
     "SORENTO EX/LIMITED AWD": {
       "years": [
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": 184,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 94,
-          "max_width_cm": 105,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 477,
-          "overall_width_cm": 189,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 278,
-          "front_track_width_cm": 163,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 1816,
-          "weight_distribution_pct": "56/44"
-        },
-        "2017": "<default>",
-        "2018": "<default>"
-      }
+      ]
     },
     "SORENTO EX/LIMITED FWD": {
       "years": [
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": 184,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 94,
-          "max_width_cm": 105,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 477,
-          "overall_width_cm": 189,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 278,
-          "front_track_width_cm": 163,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 1759,
-          "weight_distribution_pct": "56/44"
-        },
-        "2017": "<default>",
-        "2018": "<default>"
-      }
+      ]
     },
     "SORENTO L/LX FWD": {
       "years": [
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": 184,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 94,
-          "max_width_cm": 105,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 477,
-          "overall_width_cm": 189,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 278,
-          "front_track_width_cm": 163,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 1680,
-          "weight_distribution_pct": "56/44"
-        },
-        "2017": "<default>",
-        "2018": "<default>"
-      }
+      ]
     },
     "SORENTO LX AWD": {
       "years": [
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": 184,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 94,
-          "max_width_cm": 105,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 477,
-          "overall_width_cm": 189,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 278,
-          "front_track_width_cm": 163,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 1742,
-          "weight_distribution_pct": "56/44"
-        },
-        "2017": "<default>",
-        "2018": "<default>"
-      }
+      ]
     },
     "SORENTO V6 AWD": {
       "years": [
@@ -3338,245 +613,47 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": 184,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 94,
-          "max_width_cm": 105,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 477,
-          "overall_width_cm": 189,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 278,
-          "front_track_width_cm": 163,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 1860,
-          "weight_distribution_pct": "56/44"
-        },
-        "2017": "<default>",
-        "2018": "<default>",
-        "2019": {
-          "hood_length_cm": 123,
-          "back_length_cm": 184,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 94,
-          "max_width_cm": 105,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 480,
-          "overall_width_cm": 189,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 278,
-          "front_track_width_cm": 163,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 1860,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     },
     "SORENTO V6 FWD": {
       "years": [
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": 184,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 94,
-          "max_width_cm": 105,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 477,
-          "overall_width_cm": 189,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 278,
-          "front_track_width_cm": 163,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 1800,
-          "weight_distribution_pct": "56/44"
-        },
-        "2017": "<default>",
-        "2018": "<default>"
-      }
+      ]
     },
     "SORENTO 2.4L AWD": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 184,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 94,
-          "max_width_cm": 105,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 480,
-          "overall_width_cm": 189,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 278,
-          "front_track_width_cm": 163,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 1793,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     },
     "SORENTO LX FWD": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 123,
-          "back_length_cm": 184,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 94,
-          "max_width_cm": 105,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 480,
-          "overall_width_cm": 189,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 278,
-          "front_track_width_cm": 163,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 1728,
-          "weight_distribution_pct": "56/44"
-        }
-      }
+      ]
     }
   },
   "Sportage": {
     "SPORTAGE 4DR AWD BASE/EX": {
       "years": [
         2000
-      ],
-      "details": {
-        "2000": "<default>",
-        "<default>": {
-          "hood_length_cm": 115,
-          "back_length_cm": 176,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 77,
-          "max_width_cm": 112,
-          "front_overhang_cm": 75,
-          "rear_overhang_cm": 72,
-          "overall_length_cm": 412,
-          "overall_width_cm": 173,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1524,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "SPORTAGE 4DR 4WD X/EX": {
       "years": [
         2001,
         2002
-      ],
-      "details": {
-        "2001": "<default>",
-        "<default>": {
-          "hood_length_cm": 115,
-          "back_length_cm": 176,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 77,
-          "max_width_cm": 112,
-          "front_overhang_cm": 75,
-          "rear_overhang_cm": 72,
-          "overall_length_cm": 412,
-          "overall_width_cm": 173,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1524,
-          "weight_distribution_pct": "57/43"
-        },
-        "2002": {
-          "hood_length_cm": 115,
-          "back_length_cm": 133,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 77,
-          "max_width_cm": 112,
-          "front_overhang_cm": 75,
-          "rear_overhang_cm": 72,
-          "overall_length_cm": 412,
-          "overall_width_cm": 173,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1524,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "SPORTAGE 4DR SUV AWD EX-V6": {
       "years": [
         2005
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": 100,
-          "back_length_cm": 140,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 81,
-          "max_width_cm": 99,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 86,
-          "overall_length_cm": 437,
-          "overall_width_cm": 180,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 263,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1600,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "SPORTAGE 4DR SUV FWD LX/LX-V6": {
       "years": [
         2005
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": 100,
-          "back_length_cm": 140,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 81,
-          "max_width_cm": 99,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 86,
-          "overall_length_cm": 435,
-          "overall_width_cm": 180,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 263,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1600,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "SPORTAGE 4DR SUV AWD LX-V6 LUXURY": {
       "years": [
@@ -3585,31 +662,7 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 100,
-          "back_length_cm": 140,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 81,
-          "max_width_cm": 99,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 86,
-          "overall_length_cm": 437,
-          "overall_width_cm": 180,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 263,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1600,
-          "weight_distribution_pct": "59/41"
-        },
-        "2007": "<default>",
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>"
-      }
+      ]
     },
     "SPORTAGE 4DR SUV FWD LX": {
       "years": [
@@ -3618,31 +671,7 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 100,
-          "back_length_cm": 140,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 81,
-          "max_width_cm": 99,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 86,
-          "overall_length_cm": 435,
-          "overall_width_cm": 180,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 263,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1476,
-          "weight_distribution_pct": "59/41"
-        },
-        "2007": "<default>",
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>"
-      }
+      ]
     },
     "SPORTAGE 4DR SUV FWD LX-V6": {
       "years": [
@@ -3651,476 +680,102 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 100,
-          "back_length_cm": 140,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 81,
-          "max_width_cm": 99,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 86,
-          "overall_length_cm": 435,
-          "overall_width_cm": 180,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 263,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1520,
-          "weight_distribution_pct": "59/41"
-        },
-        "2007": "<default>",
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>"
-      }
+      ]
     },
     "SPORTAGE 4 DR SUV LX/LX AWD/EX/ EX AWD/EX LUX": {
       "years": [
         2011,
         2012
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 112,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 444,
-          "overall_width_cm": 186,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1432,
-          "weight_distribution_pct": "58/42"
-        },
-        "2012": "<default>"
-      }
+      ]
     },
     "SPORTAGE 4 DR SUV SX": {
       "years": [
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 112,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 444,
-          "overall_width_cm": 186,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1572,
-          "weight_distribution_pct": "58/42"
-        },
-        "2013": {
-          "hood_length_cm": 114,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 112,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 444,
-          "overall_width_cm": 186,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1603,
-          "weight_distribution_pct": "58/42"
-        },
-        "2014": {
-          "hood_length_cm": 114,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 112,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 444,
-          "overall_width_cm": 186,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1662,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "SPORTAGE 4 DR SUV LX AWD/EX AWD/EX LUXURY": {
       "years": [
         2013,
         2014
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 112,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 444,
-          "overall_width_cm": 186,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1582,
-          "weight_distribution_pct": "58/42"
-        },
-        "2014": "<default>"
-      }
+      ]
     },
     "SPORTAGE 4 DR SUV LX/EX FWD": {
       "years": [
         2013,
         2014
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 112,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 444,
-          "overall_width_cm": 186,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1432,
-          "weight_distribution_pct": "58/42"
-        },
-        "2014": "<default>"
-      }
+      ]
     },
     "SPORTAGE 4DR SUV LX AWD/EX AWD/EX LUXURY": {
       "years": [
         2015,
         2016
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 112,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 444,
-          "overall_width_cm": 186,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1554,
-          "weight_distribution_pct": "58/42"
-        },
-        "2016": "<default>"
-      }
+      ]
     },
     "SPORTAGE 4DR SUV LX/EX FWD": {
       "years": [
         2015,
         2016
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 112,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 444,
-          "overall_width_cm": 186,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1471,
-          "weight_distribution_pct": "58/42"
-        },
-        "2016": "<default>"
-      }
+      ]
     },
     "SPORTAGE 4DR SUV SX": {
       "years": [
         2015,
         2016
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 112,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 91,
-          "overall_length_cm": 444,
-          "overall_width_cm": 186,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1662,
-          "weight_distribution_pct": "58/42"
-        },
-        "2016": "<default>"
-      }
+      ]
     },
     "SPORTAGE AWD 4DR SUV": {
       "years": [
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 91,
-          "max_width_cm": 104,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 448,
-          "overall_width_cm": 186,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 1696,
-          "weight_distribution_pct": "59/41"
-        },
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     },
     "SPORTAGE AWD TURBO 4DR SUV": {
       "years": [
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 91,
-          "max_width_cm": 104,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 448,
-          "overall_width_cm": 186,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 1813,
-          "weight_distribution_pct": "59/41"
-        },
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     },
     "SPORTAGE FWD 4DR SUV": {
       "years": [
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 91,
-          "max_width_cm": 104,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 448,
-          "overall_width_cm": 186,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 1631,
-          "weight_distribution_pct": "59/41"
-        },
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     }
   },
   "Cadenza": {
     "CADENZA 4DR SEDAN": {
       "years": [
         2014
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 63,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 83,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 116,
-          "overall_length_cm": 497,
-          "overall_width_cm": 185,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 284,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1717,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "CADENZA /PREMIUM 4DR SEDAN": {
       "years": [
         2015,
         2016
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 63,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 83,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 116,
-          "overall_length_cm": 497,
-          "overall_width_cm": 185,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1660,
-          "weight_distribution_pct": "59/41"
-        },
-        "2016": "<default>"
-      }
+      ]
     },
     "CADENZA 4DR SEDAN BASE/PREMIUM": {
       "years": [
         2017,
         2018
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 134,
-          "back_length_cm": 56,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 84,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 115,
-          "overall_length_cm": 497,
-          "overall_width_cm": 187,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1648,
-          "weight_distribution_pct": "60/40"
-        },
-        "2018": "<default>"
-      }
+      ]
     },
     "CADENZA 4DR SEDAN LIMITED": {
       "years": [
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 134,
-          "back_length_cm": 56,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 84,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 115,
-          "overall_length_cm": 497,
-          "overall_width_cm": 187,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1710,
-          "weight_distribution_pct": "60/40"
-        },
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     },
     "CADENZA 4DR SEDAN PREMIUM": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 134,
-          "back_length_cm": 56,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 84,
-          "max_width_cm": 111,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 115,
-          "overall_length_cm": 497,
-          "overall_width_cm": 187,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1648,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     }
   },
   "K900": {
@@ -4130,30 +785,7 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 139,
-          "back_length_cm": 56,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 87,
-          "max_width_cm": 116,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 117,
-          "overall_length_cm": 509,
-          "overall_width_cm": 190,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 305,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 1940,
-          "weight_distribution_pct": "50/50"
-        },
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>"
-      }
+      ]
     },
     "K900 V8 ELITE 4DR SEDAN": {
       "years": [
@@ -4161,82 +793,19 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 139,
-          "back_length_cm": 56,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 87,
-          "max_width_cm": 116,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 117,
-          "overall_length_cm": 509,
-          "overall_width_cm": 190,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 305,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2066,
-          "weight_distribution_pct": "50/50"
-        },
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>"
-      }
+      ]
     }
   },
   "Sephia": {
     "SEPHIA 4DR SEDAN BASE/LS": {
       "years": [
         2000
-      ],
-      "details": {
-        "2000": "<default>",
-        "<default>": {
-          "hood_length_cm": 111,
-          "back_length_cm": 57,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 443,
-          "overall_width_cm": 170,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1124,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "SEPHIA 4DR SEDAN L/LS": {
       "years": [
         2001
-      ],
-      "details": {
-        "2001": "<default>",
-        "<default>": {
-          "hood_length_cm": 111,
-          "back_length_cm": 57,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 110,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 443,
-          "overall_width_cm": 170,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1124,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     }
   },
   "Spectra": {
@@ -4245,386 +814,71 @@
         2002,
         2003,
         2004
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 63,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 111,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 451,
-          "overall_width_cm": 172,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1207,
-          "weight_distribution_pct": "58/42"
-        },
-        "2003": {
-          "hood_length_cm": 116,
-          "back_length_cm": 63,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 111,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 451,
-          "overall_width_cm": 172,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1207,
-          "weight_distribution_pct": "63/37"
-        },
-        "2004": {
-          "hood_length_cm": 116,
-          "back_length_cm": 63,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 111,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 451,
-          "overall_width_cm": 172,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1207,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "SPECTRA GSX 4DR HATCH FWD": {
       "years": [
         2002,
         2003,
         2004
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 119,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 76,
-          "max_width_cm": 109,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 453,
-          "overall_width_cm": 173,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1223,
-          "weight_distribution_pct": "63/37"
-        },
-        "2003": "<default>",
-        "2004": "<default>"
-      }
+      ]
     },
     "SPECTRA LS 4DR SEDAN FWD": {
       "years": [
         2002
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 63,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 111,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 451,
-          "overall_width_cm": 172,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 253,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1212,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "SPECTRA RS/LS 4DR SEDAN FWD": {
       "years": [
         2003,
         2004
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 63,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 72,
-          "max_width_cm": 111,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 451,
-          "overall_width_cm": 172,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 253,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1212,
-          "weight_distribution_pct": "63/37"
-        },
-        "2004": "<default>"
-      }
+      ]
     },
     "SPECTRA 4DR SEDAN FWD /LX": {
       "years": [
         2005,
         2006,
         2007
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": 113,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 77,
-          "max_width_cm": 99,
-          "front_overhang_cm": 92,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 449,
-          "overall_width_cm": 172,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 259,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1225,
-          "weight_distribution_pct": "61/39"
-        },
-        "2006": "<default>",
-        "2007": "<default>"
-      }
+      ]
     },
     "SPECTRA5 5DR HATCH FWD": {
       "years": [
         2005,
         2006
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 79,
-          "max_width_cm": 99,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 84,
-          "overall_length_cm": 434,
-          "overall_width_cm": 174,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1290,
-          "weight_distribution_pct": "61/39"
-        },
-        "2006": {
-          "hood_length_cm": 114,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 79,
-          "max_width_cm": 99,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 84,
-          "overall_length_cm": 434,
-          "overall_width_cm": 174,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1290,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "SPECTRA 4DR SEDAN FWD /LX CONV/EX": {
       "years": [
         2006
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 113,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 77,
-          "max_width_cm": 99,
-          "front_overhang_cm": 92,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 449,
-          "overall_width_cm": 172,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 259,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1312,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SPECTRA 4DR SEDAN FWD /LX CONV/LX PREMIUM": {
       "years": [
         2007
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 113,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 77,
-          "max_width_cm": 99,
-          "front_overhang_cm": 92,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 449,
-          "overall_width_cm": 172,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 259,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1348,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SPECTRA5 4DR HATCH FWD /LX/LX CONVENIENCE": {
       "years": [
         2007
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 55,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 79,
-          "max_width_cm": 99,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 84,
-          "overall_length_cm": 434,
-          "overall_width_cm": 174,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1290,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "SPECTRA 4DR SEDAN FWD LX": {
       "years": [
         2008,
         2009
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 113,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 77,
-          "max_width_cm": 99,
-          "front_overhang_cm": 92,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 449,
-          "overall_width_cm": 172,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 259,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1225,
-          "weight_distribution_pct": "61/39"
-        },
-        "2009": "<default>"
-      }
+      ]
     },
     "SPECTRA 4DR SEDAN FWD LX CONV/LX PREMIUM": {
       "years": [
         2008,
         2009
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 113,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 77,
-          "max_width_cm": 99,
-          "front_overhang_cm": 92,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 449,
-          "overall_width_cm": 172,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 259,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1348,
-          "weight_distribution_pct": "61/39"
-        },
-        "2009": "<default>"
-      }
+      ]
     },
     "SPECTRA5 4DR HATCH FWD LX/LX CONV/SX": {
       "years": [
         2008,
         2009
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 55,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 79,
-          "max_width_cm": 99,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 84,
-          "overall_length_cm": 434,
-          "overall_width_cm": 174,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1290,
-          "weight_distribution_pct": "60/40"
-        },
-        "2009": {
-          "hood_length_cm": 114,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 79,
-          "max_width_cm": 99,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 84,
-          "overall_length_cm": 434,
-          "overall_width_cm": 174,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1290,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     }
   },
   "Amanti": {
@@ -4635,113 +889,17 @@
         2006,
         2008,
         2009
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 132,
-          "back_length_cm": 78,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 78,
-          "max_width_cm": 110,
-          "front_overhang_cm": 99,
-          "rear_overhang_cm": 119,
-          "overall_length_cm": 498,
-          "overall_width_cm": 185,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 280,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1855,
-          "weight_distribution_pct": "62/38"
-        },
-        "2005": "<default>",
-        "2006": "<default>",
-        "2008": {
-          "hood_length_cm": 131,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 106,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 120,
-          "overall_length_cm": 500,
-          "overall_width_cm": 185,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 280,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1710,
-          "weight_distribution_pct": "62/38"
-        },
-        "2009": {
-          "hood_length_cm": 131,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 106,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 120,
-          "overall_length_cm": 500,
-          "overall_width_cm": 185,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 280,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1710,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "AMANTI 4DR SEDAN FWD /BASE": {
       "years": [
         2007
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 106,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 120,
-          "overall_length_cm": 500,
-          "overall_width_cm": 185,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 280,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1710,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "AMANTI 4DR SEDAN FWD /LUXURY": {
       "years": [
         2007
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 106,
-          "front_overhang_cm": 101,
-          "rear_overhang_cm": 120,
-          "overall_length_cm": 500,
-          "overall_width_cm": 185,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 280,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1790,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     }
   },
   "Spectra LD": {},
@@ -4753,182 +911,29 @@
         2011,
         2012,
         2013
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 77,
-          "max_width_cm": 118,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 448,
-          "overall_width_cm": 177,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1232,
-          "weight_distribution_pct": "63/37"
-        },
-        "2011": "<default>",
-        "2012": {
-          "hood_length_cm": 116,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 77,
-          "max_width_cm": 118,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 448,
-          "overall_width_cm": 177,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1270,
-          "weight_distribution_pct": "63/37"
-        },
-        "2013": {
-          "hood_length_cm": 116,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 77,
-          "max_width_cm": 118,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 448,
-          "overall_width_cm": 177,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1270,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "FORTE KOUP SX 2DR COUPE": {
       "years": [
         2010,
         2011
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 77,
-          "max_width_cm": 118,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 448,
-          "overall_width_cm": 177,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1297,
-          "weight_distribution_pct": "63/37"
-        },
-        "2011": "<default>"
-      }
+      ]
     },
     "FORTE KOUP SX 2DR COUPE /SX LUXURY": {
       "years": [
         2012,
         2013
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 116,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 77,
-          "max_width_cm": 118,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 448,
-          "overall_width_cm": 177,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1315,
-          "weight_distribution_pct": "63/37"
-        },
-        "2013": {
-          "hood_length_cm": 116,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 77,
-          "max_width_cm": 118,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 448,
-          "overall_width_cm": 177,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 265,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1341,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "FORTE KOUPE EX": {
       "years": [
         2014
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 113,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 95,
-          "overall_length_cm": 453,
-          "overall_width_cm": 178,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1317,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "FORTE KOUPE SX": {
       "years": [
         2014
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 113,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 95,
-          "overall_length_cm": 453,
-          "overall_width_cm": 178,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1358,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "FORTE KOUPE EX 2DR COUPE": {
       "years": [
@@ -4936,78 +941,7 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 113,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 95,
-          "overall_length_cm": 453,
-          "overall_width_cm": 178,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1279,
-          "weight_distribution_pct": "63/37"
-        },
-        "2016": {
-          "hood_length_cm": 107,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 113,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 95,
-          "overall_length_cm": 453,
-          "overall_width_cm": 178,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1302,
-          "weight_distribution_pct": "63/37"
-        },
-        "2017": {
-          "hood_length_cm": 107,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 113,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 95,
-          "overall_length_cm": 453,
-          "overall_width_cm": 178,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1302,
-          "weight_distribution_pct": "63/37"
-        },
-        "2018": {
-          "hood_length_cm": 107,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 113,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 95,
-          "overall_length_cm": 453,
-          "overall_width_cm": 178,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1302,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "FORTE KOUPE SX/SX LUXURY 2DR COUPE": {
       "years": [
@@ -5015,107 +949,24 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 113,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 95,
-          "overall_length_cm": 453,
-          "overall_width_cm": 178,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1353,
-          "weight_distribution_pct": "63/37"
-        },
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>"
-      }
+      ]
     }
   },
   "Stinger": {
     "STINGER 4DR SEDAN": {
       "years": [
         2018
-      ],
-      "details": {
-        "2018": "<default>",
-        "<default>": {
-          "hood_length_cm": 141,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 78,
-          "max_width_cm": 112,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 483,
-          "overall_width_cm": 187,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 291,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 1873,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "STINGER 2.0L 4DR SEDAN": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 141,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 78,
-          "max_width_cm": 112,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 483,
-          "overall_width_cm": 187,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 291,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 1729,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "STINGER V6 4DR SEDAN": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 141,
-          "back_length_cm": 31,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 78,
-          "max_width_cm": 112,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 483,
-          "overall_width_cm": 187,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 291,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 1873,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     }
   },
   "K5": {},
@@ -5126,123 +977,23 @@
         2011,
         2012,
         2013
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 100,
-          "back_length_cm": 150,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 88,
-          "max_width_cm": 115,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 411,
-          "overall_width_cm": 179,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1190,
-          "weight_distribution_pct": "61/39"
-        },
-        "2011": "<default>",
-        "2012": "<default>",
-        "2013": {
-          "hood_length_cm": 100,
-          "back_length_cm": 150,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 88,
-          "max_width_cm": 115,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 411,
-          "overall_width_cm": 179,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1220,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SOUL 2.0L": {
       "years": [
         2010,
         2011
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 100,
-          "back_length_cm": 150,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 88,
-          "max_width_cm": 115,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 411,
-          "overall_width_cm": 179,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1315,
-          "weight_distribution_pct": "61/39"
-        },
-        "2011": "<default>"
-      }
+      ]
     },
     "SOUL 2.0L 2U/4U/4U RETRO/4U BURNER/4U LUXURY": {
       "years": [
         2012
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 100,
-          "back_length_cm": 150,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 88,
-          "max_width_cm": 115,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 411,
-          "overall_width_cm": 179,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1260,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SOUL 2.0L 2U/4U/4U LUXURY": {
       "years": [
         2013
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 100,
-          "back_length_cm": 150,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 88,
-          "max_width_cm": 115,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 411,
-          "overall_width_cm": 179,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1260,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SOUL EX/SX": {
       "years": [
@@ -5251,95 +1002,7 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 104,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 180,
-          "overall_height_cm": 160,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1347,
-          "weight_distribution_pct": "61/39"
-        },
-        "2015": {
-          "hood_length_cm": 104,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 180,
-          "overall_height_cm": 160,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1287,
-          "weight_distribution_pct": "61/39"
-        },
-        "2016": {
-          "hood_length_cm": 104,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 180,
-          "overall_height_cm": 160,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1287,
-          "weight_distribution_pct": "61/39"
-        },
-        "2017": {
-          "hood_length_cm": 104,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 180,
-          "overall_height_cm": 160,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1287,
-          "weight_distribution_pct": "61/39"
-        },
-        "2018": {
-          "hood_length_cm": 104,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 180,
-          "overall_height_cm": 160,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1287,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SOUL LX": {
       "years": [
@@ -5349,137 +1012,12 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 104,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 180,
-          "overall_height_cm": 160,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1269,
-          "weight_distribution_pct": "61/39"
-        },
-        "2015": {
-          "hood_length_cm": 104,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 180,
-          "overall_height_cm": 160,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1231,
-          "weight_distribution_pct": "61/39"
-        },
-        "2016": {
-          "hood_length_cm": 104,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 180,
-          "overall_height_cm": 160,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1231,
-          "weight_distribution_pct": "61/39"
-        },
-        "2017": {
-          "hood_length_cm": 104,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 180,
-          "overall_height_cm": 160,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1231,
-          "weight_distribution_pct": "61/39"
-        },
-        "2018": {
-          "hood_length_cm": 104,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 180,
-          "overall_height_cm": 160,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1231,
-          "weight_distribution_pct": "61/39"
-        },
-        "2019": {
-          "hood_length_cm": 104,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 180,
-          "overall_height_cm": 160,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1303,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SOUL EV/EV LUXURY": {
       "years": [
         2015
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 104,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 180,
-          "overall_height_cm": 160,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SOUL EV": {
       "years": [
@@ -5487,148 +1025,29 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 104,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 180,
-          "overall_height_cm": 160,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1492,
-          "weight_distribution_pct": "61/39"
-        },
-        "2017": "<default>",
-        "2018": "<default>",
-        "2019": {
-          "hood_length_cm": 104,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 180,
-          "overall_height_cm": 160,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1508,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SOUL EX": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 104,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 180,
-          "overall_height_cm": 160,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1346,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SOUL SX": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 104,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 180,
-          "overall_height_cm": 160,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1397,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SOUL 5DR HATCH": {
       "years": [
         2020
-      ],
-      "details": {
-        "2020": "<default>",
-        "<default>": {
-          "hood_length_cm": 111,
-          "back_length_cm": 150,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 93,
-          "max_width_cm": 114,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 421,
-          "overall_width_cm": 180,
-          "overall_height_cm": 162,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "Soul EV": {
     "SOUL EV/EV LUXURY": {
       "years": [
         2015
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 104,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 180,
-          "overall_height_cm": 160,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SOUL EV": {
       "years": [
@@ -5636,152 +1055,32 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": 104,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 180,
-          "overall_height_cm": 160,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1492,
-          "weight_distribution_pct": "61/39"
-        },
-        "2017": "<default>",
-        "2018": "<default>",
-        "2019": {
-          "hood_length_cm": 104,
-          "back_length_cm": 152,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 90,
-          "max_width_cm": 103,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 180,
-          "overall_height_cm": 160,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1508,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     }
   },
   "Niro": {
     "NIRO": {
       "years": [
         2017
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 46,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 85,
-          "max_width_cm": 102,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 79,
-          "overall_length_cm": 436,
-          "overall_width_cm": 180,
-          "overall_height_cm": 154,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1436,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "NIRO 4DR SUV HYBRID": {
       "years": [
         2018,
         2019
-      ],
-      "details": {
-        "2018": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 46,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 85,
-          "max_width_cm": 102,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 79,
-          "overall_length_cm": 436,
-          "overall_width_cm": 180,
-          "overall_height_cm": 154,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1436,
-          "weight_distribution_pct": "54/46"
-        },
-        "2019": "<default>"
-      }
+      ]
     },
     "NIRO PHEV 4DR SUV HYBRID": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 46,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 85,
-          "max_width_cm": 102,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 79,
-          "overall_length_cm": 436,
-          "overall_width_cm": 180,
-          "overall_height_cm": 154,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1565,
-          "weight_distribution_pct": "54/46"
-        }
-      }
+      ]
     }
   },
   "Telluride": {
     "TELLURIDE 4DR SUV": {
       "years": [
         2020
-      ],
-      "details": {
-        "2020": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 197,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 99,
-          "max_width_cm": 114,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 115,
-          "overall_length_cm": 500,
-          "overall_width_cm": 199,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 290,
-          "front_track_width_cm": 170,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "Seltos": {}

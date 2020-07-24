@@ -1,93 +1,55 @@
 {
   "128i": {},
   "135i": {},
-  "328i": {},
+  "328i": {
+    "328i 4DR SEDAN": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "328i CABRIOLET": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "328is 2DR COUPE": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "328i 2DR COUPE RWD": {
+      "years": [
+        2007
+      ]
+    },
+    "328i CABRIOLET 2DR CONVERTIBLE RWD": {
+      "years": [
+        2007
+      ]
+    }
+  },
   "M3": {
     "M3": {
       "years": [
         1988,
         1989
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 480,
-          "overall_width_cm": 170,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1300,
-          "weight_distribution_pct": null
-        },
-        "1989": {
-          "hood_length_cm": 122,
-          "back_length_cm": 67,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 72,
-          "max_width_cm": 106,
-          "front_overhang_cm": 78,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 435,
-          "overall_width_cm": 168,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 256,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 139,
-          "curb_weight_kg": 1300,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "M3 2DR SEDAN": {
       "years": [
         1990,
         1991
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 122,
-          "back_length_cm": 67,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 72,
-          "max_width_cm": 106,
-          "front_overhang_cm": 78,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 435,
-          "overall_width_cm": 168,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 139,
-          "curb_weight_kg": 1300,
-          "weight_distribution_pct": null
-        },
-        "1991": {
-          "hood_length_cm": 122,
-          "back_length_cm": 67,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 72,
-          "max_width_cm": 106,
-          "front_overhang_cm": 78,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 435,
-          "overall_width_cm": 168,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1300,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "M3 2DR COUPE": {
       "years": [
@@ -101,180 +63,7 @@
         2004,
         2005,
         2006
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 125,
-          "back_length_cm": 45,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 72,
-          "max_width_cm": 114,
-          "front_overhang_cm": 75,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 443,
-          "overall_width_cm": 171,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 142,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1460,
-          "weight_distribution_pct": null
-        },
-        "1997": {
-          "hood_length_cm": 128,
-          "back_length_cm": 44,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 71,
-          "max_width_cm": 113,
-          "front_overhang_cm": 75,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 443,
-          "overall_width_cm": 171,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 271,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 1440,
-          "weight_distribution_pct": null
-        },
-        "1998": {
-          "hood_length_cm": 128,
-          "back_length_cm": 44,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 71,
-          "max_width_cm": 113,
-          "front_overhang_cm": 75,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 443,
-          "overall_width_cm": 171,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 271,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 1440,
-          "weight_distribution_pct": null
-        },
-        "1999": {
-          "hood_length_cm": 128,
-          "back_length_cm": 44,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 71,
-          "max_width_cm": 113,
-          "front_overhang_cm": 75,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 443,
-          "overall_width_cm": 171,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 271,
-          "front_track_width_cm": 142,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1440,
-          "weight_distribution_pct": null
-        },
-        "2001": {
-          "hood_length_cm": 120,
-          "back_length_cm": 48,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 112,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 449,
-          "overall_width_cm": 176,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 273,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1550,
-          "weight_distribution_pct": null
-        },
-        "2002": {
-          "hood_length_cm": 120,
-          "back_length_cm": 48,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 112,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 449,
-          "overall_width_cm": 176,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 273,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1550,
-          "weight_distribution_pct": "50/50"
-        },
-        "2003": {
-          "hood_length_cm": 120,
-          "back_length_cm": 48,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 112,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 449,
-          "overall_width_cm": 176,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 273,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1579,
-          "weight_distribution_pct": "48/52"
-        },
-        "2004": {
-          "hood_length_cm": 120,
-          "back_length_cm": 48,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 112,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 449,
-          "overall_width_cm": 176,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 273,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1579,
-          "weight_distribution_pct": "48/52"
-        },
-        "2005": {
-          "hood_length_cm": 120,
-          "back_length_cm": 48,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 112,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 449,
-          "overall_width_cm": 176,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 273,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1579,
-          "weight_distribution_pct": "48/52"
-        },
-        "2006": {
-          "hood_length_cm": 120,
-          "back_length_cm": 48,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 112,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 449,
-          "overall_width_cm": 176,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 273,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1579,
-          "weight_distribution_pct": "48/52"
-        }
-      }
+      ]
     },
     "M3 4DR SEDAN": {
       "years": [
@@ -282,62 +71,7 @@
         1998,
         2018,
         2019
-      ],
-      "details": {
-        "1997": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 44,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 71,
-          "max_width_cm": 105,
-          "front_overhang_cm": 75,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 443,
-          "overall_width_cm": 170,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 271,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 1440,
-          "weight_distribution_pct": null
-        },
-        "1998": "<default>",
-        "2018": {
-          "hood_length_cm": 139,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 109,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 467,
-          "overall_width_cm": 188,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1595,
-          "weight_distribution_pct": "52/48"
-        },
-        "2019": {
-          "hood_length_cm": 139,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 109,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 467,
-          "overall_width_cm": 188,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1595,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "M3 2DR CABRIOLET": {
       "years": [
@@ -347,96 +81,7 @@
         2004,
         2005,
         2006
-      ],
-      "details": {
-        "2001": "<default>",
-        "<default>": {
-          "hood_length_cm": 120,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 75,
-          "max_width_cm": 116,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 449,
-          "overall_width_cm": 176,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 273,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        },
-        "2002": "<default>",
-        "2003": {
-          "hood_length_cm": 120,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 75,
-          "max_width_cm": 116,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 449,
-          "overall_width_cm": 176,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 273,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1715,
-          "weight_distribution_pct": "52/48"
-        },
-        "2004": {
-          "hood_length_cm": 120,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 75,
-          "max_width_cm": 116,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 449,
-          "overall_width_cm": 176,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 273,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1715,
-          "weight_distribution_pct": "52/48"
-        },
-        "2005": {
-          "hood_length_cm": 120,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 75,
-          "max_width_cm": 116,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 449,
-          "overall_width_cm": 176,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 273,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1715,
-          "weight_distribution_pct": "52/48"
-        },
-        "2006": {
-          "hood_length_cm": 120,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 75,
-          "max_width_cm": 116,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 449,
-          "overall_width_cm": 176,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 273,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1715,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "M3 2DR COUPE RWD": {
       "years": [
@@ -446,96 +91,7 @@
         2011,
         2012,
         2013
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 79,
-          "max_width_cm": 106,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 462,
-          "overall_width_cm": 180,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1655,
-          "weight_distribution_pct": "50/50"
-        },
-        "2009": "<default>",
-        "2010": {
-          "hood_length_cm": 130,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 79,
-          "max_width_cm": 106,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 462,
-          "overall_width_cm": 180,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1680,
-          "weight_distribution_pct": "50/50"
-        },
-        "2011": {
-          "hood_length_cm": 130,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 79,
-          "max_width_cm": 106,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 462,
-          "overall_width_cm": 180,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1680,
-          "weight_distribution_pct": "50/50"
-        },
-        "2012": {
-          "hood_length_cm": 130,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 79,
-          "max_width_cm": 106,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 462,
-          "overall_width_cm": 180,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1680,
-          "weight_distribution_pct": "50/50"
-        },
-        "2013": {
-          "hood_length_cm": 130,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 79,
-          "max_width_cm": 106,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 462,
-          "overall_width_cm": 180,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1680,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "M3 4DR SEDAN RWD": {
       "years": [
@@ -546,113 +102,7 @@
         2015,
         2016,
         2017
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 47,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 78,
-          "max_width_cm": 108,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 458,
-          "overall_width_cm": 182,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1651,
-          "weight_distribution_pct": "50/50"
-        },
-        "2009": "<default>",
-        "2010": {
-          "hood_length_cm": 130,
-          "back_length_cm": 47,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 78,
-          "max_width_cm": 108,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 458,
-          "overall_width_cm": 182,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1690,
-          "weight_distribution_pct": "50/50"
-        },
-        "2011": {
-          "hood_length_cm": 130,
-          "back_length_cm": 47,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 78,
-          "max_width_cm": 108,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 458,
-          "overall_width_cm": 182,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1690,
-          "weight_distribution_pct": "50/50"
-        },
-        "2015": {
-          "hood_length_cm": 139,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 109,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 467,
-          "overall_width_cm": 188,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1606,
-          "weight_distribution_pct": "52/48"
-        },
-        "2016": {
-          "hood_length_cm": 139,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 109,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 467,
-          "overall_width_cm": 188,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1606,
-          "weight_distribution_pct": "52/48"
-        },
-        "2017": {
-          "hood_length_cm": 139,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 109,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 467,
-          "overall_width_cm": 188,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1606,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "M3 2DR CONV RWD": {
       "years": [
@@ -660,233 +110,97 @@
         2011,
         2012,
         2013
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 130,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 79,
-          "max_width_cm": 106,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 462,
-          "overall_width_cm": 180,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1880,
-          "weight_distribution_pct": "50/50"
-        },
-        "2011": "<default>",
-        "2012": "<default>",
-        "2013": "<default>"
-      }
+      ]
     }
   },
-  "335i": {},
+  "335i": {
+    "335i 2DR COUPE RWD": {
+      "years": [
+        2007
+      ]
+    },
+    "335i 4DR SEDAN RWD": {
+      "years": [
+        2007
+      ]
+    },
+    "335i CABRIOLET 2DR CONVERTIBLE RWD": {
+      "years": [
+        2007
+      ]
+    }
+  },
   "335is": {},
   "335d": {},
-  "528i": {},
-  "535i": {},
+  "528i": {
+    "528i SD": {
+      "years": [
+        1981
+      ]
+    },
+    "528i 4DR SEDAN": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "528iT 4DR WAGON": {
+      "years": [
+        1999,
+        2000
+      ]
+    }
+  },
+  "535i": {
+    "535i 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    }
+  },
   "X5": {
     "X5 SUV": {
       "years": [
         2000
-      ],
-      "details": {
-        "2000": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 203,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 88,
-          "max_width_cm": 119,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 467,
-          "overall_width_cm": 187,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 282,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 2175,
-          "weight_distribution_pct": "48/52"
-        }
-      }
+      ]
     },
     "X5 3.0i SUV": {
       "years": [
         2001,
         2002,
         2003
-      ],
-      "details": {
-        "2001": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 203,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 88,
-          "max_width_cm": 119,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 467,
-          "overall_width_cm": 187,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 282,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 2050,
-          "weight_distribution_pct": null
-        },
-        "2002": {
-          "hood_length_cm": 124,
-          "back_length_cm": 149,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 88,
-          "max_width_cm": 119,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 467,
-          "overall_width_cm": 187,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 282,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 2065,
-          "weight_distribution_pct": "48/52"
-        },
-        "2003": {
-          "hood_length_cm": 124,
-          "back_length_cm": 149,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 88,
-          "max_width_cm": 119,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 467,
-          "overall_width_cm": 187,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 282,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 2065,
-          "weight_distribution_pct": "48/52"
-        }
-      }
+      ]
     },
     "X5 4.4i SUV": {
       "years": [
         2001
-      ],
-      "details": {
-        "2001": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 203,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 88,
-          "max_width_cm": 119,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 467,
-          "overall_width_cm": 187,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 282,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 2175,
-          "weight_distribution_pct": "48/52"
-        }
-      }
+      ]
     },
     "X5 4.4i/ X5 4.6is SUV": {
       "years": [
         2002,
         2003
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 149,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 88,
-          "max_width_cm": 119,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 467,
-          "overall_width_cm": 187,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 282,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 2188,
-          "weight_distribution_pct": "48/52"
-        },
-        "2003": "<default>"
-      }
+      ]
     },
     "X5 3.0i 4DR SUV AWD": {
       "years": [
         2004,
         2005,
         2006
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 149,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 88,
-          "max_width_cm": 119,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 467,
-          "overall_width_cm": 187,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 282,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 2130,
-          "weight_distribution_pct": "48/52"
-        },
-        "2005": "<default>",
-        "2006": "<default>"
-      }
+      ]
     },
     "X5 4.4i 4DR SUV AWD": {
       "years": [
         2004,
         2005,
         2006
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 149,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 88,
-          "max_width_cm": 119,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 467,
-          "overall_width_cm": 187,
-          "overall_height_cm": 171,
-          "wheelbase_cm": 282,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 2235,
-          "weight_distribution_pct": "48/52"
-        },
-        "2005": "<default>",
-        "2006": "<default>"
-      }
+      ]
     },
     "X5 3.0si 4DR SUV AWD": {
       "years": [
@@ -894,100 +208,19 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 88,
-          "max_width_cm": 111,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 485,
-          "overall_width_cm": 193,
-          "overall_height_cm": 177,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2260,
-          "weight_distribution_pct": "48/52"
-        },
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": {
-          "hood_length_cm": 127,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 88,
-          "max_width_cm": 111,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 485,
-          "overall_width_cm": 193,
-          "overall_height_cm": 177,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2230,
-          "weight_distribution_pct": "48/52"
-        }
-      }
+      ]
     },
     "X5 4.8i 4DR SUV AWD": {
       "years": [
         2007,
         2008,
         2009
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 88,
-          "max_width_cm": 111,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 485,
-          "overall_width_cm": 193,
-          "overall_height_cm": 177,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2420,
-          "weight_distribution_pct": "48/52"
-        },
-        "2008": "<default>",
-        "2009": "<default>"
-      }
+      ]
     },
     "X5 4.8i/3.5D 4DR SUV AWD": {
       "years": [
         2010
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 88,
-          "max_width_cm": 111,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 485,
-          "overall_width_cm": 193,
-          "overall_height_cm": 177,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2380,
-          "weight_distribution_pct": "48/52"
-        }
-      }
+      ]
     },
     "X5M 4DR SUV AWD": {
       "years": [
@@ -995,111 +228,25 @@
         2011,
         2012,
         2013
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 88,
-          "max_width_cm": 111,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 485,
-          "overall_width_cm": 199,
-          "overall_height_cm": 177,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2435,
-          "weight_distribution_pct": "48/52"
-        },
-        "2011": "<default>",
-        "2012": "<default>",
-        "2013": "<default>"
-      }
+      ]
     },
     "X5 xDrive35d 4DR SUV AWD": {
       "years": [
         2011,
         2012
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 88,
-          "max_width_cm": 111,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 485,
-          "overall_width_cm": 193,
-          "overall_height_cm": 177,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2355,
-          "weight_distribution_pct": "48/52"
-        },
-        "2012": "<default>"
-      }
+      ]
     },
     "X5 xDrive35i 4DR SUV AWD": {
       "years": [
         2011,
         2012
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 88,
-          "max_width_cm": 111,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 485,
-          "overall_width_cm": 193,
-          "overall_height_cm": 177,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2250,
-          "weight_distribution_pct": "48/52"
-        },
-        "2012": "<default>"
-      }
+      ]
     },
     "X5 xDrive50i 4DR SUV AWD": {
       "years": [
         2011,
         2012
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 88,
-          "max_width_cm": 111,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 485,
-          "overall_width_cm": 193,
-          "overall_height_cm": 177,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2440,
-          "weight_distribution_pct": "48/52"
-        },
-        "2012": "<default>"
-      }
+      ]
     },
     "X5 xDRIVE35d 4DR SUV": {
       "years": [
@@ -1109,112 +256,7 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 88,
-          "max_width_cm": 111,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 485,
-          "overall_width_cm": 193,
-          "overall_height_cm": 177,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2355,
-          "weight_distribution_pct": "48/52"
-        },
-        "2014": {
-          "hood_length_cm": 140,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 489,
-          "overall_width_cm": 194,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2173,
-          "weight_distribution_pct": "50/50"
-        },
-        "2015": {
-          "hood_length_cm": 140,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 489,
-          "overall_width_cm": 194,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2236,
-          "weight_distribution_pct": "50/50"
-        },
-        "2016": {
-          "hood_length_cm": 140,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 489,
-          "overall_width_cm": 194,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2236,
-          "weight_distribution_pct": "50/50"
-        },
-        "2017": {
-          "hood_length_cm": 140,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 489,
-          "overall_width_cm": 194,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2236,
-          "weight_distribution_pct": "50/50"
-        },
-        "2018": {
-          "hood_length_cm": 140,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 489,
-          "overall_width_cm": 194,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2236,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "X5 xDRIVE35i 4DR SUV": {
       "years": [
@@ -1224,112 +266,7 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 88,
-          "max_width_cm": 111,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 485,
-          "overall_width_cm": 193,
-          "overall_height_cm": 177,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2250,
-          "weight_distribution_pct": "48/52"
-        },
-        "2014": {
-          "hood_length_cm": 140,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 489,
-          "overall_width_cm": 194,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2236,
-          "weight_distribution_pct": "50/50"
-        },
-        "2015": {
-          "hood_length_cm": 140,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 489,
-          "overall_width_cm": 194,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2173,
-          "weight_distribution_pct": "50/50"
-        },
-        "2016": {
-          "hood_length_cm": 140,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 489,
-          "overall_width_cm": 194,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2173,
-          "weight_distribution_pct": "50/50"
-        },
-        "2017": {
-          "hood_length_cm": 140,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 489,
-          "overall_width_cm": 194,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2173,
-          "weight_distribution_pct": "50/50"
-        },
-        "2018": {
-          "hood_length_cm": 140,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 489,
-          "overall_width_cm": 194,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2173,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "X5 xDRIVE50i 4DR SUV": {
       "years": [
@@ -1340,720 +277,221 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 88,
-          "max_width_cm": 111,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 485,
-          "overall_width_cm": 193,
-          "overall_height_cm": 177,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2440,
-          "weight_distribution_pct": "48/52"
-        },
-        "2014": {
-          "hood_length_cm": 140,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 489,
-          "overall_width_cm": 194,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2336,
-          "weight_distribution_pct": "50/50"
-        },
-        "2015": {
-          "hood_length_cm": 140,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 489,
-          "overall_width_cm": 194,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2336,
-          "weight_distribution_pct": "50/50"
-        },
-        "2016": {
-          "hood_length_cm": 140,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 489,
-          "overall_width_cm": 194,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2336,
-          "weight_distribution_pct": "50/50"
-        },
-        "2017": {
-          "hood_length_cm": 140,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 489,
-          "overall_width_cm": 194,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2336,
-          "weight_distribution_pct": "50/50"
-        },
-        "2018": {
-          "hood_length_cm": 140,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 489,
-          "overall_width_cm": 194,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2336,
-          "weight_distribution_pct": "50/50"
-        },
-        "2019": {
-          "hood_length_cm": 140,
-          "back_length_cm": 176,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 95,
-          "max_width_cm": 113,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 494,
-          "overall_width_cm": 200,
-          "overall_height_cm": 175,
-          "wheelbase_cm": 297,
-          "front_track_width_cm": 167,
-          "rear_track_width_cm": 169,
-          "curb_weight_kg": 2345,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "X5 xDRIVE35d THIRD ROW SEATING 4DR SUV": {
       "years": [
         2017,
         2018
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 489,
-          "overall_width_cm": 194,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2313,
-          "weight_distribution_pct": "50/50"
-        },
-        "2018": "<default>"
-      }
+      ]
     },
     "X5 xDRIVE35i THIRD ROW SEATING 4DR SUV": {
       "years": [
         2017,
         2018
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 489,
-          "overall_width_cm": 194,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2245,
-          "weight_distribution_pct": "50/50"
-        },
-        "2018": "<default>"
-      }
+      ]
     },
     "X5 xDRIVE40e 4DR SUV": {
       "years": [
         2017,
         2018
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 489,
-          "overall_width_cm": 194,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2368,
-          "weight_distribution_pct": "50/50"
-        },
-        "2018": "<default>"
-      }
+      ]
     },
     "X5 xDRIVE50i THIRD ROW SEATING 4DR SUV": {
       "years": [
         2017,
         2018
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 179,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 489,
-          "overall_width_cm": 194,
-          "overall_height_cm": 176,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2413,
-          "weight_distribution_pct": "50/50"
-        },
-        "2018": "<default>"
-      }
+      ]
     },
     "X5M 4DR SUV": {
       "years": [
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 178,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 91,
-          "max_width_cm": 113,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 488,
-          "overall_width_cm": 198,
-          "overall_height_cm": 175,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 167,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 2350,
-          "weight_distribution_pct": "50/50"
-        },
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     },
     "X5 xDRIVE40i 4DR SUV": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 176,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 95,
-          "max_width_cm": 113,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 494,
-          "overall_width_cm": 200,
-          "overall_height_cm": 175,
-          "wheelbase_cm": 297,
-          "front_track_width_cm": 167,
-          "rear_track_width_cm": 169,
-          "curb_weight_kg": 2135,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
-  "550i": {},
+  "550i": {
+    "550i 4DR SEDAN RWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    }
+  },
   "X3": {
     "X3 4DR SUV AWD /2.5i": {
       "years": [
         2004,
         2005,
         2006
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 125,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 90,
-          "max_width_cm": 116,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 185,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 279,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1815,
-          "weight_distribution_pct": "50/50"
-        },
-        "2005": "<default>",
-        "2006": "<default>"
-      }
+      ]
     },
     "X3 4DR SUV AWD /3.0i": {
       "years": [
         2004,
         2005,
         2006
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 125,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 90,
-          "max_width_cm": 116,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 185,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 279,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1845,
-          "weight_distribution_pct": "50/50"
-        },
-        "2005": "<default>",
-        "2006": "<default>"
-      }
+      ]
     },
     "X3 4DR SUV AWD 3.0i/3.0si": {
       "years": [
         2007,
         2008,
         2009
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 125,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 90,
-          "max_width_cm": 116,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 185,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 279,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1845,
-          "weight_distribution_pct": "50/50"
-        },
-        "2008": "<default>",
-        "2009": "<default>"
-      }
+      ]
     },
     "X3 4DR SUV AWD 28i/30i": {
       "years": [
         2010
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 125,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 90,
-          "max_width_cm": 116,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 457,
-          "overall_width_cm": 185,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 279,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1820,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "X3 xDrive28i 4 DR SUV": {
       "years": [
         2011,
         2012
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 138,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 85,
-          "max_width_cm": 114,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 465,
-          "overall_width_cm": 188,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1865,
-          "weight_distribution_pct": "50/50"
-        },
-        "2012": "<default>"
-      }
+      ]
     },
     "X3 xDrive35i 4 DR SUV": {
       "years": [
         2011,
         2012
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 138,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 85,
-          "max_width_cm": 114,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 465,
-          "overall_width_cm": 188,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1915,
-          "weight_distribution_pct": "50/50"
-        },
-        "2012": "<default>"
-      }
+      ]
     },
     "X3 xDRIVE28i 4 DR SUV": {
       "years": [
         2013,
         2014
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 138,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 85,
-          "max_width_cm": 114,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 465,
-          "overall_width_cm": 188,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1865,
-          "weight_distribution_pct": "50/50"
-        },
-        "2014": {
-          "hood_length_cm": 138,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 85,
-          "max_width_cm": 114,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 465,
-          "overall_width_cm": 188,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1845,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "X3 xDRIVE35i 4 DR SUV": {
       "years": [
         2013,
         2014
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 138,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 85,
-          "max_width_cm": 114,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 465,
-          "overall_width_cm": 188,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1915,
-          "weight_distribution_pct": "50/50"
-        },
-        "2014": "<default>"
-      }
+      ]
     },
     "X3 xDRIVE28d 4DR SUV": {
       "years": [
         2015,
         2016
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 138,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 85,
-          "max_width_cm": 114,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 465,
-          "overall_width_cm": 188,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1919,
-          "weight_distribution_pct": "50/50"
-        },
-        "2016": "<default>"
-      }
+      ]
     },
     "X3 xDRIVE28i 4DR SUV": {
       "years": [
         2015,
         2016,
         2017
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 138,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 85,
-          "max_width_cm": 114,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 465,
-          "overall_width_cm": 188,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1882,
-          "weight_distribution_pct": "50/50"
-        },
-        "2016": "<default>",
-        "2017": "<default>"
-      }
+      ]
     },
     "X3 xDRIVE35i 4DR SUV": {
       "years": [
         2015,
         2016,
         2017
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 138,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 85,
-          "max_width_cm": 114,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 465,
-          "overall_width_cm": 188,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1919,
-          "weight_distribution_pct": "50/50"
-        },
-        "2016": "<default>",
-        "2017": "<default>"
-      }
+      ]
     },
     "X3 M40i 4DR SUV": {
       "years": [
         2018,
         2019
-      ],
-      "details": {
-        "2018": "<default>",
-        "<default>": {
-          "hood_length_cm": 142,
-          "back_length_cm": 167,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 95,
-          "max_width_cm": 109,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 471,
-          "overall_width_cm": 189,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 286,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 162,
-          "curb_weight_kg": 1918,
-          "weight_distribution_pct": "50/50"
-        },
-        "2019": "<default>"
-      }
+      ]
     },
     "X3 xDRIVE30i 4DR SUV": {
       "years": [
         2018,
         2019
-      ],
-      "details": {
-        "2018": "<default>",
-        "<default>": {
-          "hood_length_cm": 142,
-          "back_length_cm": 167,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 95,
-          "max_width_cm": 109,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 471,
-          "overall_width_cm": 189,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 286,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 1883,
-          "weight_distribution_pct": "50/50"
-        },
-        "2019": "<default>"
-      }
+      ]
     }
   },
-  "740i": {},
+  "740i": {
+    "740iA 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "740iAL 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "740i 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
+      ]
+    },
+    "740iL 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
+      ]
+    }
+  },
   "740Li": {},
   "750i": {
     "750IL": {
       "years": [
         1988,
         1989
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 138,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 73,
-          "max_width_cm": 121,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 120,
-          "overall_length_cm": 502,
-          "overall_width_cm": 185,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 295,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1920,
-          "weight_distribution_pct": null
-        },
-        "1989": {
-          "hood_length_cm": 138,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 75,
-          "max_width_cm": 118,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 120,
-          "overall_length_cm": 502,
-          "overall_width_cm": 185,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 295,
-          "front_track_width_cm": 133,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1920,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
+    },
+    "750iL 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
+      ]
+    },
+    "750i 4DR SEDAN RWD": {
+      "years": [
+        2006,
+        2007
+      ]
     }
   },
-  "750Li": {},
-  "760Li": {},
+  "750Li": {
+    "750Li 4DR SEDAN RWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    }
+  },
+  "760Li": {
+    "760Li 4DR SEDAN RWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    }
+  },
   "Z4": {
     "Z4 2.5i 2DR CONV RWD": {
       "years": [
@@ -2062,63 +500,7 @@
         2005,
         2006,
         2007
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 150,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 78,
-          "overall_length_cm": 409,
-          "overall_width_cm": 178,
-          "overall_height_cm": 130,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 148,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1330,
-          "weight_distribution_pct": "50/50"
-        },
-        "2004": "<default>",
-        "2005": "<default>",
-        "2006": {
-          "hood_length_cm": 150,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 78,
-          "overall_length_cm": 409,
-          "overall_width_cm": 178,
-          "overall_height_cm": 130,
-          "wheelbase_cm": 249,
-          "front_track_width_cm": 148,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1360,
-          "weight_distribution_pct": "50/50"
-        },
-        "2007": {
-          "hood_length_cm": 150,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 78,
-          "overall_length_cm": 409,
-          "overall_width_cm": 178,
-          "overall_height_cm": 130,
-          "wheelbase_cm": 249,
-          "front_track_width_cm": 148,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1360,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "Z4 3.0i 2DR CONV RWD": {
       "years": [
@@ -2126,268 +508,41 @@
         2004,
         2005,
         2006
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 150,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 78,
-          "overall_length_cm": 409,
-          "overall_width_cm": 178,
-          "overall_height_cm": 130,
-          "wheelbase_cm": 249,
-          "front_track_width_cm": 148,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1360,
-          "weight_distribution_pct": "64/36"
-        },
-        "2004": {
-          "hood_length_cm": 150,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 78,
-          "overall_length_cm": 409,
-          "overall_width_cm": 178,
-          "overall_height_cm": 130,
-          "wheelbase_cm": 249,
-          "front_track_width_cm": 148,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1360,
-          "weight_distribution_pct": "50/50"
-        },
-        "2005": {
-          "hood_length_cm": 150,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 78,
-          "overall_length_cm": 409,
-          "overall_width_cm": 178,
-          "overall_height_cm": 130,
-          "wheelbase_cm": 249,
-          "front_track_width_cm": 148,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1360,
-          "weight_distribution_pct": "50/50"
-        },
-        "2006": {
-          "hood_length_cm": 150,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 78,
-          "overall_length_cm": 409,
-          "overall_width_cm": 178,
-          "overall_height_cm": 130,
-          "wheelbase_cm": 249,
-          "front_track_width_cm": 148,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1385,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "Z4 3.0i / 3.0si 2DR CONV RWD": {
       "years": [
         2007,
         2008
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 150,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 78,
-          "overall_length_cm": 409,
-          "overall_width_cm": 178,
-          "overall_height_cm": 130,
-          "wheelbase_cm": 249,
-          "front_track_width_cm": 148,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1385,
-          "weight_distribution_pct": "50/50"
-        },
-        "2008": {
-          "hood_length_cm": 150,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 70,
-          "max_width_cm": 122,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 78,
-          "overall_length_cm": 409,
-          "overall_width_cm": 178,
-          "overall_height_cm": 130,
-          "wheelbase_cm": 249,
-          "front_track_width_cm": 148,
-          "rear_track_width_cm": 152,
-          "curb_weight_kg": 1370,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "Z4 M 2DR CONV RWD": {
       "years": [
         2008
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 154,
-          "back_length_cm": 64,
-          "side_glass_max_height_cm": 28,
-          "door_height_cm": 71,
-          "max_width_cm": null,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 78,
-          "overall_length_cm": 411,
-          "overall_width_cm": 178,
-          "overall_height_cm": 130,
-          "wheelbase_cm": 249,
-          "front_track_width_cm": 148,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1450,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "Z4 sDRIVE 2DR CONV RWD 23i/30i": {
       "years": [
         2009
-      ],
-      "details": {
-        "2009": "<default>",
-        "<default>": {
-          "hood_length_cm": 156,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 74,
-          "max_width_cm": 125,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 424,
-          "overall_width_cm": 179,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1480,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "Z4 sDRIVE 2DR CONV RWD 35i": {
       "years": [
         2009,
         2010
-      ],
-      "details": {
-        "2009": "<default>",
-        "<default>": {
-          "hood_length_cm": 156,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 74,
-          "max_width_cm": 125,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 424,
-          "overall_width_cm": 179,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1580,
-          "weight_distribution_pct": "52/48"
-        },
-        "2010": {
-          "hood_length_cm": 156,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 74,
-          "max_width_cm": 125,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 424,
-          "overall_width_cm": 179,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1500,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "Z4 sDRIVE 2DR CONV RWD 30i": {
       "years": [
         2010
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 156,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 74,
-          "max_width_cm": 125,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 424,
-          "overall_width_cm": 179,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 152,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1470,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "Z4 sDRIVE30i 2DR CONV RWD": {
       "years": [
         2011,
         2012,
         2013
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 156,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 74,
-          "max_width_cm": 125,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 424,
-          "overall_width_cm": 179,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1470,
-          "weight_distribution_pct": "50/50"
-        },
-        "2012": "<default>",
-        "2013": "<default>"
-      }
+      ]
     },
     "Z4 sDRIVE35i/35is 2DR CONV RWD": {
       "years": [
@@ -2398,97 +553,7 @@
         2015,
         2016,
         2017
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 156,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 74,
-          "max_width_cm": 125,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 424,
-          "overall_width_cm": 179,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1590,
-          "weight_distribution_pct": "50/50"
-        },
-        "2012": "<default>",
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": 156,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 74,
-          "max_width_cm": 125,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 424,
-          "overall_width_cm": 179,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1610,
-          "weight_distribution_pct": "50/50"
-        },
-        "2015": {
-          "hood_length_cm": 156,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 74,
-          "max_width_cm": 125,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 424,
-          "overall_width_cm": 179,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1585,
-          "weight_distribution_pct": "50/50"
-        },
-        "2016": {
-          "hood_length_cm": 156,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 74,
-          "max_width_cm": 125,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 424,
-          "overall_width_cm": 179,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1585,
-          "weight_distribution_pct": "50/50"
-        },
-        "2017": {
-          "hood_length_cm": 156,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 74,
-          "max_width_cm": 125,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 424,
-          "overall_width_cm": 179,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1585,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "Z4 sDRIVE28i 2DR CONV RWD": {
       "years": [
@@ -2496,103 +561,12 @@
         2015,
         2016,
         2017
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 156,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 74,
-          "max_width_cm": 125,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 424,
-          "overall_width_cm": 179,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1500,
-          "weight_distribution_pct": "50/50"
-        },
-        "2015": {
-          "hood_length_cm": 156,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 74,
-          "max_width_cm": 125,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 424,
-          "overall_width_cm": 179,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1480,
-          "weight_distribution_pct": "50/50"
-        },
-        "2016": {
-          "hood_length_cm": 156,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 74,
-          "max_width_cm": 125,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 424,
-          "overall_width_cm": 179,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1480,
-          "weight_distribution_pct": "50/50"
-        },
-        "2017": {
-          "hood_length_cm": 156,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 74,
-          "max_width_cm": 125,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 424,
-          "overall_width_cm": 179,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1480,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "Z4 2DR CONVERTIBLE": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 159,
-          "back_length_cm": 67,
-          "side_glass_max_height_cm": 24,
-          "door_height_cm": 78,
-          "max_width_cm": 128,
-          "front_overhang_cm": 92,
-          "rear_overhang_cm": 95,
-          "overall_length_cm": 434,
-          "overall_width_cm": 186,
-          "overall_height_cm": 131,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 1562,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     }
   },
   "750xi": {},
@@ -2602,44 +576,7 @@
       "years": [
         1988,
         1989
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 156,
-          "back_length_cm": 88,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 67,
-          "max_width_cm": 114,
-          "front_overhang_cm": 107,
-          "rear_overhang_cm": 121,
-          "overall_length_cm": 492,
-          "overall_width_cm": 173,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 263,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1620,
-          "weight_distribution_pct": null
-        },
-        "1989": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 482,
-          "overall_width_cm": 173,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 263,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1600,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "M6 2DR COUPE RWD": {
       "years": [
@@ -2650,129 +587,7 @@
         2015,
         2016,
         2017
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 141,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 80,
-          "max_width_cm": 104,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 487,
-          "overall_width_cm": 185,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 278,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1710,
-          "weight_distribution_pct": null
-        },
-        "2007": {
-          "hood_length_cm": 141,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 80,
-          "max_width_cm": 104,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 487,
-          "overall_width_cm": 185,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 278,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1773,
-          "weight_distribution_pct": null
-        },
-        "2013": {
-          "hood_length_cm": 158,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 82,
-          "max_width_cm": 107,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 189,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 286,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 1930,
-          "weight_distribution_pct": "53/47"
-        },
-        "2014": {
-          "hood_length_cm": 158,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 82,
-          "max_width_cm": 107,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 189,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 1930,
-          "weight_distribution_pct": "53/47"
-        },
-        "2015": {
-          "hood_length_cm": 158,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 82,
-          "max_width_cm": 107,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 189,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 1930,
-          "weight_distribution_pct": "53/47"
-        },
-        "2016": {
-          "hood_length_cm": 158,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 82,
-          "max_width_cm": 107,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 189,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 1930,
-          "weight_distribution_pct": "53/47"
-        },
-        "2017": {
-          "hood_length_cm": 158,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 82,
-          "max_width_cm": 107,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 189,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 1930,
-          "weight_distribution_pct": "53/47"
-        }
-      }
+      ]
     },
     "M6 CABRIOLET 2DR CONVERTIBLE RWD": {
       "years": [
@@ -2780,123 +595,14 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 141,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 80,
-          "max_width_cm": 104,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 487,
-          "overall_width_cm": 185,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 278,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1995,
-          "weight_distribution_pct": null
-        },
-        "2008": "<default>",
-        "2009": {
-          "hood_length_cm": 141,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 80,
-          "max_width_cm": 104,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 487,
-          "overall_width_cm": 185,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 278,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1995,
-          "weight_distribution_pct": "50/50"
-        },
-        "2010": {
-          "hood_length_cm": 141,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 80,
-          "max_width_cm": 104,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 487,
-          "overall_width_cm": 185,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 278,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1995,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "M6 COUPE 2DR RWD": {
       "years": [
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 141,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 80,
-          "max_width_cm": 104,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 487,
-          "overall_width_cm": 185,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 278,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1773,
-          "weight_distribution_pct": null
-        },
-        "2009": {
-          "hood_length_cm": 142,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 79,
-          "max_width_cm": 108,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 487,
-          "overall_width_cm": 185,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 279,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1773,
-          "weight_distribution_pct": "54/46"
-        },
-        "2010": {
-          "hood_length_cm": 142,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 79,
-          "max_width_cm": 108,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 487,
-          "overall_width_cm": 185,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 279,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1773,
-          "weight_distribution_pct": "54/46"
-        }
-      }
+      ]
     },
     "M6 CABRIOLET 2DR CONV RWD": {
       "years": [
@@ -2905,95 +611,7 @@
         2015,
         2016,
         2017
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 158,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": 82,
-          "max_width_cm": null,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 189,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 286,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 2045,
-          "weight_distribution_pct": "50/50"
-        },
-        "2014": {
-          "hood_length_cm": 158,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 82,
-          "max_width_cm": null,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 189,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 2045,
-          "weight_distribution_pct": "50/50"
-        },
-        "2015": {
-          "hood_length_cm": 158,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 82,
-          "max_width_cm": null,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 189,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 2045,
-          "weight_distribution_pct": "50/50"
-        },
-        "2016": {
-          "hood_length_cm": 158,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 82,
-          "max_width_cm": null,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 189,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 2045,
-          "weight_distribution_pct": "50/50"
-        },
-        "2017": {
-          "hood_length_cm": 158,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 82,
-          "max_width_cm": null,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 189,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 2045,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "M6 GRAN COUPE 4DR SEDAN": {
       "years": [
@@ -3004,188 +622,37 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 158,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 81,
-          "max_width_cm": 107,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 501,
-          "overall_width_cm": 190,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 297,
-          "front_track_width_cm": 163,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 1994,
-          "weight_distribution_pct": null
-        },
-        "2014": {
-          "hood_length_cm": 158,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 81,
-          "max_width_cm": 107,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 501,
-          "overall_width_cm": 190,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 297,
-          "front_track_width_cm": 163,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 2009,
-          "weight_distribution_pct": "52/48"
-        },
-        "2015": {
-          "hood_length_cm": 158,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 81,
-          "max_width_cm": 107,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 501,
-          "overall_width_cm": 190,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 297,
-          "front_track_width_cm": 163,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 2009,
-          "weight_distribution_pct": "52/48"
-        },
-        "2016": {
-          "hood_length_cm": 158,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 81,
-          "max_width_cm": 107,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 501,
-          "overall_width_cm": 190,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 297,
-          "front_track_width_cm": 163,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 2009,
-          "weight_distribution_pct": "52/48"
-        },
-        "2017": {
-          "hood_length_cm": 158,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 81,
-          "max_width_cm": 107,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 501,
-          "overall_width_cm": 190,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 297,
-          "front_track_width_cm": 163,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 2009,
-          "weight_distribution_pct": "52/48"
-        },
-        "2018": {
-          "hood_length_cm": 158,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 81,
-          "max_width_cm": 107,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 501,
-          "overall_width_cm": 190,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 297,
-          "front_track_width_cm": 163,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 2009,
-          "weight_distribution_pct": "52/48"
-        },
-        "2019": {
-          "hood_length_cm": 158,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 31,
-          "door_height_cm": 81,
-          "max_width_cm": 107,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 501,
-          "overall_width_cm": 190,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 297,
-          "front_track_width_cm": 163,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 2009,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "M6 2DR CABRIOLET": {
       "years": [
         2018,
         2019
-      ],
-      "details": {
-        "2018": "<default>",
-        "<default>": {
-          "hood_length_cm": 158,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 82,
-          "max_width_cm": null,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 189,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 2045,
-          "weight_distribution_pct": "50/50"
-        },
-        "2019": "<default>"
-      }
+      ]
     },
     "M6 2DR COUPE": {
       "years": [
         2018,
         2019
-      ],
-      "details": {
-        "2018": "<default>",
-        "<default>": {
-          "hood_length_cm": 158,
-          "back_length_cm": 60,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 82,
-          "max_width_cm": 107,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 189,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 285,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 1930,
-          "weight_distribution_pct": "53/47"
-        },
-        "2019": "<default>"
-      }
+      ]
     }
   },
   "528xi": {},
   "640i": {},
-  "650i": {},
+  "650i": {
+    "650i 2DR CABRIOLET RWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "650i 2DR COUPE RWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    }
+  },
   "650xi": {},
   "1M": {},
   "Active E": {},
@@ -3193,27 +660,7 @@
     "M5": {
       "years": [
         1988
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 136,
-          "back_length_cm": 84,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 71,
-          "max_width_cm": 122,
-          "front_overhang_cm": 102,
-          "rear_overhang_cm": 120,
-          "overall_length_cm": 480,
-          "overall_width_cm": 170,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 263,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1551,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "M5 4DR SEDAN": {
       "years": [
@@ -3228,222 +675,12 @@
         2003,
         2018,
         2019
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 472,
-          "overall_width_cm": 175,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1725,
-          "weight_distribution_pct": null
-        },
-        "1991": {
-          "hood_length_cm": 133,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 116,
-          "front_overhang_cm": 116,
-          "rear_overhang_cm": 84,
-          "overall_length_cm": 472,
-          "overall_width_cm": 175,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1725,
-          "weight_distribution_pct": null
-        },
-        "1992": {
-          "hood_length_cm": 133,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 116,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 116,
-          "overall_length_cm": 472,
-          "overall_width_cm": 175,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1725,
-          "weight_distribution_pct": null
-        },
-        "1993": {
-          "hood_length_cm": 133,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 73,
-          "max_width_cm": 116,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 116,
-          "overall_length_cm": 472,
-          "overall_width_cm": 175,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1725,
-          "weight_distribution_pct": null
-        },
-        "1999": {
-          "hood_length_cm": 129,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 117,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 478,
-          "overall_width_cm": 180,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 283,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1795,
-          "weight_distribution_pct": null
-        },
-        "2000": {
-          "hood_length_cm": 129,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 117,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 478,
-          "overall_width_cm": 180,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 283,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1825,
-          "weight_distribution_pct": "52/48"
-        },
-        "2001": {
-          "hood_length_cm": 129,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 117,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 478,
-          "overall_width_cm": 180,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 283,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1825,
-          "weight_distribution_pct": "52/48"
-        },
-        "2002": {
-          "hood_length_cm": 129,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 117,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 478,
-          "overall_width_cm": 180,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 283,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1825,
-          "weight_distribution_pct": "52/48"
-        },
-        "2003": {
-          "hood_length_cm": 129,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 77,
-          "max_width_cm": 117,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 478,
-          "overall_width_cm": 180,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 283,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1825,
-          "weight_distribution_pct": "48/52"
-        },
-        "2018": {
-          "hood_length_cm": 152,
-          "back_length_cm": 55,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 81,
-          "max_width_cm": 109,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 496,
-          "overall_width_cm": 187,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 298,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1982,
-          "weight_distribution_pct": "54/46"
-        },
-        "2019": {
-          "hood_length_cm": 152,
-          "back_length_cm": 55,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 81,
-          "max_width_cm": 109,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 496,
-          "overall_width_cm": 187,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 298,
-          "front_track_width_cm": 161,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1982,
-          "weight_distribution_pct": "54/46"
-        }
-      }
+      ]
     },
     "M540i 4DR SEDAN": {
       "years": [
         1995
-      ],
-      "details": {
-        "1995": "<default>",
-        "<default>": {
-          "hood_length_cm": 131,
-          "back_length_cm": 58,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 74,
-          "max_width_cm": 116,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 113,
-          "overall_length_cm": 475,
-          "overall_width_cm": null,
-          "overall_height_cm": null,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "M5 4DR SEDAN RWD": {
       "years": [
@@ -3455,116 +692,44 @@
         2010,
         2015,
         2016
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": 132,
-          "back_length_cm": 56,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 86,
-          "max_width_cm": 109,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 486,
-          "overall_width_cm": 185,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 289,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1830,
-          "weight_distribution_pct": "50/50"
-        },
-        "2006": "<default>",
-        "2007": "<default>",
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>",
-        "2015": {
-          "hood_length_cm": 148,
-          "back_length_cm": 55,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 491,
-          "overall_width_cm": 186,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 296,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1990,
-          "weight_distribution_pct": "51/49"
-        },
-        "2016": {
-          "hood_length_cm": 148,
-          "back_length_cm": 55,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 491,
-          "overall_width_cm": 186,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 296,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1990,
-          "weight_distribution_pct": "51/49"
-        }
-      }
+      ]
     },
     "M5 4 DR SEDAN RWD": {
       "years": [
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 148,
-          "back_length_cm": 55,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 490,
-          "overall_width_cm": 186,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 297,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1980,
-          "weight_distribution_pct": "51/49"
-        },
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": 148,
-          "back_length_cm": 55,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 81,
-          "max_width_cm": 111,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 111,
-          "overall_length_cm": 491,
-          "overall_width_cm": 186,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 296,
-          "front_track_width_cm": 160,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1990,
-          "weight_distribution_pct": "51/49"
-        }
-      }
+      ]
     }
   },
   "228i": {},
   "M235i": {},
-  "320i": {},
+  "320i": {
+    "320i SD": {
+      "years": [
+        1981
+      ]
+    },
+    "320i/325i 4DR SEDAN": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "320i 4DR SEDAN": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "320i 4DR SEDAN RWD": {
+      "years": [
+        2004,
+        2005
+      ]
+    }
+  },
   "328d": {},
   "i3": {},
   "i8": {},
@@ -3577,27 +742,7 @@
     "X1 xDrive28i 4DR SUV": {
       "years": [
         2012
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 140,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 81,
-          "max_width_cm": 112,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 445,
-          "overall_width_cm": 180,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1690,
-          "weight_distribution_pct": "51/49"
-        }
-      }
+      ]
     },
     "X1 xDRIVE28i 4DR SUV": {
       "years": [
@@ -3608,473 +753,606 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 140,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 81,
-          "max_width_cm": 112,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 445,
-          "overall_width_cm": 180,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1690,
-          "weight_distribution_pct": "51/49"
-        },
-        "2014": "<default>",
-        "2015": "<default>",
-        "2016": {
-          "hood_length_cm": 125,
-          "back_length_cm": 154,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 90,
-          "max_width_cm": 106,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 444,
-          "overall_width_cm": 182,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1660,
-          "weight_distribution_pct": "57/43"
-        },
-        "2017": {
-          "hood_length_cm": 125,
-          "back_length_cm": 154,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 90,
-          "max_width_cm": 106,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 444,
-          "overall_width_cm": 182,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1660,
-          "weight_distribution_pct": "57/43"
-        },
-        "2018": {
-          "hood_length_cm": 125,
-          "back_length_cm": 154,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 90,
-          "max_width_cm": 106,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 444,
-          "overall_width_cm": 182,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1660,
-          "weight_distribution_pct": "57/43"
-        },
-        "2019": {
-          "hood_length_cm": 125,
-          "back_length_cm": 154,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 90,
-          "max_width_cm": 106,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 93,
-          "overall_length_cm": 444,
-          "overall_width_cm": 182,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1660,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     },
     "X1 xDRIVE35i 4DR SUV": {
       "years": [
         2013,
         2014,
         2015
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 140,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 81,
-          "max_width_cm": 112,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 445,
-          "overall_width_cm": 180,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1765,
-          "weight_distribution_pct": "52/48"
-        },
-        "2014": "<default>",
-        "2015": "<default>"
-      }
+      ]
     }
   },
   "535xi": {},
-  "328xi": {},
+  "328xi": {
+    "328xi 2DR COUPE AWD": {
+      "years": [
+        2007
+      ]
+    },
+    "328xi 4DR SEDAN AWD": {
+      "years": [
+        2007
+      ]
+    },
+    "328xi TOURING 4DR WAGON AWD": {
+      "years": [
+        2007
+      ]
+    }
+  },
   "335xi": {},
-  "525i": {},
-  "530i": {},
-  "530xi": {},
-  "525xi": {},
+  "525i": {
+    "525i": {
+      "years": [
+        1989
+      ]
+    },
+    "525i 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "525i TOURING (WAGON)": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "525iT 4DR WAGON": {
+      "years": [
+        2001,
+        2002
+      ]
+    },
+    "525i TOURING 4DR WAGON": {
+      "years": [
+        2003
+      ]
+    },
+    "525i 4DR SEDAN RWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "525ix 4DR SEDAN AWD": {
+      "years": [
+        2006
+      ]
+    }
+  },
+  "530i": {
+    "530i 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "530i 4DR WAGON TOURING": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "530i 4DR SEDAN RWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    }
+  },
+  "530xi": {
+    "530xi 4DR SEDAN AWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "530xi 4DR TOURING/WAGON": {
+      "years": [
+        2006,
+        2007
+      ]
+    }
+  },
+  "525xi": {
+    "525xi 4DR SEDAN AWD": {
+      "years": [
+        2007
+      ]
+    }
+  },
   "325Cic": {},
   "330Cic": {},
   "M3Cic": {},
-  "325Ci": {},
-  "330Ci": {},
+  "325Ci": {
+    "325Ci 2DR CABRIOLET": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "325Ci 2DR COUPE": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "325Ci 2DR CABRIOLET RWD": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "325Ci 2DR COUPE RWD": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    }
+  },
+  "330Ci": {
+    "330Ci 2DR CABRIOLET": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "330Ci 2DR COUPE": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "330Ci 2DR CABRIOLET RWD": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "330Ci 2DR COUPE RWD": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    }
+  },
   "325i": {
     "325IX 4WD 4DR": {
       "years": [
         1988,
         1989
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 71,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 68,
-          "max_width_cm": 108,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 445,
-          "overall_width_cm": 165,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1364,
-          "weight_distribution_pct": null
-        },
-        "1989": {
-          "hood_length_cm": 122,
-          "back_length_cm": 67,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 72,
-          "max_width_cm": 106,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 449,
-          "overall_width_cm": 165,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 139,
-          "curb_weight_kg": 1364,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
+    },
+    "325i 2 DR COUPE": {
+      "years": [
+        1989
+      ]
+    },
+    "325i CABRIOLET": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "325iX 4WD 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "325i 4DR SEDAN": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "325iT 4DR WAGON RWD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    },
+    "325i 4DR SEDAN RWD": {
+      "years": [
+        2004,
+        2005
+      ]
     }
   },
-  "325xi": {},
-  "325xiT": {},
+  "325xi": {
+    "325xiT 4DR WAGON AWD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    },
+    "325xi 4DR SEDAN AWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "325xi TOURING 4DR WAGON AWD": {
+      "years": [
+        2006
+      ]
+    }
+  },
+  "325xiT": {
+    "325xiT 4DR WAGON AWD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    }
+  },
   "530xiT": {},
-  "330i": {},
-  "330xi": {},
+  "330i": {
+    "330i 4DR SEDAN": {
+      "years": [
+        2001
+      ]
+    },
+    "330i 4DR SEDAN RWD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    }
+  },
+  "330xi": {
+    "330xi 4DR SEDAN AWD": {
+      "years": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    }
+  },
   "760i": {},
-  "325iT": {},
-  "545i": {},
-  "645Ci": {},
+  "325iT": {
+    "325iT 4DR WAGON RWD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    }
+  },
+  "545i": {
+    "545i 4DR SEDAN RWD": {
+      "years": [
+        2004,
+        2005
+      ]
+    }
+  },
+  "645Ci": {
+    "645Ci 2DR CABRIOLET RWD": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "645Ci 2DR COUPE RWD": {
+      "years": [
+        2004,
+        2005
+      ]
+    }
+  },
   "645Cic": {},
-  "745i": {},
-  "745Li": {},
-  "318i": {},
-  "318iS": {},
+  "745i": {
+    "745i 4DR SEDAN RWD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    }
+  },
+  "745Li": {
+    "745Li 4DR SEDAN RWD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    }
+  },
+  "318i": {
+    "318i/325i 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "318is/325i 2DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "318i/325i 2DR COUPE": {
+      "years": [
+        1992
+      ]
+    },
+    "318i/325i CABRIOLET": {
+      "years": [
+        1992,
+        1993,
+        1994,
+        1995
+      ]
+    },
+    "318i/320i/325i 2DR COUPE": {
+      "years": [
+        1993
+      ]
+    },
+    "318i/320i/325i 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "318i 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "318is 2DR COUPE": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "318i CABRIOLET": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    }
+  },
+  "318iS": {
+    "318is/325i 2DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "318is 2DR COUPE": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    }
+  },
   "318iC": {},
   "325iS": {},
   "325iC": {},
-  "525iT": {},
+  "525iT": {
+    "525iT 4DR WAGON": {
+      "years": [
+        2001,
+        2002
+      ]
+    }
+  },
   "530iT": {},
-  "540i": {},
-  "840Ci": {},
-  "850Ci": {},
+  "540i": {
+    "540i 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "540iAT4DR WAGON": {
+      "years": [
+        1999
+      ]
+    },
+    "540iT 4DR WAGON": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "540i TOURING 4DR WAGON": {
+      "years": [
+        2003
+      ]
+    }
+  },
+  "840Ci": {
+    "840Ci/850Ci 2DR COUPE": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    }
+  },
+  "850Ci": {
+    "850ci 2DR COUPE": {
+      "years": [
+        1993
+      ]
+    }
+  },
   "850CSi": {},
-  "318ti": {},
+  "318ti": {
+    "318ti 2DR HATCHBACK": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    }
+  },
   "328iC": {},
-  "328iS": {},
+  "328iS": {
+    "328is 2DR COUPE": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    }
+  },
   "Z3": {
     "Z3 2DR ROADSTER": {
       "years": [
         1996
-      ],
-      "details": {
-        "1996": "<default>",
-        "<default>": {
-          "hood_length_cm": 143,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": 65,
-          "max_width_cm": null,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 77,
-          "overall_length_cm": 403,
-          "overall_width_cm": 169,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": 141,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 1220,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "Z3 1.9 ROADSTER": {
       "years": [
         1997,
         1998
-      ],
-      "details": {
-        "1997": "<default>",
-        "<default>": {
-          "hood_length_cm": 143,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": 65,
-          "max_width_cm": null,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 77,
-          "overall_length_cm": 403,
-          "overall_width_cm": 169,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": 141,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 1220,
-          "weight_distribution_pct": "52/48"
-        },
-        "1998": {
-          "hood_length_cm": 143,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": 65,
-          "max_width_cm": null,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 77,
-          "overall_length_cm": 403,
-          "overall_width_cm": 169,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": 141,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 1235,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "Z3 2.8 ROADSTER": {
       "years": [
         1997,
         1998,
         1999
-      ],
-      "details": {
-        "1997": "<default>",
-        "<default>": {
-          "hood_length_cm": 143,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": 65,
-          "max_width_cm": null,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 77,
-          "overall_length_cm": 403,
-          "overall_width_cm": 169,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": 141,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1290,
-          "weight_distribution_pct": null
-        },
-        "1998": {
-          "hood_length_cm": 143,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": 65,
-          "max_width_cm": null,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 77,
-          "overall_length_cm": 403,
-          "overall_width_cm": 169,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": 141,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1305,
-          "weight_distribution_pct": "51/49"
-        },
-        "1999": {
-          "hood_length_cm": 143,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 65,
-          "max_width_cm": 116,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 78,
-          "overall_length_cm": 403,
-          "overall_width_cm": 169,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": 141,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1290,
-          "weight_distribution_pct": "51/49"
-        }
-      }
+      ]
     },
     "Z3 2.3 ROADSTER": {
       "years": [
         1999
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": 143,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 65,
-          "max_width_cm": 116,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 78,
-          "overall_length_cm": 403,
-          "overall_width_cm": 169,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": 141,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 1235,
-          "weight_distribution_pct": "51/49"
-        }
-      }
+      ]
     },
     "Z3 ROADSTER 2.3": {
       "years": [
         2000
-      ],
-      "details": {
-        "2000": "<default>",
-        "<default>": {
-          "hood_length_cm": 143,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 65,
-          "max_width_cm": 116,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 78,
-          "overall_length_cm": 405,
-          "overall_width_cm": 174,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": 141,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1315,
-          "weight_distribution_pct": "51/49"
-        }
-      }
+      ]
     },
     "Z3 ROADSTER 2.8": {
       "years": [
         2000
-      ],
-      "details": {
-        "2000": "<default>",
-        "<default>": {
-          "hood_length_cm": 143,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 65,
-          "max_width_cm": 116,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 78,
-          "overall_length_cm": 405,
-          "overall_width_cm": 174,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": 141,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1320,
-          "weight_distribution_pct": "51/49"
-        }
-      }
+      ]
     },
     "Z3 ROADSTER 2.5": {
       "years": [
         2001,
         2002
-      ],
-      "details": {
-        "2001": "<default>",
-        "<default>": {
-          "hood_length_cm": 143,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 65,
-          "max_width_cm": 116,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 78,
-          "overall_length_cm": 405,
-          "overall_width_cm": 174,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": 141,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1315,
-          "weight_distribution_pct": "51/49"
-        },
-        "2002": "<default>"
-      }
+      ]
     },
     "Z3 ROADSTER 3.0": {
       "years": [
         2001,
         2002
-      ],
-      "details": {
-        "2001": "<default>",
-        "<default>": {
-          "hood_length_cm": 143,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 65,
-          "max_width_cm": 116,
-          "front_overhang_cm": 80,
-          "rear_overhang_cm": 78,
-          "overall_length_cm": 405,
-          "overall_width_cm": 174,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": 141,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1320,
-          "weight_distribution_pct": "51/49"
-        },
-        "2002": "<default>"
-      }
+      ]
     }
   },
-  "323i": {},
-  "323is": {},
+  "323i": {
+    "323i CABRIOLET": {
+      "years": [
+        1998,
+        1999
+      ]
+    },
+    "323is 2DR COUPE": {
+      "years": [
+        1998,
+        1999
+      ]
+    },
+    "323i 4DR SEDAN": {
+      "years": [
+        1999,
+        2000
+      ]
+    },
+    "323i/325i 4DR SEDAN RWD": {
+      "years": [
+        2006
+      ]
+    },
+    "323i/328i 4DR SEDAN RWD": {
+      "years": [
+        2007
+      ]
+    }
+  },
+  "323is": {
+    "323is 2DR COUPE": {
+      "years": [
+        1998,
+        1999
+      ]
+    }
+  },
   "323iC": {},
   "Z8": {
     "Z8 ROADSTER 5.0": {
@@ -4084,225 +1362,81 @@
         2003,
         2004,
         2005
-      ],
-      "details": {
-        "2001": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 440,
-          "overall_width_cm": 183,
-          "overall_height_cm": 132,
-          "wheelbase_cm": 251,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1615,
-          "weight_distribution_pct": null
-        },
-        "2002": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 440,
-          "overall_width_cm": 183,
-          "overall_height_cm": 132,
-          "wheelbase_cm": 251,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1615,
-          "weight_distribution_pct": "50/50"
-        },
-        "2003": {
-          "hood_length_cm": 171,
-          "back_length_cm": 88,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 71,
-          "max_width_cm": 119,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 440,
-          "overall_width_cm": 183,
-          "overall_height_cm": 132,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1615,
-          "weight_distribution_pct": "62/38"
-        },
-        "2004": {
-          "hood_length_cm": 171,
-          "back_length_cm": 88,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 71,
-          "max_width_cm": 119,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 440,
-          "overall_width_cm": 183,
-          "overall_height_cm": 132,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1615,
-          "weight_distribution_pct": "50/50"
-        },
-        "2005": {
-          "hood_length_cm": 171,
-          "back_length_cm": 88,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 71,
-          "max_width_cm": 119,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 440,
-          "overall_width_cm": 183,
-          "overall_height_cm": 132,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1615,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     }
   },
   "525iA": {},
   "530iA": {},
-  "540iA": {},
+  "540iA": {
+    "540iAT4DR WAGON": {
+      "years": [
+        1999
+      ]
+    }
+  },
   "525iAT": {},
-  "540iAT": {},
+  "540iAT": {
+    "540iAT4DR WAGON": {
+      "years": [
+        1999
+      ]
+    }
+  },
   "Alpina": {},
   "645i": {},
   "335": {
     "335i 2DR COUPE RWD": {
       "years": [
         2007
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 67,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 78,
-          "max_width_cm": 121,
-          "front_overhang_cm": 78,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 459,
-          "overall_width_cm": 178,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1620,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "335i 4DR SEDAN RWD": {
       "years": [
         2007
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 125,
-          "back_length_cm": 47,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 78,
-          "max_width_cm": 102,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 453,
-          "overall_width_cm": 182,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1550,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "335i CABRIOLET 2DR CONVERTIBLE RWD": {
       "years": [
         2007
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 126,
-          "back_length_cm": 67,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 78,
-          "max_width_cm": 121,
-          "front_overhang_cm": 78,
-          "rear_overhang_cm": 106,
-          "overall_length_cm": 459,
-          "overall_width_cm": 178,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 276,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1820,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     }
   },
-  "740iL": {},
+  "740iL": {
+    "740iL 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
+      ]
+    }
+  },
   "750iL": {
     "750IL": {
       "years": [
         1988,
         1989
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 138,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 73,
-          "max_width_cm": 121,
-          "front_overhang_cm": 93,
-          "rear_overhang_cm": 120,
-          "overall_length_cm": 502,
-          "overall_width_cm": 185,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 295,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1920,
-          "weight_distribution_pct": null
-        },
-        "1989": {
-          "hood_length_cm": 138,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 75,
-          "max_width_cm": 118,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 120,
-          "overall_length_cm": 502,
-          "overall_width_cm": 185,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 295,
-          "front_track_width_cm": 133,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1920,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
+    },
+    "750iL 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
+      ]
     }
   },
   "M3Ci": {},
@@ -4310,54 +1444,13 @@
     "M2 2DR COUPE RWD": {
       "years": [
         2017
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 138,
-          "back_length_cm": 54,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 81,
-          "max_width_cm": 104,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 448,
-          "overall_width_cm": 185,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1593,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "M2 2DR COUPE": {
       "years": [
         2018,
         2019
-      ],
-      "details": {
-        "2018": "<default>",
-        "<default>": {
-          "hood_length_cm": 138,
-          "back_length_cm": 54,
-          "side_glass_max_height_cm": 34,
-          "door_height_cm": 81,
-          "max_width_cm": 104,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 97,
-          "overall_length_cm": 448,
-          "overall_width_cm": 185,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1593,
-          "weight_distribution_pct": "51/49"
-        },
-        "2019": "<default>"
-      }
+      ]
     }
   },
   "340i": {},
@@ -4368,213 +1461,91 @@
         2015,
         2016,
         2017
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 80,
-          "max_width_cm": 124,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 467,
-          "overall_width_cm": 187,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1839,
-          "weight_distribution_pct": "48/52"
-        },
-        "2016": "<default>",
-        "2017": "<default>"
-      }
+      ]
     },
     "M4 2DR COUPE RWD": {
       "years": [
         2015,
         2016,
         2017
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 139,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 80,
-          "max_width_cm": 106,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 467,
-          "overall_width_cm": 187,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1601,
-          "weight_distribution_pct": "52/48"
-        },
-        "2016": "<default>",
-        "2017": "<default>"
-      }
+      ]
     },
     "M4 2DR CABRIOLET": {
       "years": [
         2018,
         2019
-      ],
-      "details": {
-        "2018": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 80,
-          "max_width_cm": 124,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 467,
-          "overall_width_cm": 187,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1846,
-          "weight_distribution_pct": "52/48"
-        },
-        "2019": "<default>"
-      }
+      ]
     },
     "M4 2DR COUPE": {
       "years": [
         2018,
         2019
-      ],
-      "details": {
-        "2018": "<default>",
-        "<default>": {
-          "hood_length_cm": 139,
-          "back_length_cm": 53,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 80,
-          "max_width_cm": 106,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 467,
-          "overall_width_cm": 187,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 160,
-          "curb_weight_kg": 1617,
-          "weight_distribution_pct": "47/53"
-        },
-        "2019": "<default>"
-      }
+      ]
     }
   },
-  "328Ci": {},
+  "328Ci": {
+    "328Ci 2DR COUPE": {
+      "years": [
+        2000
+      ]
+    }
+  },
   "735i": {
     "735IL 4DR SEDAN": {
       "years": [
         1989
-      ],
-      "details": {
-        "1989": "<default>",
-        "<default>": {
-          "hood_length_cm": 138,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 75,
-          "max_width_cm": 118,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 120,
-          "overall_length_cm": 502,
-          "overall_width_cm": 385,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 295,
-          "front_track_width_cm": 133,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1820,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
+    },
+    "735i 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "735iL 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
     }
   },
   "735iL": {
     "735IL 4DR SEDAN": {
       "years": [
         1989
-      ],
-      "details": {
-        "1989": "<default>",
-        "<default>": {
-          "hood_length_cm": 138,
-          "back_length_cm": 73,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 75,
-          "max_width_cm": 118,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 120,
-          "overall_length_cm": 502,
-          "overall_width_cm": 385,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 295,
-          "front_track_width_cm": 133,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1820,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
+    },
+    "735iL 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
     }
   },
-  "850i": {},
+  "850i": {
+    "850i 2DR COUPE": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    }
+  },
   "325ix": {
     "325IX 4WD 4DR": {
       "years": [
         1988,
         1989
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 71,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 68,
-          "max_width_cm": 108,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 445,
-          "overall_width_cm": 165,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1364,
-          "weight_distribution_pct": null
-        },
-        "1989": {
-          "hood_length_cm": 122,
-          "back_length_cm": 67,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 72,
-          "max_width_cm": 106,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 104,
-          "overall_length_cm": 449,
-          "overall_width_cm": 165,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 257,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 139,
-          "curb_weight_kg": 1364,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
+    },
+    "325iX 4WD 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
     }
   },
   "325/325e": {},
@@ -4593,8 +1564,25 @@
   "740e": {},
   "750i / ALPINA B7": {},
   "533i": {},
-  "633 csi": {},
-  "733i": {},
+  "633 csi": {
+    "633 csi CP": {
+      "years": [
+        1981
+      ]
+    },
+    "633 csi": {
+      "years": [
+        1982
+      ]
+    }
+  },
+  "733i": {
+    "733i SD": {
+      "years": [
+        1981
+      ]
+    }
+  },
   "730i": {},
   "540d": {},
   "530e": {},
@@ -4616,102 +1604,22 @@
     "X6 4DR SUV": {
       "years": [
         2008
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 137,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 91,
-          "max_width_cm": 115,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 490,
-          "overall_width_cm": 198,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 294,
-          "front_track_width_cm": 165,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "X6 4DR SUV xDRIVE 350i": {
       "years": [
         2009
-      ],
-      "details": {
-        "2009": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 137,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 91,
-          "max_width_cm": 115,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 198,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 165,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 2220,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "X6 4DR SUV xDRIVE 35i": {
       "years": [
         2010
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 137,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 91,
-          "max_width_cm": 115,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 198,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 165,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 2220,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "X6 4DR SUV xDRIVE 50i": {
       "years": [
         2010
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 137,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 91,
-          "max_width_cm": 115,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 198,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 165,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 2390,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "X6M 4DR SUV AWD": {
       "years": [
@@ -4725,191 +1633,13 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 137,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 91,
-          "max_width_cm": 115,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 198,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 165,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 2435,
-          "weight_distribution_pct": "50/50"
-        },
-        "2011": "<default>",
-        "2012": {
-          "hood_length_cm": 128,
-          "back_length_cm": 137,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 91,
-          "max_width_cm": 115,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 198,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 165,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 2415,
-          "weight_distribution_pct": "50/50"
-        },
-        "2013": {
-          "hood_length_cm": 128,
-          "back_length_cm": 137,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 91,
-          "max_width_cm": 115,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 198,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 165,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 2415,
-          "weight_distribution_pct": "50/50"
-        },
-        "2014": {
-          "hood_length_cm": 128,
-          "back_length_cm": 137,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 91,
-          "max_width_cm": 115,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 198,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 165,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 2415,
-          "weight_distribution_pct": "50/50"
-        },
-        "2015": {
-          "hood_length_cm": 141,
-          "back_length_cm": 90,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 93,
-          "max_width_cm": 115,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 491,
-          "overall_width_cm": 199,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2415,
-          "weight_distribution_pct": "52/48"
-        },
-        "2016": {
-          "hood_length_cm": 141,
-          "back_length_cm": 90,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 93,
-          "max_width_cm": 115,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 491,
-          "overall_width_cm": 199,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2415,
-          "weight_distribution_pct": "52/48"
-        },
-        "2017": {
-          "hood_length_cm": 141,
-          "back_length_cm": 90,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 93,
-          "max_width_cm": 115,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 491,
-          "overall_width_cm": 199,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2415,
-          "weight_distribution_pct": "52/48"
-        },
-        "2018": {
-          "hood_length_cm": 141,
-          "back_length_cm": 90,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 93,
-          "max_width_cm": 115,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 491,
-          "overall_width_cm": 199,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2415,
-          "weight_distribution_pct": "52/48"
-        },
-        "2019": {
-          "hood_length_cm": 141,
-          "back_length_cm": 90,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 93,
-          "max_width_cm": 115,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 491,
-          "overall_width_cm": 199,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2415,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "X6 ActiveHybrid 4DR SUV": {
       "years": [
         2011,
         2012
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 137,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 91,
-          "max_width_cm": 115,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 198,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 165,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": "50/50"
-        },
-        "2012": "<default>"
-      }
+      ]
     },
     "X6 xDRIVE 35i 4DR SUV": {
       "years": [
@@ -4922,131 +1652,7 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 137,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 91,
-          "max_width_cm": 115,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 198,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 165,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 2220,
-          "weight_distribution_pct": "50/50"
-        },
-        "2012": "<default>",
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": 128,
-          "back_length_cm": 137,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 91,
-          "max_width_cm": 115,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 198,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 165,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 2170,
-          "weight_distribution_pct": "50/50"
-        },
-        "2015": {
-          "hood_length_cm": 141,
-          "back_length_cm": 90,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 93,
-          "max_width_cm": 115,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 491,
-          "overall_width_cm": 199,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2155,
-          "weight_distribution_pct": "49/51"
-        },
-        "2016": {
-          "hood_length_cm": 141,
-          "back_length_cm": 90,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 93,
-          "max_width_cm": 115,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 491,
-          "overall_width_cm": 199,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2155,
-          "weight_distribution_pct": "49/51"
-        },
-        "2017": {
-          "hood_length_cm": 141,
-          "back_length_cm": 90,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 93,
-          "max_width_cm": 115,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 491,
-          "overall_width_cm": 199,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2155,
-          "weight_distribution_pct": "49/51"
-        },
-        "2018": {
-          "hood_length_cm": 141,
-          "back_length_cm": 90,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 93,
-          "max_width_cm": 115,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 491,
-          "overall_width_cm": 199,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2155,
-          "weight_distribution_pct": "49/51"
-        },
-        "2019": {
-          "hood_length_cm": 141,
-          "back_length_cm": 90,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 93,
-          "max_width_cm": 115,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 491,
-          "overall_width_cm": 199,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2155,
-          "weight_distribution_pct": "49/51"
-        }
-      }
+      ]
     },
     "X6 xDRIVE 50i 4DR SUV": {
       "years": [
@@ -5059,131 +1665,7 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 137,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 91,
-          "max_width_cm": 115,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 198,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 165,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 2390,
-          "weight_distribution_pct": "50/50"
-        },
-        "2012": "<default>",
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": 128,
-          "back_length_cm": 137,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 91,
-          "max_width_cm": 115,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 489,
-          "overall_width_cm": 198,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 165,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 2370,
-          "weight_distribution_pct": "50/50"
-        },
-        "2015": {
-          "hood_length_cm": 141,
-          "back_length_cm": 90,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 93,
-          "max_width_cm": 115,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 491,
-          "overall_width_cm": 199,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2345,
-          "weight_distribution_pct": "52/48"
-        },
-        "2016": {
-          "hood_length_cm": 141,
-          "back_length_cm": 90,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 93,
-          "max_width_cm": 115,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 491,
-          "overall_width_cm": 199,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2345,
-          "weight_distribution_pct": "52/48"
-        },
-        "2017": {
-          "hood_length_cm": 141,
-          "back_length_cm": 90,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 93,
-          "max_width_cm": 115,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 491,
-          "overall_width_cm": 199,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2345,
-          "weight_distribution_pct": "52/48"
-        },
-        "2018": {
-          "hood_length_cm": 141,
-          "back_length_cm": 90,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 93,
-          "max_width_cm": 115,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 491,
-          "overall_width_cm": 199,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2345,
-          "weight_distribution_pct": "52/48"
-        },
-        "2019": {
-          "hood_length_cm": 141,
-          "back_length_cm": 90,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 93,
-          "max_width_cm": 115,
-          "front_overhang_cm": 90,
-          "rear_overhang_cm": 108,
-          "overall_length_cm": 491,
-          "overall_width_cm": 199,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 293,
-          "front_track_width_cm": 164,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2345,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     }
   },
   "X4": {
@@ -5193,30 +1675,7 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 135,
-          "back_length_cm": 114,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 89,
-          "max_width_cm": 116,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 467,
-          "overall_width_cm": 188,
-          "overall_height_cm": 162,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1873,
-          "weight_distribution_pct": "49/51"
-        },
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>"
-      }
+      ]
     },
     "X4 xDRIVE35i 4DR SUV": {
       "years": [
@@ -5224,100 +1683,19 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": 135,
-          "back_length_cm": 114,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 89,
-          "max_width_cm": 116,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 467,
-          "overall_width_cm": 188,
-          "overall_height_cm": 162,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1932,
-          "weight_distribution_pct": "51/49"
-        },
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>"
-      }
+      ]
     },
     "X4 M40i 4DR SUV": {
       "years": [
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 135,
-          "back_length_cm": 114,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 89,
-          "max_width_cm": 116,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 467,
-          "overall_width_cm": 188,
-          "overall_height_cm": 162,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 163,
-          "curb_weight_kg": 1921,
-          "weight_distribution_pct": "51/49"
-        },
-        "2018": "<default>",
-        "2019": {
-          "hood_length_cm": 141,
-          "back_length_cm": 137,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 89,
-          "max_width_cm": 113,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 476,
-          "overall_width_cm": 192,
-          "overall_height_cm": 162,
-          "wheelbase_cm": 287,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 1961,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "X4 xDRIVE30i 4DR SUV": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 141,
-          "back_length_cm": 137,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 89,
-          "max_width_cm": 113,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 476,
-          "overall_width_cm": 192,
-          "overall_height_cm": 162,
-          "wheelbase_cm": 287,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 167,
-          "curb_weight_kg": 1881,
-          "weight_distribution_pct": "49/51"
-        }
-      }
+      ]
     }
   },
   "X2": {
@@ -5325,107 +1703,25 @@
       "years": [
         2018,
         2019
-      ],
-      "details": {
-        "2018": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 148,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 89,
-          "max_width_cm": 116,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 84,
-          "overall_length_cm": 436,
-          "overall_width_cm": 182,
-          "overall_height_cm": 153,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1587,
-          "weight_distribution_pct": "57/43"
-        },
-        "2019": "<default>"
-      }
+      ]
     },
     "X2 xDRIVE28i 4DR SUV AWD": {
       "years": [
         2018,
         2019
-      ],
-      "details": {
-        "2018": "<default>",
-        "<default>": {
-          "hood_length_cm": 124,
-          "back_length_cm": 148,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 89,
-          "max_width_cm": 116,
-          "front_overhang_cm": 85,
-          "rear_overhang_cm": 84,
-          "overall_length_cm": 436,
-          "overall_width_cm": 182,
-          "overall_height_cm": 153,
-          "wheelbase_cm": 267,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1661,
-          "weight_distribution_pct": "57/43"
-        },
-        "2019": "<default>"
-      }
+      ]
     }
   },
   "X7": {
     "X7 xDRIVE40i 4DR SUV": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 200,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 96,
-          "max_width_cm": 109,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 118,
-          "overall_length_cm": 516,
-          "overall_width_cm": 200,
-          "overall_height_cm": 181,
-          "wheelbase_cm": 310,
-          "front_track_width_cm": 168,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2395,
-          "weight_distribution_pct": "47/53"
-        }
-      }
+      ]
     },
     "X7 xDRIVE50i 4DR SUV": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 140,
-          "back_length_cm": 200,
-          "side_glass_max_height_cm": 45,
-          "door_height_cm": 96,
-          "max_width_cm": 109,
-          "front_overhang_cm": 88,
-          "rear_overhang_cm": 118,
-          "overall_length_cm": 516,
-          "overall_width_cm": 200,
-          "overall_height_cm": 181,
-          "wheelbase_cm": 310,
-          "front_track_width_cm": 168,
-          "rear_track_width_cm": 170,
-          "curb_weight_kg": 2535,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   }
 }

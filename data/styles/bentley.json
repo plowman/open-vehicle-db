@@ -3,27 +3,7 @@
     "CONTINENTAL AZURE 2DR CONVERTIBLE": {
       "years": [
         1996
-      ],
-      "details": {
-        "1996": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 534,
-          "overall_width_cm": 206,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2610,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "CONTINENTAL 2DR COUPE R LWB": {
       "years": [
@@ -31,78 +11,7 @@
         2000,
         2001,
         2002
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 534,
-          "overall_width_cm": 206,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1462,
-          "weight_distribution_pct": null
-        },
-        "2000": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 535,
-          "overall_width_cm": 206,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2450,
-          "weight_distribution_pct": null
-        },
-        "2001": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 535,
-          "overall_width_cm": 206,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2450,
-          "weight_distribution_pct": null
-        },
-        "2002": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 535,
-          "overall_width_cm": 206,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2450,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "CONTINENTAL 2DR COUPE SC": {
       "years": [
@@ -110,78 +19,7 @@
         2000,
         2001,
         2002
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 524,
-          "overall_width_cm": 206,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 296,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1466,
-          "weight_distribution_pct": null
-        },
-        "2000": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 524,
-          "overall_width_cm": 206,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 296,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 2610,
-          "weight_distribution_pct": null
-        },
-        "2001": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 524,
-          "overall_width_cm": 206,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 296,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 2610,
-          "weight_distribution_pct": null
-        },
-        "2002": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 524,
-          "overall_width_cm": 206,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 296,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 2610,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "CONTINENTAL 2DR COUPE T": {
       "years": [
@@ -189,103 +27,12 @@
         2000,
         2001,
         2002
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 522,
-          "overall_width_cm": 206,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 296,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1462,
-          "weight_distribution_pct": null
-        },
-        "2000": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 522,
-          "overall_width_cm": 206,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 296,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 2450,
-          "weight_distribution_pct": null
-        },
-        "2001": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 522,
-          "overall_width_cm": 206,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 296,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 2450,
-          "weight_distribution_pct": null
-        },
-        "2002": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 522,
-          "overall_width_cm": 206,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 296,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 2450,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "CONTINENTAL 2DR COUPE R Mulliner": {
       "years": [
         2003
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 535,
-          "overall_width_cm": 205,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2450,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "CONTINENTAL 2DR GT COUPE AWD": {
       "years": [
@@ -294,95 +41,7 @@
         2005,
         2006,
         2007
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 185,
-          "overall_height_cm": 130,
-          "wheelbase_cm": 280,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2000,
-          "weight_distribution_pct": null
-        },
-        "2004": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 481,
-          "overall_width_cm": 192,
-          "overall_height_cm": 139,
-          "wheelbase_cm": null,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2410,
-          "weight_distribution_pct": "52/48"
-        },
-        "2005": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 481,
-          "overall_width_cm": 196,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2385,
-          "weight_distribution_pct": "52/48"
-        },
-        "2006": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 481,
-          "overall_width_cm": 196,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2385,
-          "weight_distribution_pct": "52/48"
-        },
-        "2007": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 481,
-          "overall_width_cm": 196,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2385,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "CONTINENTAL FLYING SPUR 4DR SEDAN AWD": {
       "years": [
@@ -400,476 +59,70 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 531,
-          "overall_width_cm": 196,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 307,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2475,
-          "weight_distribution_pct": null
-        },
-        "2007": "<default>",
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>",
-        "2011": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 529,
-          "overall_width_cm": 198,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 2525,
-          "weight_distribution_pct": null
-        },
-        "2012": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 529,
-          "overall_width_cm": 198,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 2525,
-          "weight_distribution_pct": null
-        },
-        "2013": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 529,
-          "overall_width_cm": 198,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 2525,
-          "weight_distribution_pct": null
-        },
-        "2014": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 530,
-          "overall_width_cm": 192,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 307,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2475,
-          "weight_distribution_pct": null
-        },
-        "2015": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 530,
-          "overall_width_cm": 192,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 307,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2475,
-          "weight_distribution_pct": null
-        },
-        "2016": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 530,
-          "overall_width_cm": 192,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 307,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2475,
-          "weight_distribution_pct": null
-        },
-        "2017": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 530,
-          "overall_width_cm": 192,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 307,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2475,
-          "weight_distribution_pct": null
-        },
-        "2018": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 530,
-          "overall_width_cm": 192,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 307,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2475,
-          "weight_distribution_pct": null
-        },
-        "2019": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 530,
-          "overall_width_cm": 192,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 307,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2475,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "CONTINENTAL GTC 2DR COUPE AWD": {
       "years": [
         2007,
         2008,
         2009
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 480,
-          "overall_width_cm": 196,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2495,
-          "weight_distribution_pct": null
-        },
-        "2008": "<default>",
-        "2009": "<default>"
-      }
+      ]
     },
     "CONTINENTAL GT/SPEED 2DR COUPE AWD": {
       "years": [
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 481,
-          "overall_width_cm": 196,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2385,
-          "weight_distribution_pct": "52/48"
-        },
-        "2009": "<default>",
-        "2010": "<default>"
-      }
+      ]
     },
     "CONTINENTAL GTC/SPEED 2DR CONV AWD": {
       "years": [
         2010,
         2011
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 480,
-          "overall_width_cm": 196,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2495,
-          "weight_distribution_pct": null
-        },
-        "2011": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 480,
-          "overall_width_cm": 193,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 2565,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "CONTINENTAL GT 2DR COUPE AWD": {
       "years": [
         2011
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 481,
-          "overall_width_cm": 194,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 27,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2320,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "CONTINENTAL SUPERSPORTS 2DR CONV AWD": {
       "years": [
         2011,
         2012,
         2013
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 481,
-          "overall_width_cm": 195,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2395,
-          "weight_distribution_pct": "52/48"
-        },
-        "2012": "<default>",
-        "2013": "<default>"
-      }
+      ]
     },
     "CONTINENTAL SUPERSPORTS 2DR COUPE AWD": {
       "years": [
         2011,
         2012,
         2013
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 481,
-          "overall_width_cm": 195,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2240,
-          "weight_distribution_pct": "52/48"
-        },
-        "2012": "<default>",
-        "2013": "<default>"
-      }
+      ]
     },
     "CONTINENTAL 2DR CONV AWD GTC/GTC V-8": {
       "years": [
         2012,
         2013
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 481,
-          "overall_width_cm": 194,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 2495,
-          "weight_distribution_pct": null
-        },
-        "2013": "<default>"
-      }
+      ]
     },
     "CONTINENTAL 2DR COUPE AWD GT/GT V-8": {
       "years": [
         2012,
         2013
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 481,
-          "overall_width_cm": 194,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2565,
-          "weight_distribution_pct": "52/48"
-        },
-        "2013": "<default>"
-      }
+      ]
     },
     "CONTINENTAL 2DR CONV AWD GTC/GTC V-8/GTC SPEE": {
       "years": [
         2014,
         2015
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 481,
-          "overall_width_cm": 194,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 2495,
-          "weight_distribution_pct": null
-        },
-        "2015": "<default>"
-      }
+      ]
     },
     "CONTINENTAL 2DR COUPE AWD GT/GT V-8/GT SPEED/": {
       "years": [
         2014,
         2015
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 481,
-          "overall_width_cm": 194,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2320,
-          "weight_distribution_pct": "52/48"
-        },
-        "2015": "<default>"
-      }
+      ]
     },
     "CONTINENTAL 2DR CONV AWD GTC/GTC V-8/GTC SPEED/GTC V-8S": {
       "years": [
@@ -877,57 +130,13 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 481,
-          "overall_width_cm": 194,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 161,
-          "curb_weight_kg": 2495,
-          "weight_distribution_pct": null
-        },
-        "2017": "<default>",
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     },
     "CONTINENTAL 2DR COUPE AWD GT/GT V-8/GT SPEED/GT V-8S": {
       "years": [
         2016,
         2017
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 481,
-          "overall_width_cm": 194,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 275,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2320,
-          "weight_distribution_pct": "52/48"
-        },
-        "2017": "<default>"
-      }
+      ]
     }
   },
   "Brooklands": {
@@ -936,61 +145,7 @@
         1993,
         1994,
         1995
-      ],
-      "details": {
-        "1993": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 527,
-          "overall_width_cm": 201,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2350,
-          "weight_distribution_pct": null
-        },
-        "1994": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 527,
-          "overall_width_cm": 201,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 2350,
-          "weight_distribution_pct": null
-        },
-        "1995": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 527,
-          "overall_width_cm": 201,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 2350,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "BROOKLANDS 2 DR COUPE RWD": {
       "years": [
@@ -998,46 +153,7 @@
         2009,
         2010,
         2011
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 541,
-          "overall_width_cm": 190,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2655,
-          "weight_distribution_pct": null
-        },
-        "2009": "<default>",
-        "2010": "<default>",
-        "2011": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 541,
-          "overall_width_cm": 208,
-          "overall_height_cm": 147,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2655,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "Azure": {
@@ -1047,103 +163,12 @@
         2000,
         2001,
         2002
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 534,
-          "overall_width_cm": 206,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2610,
-          "weight_distribution_pct": null
-        },
-        "2000": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 535,
-          "overall_width_cm": 206,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2610,
-          "weight_distribution_pct": null
-        },
-        "2001": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 535,
-          "overall_width_cm": 206,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2610,
-          "weight_distribution_pct": null
-        },
-        "2002": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 535,
-          "overall_width_cm": 188,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2610,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "AZURE Mulliner": {
       "years": [
         2003
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 535,
-          "overall_width_cm": 188,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2610,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "AZURE 2DR CONVERTIBLE RWD": {
       "years": [
@@ -1152,147 +177,19 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 541,
-          "overall_width_cm": 191,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2450,
-          "weight_distribution_pct": null
-        },
-        "2007": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 541,
-          "overall_width_cm": 190,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2695,
-          "weight_distribution_pct": null
-        },
-        "2008": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 541,
-          "overall_width_cm": 190,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2695,
-          "weight_distribution_pct": null
-        },
-        "2009": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 541,
-          "overall_width_cm": 190,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2695,
-          "weight_distribution_pct": null
-        },
-        "2010": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 541,
-          "overall_width_cm": 190,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2695,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "AZURE T 2DR CONVERTIBLE RWD": {
       "years": [
         2011
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 541,
-          "overall_width_cm": 213,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2695,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "Turbo": {
     "TURBO R 4DR SEDAN": {
       "years": [
         1996
-      ],
-      "details": {
-        "1996": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 529,
-          "overall_width_cm": 211,
-          "overall_height_cm": 149,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2409,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "Mulsanne": {
@@ -1305,151 +202,19 @@
         2015,
         2016,
         2017
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 558,
-          "overall_width_cm": 193,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 327,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2585,
-          "weight_distribution_pct": "52/48"
-        },
-        "2012": "<default>",
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 558,
-          "overall_width_cm": 193,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 327,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2711,
-          "weight_distribution_pct": "52/48"
-        },
-        "2015": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 558,
-          "overall_width_cm": 193,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 327,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2711,
-          "weight_distribution_pct": "52/48"
-        },
-        "2016": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 558,
-          "overall_width_cm": 193,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 327,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2711,
-          "weight_distribution_pct": "52/48"
-        },
-        "2017": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 558,
-          "overall_width_cm": 193,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 327,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2711,
-          "weight_distribution_pct": "52/48"
-        }
-      }
+      ]
     },
     "MULSANNE 4DR SEDAN LWB": {
       "years": [
         2018,
         2019
-      ],
-      "details": {
-        "2018": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 583,
-          "overall_width_cm": 193,
-          "overall_height_cm": 154,
-          "wheelbase_cm": 352,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2730,
-          "weight_distribution_pct": null
-        },
-        "2019": "<default>"
-      }
+      ]
     },
     "MULSANNE 4DR SEDAN SWB": {
       "years": [
         2018,
         2019
-      ],
-      "details": {
-        "2018": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 558,
-          "overall_width_cm": 193,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 327,
-          "front_track_width_cm": 162,
-          "rear_track_width_cm": 165,
-          "curb_weight_kg": 2711,
-          "weight_distribution_pct": "52/48"
-        },
-        "2019": "<default>"
-      }
+      ]
     }
   },
   "Flying Spur": {},
@@ -1458,106 +223,24 @@
     "ARNAGE 4DR SEDAN": {
       "years": [
         1999
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 539,
-          "overall_width_cm": 193,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2302,
-          "weight_distribution_pct": "51/49"
-        }
-      }
+      ]
     },
     "ARNAGE 4DR SEDAN GREEN LABEL 4.5 V8": {
       "years": [
         2000,
         2001
-      ],
-      "details": {
-        "2000": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 539,
-          "overall_width_cm": 193,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2302,
-          "weight_distribution_pct": "51/49"
-        },
-        "2001": "<default>"
-      }
+      ]
     },
     "ARNAGE 4DR SEDAN RED LABEL 6.75 V8": {
       "years": [
         2000,
         2001
-      ],
-      "details": {
-        "2000": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 539,
-          "overall_width_cm": 193,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2520,
-          "weight_distribution_pct": "52/48"
-        },
-        "2001": "<default>"
-      }
+      ]
     },
     "ARNAGE 4DR SEDAN  4.5 V8": {
       "years": [
         2002
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 539,
-          "overall_width_cm": 193,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2520,
-          "weight_distribution_pct": "51/49"
-        }
-      }
+      ]
     },
     "ARNAGE R 4DR SEDAN": {
       "years": [
@@ -1567,32 +250,7 @@
         2006,
         2007,
         2008
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 539,
-          "overall_width_cm": 193,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2585,
-          "weight_distribution_pct": "51/49"
-        },
-        "2004": "<default>",
-        "2005": "<default>",
-        "2006": "<default>",
-        "2007": "<default>",
-        "2008": "<default>"
-      }
+      ]
     },
     "ARNAGE RL 4DR SEDAN": {
       "years": [
@@ -1602,32 +260,7 @@
         2006,
         2007,
         2008
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 564,
-          "overall_width_cm": 193,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 337,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2655,
-          "weight_distribution_pct": "51/49"
-        },
-        "2004": "<default>",
-        "2005": "<default>",
-        "2006": "<default>",
-        "2007": "<default>",
-        "2008": "<default>"
-      }
+      ]
     },
     "ARNAGE T 4DR SEDAN": {
       "years": [
@@ -1637,113 +270,25 @@
         2006,
         2007,
         2008
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 540,
-          "overall_width_cm": 193,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2585,
-          "weight_distribution_pct": "51/49"
-        },
-        "2004": "<default>",
-        "2005": "<default>",
-        "2006": "<default>",
-        "2007": "<default>",
-        "2008": "<default>"
-      }
+      ]
     },
     "ARNAGE FINAL SERIES R 4DR SEDAN": {
       "years": [
         2009,
         2010
-      ],
-      "details": {
-        "2009": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 539,
-          "overall_width_cm": 193,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2585,
-          "weight_distribution_pct": "51/49"
-        },
-        "2010": "<default>"
-      }
+      ]
     },
     "ARNAGE FINAL SERIES RL 4DR SEDAN": {
       "years": [
         2009,
         2010
-      ],
-      "details": {
-        "2009": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 564,
-          "overall_width_cm": 193,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 337,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2655,
-          "weight_distribution_pct": "51/49"
-        },
-        "2010": "<default>"
-      }
+      ]
     },
     "ARNAGE FINAL SERIES T 4DR SEDAN": {
       "years": [
         2009,
         2010
-      ],
-      "details": {
-        "2009": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 540,
-          "overall_width_cm": 193,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 312,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2585,
-          "weight_distribution_pct": "51/49"
-        },
-        "2010": "<default>"
-      }
+      ]
     }
   },
   "ARMOURED ARNAGE": {},
@@ -1754,106 +299,24 @@
     "CORNICHE/BENTLEY CONTINENTAL CONVERTIBLE": {
       "years": [
         1990
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 526,
-          "overall_width_cm": 196,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2380,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "CORNICHE/CONTINENTAL CONVERTIBLE": {
       "years": [
         1991
-      ],
-      "details": {
-        "1991": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 527,
-          "overall_width_cm": 196,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2380,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "CORNICHE IV/CONTINENTAL CONVERTIBLE": {
       "years": [
         1992,
         1993
-      ],
-      "details": {
-        "1992": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 526,
-          "overall_width_cm": 196,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2380,
-          "weight_distribution_pct": null
-        },
-        "1993": "<default>"
-      }
+      ]
     },
     "CORNICHE IV 2DR CONVERTIBLE": {
       "years": [
         1994,
         1995
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 526,
-          "overall_width_cm": 196,
-          "overall_height_cm": 152,
-          "wheelbase_cm": 306,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 2380,
-          "weight_distribution_pct": null
-        },
-        "1995": "<default>"
-      }
+      ]
     }
   },
   "Bentayga": {
@@ -1863,30 +326,7 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2016": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 514,
-          "overall_width_cm": 200,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 299,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2422,
-          "weight_distribution_pct": "57/43"
-        },
-        "2017": "<default>",
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     }
   },
   "Bentayga V8": {},

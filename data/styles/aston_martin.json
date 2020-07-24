@@ -7,95 +7,7 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 438,
-          "overall_width_cm": 187,
-          "overall_height_cm": 126,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1570,
-          "weight_distribution_pct": null
-        },
-        "2007": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 438,
-          "overall_width_cm": 187,
-          "overall_height_cm": 126,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": null
-        },
-        "2008": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 438,
-          "overall_width_cm": 187,
-          "overall_height_cm": 126,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": null
-        },
-        "2009": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 438,
-          "overall_width_cm": 187,
-          "overall_height_cm": 126,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": null
-        },
-        "2010": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 438,
-          "overall_width_cm": 187,
-          "overall_height_cm": 126,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "V8 VANTAGE ROADSTER 2DR CONV RWD": {
       "years": [
@@ -103,30 +15,7 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 438,
-          "overall_width_cm": 187,
-          "overall_height_cm": 126,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1710,
-          "weight_distribution_pct": null
-        },
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>"
-      }
+      ]
     }
   },
   "DBS": {
@@ -134,111 +23,26 @@
       "years": [
         2008,
         2009
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 472,
-          "overall_width_cm": 188,
-          "overall_height_cm": 128,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1695,
-          "weight_distribution_pct": null
-        },
-        "2009": "<default>"
-      }
+      ]
     },
     "DBS 2DR COUPE RWD": {
       "years": [
         2010,
         2011,
         2012
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 472,
-          "overall_width_cm": 191,
-          "overall_height_cm": 128,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1695,
-          "weight_distribution_pct": null
-        },
-        "2011": "<default>",
-        "2012": "<default>"
-      }
+      ]
     },
     "DBS VOLANTE 2DR CONV RWD": {
       "years": [
         2010,
         2011,
         2012
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 472,
-          "overall_width_cm": 191,
-          "overall_height_cm": 128,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1810,
-          "weight_distribution_pct": null
-        },
-        "2011": "<default>",
-        "2012": "<default>"
-      }
+      ]
     },
     "DBS SUPPERLEGGERA": {
       "years": [
         2019
-      ],
-      "details": {
-        "2019": "<default>",
-        "<default>": {
-          "hood_length_cm": 159,
-          "back_length_cm": 42,
-          "side_glass_max_height_cm": 28,
-          "door_height_cm": 78,
-          "max_width_cm": 111,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 471,
-          "overall_width_cm": 194,
-          "overall_height_cm": 128,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 166,
-          "rear_track_width_cm": 164,
-          "curb_weight_kg": 1845,
-          "weight_distribution_pct": "51/49"
-        }
-      }
+      ]
     }
   },
   "DB9": {
@@ -257,215 +61,7 @@
         2014,
         2015,
         2016
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 132,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1710,
-          "weight_distribution_pct": "50/50"
-        },
-        "2005": "<default>",
-        "2006": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1710,
-          "weight_distribution_pct": "50/50"
-        },
-        "2007": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1760,
-          "weight_distribution_pct": "50/50"
-        },
-        "2008": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1760,
-          "weight_distribution_pct": "50/50"
-        },
-        "2009": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1760,
-          "weight_distribution_pct": "50/50"
-        },
-        "2010": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1760,
-          "weight_distribution_pct": "50/50"
-        },
-        "2011": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1760,
-          "weight_distribution_pct": "50/50"
-        },
-        "2012": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1760,
-          "weight_distribution_pct": "50/50"
-        },
-        "2013": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1760,
-          "weight_distribution_pct": "50/50"
-        },
-        "2014": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1760,
-          "weight_distribution_pct": "50/50"
-        },
-        "2015": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1760,
-          "weight_distribution_pct": "50/50"
-        },
-        "2016": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1760,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "DB9 VOLANTE 2DR CONV RWD": {
       "years": [
@@ -481,214 +77,7 @@
         2014,
         2015,
         2016
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 132,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1714,
-          "weight_distribution_pct": "50/50"
-        },
-        "2006": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1714,
-          "weight_distribution_pct": "50/50"
-        },
-        "2007": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1714,
-          "weight_distribution_pct": "50/50"
-        },
-        "2008": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1714,
-          "weight_distribution_pct": "50/50"
-        },
-        "2009": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1714,
-          "weight_distribution_pct": "50/50"
-        },
-        "2010": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1856,
-          "weight_distribution_pct": "50/50"
-        },
-        "2011": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1856,
-          "weight_distribution_pct": "50/50"
-        },
-        "2012": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1856,
-          "weight_distribution_pct": "50/50"
-        },
-        "2013": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1856,
-          "weight_distribution_pct": "50/50"
-        },
-        "2014": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1856,
-          "weight_distribution_pct": "50/50"
-        },
-        "2015": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1856,
-          "weight_distribution_pct": "50/50"
-        },
-        "2016": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 188,
-          "overall_height_cm": 127,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1856,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     }
   },
   "Rapide": {
@@ -698,46 +87,7 @@
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 502,
-          "overall_width_cm": 193,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 299,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1950,
-          "weight_distribution_pct": null
-        },
-        "2012": "<default>",
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 502,
-          "overall_width_cm": 193,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 299,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1990,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "RAPIDE S 4DR SEDAN RWD": {
       "years": [
@@ -746,31 +96,7 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 502,
-          "overall_width_cm": 193,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 299,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1990,
-          "weight_distribution_pct": null
-        },
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>",
-        "2019": "<default>"
-      }
+      ]
     }
   },
   "V12 Vantage": {},
@@ -779,107 +105,24 @@
       "years": [
         1992,
         1993
-      ],
-      "details": {
-        "1992": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 477,
-          "overall_width_cm": 187,
-          "overall_height_cm": 133,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1920,
-          "weight_distribution_pct": null
-        },
-        "1993": "<default>"
-      }
+      ]
     },
     "VIRAGE 2DR COUPE": {
       "years": [
         1994
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 477,
-          "overall_width_cm": 187,
-          "overall_height_cm": 133,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": 151,
-          "rear_track_width_cm": 155,
-          "curb_weight_kg": 1920,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "VIRAGE 2DR COUPE RWD": {
       "years": [
         2011,
         2012
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 190,
-          "overall_height_cm": 128,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": 159,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1785,
-          "weight_distribution_pct": "50/50"
-        },
-        "2012": "<default>"
-      }
+      ]
     },
     "VIRAGE VOLANTE 2DR CONV RWD": {
       "years": [
         2011,
         2012
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 470,
-          "overall_width_cm": 190,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": 159,
-          "rear_track_width_cm": 158,
-          "curb_weight_kg": 1890,
-          "weight_distribution_pct": "50/50"
-        },
-        "2012": "<default>"
-      }
+      ]
     }
   },
   "Vanquish": {
@@ -893,200 +136,19 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 467,
-          "overall_width_cm": 192,
-          "overall_height_cm": 132,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1835,
-          "weight_distribution_pct": null
-        },
-        "2003": "<default>",
-        "2004": "<default>",
-        "2014": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 472,
-          "overall_width_cm": 191,
-          "overall_height_cm": 128,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1739,
-          "weight_distribution_pct": null
-        },
-        "2015": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 472,
-          "overall_width_cm": 191,
-          "overall_height_cm": 128,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1739,
-          "weight_distribution_pct": "51/49"
-        },
-        "2016": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 472,
-          "overall_width_cm": 191,
-          "overall_height_cm": 128,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1739,
-          "weight_distribution_pct": "51/49"
-        },
-        "2017": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 472,
-          "overall_width_cm": 191,
-          "overall_height_cm": 128,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1739,
-          "weight_distribution_pct": "51/49"
-        },
-        "2018": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 472,
-          "overall_width_cm": 191,
-          "overall_height_cm": 128,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1739,
-          "weight_distribution_pct": "51/49"
-        }
-      }
+      ]
     },
     "VANQUISH 2DR COUPE RWD /S": {
       "years": [
         2005,
         2006,
         2007
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 467,
-          "overall_width_cm": 192,
-          "overall_height_cm": 132,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1835,
-          "weight_distribution_pct": null
-        },
-        "2006": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 467,
-          "overall_width_cm": 192,
-          "overall_height_cm": 132,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1875,
-          "weight_distribution_pct": null
-        },
-        "2007": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 467,
-          "overall_width_cm": 192,
-          "overall_height_cm": 132,
-          "wheelbase_cm": 269,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1875,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "VANQUISH VOLANTE 2DR CONV RWD": {
       "years": [
         2014
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 472,
-          "overall_width_cm": 191,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1844,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "VANQUISH 2DR VOLANTE RWD": {
       "years": [
@@ -1094,30 +156,7 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2015": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 472,
-          "overall_width_cm": 191,
-          "overall_height_cm": 129,
-          "wheelbase_cm": 274,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1844,
-          "weight_distribution_pct": "51/49"
-        },
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>"
-      }
+      ]
     }
   },
   "DB11": {
@@ -1126,45 +165,7 @@
         2017,
         2018,
         2019
-      ],
-      "details": {
-        "2017": "<default>",
-        "<default>": {
-          "hood_length_cm": 163,
-          "back_length_cm": 43,
-          "side_glass_max_height_cm": 28,
-          "door_height_cm": 78,
-          "max_width_cm": 111,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 476,
-          "overall_width_cm": 194,
-          "overall_height_cm": 128,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 166,
-          "rear_track_width_cm": 166,
-          "curb_weight_kg": 1854,
-          "weight_distribution_pct": "49/51"
-        },
-        "2018": {
-          "hood_length_cm": 163,
-          "back_length_cm": 43,
-          "side_glass_max_height_cm": 28,
-          "door_height_cm": 78,
-          "max_width_cm": 111,
-          "front_overhang_cm": 95,
-          "rear_overhang_cm": 100,
-          "overall_length_cm": 476,
-          "overall_width_cm": 194,
-          "overall_height_cm": 128,
-          "wheelbase_cm": 281,
-          "front_track_width_cm": 166,
-          "rear_track_width_cm": 166,
-          "curb_weight_kg": 1854,
-          "weight_distribution_pct": "50/50"
-        },
-        "2019": "<default>"
-      }
+      ]
     }
   },
   "Lagonda": {
@@ -1172,28 +173,7 @@
       "years": [
         1981,
         1982
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 530,
-          "overall_width_cm": 182,
-          "overall_height_cm": 130,
-          "wheelbase_cm": 292,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 2066,
-          "weight_distribution_pct": null
-        },
-        "1982": "<default>"
-      }
+      ]
     }
   },
   "Vantage": {
@@ -1207,34 +187,7 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 438,
-          "overall_width_cm": 187,
-          "overall_height_cm": 126,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": null
-        },
-        "2012": "<default>",
-        "2013": "<default>",
-        "2014": "<default>",
-        "2015": "<default>",
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>"
-      }
+      ]
     },
     "VANTAGE ROADSTER 2DR CONV RWD V8/V8 S": {
       "years": [
@@ -1246,34 +199,7 @@
         2016,
         2017,
         2018
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 438,
-          "overall_width_cm": 187,
-          "overall_height_cm": 126,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 157,
-          "rear_track_width_cm": 159,
-          "curb_weight_kg": 1710,
-          "weight_distribution_pct": null
-        },
-        "2012": "<default>",
-        "2013": "<default>",
-        "2014": "<default>",
-        "2015": "<default>",
-        "2016": "<default>",
-        "2017": "<default>",
-        "2018": "<default>"
-      }
+      ]
     }
   },
   "V8": {
@@ -1281,28 +207,7 @@
       "years": [
         1981,
         1982
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 481,
-          "overall_width_cm": 183,
-          "overall_height_cm": 133,
-          "wheelbase_cm": 261,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1861,
-          "weight_distribution_pct": null
-        },
-        "1982": "<default>"
-      }
+      ]
     },
     "V8 VANTAGE 2DR COUPE RWD": {
       "years": [
@@ -1311,95 +216,7 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 438,
-          "overall_width_cm": 187,
-          "overall_height_cm": 126,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1570,
-          "weight_distribution_pct": null
-        },
-        "2007": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 438,
-          "overall_width_cm": 187,
-          "overall_height_cm": 126,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": null
-        },
-        "2008": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 438,
-          "overall_width_cm": 187,
-          "overall_height_cm": 126,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": null
-        },
-        "2009": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 438,
-          "overall_width_cm": 187,
-          "overall_height_cm": 126,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": null
-        },
-        "2010": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 438,
-          "overall_width_cm": 187,
-          "overall_height_cm": 126,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1630,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "V8 VANTAGE ROADSTER 2DR CONV RWD": {
       "years": [
@@ -1407,30 +224,7 @@
         2008,
         2009,
         2010
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 438,
-          "overall_width_cm": 187,
-          "overall_height_cm": 126,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1710,
-          "weight_distribution_pct": null
-        },
-        "2008": "<default>",
-        "2009": "<default>",
-        "2010": "<default>"
-      }
+      ]
     }
   },
   "Vanquish S": {},

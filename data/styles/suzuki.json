@@ -4,268 +4,51 @@
       "years": [
         2002,
         2003
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 136,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 88,
-          "overall_length_cm": 423,
-          "overall_width_cm": 169,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 1195,
-          "weight_distribution_pct": "61/39"
-        },
-        "2003": {
-          "hood_length_cm": 101,
-          "back_length_cm": 136,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 88,
-          "overall_length_cm": 423,
-          "overall_width_cm": 169,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 1195,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "AERIO SEDAN GL/GLX/SX": {
       "years": [
         2002,
         2003
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 103,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 80,
-          "max_width_cm": 119,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 435,
-          "overall_width_cm": 169,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1175,
-          "weight_distribution_pct": "61/39"
-        },
-        "2003": {
-          "hood_length_cm": 103,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 80,
-          "max_width_cm": 119,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 435,
-          "overall_width_cm": 169,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1175,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "AERIO 4DR SEDAN AWD GLX AWD": {
       "years": [
         2004,
         2005
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 103,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 80,
-          "max_width_cm": 119,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 435,
-          "overall_width_cm": 172,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1304,
-          "weight_distribution_pct": "62/38"
-        },
-        "2005": "<default>"
-      }
+      ]
     },
     "AERIO 4DR SEDAN FWD /GL/GLX": {
       "years": [
         2004,
         2005
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 103,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 80,
-          "max_width_cm": 119,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 435,
-          "overall_width_cm": 169,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1207,
-          "weight_distribution_pct": "62/38"
-        },
-        "2005": "<default>"
-      }
+      ]
     },
     "AERIO 4DR WAGON FWD /FASTBACK S/SX": {
       "years": [
         2004
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 136,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 88,
-          "overall_length_cm": 423,
-          "overall_width_cm": 169,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 1195,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "AERIO 4DR WAGON FWD /SX": {
       "years": [
         2005
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 136,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 88,
-          "overall_length_cm": 423,
-          "overall_width_cm": 169,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 1214,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "AERIO 4DR SEDAN FWD": {
       "years": [
         2006,
         2007
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 103,
-          "back_length_cm": 49,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 80,
-          "max_width_cm": 119,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 101,
-          "overall_length_cm": 435,
-          "overall_width_cm": 169,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1207,
-          "weight_distribution_pct": "62/38"
-        },
-        "2007": "<default>"
-      }
+      ]
     },
     "AERIO 4DR WAGON AWD SX": {
       "years": [
         2006
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 136,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 88,
-          "overall_length_cm": 423,
-          "overall_width_cm": 169,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 1330,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "AERIO 4DR WAGON FWD SE/SX": {
       "years": [
         2006
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 136,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 86,
-          "rear_overhang_cm": 88,
-          "overall_length_cm": 423,
-          "overall_width_cm": 169,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 142,
-          "curb_weight_kg": 1224,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     }
   },
   "SX4": {
@@ -274,87 +57,21 @@
         2007,
         2008,
         2009
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 98,
-          "back_length_cm": 126,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 78,
-          "max_width_cm": 100,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 412,
-          "overall_width_cm": 173,
-          "overall_height_cm": 158,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1200,
-          "weight_distribution_pct": "61/39"
-        },
-        "2008": "<default>",
-        "2009": "<default>"
-      }
+      ]
     },
     "SX4 4DR HATCH FWD /JLX": {
       "years": [
         2007,
         2008,
         2009
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 98,
-          "back_length_cm": 126,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 80,
-          "max_width_cm": 100,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 176,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 148,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1270,
-          "weight_distribution_pct": "61/39"
-        },
-        "2008": "<default>",
-        "2009": "<default>"
-      }
+      ]
     },
     "SX4 4DR HATCH FWD /JX": {
       "years": [
         2007,
         2008,
         2009
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 98,
-          "back_length_cm": 126,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 80,
-          "max_width_cm": 100,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 176,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 148,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1200,
-          "weight_distribution_pct": "61/39"
-        },
-        "2008": "<default>",
-        "2009": "<default>"
-      }
+      ]
     },
     "SX4 4DR SEDAN FWD": {
       "years": [
@@ -362,62 +79,7 @@
         2009,
         2010,
         2011
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 99,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 80,
-          "max_width_cm": 101,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 449,
-          "overall_width_cm": 173,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "61/39"
-        },
-        "2009": "<default>",
-        "2010": {
-          "hood_length_cm": 99,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 80,
-          "max_width_cm": 101,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 449,
-          "overall_width_cm": 173,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1246,
-          "weight_distribution_pct": "61/39"
-        },
-        "2011": {
-          "hood_length_cm": 99,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 80,
-          "max_width_cm": 101,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 449,
-          "overall_width_cm": 173,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1246,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SX4 SPORT 4DR SEDAN FWD": {
       "years": [
@@ -425,611 +87,117 @@
         2009,
         2010,
         2011
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 99,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 80,
-          "max_width_cm": 101,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 451,
-          "overall_width_cm": 173,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "61/39"
-        },
-        "2009": "<default>",
-        "2010": {
-          "hood_length_cm": 99,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 80,
-          "max_width_cm": 101,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 451,
-          "overall_width_cm": 173,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1291,
-          "weight_distribution_pct": "61/39"
-        },
-        "2011": {
-          "hood_length_cm": 99,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 80,
-          "max_width_cm": 101,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 451,
-          "overall_width_cm": 173,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1291,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SX4 4DR HATCH AWD JX/JLX": {
       "years": [
         2010,
         2011,
         2012
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 98,
-          "back_length_cm": 126,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 80,
-          "max_width_cm": 100,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 176,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 148,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1357,
-          "weight_distribution_pct": "61/39"
-        },
-        "2011": "<default>",
-        "2012": {
-          "hood_length_cm": 98,
-          "back_length_cm": 126,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 80,
-          "max_width_cm": 100,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 176,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 148,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1316,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SX4 4DR HATCH FWD AERO": {
       "years": [
         2010
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 98,
-          "back_length_cm": 126,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 80,
-          "max_width_cm": 100,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 176,
-          "overall_height_cm": 157,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 148,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1325,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SX4 4DR HATCH FWD BASE": {
       "years": [
         2010,
         2011
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 98,
-          "back_length_cm": 126,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 78,
-          "max_width_cm": 100,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 412,
-          "overall_width_cm": 173,
-          "overall_height_cm": 158,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1246,
-          "weight_distribution_pct": "61/39"
-        },
-        "2011": "<default>"
-      }
+      ]
     },
     "SX4 4DR HATCH FWD JX": {
       "years": [
         2010,
         2011
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 98,
-          "back_length_cm": 126,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 80,
-          "max_width_cm": 100,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 176,
-          "overall_height_cm": 158,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 148,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1306,
-          "weight_distribution_pct": "61/39"
-        },
-        "2011": "<default>"
-      }
+      ]
     },
     "SX4 4DR HATCH FWD JA/JX": {
       "years": [
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 98,
-          "back_length_cm": 126,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 78,
-          "max_width_cm": 100,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 412,
-          "overall_width_cm": 173,
-          "overall_height_cm": 158,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1251,
-          "weight_distribution_pct": "61/39"
-        },
-        "2013": {
-          "hood_length_cm": 98,
-          "back_length_cm": 126,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 78,
-          "max_width_cm": 100,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 412,
-          "overall_width_cm": 173,
-          "overall_height_cm": 158,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1283,
-          "weight_distribution_pct": "61/39"
-        },
-        "2014": {
-          "hood_length_cm": 98,
-          "back_length_cm": 126,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 78,
-          "max_width_cm": 100,
-          "front_overhang_cm": 89,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 412,
-          "overall_width_cm": 173,
-          "overall_height_cm": 158,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 151,
-          "curb_weight_kg": 1283,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SX4 4DR SEDAN FWD  JA/SPORT (auto)": {
       "years": [
         2012
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 99,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 80,
-          "max_width_cm": 101,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 451,
-          "overall_width_cm": 173,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1296,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SX4 4DR SEDAN FWD  JA/SPORT (manual)": {
       "years": [
         2012
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 99,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 80,
-          "max_width_cm": 101,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 449,
-          "overall_width_cm": 173,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1246,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SX4 4DR CROSSOVER JA iAWD/JX iAWD/JLX iAWD": {
       "years": [
         2013,
         2014
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 98,
-          "back_length_cm": 126,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 80,
-          "max_width_cm": 100,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 414,
-          "overall_width_cm": 176,
-          "overall_height_cm": 161,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1361,
-          "weight_distribution_pct": "61/39"
-        },
-        "2014": "<default>"
-      }
+      ]
     },
     "SX4 4DR SEDAN FWD  JE/JA/SPORT (manual)": {
       "years": [
         2013,
         2014
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 99,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 80,
-          "max_width_cm": 101,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 449,
-          "overall_width_cm": 173,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1246,
-          "weight_distribution_pct": "61/39"
-        },
-        "2014": "<default>"
-      }
+      ]
     },
     "SX4 4DR SEDAN FWD JA/SPORT (auto)": {
       "years": [
         2013,
         2014
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 99,
-          "back_length_cm": 52,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 80,
-          "max_width_cm": 101,
-          "front_overhang_cm": 91,
-          "rear_overhang_cm": 110,
-          "overall_length_cm": 451,
-          "overall_width_cm": 173,
-          "overall_height_cm": 155,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1296,
-          "weight_distribution_pct": "61/39"
-        },
-        "2014": "<default>"
-      }
+      ]
     }
   },
   "Kizashi": {
     "KIZASHI 4DR SEDAN": {
       "years": [
         2011
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 112,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 112,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 463,
-          "overall_width_cm": 182,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1470,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "KIZASHI S 4DR SEDAN": {
       "years": [
         2012
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 112,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 112,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 463,
-          "overall_width_cm": 182,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1586,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "KIZASHI SPORT 4DR SEDAN": {
       "years": [
         2012
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 112,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 112,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 463,
-          "overall_width_cm": 182,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1512,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "KIZASHI SX AWD 4DR SEDAN": {
       "years": [
         2012
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 112,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 112,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 463,
-          "overall_width_cm": 182,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1620,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "KIZASHI S iAWD 4DR SEDAN": {
       "years": [
         2013,
         2014
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 112,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 112,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 463,
-          "overall_width_cm": 182,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1586,
-          "weight_distribution_pct": "61/39"
-        },
-        "2014": "<default>"
-      }
+      ]
     },
     "KIZASHI SPORT iAWD/SX iAWD 4DR SEDAN": {
       "years": [
         2013,
         2014
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 112,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 30,
-          "door_height_cm": 80,
-          "max_width_cm": 112,
-          "front_overhang_cm": 94,
-          "rear_overhang_cm": 99,
-          "overall_length_cm": 463,
-          "overall_width_cm": 182,
-          "overall_height_cm": 148,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 156,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1620,
-          "weight_distribution_pct": "61/39"
-        },
-        "2014": "<default>"
-      }
+      ]
     }
   },
   "Swift": {
     "SWIFTL/S/DL 2DR HATCHBACK": {
       "years": [
         1989
-      ],
-      "details": {
-        "1989": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 47,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 67,
-          "max_width_cm": 95,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 68,
-          "overall_length_cm": 371,
-          "overall_width_cm": 158,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 227,
-          "front_track_width_cm": 136,
-          "rear_track_width_cm": 134,
-          "curb_weight_kg": 755,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "SWIFT GL 4DR HATCHBACK": {
       "years": [
         1990
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 381,
-          "overall_width_cm": 158,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 237,
-          "front_track_width_cm": 137,
-          "rear_track_width_cm": 134,
-          "curb_weight_kg": 805,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "SWIFT GT 2DR HATCHBACK": {
       "years": [
         1990
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 62,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 74,
-          "max_width_cm": 96,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 67,
-          "overall_length_cm": 371,
-          "overall_width_cm": 159,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 227,
-          "front_track_width_cm": 136,
-          "rear_track_width_cm": 134,
-          "curb_weight_kg": 845,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "SWIFT L/GL/GLX 4DR SEDAN": {
       "years": [
@@ -1037,382 +205,60 @@
         1991,
         1992,
         1993
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 69,
-          "max_width_cm": 96,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 94,
-          "overall_length_cm": 408,
-          "overall_width_cm": 160,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 237,
-          "front_track_width_cm": 138,
-          "rear_track_width_cm": 136,
-          "curb_weight_kg": 780,
-          "weight_distribution_pct": "58/42"
-        },
-        "1991": {
-          "hood_length_cm": 101,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 69,
-          "max_width_cm": 96,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 94,
-          "overall_length_cm": 408,
-          "overall_width_cm": 160,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 237,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 780,
-          "weight_distribution_pct": null
-        },
-        "1992": {
-          "hood_length_cm": 101,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 69,
-          "max_width_cm": 96,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 94,
-          "overall_length_cm": 408,
-          "overall_width_cm": 160,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 237,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 780,
-          "weight_distribution_pct": "58/42"
-        },
-        "1993": {
-          "hood_length_cm": 101,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 69,
-          "max_width_cm": 96,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 94,
-          "overall_length_cm": 408,
-          "overall_width_cm": 160,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 237,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 780,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "SWIFT L/S/GL 2DR HATCHBACK": {
       "years": [
         1990
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 62,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 74,
-          "max_width_cm": 96,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 67,
-          "overall_length_cm": 371,
-          "overall_width_cm": 158,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 227,
-          "front_track_width_cm": 137,
-          "rear_track_width_cm": 134,
-          "curb_weight_kg": 775,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "SWIFT GT 3DR HATCHBACK": {
       "years": [
         1991,
         1992,
         1993
-      ],
-      "details": {
-        "1991": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 62,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 74,
-          "max_width_cm": 96,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 67,
-          "overall_length_cm": 371,
-          "overall_width_cm": 159,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 227,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 845,
-          "weight_distribution_pct": null
-        },
-        "1992": {
-          "hood_length_cm": 101,
-          "back_length_cm": 62,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 74,
-          "max_width_cm": 96,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 67,
-          "overall_length_cm": 371,
-          "overall_width_cm": 159,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 227,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 845,
-          "weight_distribution_pct": "58/42"
-        },
-        "1993": {
-          "hood_length_cm": 101,
-          "back_length_cm": 62,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 74,
-          "max_width_cm": 96,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 67,
-          "overall_length_cm": 371,
-          "overall_width_cm": 159,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 227,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 845,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "SWIFT L/S/GL 3DR HATCHBACK": {
       "years": [
         1991
-      ],
-      "details": {
-        "1991": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 62,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 74,
-          "max_width_cm": 96,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 67,
-          "overall_length_cm": 371,
-          "overall_width_cm": 158,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 227,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 775,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "SWIFT L/GS 3DR HATCHBACK": {
       "years": [
         1992,
         1993
-      ],
-      "details": {
-        "1992": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 62,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 74,
-          "max_width_cm": 96,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 67,
-          "overall_length_cm": 371,
-          "overall_width_cm": 158,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 227,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 775,
-          "weight_distribution_pct": "58/42"
-        },
-        "1993": {
-          "hood_length_cm": 101,
-          "back_length_cm": 62,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 74,
-          "max_width_cm": 96,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 67,
-          "overall_length_cm": 371,
-          "overall_width_cm": 158,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 227,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 775,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "SWIFT GA 2DR HATCHBACK": {
       "years": [
         1993
-      ],
-      "details": {
-        "1993": "<default>",
-        "<default>": {
-          "hood_length_cm": 103,
-          "back_length_cm": 62,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 65,
-          "max_width_cm": 96,
-          "front_overhang_cm": 78,
-          "rear_overhang_cm": 70,
-          "overall_length_cm": 375,
-          "overall_width_cm": 158,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 227,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 749,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "SWIFT 2DR HATCHBACK GA": {
       "years": [
         1994
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 65,
-          "max_width_cm": 96,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 69,
-          "overall_length_cm": 375,
-          "overall_width_cm": 158,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 227,
-          "front_track_width_cm": 137,
-          "rear_track_width_cm": 134,
-          "curb_weight_kg": 749,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "SWIFT 2DR HATCHBACK GT": {
       "years": [
         1994
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 65,
-          "max_width_cm": 96,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 69,
-          "overall_length_cm": 375,
-          "overall_width_cm": 159,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 227,
-          "front_track_width_cm": 137,
-          "rear_track_width_cm": 134,
-          "curb_weight_kg": 859,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "SWIFT 2DR HATCHBACK L/GS": {
       "years": [
         1994
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 41,
-          "door_height_cm": 65,
-          "max_width_cm": 96,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 69,
-          "overall_length_cm": 375,
-          "overall_width_cm": 158,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 227,
-          "front_track_width_cm": 137,
-          "rear_track_width_cm": 134,
-          "curb_weight_kg": 789,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "SWIFT 4DR SEDAN GL/GLX": {
       "years": [
         1994
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 67,
-          "max_width_cm": 96,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 95,
-          "overall_length_cm": 410,
-          "overall_width_cm": 158,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 237,
-          "front_track_width_cm": 137,
-          "rear_track_width_cm": 134,
-          "curb_weight_kg": 920,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SWIFT 4DR SEDAN L": {
       "years": [
         1994
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 101,
-          "back_length_cm": 51,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 67,
-          "max_width_cm": 96,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 95,
-          "overall_length_cm": 410,
-          "overall_width_cm": 158,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 237,
-          "front_track_width_cm": 137,
-          "rear_track_width_cm": 134,
-          "curb_weight_kg": 844,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SWIFT 2DR HATCHBACK BASE/DLX": {
       "years": [
@@ -1422,137 +268,12 @@
         1998,
         1999,
         2000
-      ],
-      "details": {
-        "1995": "<default>",
-        "<default>": {
-          "hood_length_cm": 100,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 69,
-          "max_width_cm": 101,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 62,
-          "overall_length_cm": 380,
-          "overall_width_cm": 159,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 237,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 137,
-          "curb_weight_kg": 849,
-          "weight_distribution_pct": "60/40"
-        },
-        "1996": {
-          "hood_length_cm": 100,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 69,
-          "max_width_cm": 101,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 62,
-          "overall_length_cm": 380,
-          "overall_width_cm": 159,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 237,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 137,
-          "curb_weight_kg": 849,
-          "weight_distribution_pct": "61/39"
-        },
-        "1997": {
-          "hood_length_cm": 100,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 69,
-          "max_width_cm": 101,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 62,
-          "overall_length_cm": 380,
-          "overall_width_cm": 159,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 237,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 137,
-          "curb_weight_kg": 849,
-          "weight_distribution_pct": "61/39"
-        },
-        "1998": {
-          "hood_length_cm": 99,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 68,
-          "max_width_cm": 100,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 62,
-          "overall_length_cm": 380,
-          "overall_width_cm": 159,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 237,
-          "front_track_width_cm": 139,
-          "rear_track_width_cm": 136,
-          "curb_weight_kg": 860,
-          "weight_distribution_pct": "61/39"
-        },
-        "1999": {
-          "hood_length_cm": 99,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 68,
-          "max_width_cm": 100,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 62,
-          "overall_length_cm": 380,
-          "overall_width_cm": 159,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 237,
-          "front_track_width_cm": 139,
-          "rear_track_width_cm": 136,
-          "curb_weight_kg": 860,
-          "weight_distribution_pct": null
-        },
-        "2000": {
-          "hood_length_cm": 99,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 68,
-          "max_width_cm": 100,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 62,
-          "overall_length_cm": 380,
-          "overall_width_cm": 159,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 237,
-          "front_track_width_cm": 139,
-          "rear_track_width_cm": 136,
-          "curb_weight_kg": 860,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SWIFT 2DR HATCHBACK": {
       "years": [
         2001
-      ],
-      "details": {
-        "2001": "<default>",
-        "<default>": {
-          "hood_length_cm": 99,
-          "back_length_cm": 80,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 68,
-          "max_width_cm": 100,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 62,
-          "overall_length_cm": 380,
-          "overall_width_cm": 159,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 237,
-          "front_track_width_cm": 139,
-          "rear_track_width_cm": 136,
-          "curb_weight_kg": 860,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "SWIFT 4DR HATCH FWD +/S": {
       "years": [
@@ -1560,121 +281,13 @@
         2005,
         2006,
         2007
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 92,
-          "back_length_cm": 120,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 79,
-          "max_width_cm": 95,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 59,
-          "overall_length_cm": 388,
-          "overall_width_cm": 167,
-          "overall_height_cm": 150,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1065,
-          "weight_distribution_pct": null
-        },
-        "2005": {
-          "hood_length_cm": 92,
-          "back_length_cm": 120,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 79,
-          "max_width_cm": 95,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 59,
-          "overall_length_cm": 388,
-          "overall_width_cm": 167,
-          "overall_height_cm": 150,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1065,
-          "weight_distribution_pct": "63/37"
-        },
-        "2006": {
-          "hood_length_cm": 92,
-          "back_length_cm": 120,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 79,
-          "max_width_cm": 95,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 59,
-          "overall_length_cm": 388,
-          "overall_width_cm": 167,
-          "overall_height_cm": 150,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1065,
-          "weight_distribution_pct": "63/37"
-        },
-        "2007": {
-          "hood_length_cm": 92,
-          "back_length_cm": 120,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 79,
-          "max_width_cm": 95,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 59,
-          "overall_length_cm": 388,
-          "overall_width_cm": 167,
-          "overall_height_cm": 150,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1065,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "SWIFT+ /S 4DR HATCH FWD": {
       "years": [
         2008,
         2009
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 92,
-          "back_length_cm": 120,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 79,
-          "max_width_cm": 95,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 59,
-          "overall_length_cm": 388,
-          "overall_width_cm": 167,
-          "overall_height_cm": 150,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1065,
-          "weight_distribution_pct": "63/37"
-        },
-        "2009": {
-          "hood_length_cm": 92,
-          "back_length_cm": 118,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 79,
-          "max_width_cm": 95,
-          "front_overhang_cm": 81,
-          "rear_overhang_cm": 59,
-          "overall_length_cm": 388,
-          "overall_width_cm": 167,
-          "overall_height_cm": 150,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1065,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     }
   },
   "Forenza": {},
@@ -1689,129 +302,7 @@
         1999,
         2000,
         2001
-      ],
-      "details": {
-        "1995": "<default>",
-        "<default>": {
-          "hood_length_cm": 103,
-          "back_length_cm": 44,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 72,
-          "max_width_cm": 108,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 420,
-          "overall_width_cm": null,
-          "overall_height_cm": null,
-          "wheelbase_cm": 249,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        },
-        "1996": {
-          "hood_length_cm": 103,
-          "back_length_cm": 44,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 72,
-          "max_width_cm": 108,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 420,
-          "overall_width_cm": 167,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 249,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 972,
-          "weight_distribution_pct": "62/38"
-        },
-        "1997": {
-          "hood_length_cm": 103,
-          "back_length_cm": 44,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 72,
-          "max_width_cm": 108,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 420,
-          "overall_width_cm": 167,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 249,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 972,
-          "weight_distribution_pct": "62/38"
-        },
-        "1998": {
-          "hood_length_cm": 103,
-          "back_length_cm": 44,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 72,
-          "max_width_cm": 108,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 420,
-          "overall_width_cm": 168,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 143,
-          "curb_weight_kg": 1010,
-          "weight_distribution_pct": "62/38"
-        },
-        "1999": {
-          "hood_length_cm": 107,
-          "back_length_cm": 47,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 72,
-          "max_width_cm": 107,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 423,
-          "overall_width_cm": 169,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 143,
-          "curb_weight_kg": 1010,
-          "weight_distribution_pct": "62/38"
-        },
-        "2000": {
-          "hood_length_cm": 107,
-          "back_length_cm": 47,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 72,
-          "max_width_cm": 107,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 423,
-          "overall_width_cm": 169,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 143,
-          "curb_weight_kg": 1010,
-          "weight_distribution_pct": "62/38"
-        },
-        "2001": {
-          "hood_length_cm": 107,
-          "back_length_cm": 47,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 72,
-          "max_width_cm": 107,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 90,
-          "overall_length_cm": 423,
-          "overall_width_cm": 169,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 143,
-          "curb_weight_kg": 1010,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "ESTEEM 4DR WAGON GL/GLX": {
       "years": [
@@ -1820,95 +311,7 @@
         2000,
         2001,
         2002
-      ],
-      "details": {
-        "1998": "<default>",
-        "<default>": {
-          "hood_length_cm": 103,
-          "back_length_cm": 203,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 72,
-          "max_width_cm": 108,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 435,
-          "overall_width_cm": 169,
-          "overall_height_cm": 146,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 143,
-          "curb_weight_kg": 1070,
-          "weight_distribution_pct": null
-        },
-        "1999": {
-          "hood_length_cm": 107,
-          "back_length_cm": 202,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 72,
-          "max_width_cm": 107,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 438,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 143,
-          "curb_weight_kg": 1070,
-          "weight_distribution_pct": null
-        },
-        "2000": {
-          "hood_length_cm": 107,
-          "back_length_cm": 202,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 72,
-          "max_width_cm": 107,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 438,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 143,
-          "curb_weight_kg": 1090,
-          "weight_distribution_pct": null
-        },
-        "2001": {
-          "hood_length_cm": 107,
-          "back_length_cm": 202,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 72,
-          "max_width_cm": 107,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 438,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 143,
-          "curb_weight_kg": 1090,
-          "weight_distribution_pct": null
-        },
-        "2002": {
-          "hood_length_cm": 107,
-          "back_length_cm": 202,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 72,
-          "max_width_cm": 107,
-          "front_overhang_cm": 87,
-          "rear_overhang_cm": 103,
-          "overall_length_cm": 438,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 143,
-          "curb_weight_kg": 1090,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     }
   },
   "Verona": {
@@ -1917,181 +320,39 @@
         2004,
         2005,
         2006
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 55,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 78,
-          "max_width_cm": 104,
-          "front_overhang_cm": 96,
-          "rear_overhang_cm": 112,
-          "overall_length_cm": 477,
-          "overall_width_cm": 182,
-          "overall_height_cm": 145,
-          "wheelbase_cm": 270,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 153,
-          "curb_weight_kg": 1533,
-          "weight_distribution_pct": "59/41"
-        },
-        "2005": "<default>",
-        "2006": "<default>"
-      }
+      ]
     }
   },
   "Forsa": {
     "FORSA GA (2DR) / GL (2DR)": {
       "years": [
         1986
-      ],
-      "details": {
-        "1986": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 358,
-          "overall_width_cm": 153,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 224,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 675,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "FORSA VLG (4DR)": {
       "years": [
         1986
-      ],
-      "details": {
-        "1986": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 368,
-          "overall_width_cm": 154,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 234,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 710,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "FORSA GA/GL 2 DR KAMBACK": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 128,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 63,
-          "max_width_cm": 107,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 72,
-          "overall_length_cm": 367,
-          "overall_width_cm": 153,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 225,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 730,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "FORSA V GL 4 DR KAMBACK": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 156,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 63,
-          "max_width_cm": 107,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 72,
-          "overall_length_cm": 377,
-          "overall_width_cm": 154,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 235,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 710,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "FORSA  GL/GA 4 DR KAMBACK": {
       "years": [
         1988
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 63,
-          "max_width_cm": 106,
-          "front_overhang_cm": 74,
-          "rear_overhang_cm": 69,
-          "overall_length_cm": 377,
-          "overall_width_cm": 155,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 235,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 755,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "FORSA GA/GL/GE 2DR KAMBACK": {
       "years": [
         1988
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 40,
-          "door_height_cm": 63,
-          "max_width_cm": 106,
-          "front_overhang_cm": 74,
-          "rear_overhang_cm": 69,
-          "overall_length_cm": 367,
-          "overall_width_cm": 153,
-          "overall_height_cm": 135,
-          "wheelbase_cm": 225,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 730,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     }
   },
   "Equator": {
@@ -2099,575 +360,97 @@
       "years": [
         2009,
         2010
-      ],
-      "details": {
-        "2009": "<default>",
-        "<default>": {
-          "hood_length_cm": 125,
-          "back_length_cm": 305,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 82,
-          "max_width_cm": 118,
-          "front_overhang_cm": 84,
-          "rear_overhang_cm": 124,
-          "overall_length_cm": 561,
-          "overall_width_cm": 185,
-          "overall_height_cm": 178,
-          "wheelbase_cm": 355,
-          "front_track_width_cm": 158,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 2050,
-          "weight_distribution_pct": "55/45"
-        },
-        "2010": "<default>"
-      }
+      ]
     }
   },
   "Sidekick": {
     "SIDEKICK BASE/DLX/SUPER DLX CONV. 4X4": {
       "years": [
         1989
-      ],
-      "details": {
-        "1989": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 124,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 77,
-          "max_width_cm": 113,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 67,
-          "overall_length_cm": 362,
-          "overall_width_cm": 163,
-          "overall_height_cm": 166,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 140,
-          "curb_weight_kg": 1000,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SIDEKICK DLX/SUPER DLX HARDTOP 4X4": {
       "years": [
         1989
-      ],
-      "details": {
-        "1989": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 127,
-          "side_glass_max_height_cm": 49,
-          "door_height_cm": 78,
-          "max_width_cm": 102,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 70,
-          "overall_length_cm": 362,
-          "overall_width_cm": 163,
-          "overall_height_cm": 166,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 140,
-          "curb_weight_kg": 1000,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SIDEKICK STD/DLX/SUPER DLX HARD TOP 4x4": {
       "years": [
         1990
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 100,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 74,
-          "max_width_cm": 120,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 362,
-          "overall_width_cm": 163,
-          "overall_height_cm": 166,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 139,
-          "rear_track_width_cm": 140,
-          "curb_weight_kg": 1035,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SIDEKICK STD/DLX/SUPER DLX SOFT TOP 4x4": {
       "years": [
         1990
-      ],
-      "details": {
-        "1990": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 124,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 77,
-          "max_width_cm": 113,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 67,
-          "overall_length_cm": 362,
-          "overall_width_cm": 163,
-          "overall_height_cm": 166,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 139,
-          "rear_track_width_cm": 140,
-          "curb_weight_kg": 1020,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SIDEKICK 2DR JA/JX HARD TOP 4x4": {
       "years": [
         1991,
         1992,
         1993
-      ],
-      "details": {
-        "1991": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 100,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 74,
-          "max_width_cm": 120,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 362,
-          "overall_width_cm": 163,
-          "overall_height_cm": 166,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1035,
-          "weight_distribution_pct": null
-        },
-        "1992": "<default>",
-        "1993": "<default>"
-      }
+      ]
     },
     "SIDEKICK 2DR JA/JX/JLX SOFT TOP 4x4": {
       "years": [
         1991,
         1992,
         1993
-      ],
-      "details": {
-        "1991": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 124,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 77,
-          "max_width_cm": 113,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 67,
-          "overall_length_cm": 362,
-          "overall_width_cm": 163,
-          "overall_height_cm": 166,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1020,
-          "weight_distribution_pct": null
-        },
-        "1992": {
-          "hood_length_cm": 105,
-          "back_length_cm": 124,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 77,
-          "max_width_cm": 113,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 362,
-          "overall_width_cm": 163,
-          "overall_height_cm": 166,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1020,
-          "weight_distribution_pct": null
-        },
-        "1993": {
-          "hood_length_cm": 105,
-          "back_length_cm": 124,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 77,
-          "max_width_cm": 113,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 362,
-          "overall_width_cm": 163,
-          "overall_height_cm": 166,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1020,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SIDEKICK 4DR JA/JLX/JLX-PP 4X4": {
       "years": [
         1991,
         1992,
         1993
-      ],
-      "details": {
-        "1991": "<default>",
-        "<default>": {
-          "hood_length_cm": 108,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 55,
-          "door_height_cm": 79,
-          "max_width_cm": 102,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 403,
-          "overall_width_cm": 164,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1215,
-          "weight_distribution_pct": null
-        },
-        "1992": "<default>",
-        "1993": "<default>"
-      }
+      ]
     },
     "SIDEKICK 2DR HARD TOP 4X4 JA/JX": {
       "years": [
         1994,
         1995
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 117,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 77,
-          "max_width_cm": 106,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 362,
-          "overall_width_cm": 163,
-          "overall_height_cm": 166,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 140,
-          "curb_weight_kg": 1035,
-          "weight_distribution_pct": "53/47"
-        },
-        "1995": {
-          "hood_length_cm": 105,
-          "back_length_cm": 117,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 77,
-          "max_width_cm": 106,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 362,
-          "overall_width_cm": 163,
-          "overall_height_cm": 166,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 140,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SIDEKICK 2DR SOFT TOP 4X4 JA/JX/JLX": {
       "years": [
         1994,
         1995
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 117,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 77,
-          "max_width_cm": 109,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 362,
-          "overall_width_cm": 163,
-          "overall_height_cm": 166,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 140,
-          "curb_weight_kg": 1020,
-          "weight_distribution_pct": "53/47"
-        },
-        "1995": {
-          "hood_length_cm": 105,
-          "back_length_cm": 117,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 77,
-          "max_width_cm": 109,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 362,
-          "overall_width_cm": 163,
-          "overall_height_cm": 166,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 140,
-          "curb_weight_kg": 1085,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SIDEKICK 4DR HARD TOP 4X4 JX/JLX": {
       "years": [
         1994,
         1995
-      ],
-      "details": {
-        "1994": "<default>",
-        "<default>": {
-          "hood_length_cm": 108,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 55,
-          "door_height_cm": 79,
-          "max_width_cm": 102,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 403,
-          "overall_width_cm": 164,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 140,
-          "curb_weight_kg": 1226,
-          "weight_distribution_pct": null
-        },
-        "1995": {
-          "hood_length_cm": 108,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 55,
-          "door_height_cm": 79,
-          "max_width_cm": 102,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 403,
-          "overall_width_cm": 164,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 140,
-          "curb_weight_kg": 1232,
-          "weight_distribution_pct": "54/46"
-        }
-      }
+      ]
     },
     "SIDEKICK 2DR SOFT TOP 4X4 JA/JX": {
       "years": [
         1996,
         1997
-      ],
-      "details": {
-        "1996": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 123,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 76,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 68,
-          "overall_length_cm": 365,
-          "overall_width_cm": 163,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 140,
-          "curb_weight_kg": 1114,
-          "weight_distribution_pct": null
-        },
-        "1997": {
-          "hood_length_cm": 107,
-          "back_length_cm": 123,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 76,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 68,
-          "overall_length_cm": 365,
-          "overall_width_cm": 163,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 140,
-          "curb_weight_kg": 1061,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SIDEKICK 4DR HARD TOP 4X4 JX": {
       "years": [
         1996,
         1997
-      ],
-      "details": {
-        "1996": "<default>",
-        "<default>": {
-          "hood_length_cm": 108,
-          "back_length_cm": 171,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 79,
-          "max_width_cm": 113,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 82,
-          "overall_length_cm": 403,
-          "overall_width_cm": 164,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 249,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 140,
-          "curb_weight_kg": 1114,
-          "weight_distribution_pct": null
-        },
-        "1997": {
-          "hood_length_cm": 108,
-          "back_length_cm": 171,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 79,
-          "max_width_cm": 113,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 82,
-          "overall_length_cm": 403,
-          "overall_width_cm": 164,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 249,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 140,
-          "curb_weight_kg": 1321,
-          "weight_distribution_pct": "53/47"
-        }
-      }
+      ]
     },
     "SIDEKICK 4DR HARD TOP 4X4 SPORT JX/JLX": {
       "years": [
         1996,
         1997,
         1998
-      ],
-      "details": {
-        "1996": "<default>",
-        "<default>": {
-          "hood_length_cm": 115,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 79,
-          "max_width_cm": 113,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 85,
-          "overall_length_cm": 413,
-          "overall_width_cm": 170,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 249,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1251,
-          "weight_distribution_pct": null
-        },
-        "1997": {
-          "hood_length_cm": 115,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 79,
-          "max_width_cm": 113,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 85,
-          "overall_length_cm": 413,
-          "overall_width_cm": 170,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 249,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1356,
-          "weight_distribution_pct": null
-        },
-        "1998": {
-          "hood_length_cm": 115,
-          "back_length_cm": 174,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 79,
-          "max_width_cm": 113,
-          "front_overhang_cm": 78,
-          "rear_overhang_cm": 85,
-          "overall_length_cm": 413,
-          "overall_width_cm": 170,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1356,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SIDEKICK 2DR SOFT TOP 4X4": {
       "years": [
         1998
-      ],
-      "details": {
-        "1998": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 123,
-          "side_glass_max_height_cm": 47,
-          "door_height_cm": 76,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 68,
-          "overall_length_cm": 357,
-          "overall_width_cm": 166,
-          "overall_height_cm": 165,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 140,
-          "curb_weight_kg": 1125,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SIDEKICK 4DR HARD TOP 4X4": {
       "years": [
         1998
-      ],
-      "details": {
-        "1998": "<default>",
-        "<default>": {
-          "hood_length_cm": 108,
-          "back_length_cm": 171,
-          "side_glass_max_height_cm": 46,
-          "door_height_cm": 79,
-          "max_width_cm": 113,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 84,
-          "overall_length_cm": 403,
-          "overall_width_cm": 164,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 140,
-          "rear_track_width_cm": 140,
-          "curb_weight_kg": 1250,
-          "weight_distribution_pct": "53/47"
-        }
-      }
+      ]
     }
   },
   "Sidekick Sport": {},
@@ -2677,384 +460,61 @@
         1985,
         1986,
         1987
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 100,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 343,
-          "overall_width_cm": 146,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 203,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 900,
-          "weight_distribution_pct": null
-        },
-        "1986": "<default>",
-        "1987": {
-          "hood_length_cm": 114,
-          "back_length_cm": 100,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 343,
-          "overall_width_cm": 146,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 203,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 950,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SAMURAI HARD TOP": {
       "years": [
         1985,
         1986,
         1987
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 100,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 84,
-          "max_width_cm": 116,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 344,
-          "overall_width_cm": 146,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 203,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 925,
-          "weight_distribution_pct": null
-        },
-        "1986": "<default>",
-        "1987": {
-          "hood_length_cm": 114,
-          "back_length_cm": 100,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 84,
-          "max_width_cm": 116,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 344,
-          "overall_width_cm": 146,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 203,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 965,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SAMURAI LONG BODY CONVERTIBLE": {
       "years": [
         1985,
         1986
-      ],
-      "details": {
-        "1985": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 401,
-          "overall_width_cm": 146,
-          "overall_height_cm": 183,
-          "wheelbase_cm": 238,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 945,
-          "weight_distribution_pct": null
-        },
-        "1986": "<default>"
-      }
+      ]
     },
     "SAMURAI LONG BODY": {
       "years": [
         1987
-      ],
-      "details": {
-        "1987": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 401,
-          "overall_width_cm": 146,
-          "overall_height_cm": 183,
-          "wheelbase_cm": 238,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1000,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SAMURAI CONVERTABLE STD/JX": {
       "years": [
         1988,
         1989,
         1990
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 100,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 343,
-          "overall_width_cm": 153,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 203,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 950,
-          "weight_distribution_pct": null
-        },
-        "1989": {
-          "hood_length_cm": 114,
-          "back_length_cm": 100,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 343,
-          "overall_width_cm": 153,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 203,
-          "front_track_width_cm": 131,
-          "rear_track_width_cm": 131,
-          "curb_weight_kg": 950,
-          "weight_distribution_pct": null
-        },
-        "1990": {
-          "hood_length_cm": 114,
-          "back_length_cm": 100,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 343,
-          "overall_width_cm": 153,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 203,
-          "front_track_width_cm": 131,
-          "rear_track_width_cm": 131,
-          "curb_weight_kg": 950,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SAMURAI HARDTOP STD/JX": {
       "years": [
         1988,
         1989,
         1990
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 100,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 344,
-          "overall_width_cm": 153,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 203,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 965,
-          "weight_distribution_pct": null
-        },
-        "1989": {
-          "hood_length_cm": 114,
-          "back_length_cm": 100,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 344,
-          "overall_width_cm": 153,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 203,
-          "front_track_width_cm": 131,
-          "rear_track_width_cm": 131,
-          "curb_weight_kg": 965,
-          "weight_distribution_pct": null
-        },
-        "1990": {
-          "hood_length_cm": 114,
-          "back_length_cm": 100,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 344,
-          "overall_width_cm": 153,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 203,
-          "front_track_width_cm": 131,
-          "rear_track_width_cm": 131,
-          "curb_weight_kg": 965,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SAMURAI JX PLUS": {
       "years": [
         1988
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 100,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 343,
-          "overall_width_cm": 153,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 203,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": null,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SAMURAI LONG BODY JX": {
       "years": [
         1988
-      ],
-      "details": {
-        "1988": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 98,
-          "overall_length_cm": 401,
-          "overall_width_cm": 153,
-          "overall_height_cm": 182,
-          "wheelbase_cm": 238,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1000,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SAMURAI CONVERTABLE STD/JA": {
       "years": [
         1991,
         1992
-      ],
-      "details": {
-        "1991": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 100,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 343,
-          "overall_width_cm": 153,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 203,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 956,
-          "weight_distribution_pct": null
-        },
-        "1992": {
-          "hood_length_cm": 114,
-          "back_length_cm": 100,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 343,
-          "overall_width_cm": 153,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 203,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 950,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "SAMURAI HARDTOP STD/JA": {
       "years": [
         1991,
         1992
-      ],
-      "details": {
-        "1991": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 100,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 84,
-          "max_width_cm": 120,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 75,
-          "overall_length_cm": 344,
-          "overall_width_cm": 153,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 203,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 965,
-          "weight_distribution_pct": null
-        },
-        "1992": "<default>"
-      }
+      ]
     }
   },
   "XL7": {
@@ -3062,55 +522,13 @@
       "years": [
         2007,
         2008
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": 203,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 87,
-          "max_width_cm": 103,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 118,
-          "overall_length_cm": 501,
-          "overall_width_cm": 184,
-          "overall_height_cm": 173,
-          "wheelbase_cm": 286,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1837,
-          "weight_distribution_pct": "54/46"
-        },
-        "2008": "<default>"
-      }
+      ]
     },
     "XL7 4DR 4WD JX": {
       "years": [
         2007,
         2008
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 121,
-          "back_length_cm": 203,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 87,
-          "max_width_cm": 103,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 118,
-          "overall_length_cm": 501,
-          "overall_width_cm": 184,
-          "overall_height_cm": 173,
-          "wheelbase_cm": 286,
-          "front_track_width_cm": 155,
-          "rear_track_width_cm": 157,
-          "curb_weight_kg": 1773,
-          "weight_distribution_pct": "54/46"
-        },
-        "2008": "<default>"
-      }
+      ]
     }
   },
   "Vitara": {
@@ -3120,62 +538,7 @@
         2000,
         2001,
         2002
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": 110,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 117,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 81,
-          "overall_length_cm": 378,
-          "overall_width_cm": 171,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1235,
-          "weight_distribution_pct": null
-        },
-        "2000": "<default>",
-        "2001": {
-          "hood_length_cm": 110,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 117,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 81,
-          "overall_length_cm": 378,
-          "overall_width_cm": 171,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1245,
-          "weight_distribution_pct": null
-        },
-        "2002": {
-          "hood_length_cm": 110,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 117,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 81,
-          "overall_length_cm": 378,
-          "overall_width_cm": 171,
-          "overall_height_cm": 168,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1245,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "VITARA 2DR CONVERTIBLE 4WD 2.0L": {
       "years": [
@@ -3183,293 +546,47 @@
         2000,
         2001,
         2002
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": 110,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 117,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 81,
-          "overall_length_cm": 378,
-          "overall_width_cm": 171,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1275,
-          "weight_distribution_pct": null
-        },
-        "2000": "<default>",
-        "2001": {
-          "hood_length_cm": 110,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 117,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 81,
-          "overall_length_cm": 378,
-          "overall_width_cm": 171,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1275,
-          "weight_distribution_pct": null
-        },
-        "2002": {
-          "hood_length_cm": 110,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 117,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 81,
-          "overall_length_cm": 378,
-          "overall_width_cm": 171,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1275,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "VITARA 4DR 4WD JX": {
       "years": [
         1999
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": 110,
-          "back_length_cm": 170,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 116,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 81,
-          "overall_length_cm": 406,
-          "overall_width_cm": 171,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1355,
-          "weight_distribution_pct": "54/46"
-        }
-      }
+      ]
     },
     "VITARA 4DR 4WD": {
       "years": [
         2000
-      ],
-      "details": {
-        "2000": "<default>",
-        "<default>": {
-          "hood_length_cm": 110,
-          "back_length_cm": 170,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 116,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 81,
-          "overall_length_cm": 406,
-          "overall_width_cm": 171,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1355,
-          "weight_distribution_pct": "54/46"
-        }
-      }
+      ]
     },
     "VITARA 4DR 4WD BASE/JX": {
       "years": [
         2001,
         2002,
         2003
-      ],
-      "details": {
-        "2001": "<default>",
-        "<default>": {
-          "hood_length_cm": 110,
-          "back_length_cm": 170,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 116,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 81,
-          "overall_length_cm": 406,
-          "overall_width_cm": 171,
-          "overall_height_cm": 172,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1355,
-          "weight_distribution_pct": "54/46"
-        },
-        "2002": {
-          "hood_length_cm": 110,
-          "back_length_cm": 170,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 116,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 81,
-          "overall_length_cm": 406,
-          "overall_width_cm": 171,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1300,
-          "weight_distribution_pct": "54/46"
-        },
-        "2003": {
-          "hood_length_cm": 110,
-          "back_length_cm": 170,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 116,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 81,
-          "overall_length_cm": 406,
-          "overall_width_cm": 171,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1300,
-          "weight_distribution_pct": "54/46"
-        }
-      }
+      ]
     },
     "VITARA 2DR CONVERTIBLE JX 4WD 2.0L": {
       "years": [
         2003
-      ],
-      "details": {
-        "2003": "<default>",
-        "<default>": {
-          "hood_length_cm": 110,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 117,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 81,
-          "overall_length_cm": 378,
-          "overall_width_cm": 171,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1240,
-          "weight_distribution_pct": "54/46"
-        }
-      }
+      ]
     },
     "VITARA 4DR 4WD SUV": {
       "years": [
         2004
-      ],
-      "details": {
-        "2004": "<default>",
-        "<default>": {
-          "hood_length_cm": 110,
-          "back_length_cm": 130,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 116,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 81,
-          "overall_length_cm": 406,
-          "overall_width_cm": 176,
-          "overall_height_cm": 167,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1435,
-          "weight_distribution_pct": "54/46"
-        }
-      }
+      ]
     }
   },
   "X-90": {
     "X-90 2DR SUV 4WD": {
       "years": [
         1996
-      ],
-      "details": {
-        "1996": "<default>",
-        "<default>": {
-          "hood_length_cm": 118,
-          "back_length_cm": 72,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 78,
-          "max_width_cm": null,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 371,
-          "overall_width_cm": 170,
-          "overall_height_cm": 154,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 142,
-          "rear_track_width_cm": 143,
-          "curb_weight_kg": 1025,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "X-90 2DR HARD TOP SUV 4WD": {
       "years": [
         1997,
         1998
-      ],
-      "details": {
-        "1997": "<default>",
-        "<default>": {
-          "hood_length_cm": 118,
-          "back_length_cm": 72,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 78,
-          "max_width_cm": null,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 371,
-          "overall_width_cm": 170,
-          "overall_height_cm": 154,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 142,
-          "rear_track_width_cm": 143,
-          "curb_weight_kg": 1045,
-          "weight_distribution_pct": "57/43"
-        },
-        "1998": {
-          "hood_length_cm": 118,
-          "back_length_cm": 72,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 78,
-          "max_width_cm": null,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 73,
-          "overall_length_cm": 371,
-          "overall_width_cm": 170,
-          "overall_height_cm": 154,
-          "wheelbase_cm": 220,
-          "front_track_width_cm": 142,
-          "rear_track_width_cm": 143,
-          "curb_weight_kg": 1120,
-          "weight_distribution_pct": "57/43"
-        }
-      }
+      ]
     }
   },
   "Grand Vitara": {
@@ -3477,53 +594,12 @@
       "years": [
         1999,
         2000
-      ],
-      "details": {
-        "1999": "<default>",
-        "<default>": {
-          "hood_length_cm": 112,
-          "back_length_cm": 172,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 116,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 410,
-          "overall_width_cm": 178,
-          "overall_height_cm": 174,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1450,
-          "weight_distribution_pct": "54/46"
-        },
-        "2000": "<default>"
-      }
+      ]
     },
     "GRAND VITARA 4DR 4WD V6 JX/JLX/LTD": {
       "years": [
         2001
-      ],
-      "details": {
-        "2001": "<default>",
-        "<default>": {
-          "hood_length_cm": 112,
-          "back_length_cm": 172,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 116,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 410,
-          "overall_width_cm": 178,
-          "overall_height_cm": 172,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1450,
-          "weight_distribution_pct": "54/46"
-        }
-      }
+      ]
     },
     "GRAND VITARA 4DR 4WD V6 JX/JLX": {
       "years": [
@@ -3531,211 +607,36 @@
         2003,
         2004,
         2005
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 112,
-          "back_length_cm": 172,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 116,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 410,
-          "overall_width_cm": 178,
-          "overall_height_cm": 172,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1460,
-          "weight_distribution_pct": "54/46"
-        },
-        "2003": {
-          "hood_length_cm": 112,
-          "back_length_cm": 172,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 116,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 410,
-          "overall_width_cm": 178,
-          "overall_height_cm": 172,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1460,
-          "weight_distribution_pct": "58/42"
-        },
-        "2004": {
-          "hood_length_cm": 112,
-          "back_length_cm": 172,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 116,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 410,
-          "overall_width_cm": 178,
-          "overall_height_cm": 172,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1465,
-          "weight_distribution_pct": "58/42"
-        },
-        "2005": {
-          "hood_length_cm": 112,
-          "back_length_cm": 172,
-          "side_glass_max_height_cm": 44,
-          "door_height_cm": 82,
-          "max_width_cm": 116,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 83,
-          "overall_length_cm": 410,
-          "overall_width_cm": 178,
-          "overall_height_cm": 172,
-          "wheelbase_cm": 248,
-          "front_track_width_cm": 150,
-          "rear_track_width_cm": 150,
-          "curb_weight_kg": 1465,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "GRAND VITARA 4DR 4WD V6 JA/JX/JLX": {
       "years": [
         2006,
         2007,
         2008
-      ],
-      "details": {
-        "2006": "<default>",
-        "<default>": {
-          "hood_length_cm": 114,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 42,
-          "door_height_cm": 84,
-          "max_width_cm": 108,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 89,
-          "overall_length_cm": 429,
-          "overall_width_cm": 181,
-          "overall_height_cm": 170,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 154,
-          "curb_weight_kg": 1650,
-          "weight_distribution_pct": "51/49"
-        },
-        "2007": "<default>",
-        "2008": "<default>"
-      }
+      ]
     },
     "GRAND VITARA 4DR SUV AWD JA/JX/JLX": {
       "years": [
         2009
-      ],
-      "details": {
-        "2009": "<default>",
-        "<default>": {
-          "hood_length_cm": 117,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 85,
-          "max_width_cm": 117,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 88,
-          "overall_length_cm": 429,
-          "overall_width_cm": 181,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1636,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "GRAND VITARA 4DR SUV AWD JX/JLX": {
       "years": [
         2010
-      ],
-      "details": {
-        "2010": "<default>",
-        "<default>": {
-          "hood_length_cm": 117,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 85,
-          "max_width_cm": 117,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 88,
-          "overall_length_cm": 429,
-          "overall_width_cm": 181,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1636,
-          "weight_distribution_pct": "50/50"
-        }
-      }
+      ]
     },
     "GRAND VITARA 4DR SUV AWD JX/JLX/JLX-L": {
       "years": [
         2011,
         2012
-      ],
-      "details": {
-        "2011": "<default>",
-        "<default>": {
-          "hood_length_cm": 117,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 85,
-          "max_width_cm": 117,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 88,
-          "overall_length_cm": 429,
-          "overall_width_cm": 181,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1656,
-          "weight_distribution_pct": "50/50"
-        },
-        "2012": "<default>"
-      }
+      ]
     },
     "GRAND VITARA 4DR SUV AWD URBAN/JX/JLX/JLX-L": {
       "years": [
         2013,
         2014
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 117,
-          "back_length_cm": 158,
-          "side_glass_max_height_cm": 43,
-          "door_height_cm": 85,
-          "max_width_cm": 117,
-          "front_overhang_cm": 79,
-          "rear_overhang_cm": 88,
-          "overall_length_cm": 429,
-          "overall_width_cm": 181,
-          "overall_height_cm": 169,
-          "wheelbase_cm": 264,
-          "front_track_width_cm": 154,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1656,
-          "weight_distribution_pct": "50/50"
-        },
-        "2014": "<default>"
-      }
+      ]
     }
   },
   "Grand Vitara XL-7": {}

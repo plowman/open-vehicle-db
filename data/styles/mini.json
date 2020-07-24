@@ -12,180 +12,7 @@
         2010,
         2011,
         2012
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 97,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 113,
-          "front_overhang_cm": 62,
-          "rear_overhang_cm": 53,
-          "overall_length_cm": 363,
-          "overall_width_cm": 169,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1125,
-          "weight_distribution_pct": "63/37"
-        },
-        "2003": {
-          "hood_length_cm": 97,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 113,
-          "front_overhang_cm": 62,
-          "rear_overhang_cm": 53,
-          "overall_length_cm": 363,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1145,
-          "weight_distribution_pct": "61/39"
-        },
-        "2004": {
-          "hood_length_cm": 97,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 113,
-          "front_overhang_cm": 62,
-          "rear_overhang_cm": 53,
-          "overall_length_cm": 363,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1145,
-          "weight_distribution_pct": "61/39"
-        },
-        "2005": {
-          "hood_length_cm": 97,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 113,
-          "front_overhang_cm": 62,
-          "rear_overhang_cm": 53,
-          "overall_length_cm": 363,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1145,
-          "weight_distribution_pct": "61/39"
-        },
-        "2006": {
-          "hood_length_cm": 97,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 113,
-          "front_overhang_cm": 62,
-          "rear_overhang_cm": 53,
-          "overall_length_cm": 363,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 147,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1145,
-          "weight_distribution_pct": "61/39"
-        },
-        "2008": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 370,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1155,
-          "weight_distribution_pct": "62/38"
-        },
-        "2009": {
-          "hood_length_cm": 97,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 67,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 370,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1155,
-          "weight_distribution_pct": "62/38"
-        },
-        "2010": {
-          "hood_length_cm": 97,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 67,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 370,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1155,
-          "weight_distribution_pct": "62/38"
-        },
-        "2011": {
-          "hood_length_cm": 97,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 67,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 370,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1155,
-          "weight_distribution_pct": "62/38"
-        },
-        "2012": {
-          "hood_length_cm": 97,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 67,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 370,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1155,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "COOPER S 2DR HATCH FWD": {
       "years": [
@@ -202,231 +29,7 @@
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 97,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 113,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 54,
-          "overall_length_cm": 366,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1225,
-          "weight_distribution_pct": "63/37"
-        },
-        "2003": {
-          "hood_length_cm": 97,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 113,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 54,
-          "overall_length_cm": 366,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1215,
-          "weight_distribution_pct": "61/39"
-        },
-        "2004": {
-          "hood_length_cm": 97,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 113,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 54,
-          "overall_length_cm": 366,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1215,
-          "weight_distribution_pct": "61/39"
-        },
-        "2005": {
-          "hood_length_cm": 97,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 113,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 54,
-          "overall_length_cm": 366,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1215,
-          "weight_distribution_pct": "61/39"
-        },
-        "2006": {
-          "hood_length_cm": 97,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 113,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 54,
-          "overall_length_cm": 366,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1215,
-          "weight_distribution_pct": "61/39"
-        },
-        "2007": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 370,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1130,
-          "weight_distribution_pct": null
-        },
-        "2008": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 370,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "62/38"
-        },
-        "2009": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "62/38"
-        },
-        "2010": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "62/38"
-        },
-        "2011": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "62/38"
-        },
-        "2012": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "62/38"
-        },
-        "2013": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "62/38"
-        },
-        "2014": {
-          "hood_length_cm": 106,
-          "back_length_cm": 92,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 82,
-          "max_width_cm": 114,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 59,
-          "overall_length_cm": 386,
-          "overall_width_cm": 173,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1286,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "COOPER 2DR CONVERTIBLE FWD": {
       "years": [
@@ -438,98 +41,7 @@
         2010,
         2011,
         2012
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": 95,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 74,
-          "max_width_cm": 112,
-          "front_overhang_cm": 64,
-          "rear_overhang_cm": 55,
-          "overall_length_cm": 364,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1225,
-          "weight_distribution_pct": "61/39"
-        },
-        "2006": "<default>",
-        "2007": "<default>",
-        "2008": "<default>",
-        "2009": {
-          "hood_length_cm": 97,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 67,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 370,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1155,
-          "weight_distribution_pct": "61/39"
-        },
-        "2010": {
-          "hood_length_cm": 97,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 67,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 370,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1155,
-          "weight_distribution_pct": "61/39"
-        },
-        "2011": {
-          "hood_length_cm": 97,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 67,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 370,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1155,
-          "weight_distribution_pct": "61/39"
-        },
-        "2012": {
-          "hood_length_cm": 97,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 67,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 370,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1155,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "COOPER S 2DR CONVERTIBLE FWD": {
       "years": [
@@ -543,755 +55,111 @@
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": 95,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 74,
-          "max_width_cm": 112,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 56,
-          "overall_length_cm": 366,
-          "overall_width_cm": 169,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1290,
-          "weight_distribution_pct": "59/41"
-        },
-        "2006": "<default>",
-        "2007": "<default>",
-        "2008": "<default>",
-        "2009": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "59/41"
-        },
-        "2010": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "59/41"
-        },
-        "2011": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "59/41"
-        },
-        "2012": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "59/41"
-        },
-        "2013": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "59/41"
-        },
-        "2014": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1295,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "COOPER 2DR HATCH FWD": {
       "years": [
         2007,
         2013,
         2014
-      ],
-      "details": {
-        "2007": "<default>",
-        "<default>": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 370,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1065,
-          "weight_distribution_pct": null
-        },
-        "2013": {
-          "hood_length_cm": 97,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 67,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 370,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1155,
-          "weight_distribution_pct": "62/38"
-        },
-        "2014": {
-          "hood_length_cm": 105,
-          "back_length_cm": 91,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 82,
-          "max_width_cm": 114,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 58,
-          "overall_length_cm": 384,
-          "overall_width_cm": 173,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 148,
-          "curb_weight_kg": 1213,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "COOPER CLUBMAN / COOPER CLUBMAN S 5DR HATCH F": {
       "years": [
         2008
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 99,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 96,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 396,
-          "overall_width_cm": 168,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 2141,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "COOPER CLUBMAN 4DR HATCH FWD": {
       "years": [
         2009,
         2010,
         2011
-      ],
-      "details": {
-        "2009": "<default>",
-        "<default>": {
-          "hood_length_cm": 97,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 96,
-          "front_overhang_cm": 67,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 394,
-          "overall_width_cm": 168,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1235,
-          "weight_distribution_pct": "59/41"
-        },
-        "2010": "<default>",
-        "2011": "<default>"
-      }
+      ]
     },
     "COOPER CLUBMAN S 4DR HATCH FWD": {
       "years": [
         2009,
         2010,
         2011
-      ],
-      "details": {
-        "2009": "<default>",
-        "<default>": {
-          "hood_length_cm": 99,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 96,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 396,
-          "overall_width_cm": 168,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1295,
-          "weight_distribution_pct": "59/41"
-        },
-        "2010": "<default>",
-        "2011": "<default>"
-      }
+      ]
     },
     "COOPER CLUBMAN 3DR HATCH FWD": {
       "years": [
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 97,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 96,
-          "front_overhang_cm": 67,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 394,
-          "overall_width_cm": 168,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1235,
-          "weight_distribution_pct": "59/41"
-        },
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": 97,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 96,
-          "front_overhang_cm": 67,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 394,
-          "overall_width_cm": 168,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1265,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "COOPER CLUBMAN S 3DR HATCH FWD": {
       "years": [
         2012
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 99,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 96,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 396,
-          "overall_width_cm": 168,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1295,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "COOPER COUPE 2DR COUPE": {
       "years": [
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 39,
-          "side_glass_max_height_cm": 29,
-          "door_height_cm": 77,
-          "max_width_cm": 119,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1160,
-          "weight_distribution_pct": "62/38"
-        },
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": 105,
-          "back_length_cm": 39,
-          "side_glass_max_height_cm": 29,
-          "door_height_cm": 77,
-          "max_width_cm": 119,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1195,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "COOPER ROADSTER": {
       "years": [
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": 77,
-          "max_width_cm": 121,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1195,
-          "weight_distribution_pct": null
-        },
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": 105,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 29,
-          "door_height_cm": 77,
-          "max_width_cm": 121,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1230,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "COOPER S COUPE 2DR COUPE": {
       "years": [
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 39,
-          "side_glass_max_height_cm": 29,
-          "door_height_cm": 77,
-          "max_width_cm": 119,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1215,
-          "weight_distribution_pct": "62/38"
-        },
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": 105,
-          "back_length_cm": 39,
-          "side_glass_max_height_cm": 29,
-          "door_height_cm": 77,
-          "max_width_cm": 119,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1240,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "COOPER S ROADSTER": {
       "years": [
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": 77,
-          "max_width_cm": 121,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1245,
-          "weight_distribution_pct": null
-        },
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": 105,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 29,
-          "door_height_cm": 77,
-          "max_width_cm": 121,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1270,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "COOPER CLUBVAN 3DR HATCH FWD": {
       "years": [
         2013
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 99,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 96,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 396,
-          "overall_width_cm": 168,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1235,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "COOPER CONVERTIBLE 2DR FWD": {
       "years": [
         2013,
         2014
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 97,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 67,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 370,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1225,
-          "weight_distribution_pct": "61/39"
-        },
-        "2014": {
-          "hood_length_cm": 97,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 67,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1260,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     },
     "COOPER COUNTRYMAN 4 DR SUV": {
       "years": [
         2013,
         2014
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 84,
-          "max_width_cm": 102,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 410,
-          "overall_width_cm": 179,
-          "overall_height_cm": 156,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1340,
-          "weight_distribution_pct": "58/42"
-        },
-        "2014": {
-          "hood_length_cm": 107,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 84,
-          "max_width_cm": 102,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 410,
-          "overall_width_cm": 179,
-          "overall_height_cm": 156,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1370,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "COOPER S CLUBMAN 3DR HATCH FWD": {
       "years": [
         2013,
         2014
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 99,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 96,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 396,
-          "overall_width_cm": 168,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1295,
-          "weight_distribution_pct": "59/41"
-        },
-        "2014": {
-          "hood_length_cm": 99,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 96,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 396,
-          "overall_width_cm": 168,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1305,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "COOPER S COUNTRYMAN 4 DR SUV": {
       "years": [
         2013
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 84,
-          "max_width_cm": 102,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 410,
-          "overall_width_cm": 179,
-          "overall_height_cm": 156,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1385,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "COOPER S COUNTRYMAN 4 DR SUV BASE/S": {
       "years": [
         2013
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 84,
-          "max_width_cm": 102,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 410,
-          "overall_width_cm": 179,
-          "overall_height_cm": 156,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1500,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "COOPER S ALL4 COUNTRYMAN 4 DR SUV AWD": {
       "years": [
         2014
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 84,
-          "max_width_cm": 102,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 410,
-          "overall_width_cm": 179,
-          "overall_height_cm": 156,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1475,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     }
   },
   "Cooper S": {
@@ -1310,231 +178,7 @@
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2002": "<default>",
-        "<default>": {
-          "hood_length_cm": 97,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 113,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 54,
-          "overall_length_cm": 366,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1225,
-          "weight_distribution_pct": "63/37"
-        },
-        "2003": {
-          "hood_length_cm": 97,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 113,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 54,
-          "overall_length_cm": 366,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1215,
-          "weight_distribution_pct": "61/39"
-        },
-        "2004": {
-          "hood_length_cm": 97,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 113,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 54,
-          "overall_length_cm": 366,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1215,
-          "weight_distribution_pct": "61/39"
-        },
-        "2005": {
-          "hood_length_cm": 97,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 113,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 54,
-          "overall_length_cm": 366,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1215,
-          "weight_distribution_pct": "61/39"
-        },
-        "2006": {
-          "hood_length_cm": 97,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": 38,
-          "door_height_cm": 75,
-          "max_width_cm": 113,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 54,
-          "overall_length_cm": 366,
-          "overall_width_cm": 169,
-          "overall_height_cm": 142,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1215,
-          "weight_distribution_pct": "61/39"
-        },
-        "2007": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 370,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1130,
-          "weight_distribution_pct": null
-        },
-        "2008": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 370,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "62/38"
-        },
-        "2009": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "62/38"
-        },
-        "2010": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "62/38"
-        },
-        "2011": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "62/38"
-        },
-        "2012": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "62/38"
-        },
-        "2013": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 144,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "62/38"
-        },
-        "2014": {
-          "hood_length_cm": 106,
-          "back_length_cm": 92,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 82,
-          "max_width_cm": 114,
-          "front_overhang_cm": 77,
-          "rear_overhang_cm": 59,
-          "overall_length_cm": 386,
-          "overall_width_cm": 173,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 250,
-          "front_track_width_cm": 149,
-          "rear_track_width_cm": 149,
-          "curb_weight_kg": 1286,
-          "weight_distribution_pct": "63/37"
-        }
-      }
+      ]
     },
     "COOPER S 2DR CONVERTIBLE FWD": {
       "years": [
@@ -1548,340 +192,42 @@
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2005": "<default>",
-        "<default>": {
-          "hood_length_cm": 95,
-          "back_length_cm": 87,
-          "side_glass_max_height_cm": 39,
-          "door_height_cm": 74,
-          "max_width_cm": 112,
-          "front_overhang_cm": 65,
-          "rear_overhang_cm": 56,
-          "overall_length_cm": 366,
-          "overall_width_cm": 169,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 245,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1290,
-          "weight_distribution_pct": "59/41"
-        },
-        "2006": "<default>",
-        "2007": "<default>",
-        "2008": "<default>",
-        "2009": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "59/41"
-        },
-        "2010": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "59/41"
-        },
-        "2011": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "59/41"
-        },
-        "2012": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "59/41"
-        },
-        "2013": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1210,
-          "weight_distribution_pct": "59/41"
-        },
-        "2014": {
-          "hood_length_cm": 99,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1295,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "COOPER S COUPE 2DR COUPE": {
       "years": [
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 39,
-          "side_glass_max_height_cm": 29,
-          "door_height_cm": 77,
-          "max_width_cm": 119,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1215,
-          "weight_distribution_pct": "62/38"
-        },
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": 105,
-          "back_length_cm": 39,
-          "side_glass_max_height_cm": 29,
-          "door_height_cm": 77,
-          "max_width_cm": 119,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1240,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     },
     "COOPER S ROADSTER": {
       "years": [
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": 77,
-          "max_width_cm": 121,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1245,
-          "weight_distribution_pct": null
-        },
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": 105,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 29,
-          "door_height_cm": 77,
-          "max_width_cm": 121,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1270,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     },
     "COOPER S CLUBMAN 3DR HATCH FWD": {
       "years": [
         2013,
         2014
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 99,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 96,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 396,
-          "overall_width_cm": 168,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1295,
-          "weight_distribution_pct": "59/41"
-        },
-        "2014": {
-          "hood_length_cm": 99,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 96,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 396,
-          "overall_width_cm": 168,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1305,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "COOPER S COUNTRYMAN 4 DR SUV": {
       "years": [
         2013
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 84,
-          "max_width_cm": 102,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 410,
-          "overall_width_cm": 179,
-          "overall_height_cm": 156,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1385,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "COOPER S COUNTRYMAN 4 DR SUV BASE/S": {
       "years": [
         2013
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 84,
-          "max_width_cm": 102,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 410,
-          "overall_width_cm": 179,
-          "overall_height_cm": 156,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1500,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "COOPER S ALL4 COUNTRYMAN 4 DR SUV AWD": {
       "years": [
         2014
-      ],
-      "details": {
-        "2014": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 84,
-          "max_width_cm": 102,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 410,
-          "overall_width_cm": 179,
-          "overall_height_cm": 156,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1475,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     }
   },
   "JCW Hardtop": {},
@@ -1889,155 +235,33 @@
     "COOPER CLUBMAN / COOPER CLUBMAN S 5DR HATCH F": {
       "years": [
         2008
-      ],
-      "details": {
-        "2008": "<default>",
-        "<default>": {
-          "hood_length_cm": 99,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 96,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 396,
-          "overall_width_cm": 168,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 2141,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "COOPER CLUBMAN 4DR HATCH FWD": {
       "years": [
         2009,
         2010,
         2011
-      ],
-      "details": {
-        "2009": "<default>",
-        "<default>": {
-          "hood_length_cm": 97,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 96,
-          "front_overhang_cm": 67,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 394,
-          "overall_width_cm": 168,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1235,
-          "weight_distribution_pct": "59/41"
-        },
-        "2010": "<default>",
-        "2011": "<default>"
-      }
+      ]
     },
     "COOPER CLUBMAN S 4DR HATCH FWD": {
       "years": [
         2009,
         2010,
         2011
-      ],
-      "details": {
-        "2009": "<default>",
-        "<default>": {
-          "hood_length_cm": 99,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 96,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 396,
-          "overall_width_cm": 168,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1295,
-          "weight_distribution_pct": "59/41"
-        },
-        "2010": "<default>",
-        "2011": "<default>"
-      }
+      ]
     },
     "COOPER CLUBMAN 3DR HATCH FWD": {
       "years": [
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 97,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 96,
-          "front_overhang_cm": 67,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 394,
-          "overall_width_cm": 168,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1235,
-          "weight_distribution_pct": "59/41"
-        },
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": 97,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 96,
-          "front_overhang_cm": 67,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 394,
-          "overall_width_cm": 168,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1265,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     },
     "COOPER CLUBMAN S 3DR HATCH FWD": {
       "years": [
         2012
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 99,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 96,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 396,
-          "overall_width_cm": 168,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1295,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     }
   },
   "Cooper S Clubman": {
@@ -2045,44 +269,7 @@
       "years": [
         2013,
         2014
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 99,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 96,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 396,
-          "overall_width_cm": 168,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1295,
-          "weight_distribution_pct": "59/41"
-        },
-        "2014": {
-          "hood_length_cm": 99,
-          "back_length_cm": 122,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 77,
-          "max_width_cm": 96,
-          "front_overhang_cm": 69,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 396,
-          "overall_width_cm": 168,
-          "overall_height_cm": 143,
-          "wheelbase_cm": 255,
-          "front_track_width_cm": 144,
-          "rear_track_width_cm": 145,
-          "curb_weight_kg": 1305,
-          "weight_distribution_pct": "59/41"
-        }
-      }
+      ]
     }
   },
   "JCW Clubman": {},
@@ -2091,44 +278,7 @@
       "years": [
         2013,
         2014
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 97,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 67,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 370,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1225,
-          "weight_distribution_pct": "61/39"
-        },
-        "2014": {
-          "hood_length_cm": 97,
-          "back_length_cm": 81,
-          "side_glass_max_height_cm": 35,
-          "door_height_cm": 77,
-          "max_width_cm": 110,
-          "front_overhang_cm": 67,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 371,
-          "overall_width_cm": 168,
-          "overall_height_cm": 141,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1260,
-          "weight_distribution_pct": "61/39"
-        }
-      }
+      ]
     }
   },
   "Cooper S Convertible": {},
@@ -2139,96 +289,19 @@
       "years": [
         2013,
         2014
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 84,
-          "max_width_cm": 102,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 410,
-          "overall_width_cm": 179,
-          "overall_height_cm": 156,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1340,
-          "weight_distribution_pct": "58/42"
-        },
-        "2014": {
-          "hood_length_cm": 107,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 84,
-          "max_width_cm": 102,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 410,
-          "overall_width_cm": 179,
-          "overall_height_cm": 156,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1370,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     }
   },
   "Cooper S Countryman": {
     "COOPER S COUNTRYMAN 4 DR SUV": {
       "years": [
         2013
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 84,
-          "max_width_cm": 102,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 410,
-          "overall_width_cm": 179,
-          "overall_height_cm": 156,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1385,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     },
     "COOPER S COUNTRYMAN 4 DR SUV BASE/S": {
       "years": [
         2013
-      ],
-      "details": {
-        "2013": "<default>",
-        "<default>": {
-          "hood_length_cm": 107,
-          "back_length_cm": 135,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 84,
-          "max_width_cm": 102,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 74,
-          "overall_length_cm": 410,
-          "overall_width_cm": 179,
-          "overall_height_cm": 156,
-          "wheelbase_cm": 260,
-          "front_track_width_cm": 153,
-          "rear_track_width_cm": 156,
-          "curb_weight_kg": 1500,
-          "weight_distribution_pct": "58/42"
-        }
-      }
+      ]
     }
   },
   "Cooper S Countryman All4": {},
@@ -2239,45 +312,7 @@
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 39,
-          "side_glass_max_height_cm": 29,
-          "door_height_cm": 77,
-          "max_width_cm": 119,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1160,
-          "weight_distribution_pct": "62/38"
-        },
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": 105,
-          "back_length_cm": 39,
-          "side_glass_max_height_cm": 29,
-          "door_height_cm": 77,
-          "max_width_cm": 119,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1195,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     }
   },
   "Cooper S Coupe": {
@@ -2286,45 +321,7 @@
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 39,
-          "side_glass_max_height_cm": 29,
-          "door_height_cm": 77,
-          "max_width_cm": 119,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1215,
-          "weight_distribution_pct": "62/38"
-        },
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": 105,
-          "back_length_cm": 39,
-          "side_glass_max_height_cm": 29,
-          "door_height_cm": 77,
-          "max_width_cm": 119,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 138,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 146,
-          "rear_track_width_cm": 147,
-          "curb_weight_kg": 1240,
-          "weight_distribution_pct": "62/38"
-        }
-      }
+      ]
     }
   },
   "JCW Coupe": {},
@@ -2334,45 +331,7 @@
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": 77,
-          "max_width_cm": 121,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1195,
-          "weight_distribution_pct": null
-        },
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": 105,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 29,
-          "door_height_cm": 77,
-          "max_width_cm": 121,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1230,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     }
   },
   "Cooper S Roadster": {
@@ -2381,45 +340,7 @@
         2012,
         2013,
         2014
-      ],
-      "details": {
-        "2012": "<default>",
-        "<default>": {
-          "hood_length_cm": 105,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": 77,
-          "max_width_cm": 121,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1245,
-          "weight_distribution_pct": null
-        },
-        "2013": "<default>",
-        "2014": {
-          "hood_length_cm": 105,
-          "back_length_cm": 66,
-          "side_glass_max_height_cm": 29,
-          "door_height_cm": 77,
-          "max_width_cm": 121,
-          "front_overhang_cm": 70,
-          "rear_overhang_cm": 57,
-          "overall_length_cm": 373,
-          "overall_width_cm": 168,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 247,
-          "front_track_width_cm": 145,
-          "rear_track_width_cm": 146,
-          "curb_weight_kg": 1270,
-          "weight_distribution_pct": "60/40"
-        }
-      }
+      ]
     }
   },
   "Cooper S Paceman": {},

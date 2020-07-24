@@ -3,406 +3,86 @@
     "210 HATCHBACK 1.5L": {
       "years": [
         1981
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 129,
-          "back_length_cm": 47,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 114,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 419,
-          "overall_width_cm": 158,
-          "overall_height_cm": 133,
-          "wheelbase_cm": 234,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 915,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "210 SEDAN 1.2L": {
       "years": [
         1981
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 127,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 115,
-          "front_overhang_cm": 78,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 419,
-          "overall_width_cm": 158,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 234,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 865,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "210 WAGON": {
       "years": [
         1981
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 129,
-          "back_length_cm": 187,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 116,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 112,
-          "overall_length_cm": 426,
-          "overall_width_cm": 158,
-          "overall_height_cm": 133,
-          "wheelbase_cm": 234,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 940,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "210 DELUXE 4 DR SD": {
       "years": [
         1982
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 129,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 114,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 419,
-          "overall_width_cm": 158,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 234,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 900,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "210 MPG 2 DR SD": {
       "years": [
         1982
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 129,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 114,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 419,
-          "overall_width_cm": 158,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 234,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 880,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "210 SL 2 DR HB": {
       "years": [
         1982
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 129,
-          "back_length_cm": 47,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 114,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 105,
-          "overall_length_cm": 419,
-          "overall_width_cm": 158,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 234,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 915,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "210 SL 5 DR WAGON": {
       "years": [
         1982
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 129,
-          "back_length_cm": 187,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 116,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 112,
-          "overall_length_cm": 426,
-          "overall_width_cm": 158,
-          "overall_height_cm": 134,
-          "wheelbase_cm": 234,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 945,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "210 SUNNY 2 DR": {
       "years": [
         1982
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 129,
-          "back_length_cm": 65,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 70,
-          "max_width_cm": 114,
-          "front_overhang_cm": 76,
-          "rear_overhang_cm": 107,
-          "overall_length_cm": 419,
-          "overall_width_cm": 158,
-          "overall_height_cm": 137,
-          "wheelbase_cm": 234,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 875,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "310": {
     "310 2 DR SD": {
       "years": [
         1981
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 35,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 70,
-          "max_width_cm": 113,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 87,
-          "overall_length_cm": 430,
-          "overall_width_cm": 162,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 240,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 901,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "310 4 DR HATCHBACK": {
       "years": [
         1981
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 35,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 70,
-          "max_width_cm": 113,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 87,
-          "overall_length_cm": 430,
-          "overall_width_cm": 162,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 240,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 915,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "310 BX HB 2 DR": {
       "years": [
         1982
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 35,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 70,
-          "max_width_cm": 113,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 87,
-          "overall_length_cm": 408,
-          "overall_width_cm": 162,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 240,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 865,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "310 GX HB 4 DR": {
       "years": [
         1982
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 35,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 70,
-          "max_width_cm": 113,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 87,
-          "overall_length_cm": 408,
-          "overall_width_cm": 162,
-          "overall_height_cm": 136,
-          "wheelbase_cm": 240,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 880,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "310 GX SPT. 2 DR": {
       "years": [
         1982
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 128,
-          "back_length_cm": 25,
-          "side_glass_max_height_cm": 33,
-          "door_height_cm": 70,
-          "max_width_cm": 113,
-          "front_overhang_cm": 82,
-          "rear_overhang_cm": 87,
-          "overall_length_cm": 408,
-          "overall_width_cm": 162,
-          "overall_height_cm": 132,
-          "wheelbase_cm": 240,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 885,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "510": {
     "510 2 DR SD": {
       "years": [
         1981
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": null,
-          "back_length_cm": null,
-          "side_glass_max_height_cm": null,
-          "door_height_cm": null,
-          "max_width_cm": null,
-          "front_overhang_cm": null,
-          "rear_overhang_cm": null,
-          "overall_length_cm": 431,
-          "overall_width_cm": 160,
-          "overall_height_cm": 139,
-          "wheelbase_cm": 240,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 997,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "510 4 DR HATCHBACK": {
       "years": [
         1981
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 129,
-          "back_length_cm": 43,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 71,
-          "max_width_cm": 118,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 431,
-          "overall_width_cm": 160,
-          "overall_height_cm": 131,
-          "wheelbase_cm": 240,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1035,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "510 WAGON": {
       "years": [
         1981
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 132,
-          "back_length_cm": 192,
-          "side_glass_max_height_cm": 36,
-          "door_height_cm": 71,
-          "max_width_cm": 118,
-          "front_overhang_cm": 83,
-          "rear_overhang_cm": 114,
-          "overall_length_cm": 438,
-          "overall_width_cm": 160,
-          "overall_height_cm": 140,
-          "wheelbase_cm": 240,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1085,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "200SX": {
@@ -410,121 +90,24 @@
       "years": [
         1981,
         1982
-      ],
-      "details": {
-        "1981": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 71,
-          "max_width_cm": 115,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 448,
-          "overall_width_cm": 168,
-          "overall_height_cm": 131,
-          "wheelbase_cm": 240,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1197,
-          "weight_distribution_pct": null
-        },
-        "1982": {
-          "hood_length_cm": 137,
-          "back_length_cm": 50,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 71,
-          "max_width_cm": 115,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 448,
-          "overall_width_cm": 168,
-          "overall_height_cm": 131,
-          "wheelbase_cm": 240,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1216,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "200SX 2 DR HD TOP": {
       "years": [
         1982
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 137,
-          "back_length_cm": 76,
-          "side_glass_max_height_cm": 37,
-          "door_height_cm": 71,
-          "max_width_cm": 115,
-          "front_overhang_cm": 98,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 448,
-          "overall_width_cm": 168,
-          "overall_height_cm": 131,
-          "wheelbase_cm": 240,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1201,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "280ZX": {
     "280ZX": {
       "years": [
         1982
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 167,
-          "back_length_cm": 34,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 69,
-          "max_width_cm": 118,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 442,
-          "overall_width_cm": 169,
-          "overall_height_cm": 130,
-          "wheelbase_cm": 232,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1255,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     },
     "280ZX 2+2": {
       "years": [
         1982
-      ],
-      "details": {
-        "1982": "<default>",
-        "<default>": {
-          "hood_length_cm": 167,
-          "back_length_cm": 34,
-          "side_glass_max_height_cm": 32,
-          "door_height_cm": 69,
-          "max_width_cm": 118,
-          "front_overhang_cm": 97,
-          "rear_overhang_cm": 109,
-          "overall_length_cm": 462,
-          "overall_width_cm": 169,
-          "overall_height_cm": 130,
-          "wheelbase_cm": 252,
-          "front_track_width_cm": null,
-          "rear_track_width_cm": null,
-          "curb_weight_kg": 1340,
-          "weight_distribution_pct": null
-        }
-      }
+      ]
     }
   },
   "Honeybee": {}
