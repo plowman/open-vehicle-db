@@ -332,18 +332,12 @@ def update_styles():
             if model_style_name not in model["model_styles"]:
               model["model_styles"][model_style_name] = {
                 "years": [year],
-                "details": {
-                  "<default>": detail,
-                  year: "<default>",
-                }
+                "details": detail,
               }
             else:
               model_style_details = model["model_styles"][model_style_name]
               model_style_details["years"].append(year)
-              if detail == model_style_details["details"]["<default>"]:
-                model_style_details["details"][year] = "<default>"
-              else:
-                model_style_details["details"][year] = detail
+              model_style_details["details"][year] = detail
 
     style_data = {}
     for model in make["models"]:
@@ -364,6 +358,8 @@ def update_everything():
 
 def main(args):
   print(f"Running update_car_data with args: {args}")
+  update_styles()
+
 
 if __name__ == "__main__":
   main(sys.argv[1:])
