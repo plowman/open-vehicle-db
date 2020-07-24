@@ -17,7 +17,7 @@ jobs:
     - name: Install python3
       run: sudo apt-get install python3
     - name: Check python version
-      run: python -version
+      run: python --version
     - name: Run the script
       run: python ./scripts/update_car_data.py
 
