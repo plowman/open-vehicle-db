@@ -1,0 +1,441 @@
+{
+  "LANOS": {
+    "LANOS 2DR HATCHBACK S/SX": {
+      "years": [
+        1999,
+        2000
+      ],
+      "details": {
+        "1999": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 73,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 74,
+          "max_width_cm": 108,
+          "front_overhang_cm": 84,
+          "rear_overhang_cm": 72,
+          "overall_length_cm": 407,
+          "overall_width_cm": 168,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 252,
+          "front_track_width_cm": 140,
+          "rear_track_width_cm": 142,
+          "curb_weight_kg": 1110,
+          "weight_distribution_pct": "64/36"
+        },
+        "2000": "<default>"
+      }
+    },
+    "LANOS 4DR SEDAN SX": {
+      "years": [
+        1999
+      ],
+      "details": {
+        "1999": "<default>",
+        "<default>": {
+          "hood_length_cm": 119,
+          "back_length_cm": 48,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 73,
+          "max_width_cm": 107,
+          "front_overhang_cm": 84,
+          "rear_overhang_cm": 87,
+          "overall_length_cm": 424,
+          "overall_width_cm": 168,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 252,
+          "front_track_width_cm": 140,
+          "rear_track_width_cm": 142,
+          "curb_weight_kg": 1144,
+          "weight_distribution_pct": "64/36"
+        }
+      }
+    },
+    "LANOS 4DR SEDAN S": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ],
+      "details": {
+        "2000": "<default>",
+        "<default>": {
+          "hood_length_cm": 119,
+          "back_length_cm": 48,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 73,
+          "max_width_cm": 107,
+          "front_overhang_cm": 84,
+          "rear_overhang_cm": 87,
+          "overall_length_cm": 424,
+          "overall_width_cm": 168,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 252,
+          "front_track_width_cm": 140,
+          "rear_track_width_cm": 142,
+          "curb_weight_kg": 1144,
+          "weight_distribution_pct": "64/36"
+        },
+        "2001": {
+          "hood_length_cm": 119,
+          "back_length_cm": 48,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 73,
+          "max_width_cm": 107,
+          "front_overhang_cm": 84,
+          "rear_overhang_cm": 87,
+          "overall_length_cm": 424,
+          "overall_width_cm": 168,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 252,
+          "front_track_width_cm": 141,
+          "rear_track_width_cm": 143,
+          "curb_weight_kg": 1144,
+          "weight_distribution_pct": "64/36"
+        },
+        "2002": {
+          "hood_length_cm": 119,
+          "back_length_cm": 48,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 73,
+          "max_width_cm": 107,
+          "front_overhang_cm": 84,
+          "rear_overhang_cm": 87,
+          "overall_length_cm": 424,
+          "overall_width_cm": 168,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 252,
+          "front_track_width_cm": 141,
+          "rear_track_width_cm": 143,
+          "curb_weight_kg": 1144,
+          "weight_distribution_pct": "64/36"
+        }
+      }
+    },
+    "LANOS 2DR HATCHBACK S": {
+      "years": [
+        2001,
+        2002
+      ],
+      "details": {
+        "2001": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 73,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 74,
+          "max_width_cm": 108,
+          "front_overhang_cm": 84,
+          "rear_overhang_cm": 72,
+          "overall_length_cm": 407,
+          "overall_width_cm": 168,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 252,
+          "front_track_width_cm": 141,
+          "rear_track_width_cm": 143,
+          "curb_weight_kg": 1110,
+          "weight_distribution_pct": "64/36"
+        },
+        "2002": {
+          "hood_length_cm": 120,
+          "back_length_cm": 73,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 74,
+          "max_width_cm": 108,
+          "front_overhang_cm": 84,
+          "rear_overhang_cm": 72,
+          "overall_length_cm": 407,
+          "overall_width_cm": 168,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 252,
+          "front_track_width_cm": 141,
+          "rear_track_width_cm": 143,
+          "curb_weight_kg": 1068,
+          "weight_distribution_pct": "64/36"
+        }
+      }
+    }
+  },
+  "NUBIRA": {
+    "NUBIRA 4DR SEDAN SX/CDX": {
+      "years": [
+        1999,
+        2000
+      ],
+      "details": {
+        "1999": "<default>",
+        "<default>": {
+          "hood_length_cm": 115,
+          "back_length_cm": 52,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 73,
+          "max_width_cm": 110,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 101,
+          "overall_length_cm": 447,
+          "overall_width_cm": 170,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 257,
+          "front_track_width_cm": 146,
+          "rear_track_width_cm": 145,
+          "curb_weight_kg": 1164,
+          "weight_distribution_pct": "62/38"
+        },
+        "2000": {
+          "hood_length_cm": 118,
+          "back_length_cm": 52,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 73,
+          "max_width_cm": 111,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 101,
+          "overall_length_cm": 450,
+          "overall_width_cm": 170,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 257,
+          "front_track_width_cm": 146,
+          "rear_track_width_cm": 145,
+          "curb_weight_kg": 1242,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "NUBIRA 4DR WAGON SX/CDX": {
+      "years": [
+        1999,
+        2000
+      ],
+      "details": {
+        "1999": "<default>",
+        "<default>": {
+          "hood_length_cm": 117,
+          "back_length_cm": 205,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 72,
+          "max_width_cm": 110,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 451,
+          "overall_width_cm": 170,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 257,
+          "front_track_width_cm": 146,
+          "rear_track_width_cm": 145,
+          "curb_weight_kg": 1222,
+          "weight_distribution_pct": null
+        },
+        "2000": {
+          "hood_length_cm": 118,
+          "back_length_cm": 206,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 73,
+          "max_width_cm": 111,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 106,
+          "overall_length_cm": 455,
+          "overall_width_cm": 172,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 257,
+          "front_track_width_cm": 146,
+          "rear_track_width_cm": 145,
+          "curb_weight_kg": 1272,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "NUBIRA 4DR SEDAN SX": {
+      "years": [
+        2001
+      ],
+      "details": {
+        "2001": "<default>",
+        "<default>": {
+          "hood_length_cm": 118,
+          "back_length_cm": 52,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 73,
+          "max_width_cm": 111,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 101,
+          "overall_length_cm": 450,
+          "overall_width_cm": 170,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 257,
+          "front_track_width_cm": 146,
+          "rear_track_width_cm": 145,
+          "curb_weight_kg": 1242,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "NUBIRA 4DR WAGON SX": {
+      "years": [
+        2001,
+        2002
+      ],
+      "details": {
+        "2001": "<default>",
+        "<default>": {
+          "hood_length_cm": 118,
+          "back_length_cm": 206,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 73,
+          "max_width_cm": 111,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 106,
+          "overall_length_cm": 455,
+          "overall_width_cm": 172,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 257,
+          "front_track_width_cm": 146,
+          "rear_track_width_cm": 145,
+          "curb_weight_kg": 1272,
+          "weight_distribution_pct": null
+        },
+        "2002": {
+          "hood_length_cm": 118,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 73,
+          "max_width_cm": 111,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 106,
+          "overall_length_cm": 455,
+          "overall_width_cm": 172,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 257,
+          "front_track_width_cm": 146,
+          "rear_track_width_cm": 145,
+          "curb_weight_kg": 1311,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "NUBIRA 4DR SEDAN SE/SX": {
+      "years": [
+        2002
+      ],
+      "details": {
+        "2002": "<default>",
+        "<default>": {
+          "hood_length_cm": 118,
+          "back_length_cm": 52,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 73,
+          "max_width_cm": 111,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 101,
+          "overall_length_cm": 450,
+          "overall_width_cm": 170,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 257,
+          "front_track_width_cm": 146,
+          "rear_track_width_cm": 145,
+          "curb_weight_kg": 1271,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    }
+  },
+  "LEGANZA": {
+    "LEGANZA 4DR SEDAN SX/CDX": {
+      "years": [
+        1999,
+        2000,
+        2001
+      ],
+      "details": {
+        "1999": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 54,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 74,
+          "max_width_cm": 116,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 467,
+          "overall_width_cm": 178,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 151,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1415,
+          "weight_distribution_pct": "60/40"
+        },
+        "2000": "<default>",
+        "2001": {
+          "hood_length_cm": 122,
+          "back_length_cm": 54,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 74,
+          "max_width_cm": 116,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 467,
+          "overall_width_cm": 178,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1415,
+          "weight_distribution_pct": "60/40"
+        }
+      }
+    },
+    "LEGANZA 4DR SEDAN CDX": {
+      "years": [
+        2002
+      ],
+      "details": {
+        "2002": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 54,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 74,
+          "max_width_cm": 116,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 467,
+          "overall_width_cm": 178,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1362,
+          "weight_distribution_pct": "60/40"
+        }
+      }
+    },
+    "LEGANZA 4DR SEDAN SX": {
+      "years": [
+        2002
+      ],
+      "details": {
+        "2002": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 54,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 74,
+          "max_width_cm": 116,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 467,
+          "overall_width_cm": 178,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1407,
+          "weight_distribution_pct": "60/40"
+        }
+      }
+    }
+  },
+  "Laganza V-car": {},
+  "Leganza V-200 & variants/derivatives": {},
+  "G2X": {}
+}

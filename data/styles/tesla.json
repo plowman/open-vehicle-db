@@ -1,0 +1,538 @@
+{
+  "Model S": {
+    "MODEL S": {
+      "years": [
+        2013
+      ],
+      "details": {
+        "2013": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 39,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 84,
+          "max_width_cm": 123,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 497,
+          "overall_width_cm": 196,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 296,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2155,
+          "weight_distribution_pct": "47/53"
+        }
+      }
+    },
+    "MODEL S 4DR SEDAN": {
+      "years": [
+        2014
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 39,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 84,
+          "max_width_cm": 123,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 497,
+          "overall_width_cm": 196,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 296,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2108,
+          "weight_distribution_pct": "47/53"
+        }
+      }
+    },
+    "MODEL S 60 4DR SEDAN RWD": {
+      "years": [
+        2015
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 39,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 84,
+          "max_width_cm": 123,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 497,
+          "overall_width_cm": 196,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 296,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2005,
+          "weight_distribution_pct": "47/53"
+        }
+      }
+    },
+    "MODEL S 60D 4DR SEDAN AWD": {
+      "years": [
+        2015
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 39,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 84,
+          "max_width_cm": 123,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 497,
+          "overall_width_cm": 196,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 296,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2085,
+          "weight_distribution_pct": "48/52"
+        }
+      }
+    },
+    "MODEL S 85 4DR SEDAN RWD": {
+      "years": [
+        2015
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 39,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 84,
+          "max_width_cm": 123,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 497,
+          "overall_width_cm": 196,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 296,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2108,
+          "weight_distribution_pct": "47/53"
+        }
+      }
+    },
+    "MODEL S 85D 4DR SEDAN AWD": {
+      "years": [
+        2015
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 39,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 84,
+          "max_width_cm": 123,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 497,
+          "overall_width_cm": 196,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 296,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2188,
+          "weight_distribution_pct": "48/52"
+        }
+      }
+    },
+    "MODEL S P85D 4DR SEDAN AWD": {
+      "years": [
+        2015
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 39,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 84,
+          "max_width_cm": 123,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 497,
+          "overall_width_cm": 196,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 296,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2239,
+          "weight_distribution_pct": "50/50"
+        }
+      }
+    },
+    "MODEL S 70 4DR SEDAN RWD": {
+      "years": [
+        2016
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 39,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 84,
+          "max_width_cm": 123,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 497,
+          "overall_width_cm": 196,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 296,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2005,
+          "weight_distribution_pct": "47/53"
+        }
+      }
+    },
+    "MODEL S 70D 4DR SEDAN AWD": {
+      "years": [
+        2016
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 39,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 84,
+          "max_width_cm": 123,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 497,
+          "overall_width_cm": 196,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 296,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2085,
+          "weight_distribution_pct": "48/52"
+        }
+      }
+    },
+    "MODEL S 90D 4DR SEDAN AWD": {
+      "years": [
+        2016
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 39,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 84,
+          "max_width_cm": 123,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 497,
+          "overall_width_cm": 196,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 296,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2188,
+          "weight_distribution_pct": "48/52"
+        }
+      }
+    },
+    "MODEL S P90D 4DR SEDAN AWD": {
+      "years": [
+        2016
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 39,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 84,
+          "max_width_cm": 123,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 497,
+          "overall_width_cm": 196,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 296,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2239,
+          "weight_distribution_pct": "50/50"
+        }
+      }
+    },
+    "MODEL S 4DR SEDAN AWD": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 39,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 84,
+          "max_width_cm": 123,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 497,
+          "overall_width_cm": 196,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 296,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2254,
+          "weight_distribution_pct": "51/49"
+        },
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    },
+    "MODEL S 4DR SEDAN RWD": {
+      "years": [
+        2017,
+        2018
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 39,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 84,
+          "max_width_cm": 123,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 497,
+          "overall_width_cm": 196,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 296,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2112,
+          "weight_distribution_pct": "47/53"
+        },
+        "2018": "<default>"
+      }
+    }
+  },
+  "Roadster": {},
+  "Model X": {
+    "MODEL X": {
+      "years": [
+        2016
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 124,
+          "back_length_cm": 125,
+          "side_glass_max_height_cm": 44,
+          "door_height_cm": 97,
+          "max_width_cm": 131,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 109,
+          "overall_length_cm": 503,
+          "overall_width_cm": 201,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 297,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2390,
+          "weight_distribution_pct": "49/51"
+        }
+      }
+    },
+    "MODEL X 4DR SUV AWD": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 124,
+          "back_length_cm": 125,
+          "side_glass_max_height_cm": 44,
+          "door_height_cm": 97,
+          "max_width_cm": 131,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 109,
+          "overall_length_cm": 503,
+          "overall_width_cm": 201,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 297,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2390,
+          "weight_distribution_pct": "49/51"
+        },
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    }
+  },
+  "Model 3": {
+    "MODEL 3 4DR SEDAN LONG RANGE": {
+      "years": [
+        2018
+      ],
+      "details": {
+        "2018": "<default>",
+        "<default>": {
+          "hood_length_cm": 117,
+          "back_length_cm": 46,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 84,
+          "max_width_cm": 119,
+          "front_overhang_cm": 84,
+          "rear_overhang_cm": 98,
+          "overall_length_cm": 469,
+          "overall_width_cm": 185,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 288,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1730,
+          "weight_distribution_pct": "48/52"
+        }
+      }
+    },
+    "MODEL 3 4DR SEDAN STANDARD": {
+      "years": [
+        2018,
+        2019
+      ],
+      "details": {
+        "2018": "<default>",
+        "<default>": {
+          "hood_length_cm": 117,
+          "back_length_cm": 46,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 84,
+          "max_width_cm": 119,
+          "front_overhang_cm": 84,
+          "rear_overhang_cm": 98,
+          "overall_length_cm": 469,
+          "overall_width_cm": 185,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 288,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1610,
+          "weight_distribution_pct": "47/53"
+        },
+        "2019": {
+          "hood_length_cm": 117,
+          "back_length_cm": 46,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 84,
+          "max_width_cm": 119,
+          "front_overhang_cm": 84,
+          "rear_overhang_cm": 98,
+          "overall_length_cm": 469,
+          "overall_width_cm": 185,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 288,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1645,
+          "weight_distribution_pct": "47/53"
+        }
+      }
+    },
+    "MODEL 3 4DR SEDAN LONG RANGE AWD": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 117,
+          "back_length_cm": 46,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 84,
+          "max_width_cm": 119,
+          "front_overhang_cm": 84,
+          "rear_overhang_cm": 98,
+          "overall_length_cm": 469,
+          "overall_width_cm": 185,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 288,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1847,
+          "weight_distribution_pct": "48/52"
+        }
+      }
+    },
+    "MODEL 3 4DR SEDAN LONG RANGE RWD": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 117,
+          "back_length_cm": 46,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 84,
+          "max_width_cm": 119,
+          "front_overhang_cm": 84,
+          "rear_overhang_cm": 98,
+          "overall_length_cm": 469,
+          "overall_width_cm": 185,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 288,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1726,
+          "weight_distribution_pct": "48/52"
+        }
+      }
+    },
+    "MODEL 3 4DR SEDAN MID RANGE": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 117,
+          "back_length_cm": 46,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 84,
+          "max_width_cm": 119,
+          "front_overhang_cm": 84,
+          "rear_overhang_cm": 98,
+          "overall_length_cm": 469,
+          "overall_width_cm": 185,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 288,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1672,
+          "weight_distribution_pct": "48/52"
+        }
+      }
+    }
+  },
+  "Model Y": {}
+}

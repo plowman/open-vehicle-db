@@ -1,0 +1,414 @@
+{
+  "smart": {},
+  "Fortwo": {
+    "FORTWO CABRIOLET 2DR CONV /PURE/PULSE/PASSION": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ],
+      "details": {
+        "2005": "<default>",
+        "<default>": {
+          "hood_length_cm": 33,
+          "back_length_cm": 14,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 89,
+          "max_width_cm": 94,
+          "front_overhang_cm": 36,
+          "rear_overhang_cm": 33,
+          "overall_length_cm": 250,
+          "overall_width_cm": 154,
+          "overall_height_cm": 155,
+          "wheelbase_cm": 181,
+          "front_track_width_cm": 129,
+          "rear_track_width_cm": 133,
+          "curb_weight_kg": 740,
+          "weight_distribution_pct": null
+        },
+        "2006": "<default>",
+        "2007": "<default>"
+      }
+    },
+    "FORTWO COUPE 2DR HATCH /PURE/PULSE/PASSION": {
+      "years": [
+        2005,
+        2006
+      ],
+      "details": {
+        "2005": "<default>",
+        "<default>": {
+          "hood_length_cm": 33,
+          "back_length_cm": 14,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 89,
+          "max_width_cm": 94,
+          "front_overhang_cm": 36,
+          "rear_overhang_cm": 33,
+          "overall_length_cm": 250,
+          "overall_width_cm": 152,
+          "overall_height_cm": 155,
+          "wheelbase_cm": 181,
+          "front_track_width_cm": 129,
+          "rear_track_width_cm": 133,
+          "curb_weight_kg": 730,
+          "weight_distribution_pct": null
+        },
+        "2006": "<default>"
+      }
+    },
+    "FORTWO 2DR HATCH /PURE/PULSE/PASSION": {
+      "years": [
+        2007
+      ],
+      "details": {
+        "2007": "<default>",
+        "<default>": {
+          "hood_length_cm": 33,
+          "back_length_cm": 14,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 89,
+          "max_width_cm": 94,
+          "front_overhang_cm": 36,
+          "rear_overhang_cm": 33,
+          "overall_length_cm": 250,
+          "overall_width_cm": 152,
+          "overall_height_cm": 155,
+          "wheelbase_cm": 181,
+          "front_track_width_cm": 129,
+          "rear_track_width_cm": 133,
+          "curb_weight_kg": 730,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "FORTWO PASSION 2DR CONV RWD": {
+      "years": [
+        2008,
+        2009,
+        2015
+      ],
+      "details": {
+        "2008": "<default>",
+        "<default>": {
+          "hood_length_cm": 38,
+          "back_length_cm": 65,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 89,
+          "max_width_cm": 98,
+          "front_overhang_cm": 44,
+          "rear_overhang_cm": 39,
+          "overall_length_cm": 270,
+          "overall_width_cm": 156,
+          "overall_height_cm": 154,
+          "wheelbase_cm": 187,
+          "front_track_width_cm": 128,
+          "rear_track_width_cm": 136,
+          "curb_weight_kg": 840,
+          "weight_distribution_pct": "43/57"
+        },
+        "2009": {
+          "hood_length_cm": 38,
+          "back_length_cm": 14,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 89,
+          "max_width_cm": 98,
+          "front_overhang_cm": 44,
+          "rear_overhang_cm": 39,
+          "overall_length_cm": 270,
+          "overall_width_cm": 156,
+          "overall_height_cm": 154,
+          "wheelbase_cm": 187,
+          "front_track_width_cm": 128,
+          "rear_track_width_cm": 136,
+          "curb_weight_kg": 840,
+          "weight_distribution_pct": "43/57"
+        },
+        "2015": {
+          "hood_length_cm": 38,
+          "back_length_cm": 14,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 89,
+          "max_width_cm": 98,
+          "front_overhang_cm": 44,
+          "rear_overhang_cm": 39,
+          "overall_length_cm": 270,
+          "overall_width_cm": 156,
+          "overall_height_cm": 154,
+          "wheelbase_cm": 187,
+          "front_track_width_cm": 128,
+          "rear_track_width_cm": 139,
+          "curb_weight_kg": 840,
+          "weight_distribution_pct": "43/57"
+        }
+      }
+    },
+    "FORTWO PURE/PASSION 2DR COUPE RWD": {
+      "years": [
+        2008,
+        2009,
+        2015
+      ],
+      "details": {
+        "2008": "<default>",
+        "<default>": {
+          "hood_length_cm": 38,
+          "back_length_cm": 65,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 89,
+          "max_width_cm": 98,
+          "front_overhang_cm": 44,
+          "rear_overhang_cm": 39,
+          "overall_length_cm": 270,
+          "overall_width_cm": 156,
+          "overall_height_cm": 154,
+          "wheelbase_cm": 187,
+          "front_track_width_cm": 128,
+          "rear_track_width_cm": 136,
+          "curb_weight_kg": 820,
+          "weight_distribution_pct": "43/57"
+        },
+        "2009": {
+          "hood_length_cm": 38,
+          "back_length_cm": 14,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 89,
+          "max_width_cm": 98,
+          "front_overhang_cm": 44,
+          "rear_overhang_cm": 39,
+          "overall_length_cm": 270,
+          "overall_width_cm": 156,
+          "overall_height_cm": 154,
+          "wheelbase_cm": 187,
+          "front_track_width_cm": 128,
+          "rear_track_width_cm": 136,
+          "curb_weight_kg": 820,
+          "weight_distribution_pct": "43/57"
+        },
+        "2015": {
+          "hood_length_cm": 38,
+          "back_length_cm": 14,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 89,
+          "max_width_cm": 98,
+          "front_overhang_cm": 44,
+          "rear_overhang_cm": 39,
+          "overall_length_cm": 270,
+          "overall_width_cm": 156,
+          "overall_height_cm": 154,
+          "wheelbase_cm": 187,
+          "front_track_width_cm": 128,
+          "rear_track_width_cm": 139,
+          "curb_weight_kg": 820,
+          "weight_distribution_pct": "43/57"
+        }
+      }
+    },
+    "FORTWO PASSION/BRABUS 2DR CONV RWD": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ],
+      "details": {
+        "2010": "<default>",
+        "<default>": {
+          "hood_length_cm": 38,
+          "back_length_cm": 14,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 89,
+          "max_width_cm": 98,
+          "front_overhang_cm": 44,
+          "rear_overhang_cm": 39,
+          "overall_length_cm": 270,
+          "overall_width_cm": 156,
+          "overall_height_cm": 154,
+          "wheelbase_cm": 187,
+          "front_track_width_cm": 128,
+          "rear_track_width_cm": 136,
+          "curb_weight_kg": 840,
+          "weight_distribution_pct": "43/57"
+        },
+        "2011": "<default>",
+        "2012": {
+          "hood_length_cm": 38,
+          "back_length_cm": 14,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 89,
+          "max_width_cm": 98,
+          "front_overhang_cm": 44,
+          "rear_overhang_cm": 39,
+          "overall_length_cm": 270,
+          "overall_width_cm": 156,
+          "overall_height_cm": 154,
+          "wheelbase_cm": 187,
+          "front_track_width_cm": 128,
+          "rear_track_width_cm": 136,
+          "curb_weight_kg": 790,
+          "weight_distribution_pct": "43/57"
+        },
+        "2013": {
+          "hood_length_cm": 38,
+          "back_length_cm": 14,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 89,
+          "max_width_cm": 98,
+          "front_overhang_cm": 44,
+          "rear_overhang_cm": 39,
+          "overall_length_cm": 270,
+          "overall_width_cm": 156,
+          "overall_height_cm": 154,
+          "wheelbase_cm": 187,
+          "front_track_width_cm": 128,
+          "rear_track_width_cm": 136,
+          "curb_weight_kg": 790,
+          "weight_distribution_pct": "43/57"
+        },
+        "2014": "<default>"
+      }
+    },
+    "FORTWO PURE/PASSION/BRABUS 2DR COUPE RWD": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ],
+      "details": {
+        "2010": "<default>",
+        "<default>": {
+          "hood_length_cm": 38,
+          "back_length_cm": 14,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 89,
+          "max_width_cm": 98,
+          "front_overhang_cm": 44,
+          "rear_overhang_cm": 39,
+          "overall_length_cm": 270,
+          "overall_width_cm": 156,
+          "overall_height_cm": 154,
+          "wheelbase_cm": 187,
+          "front_track_width_cm": 128,
+          "rear_track_width_cm": 136,
+          "curb_weight_kg": 820,
+          "weight_distribution_pct": "43/57"
+        },
+        "2011": "<default>",
+        "2012": {
+          "hood_length_cm": 38,
+          "back_length_cm": 14,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 89,
+          "max_width_cm": 98,
+          "front_overhang_cm": 44,
+          "rear_overhang_cm": 39,
+          "overall_length_cm": 270,
+          "overall_width_cm": 156,
+          "overall_height_cm": 154,
+          "wheelbase_cm": 187,
+          "front_track_width_cm": 128,
+          "rear_track_width_cm": 136,
+          "curb_weight_kg": 750,
+          "weight_distribution_pct": "43/57"
+        },
+        "2013": {
+          "hood_length_cm": 38,
+          "back_length_cm": 14,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 89,
+          "max_width_cm": 98,
+          "front_overhang_cm": 44,
+          "rear_overhang_cm": 39,
+          "overall_length_cm": 270,
+          "overall_width_cm": 156,
+          "overall_height_cm": 154,
+          "wheelbase_cm": 187,
+          "front_track_width_cm": 128,
+          "rear_track_width_cm": 136,
+          "curb_weight_kg": 750,
+          "weight_distribution_pct": "43/57"
+        },
+        "2014": "<default>"
+      }
+    },
+    "FORTWO ED 2DR COUPE (electric) RWD": {
+      "years": [
+        2014,
+        2015
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 38,
+          "back_length_cm": 14,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 89,
+          "max_width_cm": 98,
+          "front_overhang_cm": 44,
+          "rear_overhang_cm": 39,
+          "overall_length_cm": 270,
+          "overall_width_cm": 156,
+          "overall_height_cm": 154,
+          "wheelbase_cm": 187,
+          "front_track_width_cm": 128,
+          "rear_track_width_cm": 136,
+          "curb_weight_kg": 920,
+          "weight_distribution_pct": "43/57"
+        },
+        "2015": {
+          "hood_length_cm": 38,
+          "back_length_cm": 14,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 89,
+          "max_width_cm": 98,
+          "front_overhang_cm": 44,
+          "rear_overhang_cm": 39,
+          "overall_length_cm": 270,
+          "overall_width_cm": 156,
+          "overall_height_cm": 154,
+          "wheelbase_cm": 187,
+          "front_track_width_cm": 128,
+          "rear_track_width_cm": 139,
+          "curb_weight_kg": 900,
+          "weight_distribution_pct": "43/57"
+        }
+      }
+    },
+    "FORTWO 2DR COUPE": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 51,
+          "back_length_cm": 40,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 89,
+          "max_width_cm": 101,
+          "front_overhang_cm": 42,
+          "rear_overhang_cm": 41,
+          "overall_length_cm": 270,
+          "overall_width_cm": 166,
+          "overall_height_cm": 156,
+          "wheelbase_cm": 187,
+          "front_track_width_cm": 144,
+          "rear_track_width_cm": 142,
+          "curb_weight_kg": 930,
+          "weight_distribution_pct": "45/55"
+        },
+        "2017": "<default>",
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    }
+  },
+  "EQ Fortwo": {},
+  "Fortwo Electric Drive": {}
+}

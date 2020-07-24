@@ -1,0 +1,4306 @@
+{
+  "QX50": {
+    "QX50 AWD JOURNEY 4DR CUV": {
+      "years": [
+        2014
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 128,
+          "back_length_cm": 137,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 85,
+          "max_width_cm": 105,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 463,
+          "overall_width_cm": 180,
+          "overall_height_cm": 159,
+          "wheelbase_cm": 280,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1822,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "QX50 AWD 4DR CUV": {
+      "years": [
+        2015
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 128,
+          "back_length_cm": 137,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 85,
+          "max_width_cm": 105,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 463,
+          "overall_width_cm": 180,
+          "overall_height_cm": 157,
+          "wheelbase_cm": 280,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1822,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "QX50 AWD 4DR SUV": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 141,
+          "back_length_cm": 141,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 89,
+          "max_width_cm": 95,
+          "front_overhang_cm": 91,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 474,
+          "overall_width_cm": 180,
+          "overall_height_cm": 161,
+          "wheelbase_cm": 288,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1827,
+          "weight_distribution_pct": "54/46"
+        },
+        "2017": "<default>",
+        "2018": "<default>"
+      }
+    },
+    "QX50 4DR SUV": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 124,
+          "back_length_cm": 160,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 88,
+          "max_width_cm": 111,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 470,
+          "overall_width_cm": 191,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 280,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 2513,
+          "weight_distribution_pct": "59/41"
+        }
+      }
+    }
+  },
+  "Q40": {},
+  "Q50": {
+    "Q50 3.7 PREMIUM/Q50S 3.7 AWD 4DR SEDAN": {
+      "years": [
+        2014
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 80,
+          "max_width_cm": 106,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 481,
+          "overall_width_cm": 181,
+          "overall_height_cm": 146,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1746,
+          "weight_distribution_pct": "57/43"
+        }
+      }
+    },
+    "Q50 3.7/Q50S 3.7 RWD 4DR SEDAN": {
+      "years": [
+        2014
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 80,
+          "max_width_cm": 106,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 481,
+          "overall_width_cm": 181,
+          "overall_height_cm": 146,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1667,
+          "weight_distribution_pct": "55/45"
+        }
+      }
+    },
+    "Q50 HYBRID AWD PREMIUM 4DR SEDAN": {
+      "years": [
+        2014
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 80,
+          "max_width_cm": 106,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 481,
+          "overall_width_cm": 181,
+          "overall_height_cm": 146,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1853,
+          "weight_distribution_pct": "55/45"
+        }
+      }
+    },
+    "Q50 HYBRID PREMIUM 4DR SEDAN": {
+      "years": [
+        2014
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 80,
+          "max_width_cm": 106,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 481,
+          "overall_width_cm": 181,
+          "overall_height_cm": 146,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1775,
+          "weight_distribution_pct": "53/47"
+        }
+      }
+    },
+    "Q50 4DR SEDAN AWD 3.7 AWD/3.7 SPORT AWD": {
+      "years": [
+        2015
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 80,
+          "max_width_cm": 106,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 480,
+          "overall_width_cm": 182,
+          "overall_height_cm": 146,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1718,
+          "weight_distribution_pct": "57/43"
+        }
+      }
+    },
+    "Q50 4DR SEDAN RWD 3.7/3.7 SPORT": {
+      "years": [
+        2015
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 80,
+          "max_width_cm": 106,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 480,
+          "overall_width_cm": 182,
+          "overall_height_cm": 146,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1638,
+          "weight_distribution_pct": "55/45"
+        }
+      }
+    },
+    "Q50 HYBRID AWD 4DR SEDAN": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 80,
+          "max_width_cm": 106,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 480,
+          "overall_width_cm": 182,
+          "overall_height_cm": 146,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1853,
+          "weight_distribution_pct": "55/45"
+        },
+        "2016": "<default>",
+        "2017": "<default>",
+        "2018": {
+          "hood_length_cm": 140,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 80,
+          "max_width_cm": 106,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 480,
+          "overall_width_cm": 182,
+          "overall_height_cm": 146,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1911,
+          "weight_distribution_pct": "55/45"
+        },
+        "2019": {
+          "hood_length_cm": 140,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 80,
+          "max_width_cm": 106,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 480,
+          "overall_width_cm": 182,
+          "overall_height_cm": 146,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1911,
+          "weight_distribution_pct": "55/45"
+        }
+      }
+    },
+    "Q50 4DR SEDAN AWD": {
+      "years": [
+        2016,
+        2017
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 80,
+          "max_width_cm": 106,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 480,
+          "overall_width_cm": 182,
+          "overall_height_cm": 146,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1718,
+          "weight_distribution_pct": "57/43"
+        },
+        "2017": "<default>"
+      }
+    },
+    "Q50 4DR SEDAN RWD": {
+      "years": [
+        2016,
+        2017
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 80,
+          "max_width_cm": 106,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 480,
+          "overall_width_cm": 182,
+          "overall_height_cm": 146,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1638,
+          "weight_distribution_pct": "55/45"
+        },
+        "2017": "<default>"
+      }
+    },
+    "Q50 4DR SEDAN 2.0 AWD": {
+      "years": [
+        2018,
+        2019
+      ],
+      "details": {
+        "2018": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 80,
+          "max_width_cm": 106,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 480,
+          "overall_width_cm": 182,
+          "overall_height_cm": 146,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1744,
+          "weight_distribution_pct": "55/45"
+        },
+        "2019": "<default>"
+      }
+    },
+    "Q50 4DR SEDAN 3.0 AWD": {
+      "years": [
+        2018,
+        2019
+      ],
+      "details": {
+        "2018": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 80,
+          "max_width_cm": 106,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 480,
+          "overall_width_cm": 182,
+          "overall_height_cm": 146,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1762,
+          "weight_distribution_pct": "57/43"
+        },
+        "2019": "<default>"
+      }
+    },
+    "Q50 4DR SEDAN REDSPORT 400 AWD": {
+      "years": [
+        2018,
+        2019
+      ],
+      "details": {
+        "2018": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 80,
+          "max_width_cm": 106,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 480,
+          "overall_width_cm": 182,
+          "overall_height_cm": 146,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1825,
+          "weight_distribution_pct": "57/43"
+        },
+        "2019": "<default>"
+      }
+    }
+  },
+  "Q60": {
+    "Q60 2DR CABRIO": {
+      "years": [
+        2014
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 80,
+          "max_width_cm": 108,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 466,
+          "overall_width_cm": 182,
+          "overall_height_cm": 139,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 160,
+          "curb_weight_kg": 1864,
+          "weight_distribution_pct": "52/48"
+        }
+      }
+    },
+    "Q60 2DR COUPE": {
+      "years": [
+        2014,
+        2014,
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2014": {
+          "hood_length_cm": 140,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 80,
+          "max_width_cm": 108,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 465,
+          "overall_width_cm": 182,
+          "overall_height_cm": 139,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1745,
+          "weight_distribution_pct": "56/44"
+        },
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 80,
+          "max_width_cm": 108,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 465,
+          "overall_width_cm": 182,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1652,
+          "weight_distribution_pct": "54/46"
+        },
+        "2017": {
+          "hood_length_cm": 141,
+          "back_length_cm": 66,
+          "side_glass_max_height_cm": 31,
+          "door_height_cm": 82,
+          "max_width_cm": 106,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 469,
+          "overall_width_cm": 185,
+          "overall_height_cm": 140,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1750,
+          "weight_distribution_pct": "54/46"
+        },
+        "2018": {
+          "hood_length_cm": 141,
+          "back_length_cm": 66,
+          "side_glass_max_height_cm": 31,
+          "door_height_cm": 82,
+          "max_width_cm": 106,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 469,
+          "overall_width_cm": 185,
+          "overall_height_cm": 140,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1750,
+          "weight_distribution_pct": "54/46"
+        },
+        "2019": {
+          "hood_length_cm": 141,
+          "back_length_cm": 66,
+          "side_glass_max_height_cm": 31,
+          "door_height_cm": 82,
+          "max_width_cm": 106,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 469,
+          "overall_width_cm": 185,
+          "overall_height_cm": 140,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1750,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "Q60 2DR COUPE ISP CONVERTIBLE": {
+      "years": [
+        2014
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 143,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 81,
+          "max_width_cm": 108,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 470,
+          "overall_width_cm": 182,
+          "overall_height_cm": 139,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1900,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "Q60 2DR COUPE AWD": {
+      "years": [
+        2015,
+        2016
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 80,
+          "max_width_cm": 108,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 466,
+          "overall_width_cm": 182,
+          "overall_height_cm": 139,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1767,
+          "weight_distribution_pct": "56/44"
+        },
+        "2016": {
+          "hood_length_cm": 140,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 80,
+          "max_width_cm": 108,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 467,
+          "overall_width_cm": 182,
+          "overall_height_cm": 139,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1767,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "Q60 2DR COUPE RWD": {
+      "years": [
+        2015,
+        2016
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 80,
+          "max_width_cm": 108,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 466,
+          "overall_width_cm": 182,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1683,
+          "weight_distribution_pct": "54/46"
+        },
+        "2016": {
+          "hood_length_cm": 140,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 80,
+          "max_width_cm": 108,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 467,
+          "overall_width_cm": 182,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1683,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "Q60 CONVERTIBLE 2DR CABRIO": {
+      "years": [
+        2015,
+        2016
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 80,
+          "max_width_cm": 108,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 466,
+          "overall_width_cm": 182,
+          "overall_height_cm": 139,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 160,
+          "curb_weight_kg": 1852,
+          "weight_distribution_pct": "52/48"
+        },
+        "2016": {
+          "hood_length_cm": 140,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 80,
+          "max_width_cm": 108,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 467,
+          "overall_width_cm": 185,
+          "overall_height_cm": 139,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1852,
+          "weight_distribution_pct": "52/48"
+        }
+      }
+    },
+    "Q60 ISP 2DR CONVERTIBLE": {
+      "years": [
+        2015
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 143,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 81,
+          "max_width_cm": 108,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 470,
+          "overall_width_cm": 182,
+          "overall_height_cm": 139,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1900,
+          "weight_distribution_pct": "51/49"
+        }
+      }
+    }
+  },
+  "Q70": {
+    "Q70 3.7 AWD PREMIUM/SPORT 4DR SEDAN": {
+      "years": [
+        2014
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 82,
+          "max_width_cm": 116,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 495,
+          "overall_width_cm": 185,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1827,
+          "weight_distribution_pct": "55/45"
+        }
+      }
+    },
+    "Q70 5.6 AWD PREMIUM/SPORT 4DR SEDAN": {
+      "years": [
+        2014,
+        2015
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 82,
+          "max_width_cm": 116,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 495,
+          "overall_width_cm": 185,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1881,
+          "weight_distribution_pct": "57/43"
+        },
+        "2015": {
+          "hood_length_cm": 142,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 84,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 498,
+          "overall_width_cm": 185,
+          "overall_height_cm": 152,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1881,
+          "weight_distribution_pct": "57/43"
+        }
+      }
+    },
+    "Q70 3.7 AWD 4DR SEDAN": {
+      "years": [
+        2015,
+        2016
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 142,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 84,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 498,
+          "overall_width_cm": 185,
+          "overall_height_cm": 152,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1752,
+          "weight_distribution_pct": "54/46"
+        },
+        "2016": "<default>"
+      }
+    },
+    "Q70 3.7 AWD SPORT 4DR SEDAN": {
+      "years": [
+        2015,
+        2016
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 142,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 84,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 498,
+          "overall_width_cm": 185,
+          "overall_height_cm": 152,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1841,
+          "weight_distribution_pct": "55/45"
+        },
+        "2016": "<default>"
+      }
+    },
+    "Q70 HYBRID 4DR SEDAN": {
+      "years": [
+        2015
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 142,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 84,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 498,
+          "overall_width_cm": 185,
+          "overall_height_cm": 152,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1904,
+          "weight_distribution_pct": "52/48"
+        }
+      }
+    },
+    "Q70L 5.6 AWD 4DR SEDAN": {
+      "years": [
+        2015
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 142,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 84,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 513,
+          "overall_width_cm": 185,
+          "overall_height_cm": 152,
+          "wheelbase_cm": 305,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1978,
+          "weight_distribution_pct": "57/43"
+        }
+      }
+    },
+    "Q70L AWD 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 142,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 84,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 513,
+          "overall_width_cm": 185,
+          "overall_height_cm": 152,
+          "wheelbase_cm": 305,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1978,
+          "weight_distribution_pct": "57/43"
+        },
+        "2017": "<default>",
+        "2018": "<default>"
+      }
+    },
+    "Q70 AWD 4DR SEDAN": {
+      "years": [
+        2017,
+        2018
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 142,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 84,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 498,
+          "overall_width_cm": 185,
+          "overall_height_cm": 152,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1752,
+          "weight_distribution_pct": "54/46"
+        },
+        "2018": "<default>"
+      }
+    },
+    "Q70 AWD SPORT 4DR SEDAN": {
+      "years": [
+        2017,
+        2018
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 142,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 84,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 498,
+          "overall_width_cm": 185,
+          "overall_height_cm": 152,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1841,
+          "weight_distribution_pct": "55/45"
+        },
+        "2018": "<default>"
+      }
+    },
+    "Q70 4DR SEDAN": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 142,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 84,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 498,
+          "overall_width_cm": 185,
+          "overall_height_cm": 152,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1841,
+          "weight_distribution_pct": "55/45"
+        }
+      }
+    },
+    "Q70L V6 4DR SEDAN": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 142,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 84,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 513,
+          "overall_width_cm": 185,
+          "overall_height_cm": 152,
+          "wheelbase_cm": 305,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1889,
+          "weight_distribution_pct": "57/43"
+        }
+      }
+    },
+    "Q70L V8 4DR SEDAN": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 142,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 84,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 513,
+          "overall_width_cm": 185,
+          "overall_height_cm": 152,
+          "wheelbase_cm": 305,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1967,
+          "weight_distribution_pct": "57/43"
+        }
+      }
+    }
+  },
+  "Q70L": {
+    "Q70L 5.6 AWD 4DR SEDAN": {
+      "years": [
+        2015
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 142,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 84,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 513,
+          "overall_width_cm": 185,
+          "overall_height_cm": 152,
+          "wheelbase_cm": 305,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1978,
+          "weight_distribution_pct": "57/43"
+        }
+      }
+    },
+    "Q70L AWD 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 142,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 84,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 513,
+          "overall_width_cm": 185,
+          "overall_height_cm": 152,
+          "wheelbase_cm": 305,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1978,
+          "weight_distribution_pct": "57/43"
+        },
+        "2017": "<default>",
+        "2018": "<default>"
+      }
+    },
+    "Q70L V6 4DR SEDAN": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 142,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 84,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 513,
+          "overall_width_cm": 185,
+          "overall_height_cm": 152,
+          "wheelbase_cm": 305,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1889,
+          "weight_distribution_pct": "57/43"
+        }
+      }
+    },
+    "Q70L V8 4DR SEDAN": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 142,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 84,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 513,
+          "overall_width_cm": 185,
+          "overall_height_cm": 152,
+          "wheelbase_cm": 305,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1967,
+          "weight_distribution_pct": "57/43"
+        }
+      }
+    }
+  },
+  "Q45": {
+    "Q45 4 DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ],
+      "details": {
+        "1990": "<default>",
+        "<default>": {
+          "hood_length_cm": 138,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 76,
+          "max_width_cm": 126,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 119,
+          "overall_length_cm": 508,
+          "overall_width_cm": 183,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 288,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": null,
+          "weight_distribution_pct": "57/43"
+        },
+        "1991": {
+          "hood_length_cm": 138,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 76,
+          "max_width_cm": 126,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 119,
+          "overall_length_cm": 508,
+          "overall_width_cm": 183,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 288,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1792,
+          "weight_distribution_pct": "57/43"
+        },
+        "1992": {
+          "hood_length_cm": 138,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 76,
+          "max_width_cm": 126,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 119,
+          "overall_length_cm": 508,
+          "overall_width_cm": 183,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 288,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1792,
+          "weight_distribution_pct": "57/43"
+        },
+        "1993": {
+          "hood_length_cm": 138,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 76,
+          "max_width_cm": 126,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 119,
+          "overall_length_cm": 508,
+          "overall_width_cm": 183,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 288,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1791,
+          "weight_distribution_pct": "57/43"
+        }
+      }
+    },
+    "Q45 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
+      ],
+      "details": {
+        "1994": "<default>",
+        "<default>": {
+          "hood_length_cm": 138,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 74,
+          "max_width_cm": 126,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 119,
+          "overall_length_cm": 508,
+          "overall_width_cm": 183,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 288,
+          "front_track_width_cm": 157,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1852,
+          "weight_distribution_pct": "58/42"
+        },
+        "1995": "<default>",
+        "1996": "<default>",
+        "1997": {
+          "hood_length_cm": 142,
+          "back_length_cm": 71,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 76,
+          "max_width_cm": 119,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 506,
+          "overall_width_cm": 182,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 283,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1761,
+          "weight_distribution_pct": "57/43"
+        },
+        "1998": {
+          "hood_length_cm": 142,
+          "back_length_cm": 71,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 76,
+          "max_width_cm": 119,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 506,
+          "overall_width_cm": 182,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 283,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1761,
+          "weight_distribution_pct": "57/43"
+        },
+        "1999": {
+          "hood_length_cm": 142,
+          "back_length_cm": 71,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 76,
+          "max_width_cm": 119,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 506,
+          "overall_width_cm": 182,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 283,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1765,
+          "weight_distribution_pct": "56/44"
+        },
+        "2000": {
+          "hood_length_cm": 142,
+          "back_length_cm": 71,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 76,
+          "max_width_cm": 119,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 506,
+          "overall_width_cm": 182,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 283,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1834,
+          "weight_distribution_pct": "56/44"
+        },
+        "2001": {
+          "hood_length_cm": 142,
+          "back_length_cm": 71,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 76,
+          "max_width_cm": 119,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 507,
+          "overall_width_cm": 182,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 283,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1834,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "Q45 4DR SEDAN LUXURY/PREMIUM": {
+      "years": [
+        2002,
+        2003
+      ],
+      "details": {
+        "2002": "<default>",
+        "<default>": {
+          "hood_length_cm": 135,
+          "back_length_cm": 67,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 83,
+          "max_width_cm": 122,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 507,
+          "overall_width_cm": 184,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 157,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1724,
+          "weight_distribution_pct": "53/47"
+        },
+        "2003": {
+          "hood_length_cm": 135,
+          "back_length_cm": 67,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 83,
+          "max_width_cm": 122,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 507,
+          "overall_width_cm": 184,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 157,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1804,
+          "weight_distribution_pct": "53/47"
+        }
+      }
+    },
+    "Q45 4DR SPORT/PREMIUM": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ],
+      "details": {
+        "2004": "<default>",
+        "<default>": {
+          "hood_length_cm": 135,
+          "back_length_cm": 67,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 83,
+          "max_width_cm": 122,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 507,
+          "overall_width_cm": 184,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 157,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1804,
+          "weight_distribution_pct": "53/47"
+        },
+        "2005": {
+          "hood_length_cm": 135,
+          "back_length_cm": 68,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 81,
+          "max_width_cm": 104,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 128,
+          "overall_length_cm": 512,
+          "overall_width_cm": 184,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 157,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1744,
+          "weight_distribution_pct": "53/47"
+        },
+        "2006": {
+          "hood_length_cm": 135,
+          "back_length_cm": 68,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 81,
+          "max_width_cm": 104,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 128,
+          "overall_length_cm": 512,
+          "overall_width_cm": 184,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 157,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1744,
+          "weight_distribution_pct": "53/47"
+        }
+      }
+    }
+  },
+  "G35": {
+    "G35 2DR COUPE RWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": 131,
+          "back_length_cm": 64,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 80,
+          "max_width_cm": 106,
+          "front_overhang_cm": 83,
+          "rear_overhang_cm": 95,
+          "overall_length_cm": 463,
+          "overall_width_cm": 182,
+          "overall_height_cm": 140,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1551,
+          "weight_distribution_pct": "61/39"
+        },
+        "2004": "<default>",
+        "2005": "<default>",
+        "2006": "<default>",
+        "2007": "<default>"
+      }
+    },
+    "G35 LUXURY SEDAN": {
+      "years": [
+        2003
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": 125,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 82,
+          "max_width_cm": 122,
+          "front_overhang_cm": 83,
+          "rear_overhang_cm": 106,
+          "overall_length_cm": 474,
+          "overall_width_cm": 175,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 150,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1536,
+          "weight_distribution_pct": "61/39"
+        }
+      }
+    },
+    "G35 4DR SEDAN RWD": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ],
+      "details": {
+        "2004": "<default>",
+        "<default>": {
+          "hood_length_cm": 125,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 82,
+          "max_width_cm": 122,
+          "front_overhang_cm": 83,
+          "rear_overhang_cm": 106,
+          "overall_length_cm": 474,
+          "overall_width_cm": 175,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 150,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1536,
+          "weight_distribution_pct": "61/39"
+        },
+        "2005": "<default>",
+        "2006": "<default>"
+      }
+    },
+    "G35X 4DR SEDAN AWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007
+      ],
+      "details": {
+        "2004": "<default>",
+        "<default>": {
+          "hood_length_cm": 125,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 82,
+          "max_width_cm": 122,
+          "front_overhang_cm": 83,
+          "rear_overhang_cm": 106,
+          "overall_length_cm": 474,
+          "overall_width_cm": 175,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 150,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1673,
+          "weight_distribution_pct": "61/39"
+        },
+        "2005": "<default>",
+        "2006": "<default>",
+        "2007": {
+          "hood_length_cm": 122,
+          "back_length_cm": 52,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 79,
+          "max_width_cm": 106,
+          "front_overhang_cm": 82,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 475,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 150,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1680,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    }
+  },
+  "M35": {
+    "M35 4DR SEDAN RWD": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009
+      ],
+      "details": {
+        "2006": "<default>",
+        "<default>": {
+          "hood_length_cm": 126,
+          "back_length_cm": 48,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 107,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 491,
+          "overall_width_cm": 180,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1738,
+          "weight_distribution_pct": "54/46"
+        },
+        "2007": "<default>",
+        "2008": {
+          "hood_length_cm": 126,
+          "back_length_cm": 48,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 107,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 491,
+          "overall_width_cm": 180,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1764,
+          "weight_distribution_pct": "54/46"
+        },
+        "2009": {
+          "hood_length_cm": 126,
+          "back_length_cm": 48,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 107,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 491,
+          "overall_width_cm": 180,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1764,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "M35X 4DR SEDAN AWD": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ],
+      "details": {
+        "2006": "<default>",
+        "<default>": {
+          "hood_length_cm": 126,
+          "back_length_cm": 48,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 107,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 491,
+          "overall_width_cm": 180,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1816,
+          "weight_distribution_pct": "55/45"
+        },
+        "2007": "<default>",
+        "2008": {
+          "hood_length_cm": 126,
+          "back_length_cm": 48,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 107,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 491,
+          "overall_width_cm": 180,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1834,
+          "weight_distribution_pct": "55/45"
+        },
+        "2009": {
+          "hood_length_cm": 126,
+          "back_length_cm": 48,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 107,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 491,
+          "overall_width_cm": 180,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1834,
+          "weight_distribution_pct": "55/45"
+        },
+        "2010": {
+          "hood_length_cm": 126,
+          "back_length_cm": 48,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 107,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 491,
+          "overall_width_cm": 180,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1820,
+          "weight_distribution_pct": "55/45"
+        }
+      }
+    },
+    "M35H 4DR SEDAN M HYBRID": {
+      "years": [
+        2012,
+        2013
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 82,
+          "max_width_cm": 116,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 495,
+          "overall_width_cm": 185,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1873,
+          "weight_distribution_pct": "51/49"
+        },
+        "2013": "<default>"
+      }
+    }
+  },
+  "M45": {
+    "M45 4DR SEDAN RWD": {
+      "years": [
+        2003,
+        2004,
+        2008,
+        2009,
+        2010
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 75,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 118,
+          "front_overhang_cm": 96,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 501,
+          "overall_width_cm": 178,
+          "overall_height_cm": 146,
+          "wheelbase_cm": 280,
+          "front_track_width_cm": 151,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1761,
+          "weight_distribution_pct": "55/45"
+        },
+        "2004": "<default>",
+        "2008": {
+          "hood_length_cm": 126,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 79,
+          "max_width_cm": 106,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 491,
+          "overall_width_cm": 180,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1817,
+          "weight_distribution_pct": "54/46"
+        },
+        "2009": {
+          "hood_length_cm": 126,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 79,
+          "max_width_cm": 106,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 491,
+          "overall_width_cm": 180,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1817,
+          "weight_distribution_pct": "54/46"
+        },
+        "2010": {
+          "hood_length_cm": 126,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 79,
+          "max_width_cm": 106,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 491,
+          "overall_width_cm": 180,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1816,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "M45 4DR SEDAN RWD /SPORT": {
+      "years": [
+        2006,
+        2007
+      ],
+      "details": {
+        "2006": "<default>",
+        "<default>": {
+          "hood_length_cm": 126,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 79,
+          "max_width_cm": 106,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 491,
+          "overall_width_cm": 180,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1800,
+          "weight_distribution_pct": "54/46"
+        },
+        "2007": "<default>"
+      }
+    },
+    "M45X 4DR SEDAN AWD": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ],
+      "details": {
+        "2008": "<default>",
+        "<default>": {
+          "hood_length_cm": 126,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 79,
+          "max_width_cm": 106,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 491,
+          "overall_width_cm": 180,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1894,
+          "weight_distribution_pct": "54/46"
+        },
+        "2009": "<default>",
+        "2010": {
+          "hood_length_cm": 126,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 79,
+          "max_width_cm": 106,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 491,
+          "overall_width_cm": 180,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1875,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    }
+  },
+  "G37": {
+    "G37 2DR COUPE/CABRIO G37/G37X": {
+      "years": [
+        2010
+      ],
+      "details": {
+        "2010": "<default>",
+        "<default>": {
+          "hood_length_cm": 127,
+          "back_length_cm": 65,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 80,
+          "max_width_cm": 108,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 465,
+          "overall_width_cm": 182,
+          "overall_height_cm": 139,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1647,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "G37 4DR SEDAN G37/SPORT RWD": {
+      "years": [
+        2010
+      ],
+      "details": {
+        "2010": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 52,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 79,
+          "max_width_cm": 106,
+          "front_overhang_cm": 82,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 475,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 150,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1643,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "G37 4DR SEDAN G37X/AWD": {
+      "years": [
+        2010
+      ],
+      "details": {
+        "2010": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 52,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 79,
+          "max_width_cm": 106,
+          "front_overhang_cm": 82,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 475,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 150,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1748,
+          "weight_distribution_pct": "55/45"
+        }
+      }
+    },
+    "G37 2DR CABRIO": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ],
+      "details": {
+        "2011": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 80,
+          "max_width_cm": 108,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 466,
+          "overall_width_cm": 182,
+          "overall_height_cm": 139,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 160,
+          "curb_weight_kg": 1864,
+          "weight_distribution_pct": "52/48"
+        },
+        "2012": "<default>",
+        "2013": "<default>"
+      }
+    },
+    "G37 2DR COUPE": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ],
+      "details": {
+        "2011": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 80,
+          "max_width_cm": 108,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 465,
+          "overall_width_cm": 182,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1652,
+          "weight_distribution_pct": "54/46"
+        },
+        "2012": "<default>",
+        "2013": "<default>"
+      }
+    },
+    "G37 2DR COUPE G37x AWD": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ],
+      "details": {
+        "2011": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 80,
+          "max_width_cm": 108,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 465,
+          "overall_width_cm": 182,
+          "overall_height_cm": 139,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1745,
+          "weight_distribution_pct": "56/44"
+        },
+        "2012": "<default>",
+        "2013": "<default>"
+      }
+    },
+    "G37 2DR COUPE ISP COUPE": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ],
+      "details": {
+        "2011": "<default>",
+        "<default>": {
+          "hood_length_cm": 143,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 81,
+          "max_width_cm": 108,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 470,
+          "overall_width_cm": 182,
+          "overall_height_cm": 139,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1652,
+          "weight_distribution_pct": "54/46"
+        },
+        "2012": "<default>",
+        "2013": {
+          "hood_length_cm": 143,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 81,
+          "max_width_cm": 108,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 470,
+          "overall_width_cm": 182,
+          "overall_height_cm": 139,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1686,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "G37 4DR SEDAN RWD M6 SPORT": {
+      "years": [
+        2012,
+        2013
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 52,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 79,
+          "max_width_cm": 106,
+          "front_overhang_cm": 82,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 475,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1681,
+          "weight_distribution_pct": "53/47"
+        },
+        "2013": "<default>"
+      }
+    },
+    "G37 2DR COUPE ISP CONVERTIBLE": {
+      "years": [
+        2013
+      ],
+      "details": {
+        "2013": "<default>",
+        "<default>": {
+          "hood_length_cm": 143,
+          "back_length_cm": 69,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 81,
+          "max_width_cm": 108,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 470,
+          "overall_width_cm": 182,
+          "overall_height_cm": 139,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1900,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "G37X 4DR SEDAN AWD /XAWD SPORT": {
+      "years": [
+        2013
+      ],
+      "details": {
+        "2013": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 52,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 79,
+          "max_width_cm": 106,
+          "front_overhang_cm": 82,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 475,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1750,
+          "weight_distribution_pct": "55/45"
+        }
+      }
+    }
+  },
+  "EX35": {
+    "EX35 4DR CUV AWD LUXURY/JOURNEY": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013
+      ],
+      "details": {
+        "2010": "<default>",
+        "<default>": {
+          "hood_length_cm": 128,
+          "back_length_cm": 137,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 85,
+          "max_width_cm": 105,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 463,
+          "overall_width_cm": 180,
+          "overall_height_cm": 159,
+          "wheelbase_cm": 280,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1776,
+          "weight_distribution_pct": "53/47"
+        },
+        "2011": "<default>",
+        "2012": "<default>",
+        "2013": {
+          "hood_length_cm": 128,
+          "back_length_cm": 137,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 85,
+          "max_width_cm": 105,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 463,
+          "overall_width_cm": 180,
+          "overall_height_cm": 159,
+          "wheelbase_cm": 280,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1829,
+          "weight_distribution_pct": "53/47"
+        }
+      }
+    }
+  },
+  "M56": {
+    "M56 4DR SEDAN M56x AWD/M56 SPORT": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ],
+      "details": {
+        "2011": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 82,
+          "max_width_cm": 116,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 495,
+          "overall_width_cm": 185,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1881,
+          "weight_distribution_pct": "54/46"
+        },
+        "2012": "<default>",
+        "2013": "<default>"
+      }
+    }
+  },
+  "M37": {
+    "M37 4DR SEDAN": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ],
+      "details": {
+        "2011": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 82,
+          "max_width_cm": 116,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 495,
+          "overall_width_cm": 185,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1750,
+          "weight_distribution_pct": "54/46"
+        },
+        "2012": "<default>",
+        "2013": "<default>"
+      }
+    },
+    "M37/M56 4DR SEDAN M37x AWD/M37 SPORT/M56": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ],
+      "details": {
+        "2011": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 82,
+          "max_width_cm": 116,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 495,
+          "overall_width_cm": 185,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1827,
+          "weight_distribution_pct": "54/46"
+        },
+        "2012": "<default>",
+        "2013": "<default>"
+      }
+    }
+  },
+  "G25": {
+    "G25/G37 4DR SEDAN G25/G37 M6 SPORT RWD": {
+      "years": [
+        2011
+      ],
+      "details": {
+        "2011": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 52,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 79,
+          "max_width_cm": 106,
+          "front_overhang_cm": 82,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 475,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1602,
+          "weight_distribution_pct": "53/47"
+        }
+      }
+    },
+    "G25/G37 4DR SEDAN G25x AWD/G37x AWD": {
+      "years": [
+        2011,
+        2012
+      ],
+      "details": {
+        "2011": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 52,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 79,
+          "max_width_cm": 106,
+          "front_overhang_cm": 82,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 475,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1680,
+          "weight_distribution_pct": "55/45"
+        },
+        "2012": {
+          "hood_length_cm": 122,
+          "back_length_cm": 52,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 79,
+          "max_width_cm": 106,
+          "front_overhang_cm": 82,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 475,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1732,
+          "weight_distribution_pct": "55/45"
+        }
+      }
+    },
+    "G25 4DR SEDAN RWD": {
+      "years": [
+        2012
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 52,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 79,
+          "max_width_cm": 106,
+          "front_overhang_cm": 82,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 475,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1605,
+          "weight_distribution_pct": "53/47"
+        }
+      }
+    }
+  },
+  "M35h": {
+    "M35H 4DR SEDAN M HYBRID": {
+      "years": [
+        2012,
+        2013
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 82,
+          "max_width_cm": 116,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 495,
+          "overall_width_cm": 185,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1873,
+          "weight_distribution_pct": "51/49"
+        },
+        "2013": "<default>"
+      }
+    }
+  },
+  "J30": {
+    "J30 4DR SEDAN": {
+      "years": [
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997
+      ],
+      "details": {
+        "1992": "<default>",
+        "<default>": {
+          "hood_length_cm": 138,
+          "back_length_cm": 73,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 70,
+          "max_width_cm": 114,
+          "front_overhang_cm": 96,
+          "rear_overhang_cm": 113,
+          "overall_length_cm": 486,
+          "overall_width_cm": 177,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1600,
+          "weight_distribution_pct": null
+        },
+        "1993": {
+          "hood_length_cm": 138,
+          "back_length_cm": 73,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 70,
+          "max_width_cm": 114,
+          "front_overhang_cm": 96,
+          "rear_overhang_cm": 113,
+          "overall_length_cm": 486,
+          "overall_width_cm": 177,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1600,
+          "weight_distribution_pct": "57/43"
+        },
+        "1994": {
+          "hood_length_cm": 138,
+          "back_length_cm": 73,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 70,
+          "max_width_cm": 114,
+          "front_overhang_cm": 96,
+          "rear_overhang_cm": 113,
+          "overall_length_cm": 486,
+          "overall_width_cm": 177,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 150,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1576,
+          "weight_distribution_pct": "57/43"
+        },
+        "1995": {
+          "hood_length_cm": 138,
+          "back_length_cm": 73,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 70,
+          "max_width_cm": 114,
+          "front_overhang_cm": 96,
+          "rear_overhang_cm": 113,
+          "overall_length_cm": 486,
+          "overall_width_cm": 177,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 150,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1576,
+          "weight_distribution_pct": "57/43"
+        },
+        "1996": {
+          "hood_length_cm": 138,
+          "back_length_cm": 73,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 70,
+          "max_width_cm": 114,
+          "front_overhang_cm": 96,
+          "rear_overhang_cm": 113,
+          "overall_length_cm": 486,
+          "overall_width_cm": 177,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 150,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1576,
+          "weight_distribution_pct": "57/43"
+        },
+        "1997": {
+          "hood_length_cm": 138,
+          "back_length_cm": 73,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 70,
+          "max_width_cm": 114,
+          "front_overhang_cm": 96,
+          "rear_overhang_cm": 113,
+          "overall_length_cm": 486,
+          "overall_width_cm": 177,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 150,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1576,
+          "weight_distribution_pct": "57/43"
+        }
+      }
+    }
+  },
+  "G20": {
+    "G20/G20t 4DR SEDAN": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002
+      ],
+      "details": {
+        "1999": "<default>",
+        "<default>": {
+          "hood_length_cm": 118,
+          "back_length_cm": 46,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 72,
+          "max_width_cm": 105,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 451,
+          "overall_width_cm": 170,
+          "overall_height_cm": 140,
+          "wheelbase_cm": 260,
+          "front_track_width_cm": 147,
+          "rear_track_width_cm": 146,
+          "curb_weight_kg": 1332,
+          "weight_distribution_pct": "62/38"
+        },
+        "2000": {
+          "hood_length_cm": 118,
+          "back_length_cm": 46,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 72,
+          "max_width_cm": 105,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 451,
+          "overall_width_cm": 169,
+          "overall_height_cm": 140,
+          "wheelbase_cm": 260,
+          "front_track_width_cm": 147,
+          "rear_track_width_cm": 146,
+          "curb_weight_kg": 1332,
+          "weight_distribution_pct": "62/38"
+        },
+        "2001": {
+          "hood_length_cm": 118,
+          "back_length_cm": 46,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 72,
+          "max_width_cm": 105,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 451,
+          "overall_width_cm": 169,
+          "overall_height_cm": 140,
+          "wheelbase_cm": 260,
+          "front_track_width_cm": 147,
+          "rear_track_width_cm": 146,
+          "curb_weight_kg": 1332,
+          "weight_distribution_pct": "62/38"
+        },
+        "2002": {
+          "hood_length_cm": 118,
+          "back_length_cm": 46,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 72,
+          "max_width_cm": 105,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 451,
+          "overall_width_cm": 169,
+          "overall_height_cm": 140,
+          "wheelbase_cm": 260,
+          "front_track_width_cm": 147,
+          "rear_track_width_cm": 146,
+          "curb_weight_kg": 1332,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    }
+  },
+  "I35": {
+    "I35 LUXURY 4DR SEDAN FWD": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ],
+      "details": {
+        "2002": "<default>",
+        "<default>": {
+          "hood_length_cm": 129,
+          "back_length_cm": 63,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 72,
+          "max_width_cm": 112,
+          "front_overhang_cm": 102,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 492,
+          "overall_width_cm": 178,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 275,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1495,
+          "weight_distribution_pct": "61/39"
+        },
+        "2003": {
+          "hood_length_cm": 129,
+          "back_length_cm": 63,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 72,
+          "max_width_cm": 112,
+          "front_overhang_cm": 102,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 492,
+          "overall_width_cm": 178,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 275,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1495,
+          "weight_distribution_pct": "60/40"
+        },
+        "2004": {
+          "hood_length_cm": 129,
+          "back_length_cm": 63,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 72,
+          "max_width_cm": 112,
+          "front_overhang_cm": 102,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 492,
+          "overall_width_cm": 178,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 275,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1495,
+          "weight_distribution_pct": "60/40"
+        }
+      }
+    },
+    "I35 SPORT 4DR SEDAN FWD": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ],
+      "details": {
+        "2002": "<default>",
+        "<default>": {
+          "hood_length_cm": 129,
+          "back_length_cm": 63,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 72,
+          "max_width_cm": 112,
+          "front_overhang_cm": 102,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 492,
+          "overall_width_cm": 178,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 275,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1523,
+          "weight_distribution_pct": "61/39"
+        },
+        "2003": {
+          "hood_length_cm": 129,
+          "back_length_cm": 63,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 72,
+          "max_width_cm": 112,
+          "front_overhang_cm": 102,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 492,
+          "overall_width_cm": 178,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 275,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1523,
+          "weight_distribution_pct": "60/40"
+        },
+        "2004": {
+          "hood_length_cm": 129,
+          "back_length_cm": 63,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 72,
+          "max_width_cm": 112,
+          "front_overhang_cm": 102,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 492,
+          "overall_width_cm": 178,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 275,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1523,
+          "weight_distribution_pct": "60/40"
+        }
+      }
+    }
+  },
+  "I30": {
+    "I30/I30t 4DR SEDAN": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
+      ],
+      "details": {
+        "1996": "<default>",
+        "<default>": {
+          "hood_length_cm": 134,
+          "back_length_cm": 59,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 71,
+          "max_width_cm": 110,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 111,
+          "overall_length_cm": 482,
+          "overall_width_cm": 177,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 270,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1431,
+          "weight_distribution_pct": "63/37"
+        },
+        "1997": "<default>",
+        "1998": "<default>",
+        "1999": {
+          "hood_length_cm": 134,
+          "back_length_cm": 59,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 71,
+          "max_width_cm": 110,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 111,
+          "overall_length_cm": 482,
+          "overall_width_cm": 177,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 270,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1455,
+          "weight_distribution_pct": "63/37"
+        },
+        "2000": {
+          "hood_length_cm": 129,
+          "back_length_cm": 63,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 72,
+          "max_width_cm": 112,
+          "front_overhang_cm": 102,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 492,
+          "overall_width_cm": 178,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 275,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1516,
+          "weight_distribution_pct": "61/39"
+        },
+        "2001": {
+          "hood_length_cm": 129,
+          "back_length_cm": 63,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 72,
+          "max_width_cm": 112,
+          "front_overhang_cm": 102,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 492,
+          "overall_width_cm": 178,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 275,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1516,
+          "weight_distribution_pct": "61/39"
+        }
+      }
+    }
+  },
+  "M30": {},
+  "QX30": {
+    "QX30 AWD 4DR SUV": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 132,
+          "back_length_cm": 138,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 83,
+          "max_width_cm": 100,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 82,
+          "overall_length_cm": 443,
+          "overall_width_cm": 182,
+          "overall_height_cm": 154,
+          "wheelbase_cm": 269,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1550,
+          "weight_distribution_pct": "60/40"
+        },
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    },
+    "QX30 FWD 4DR SUV": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 132,
+          "back_length_cm": 138,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 83,
+          "max_width_cm": 100,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 82,
+          "overall_length_cm": 443,
+          "overall_width_cm": 182,
+          "overall_height_cm": 154,
+          "wheelbase_cm": 269,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1491,
+          "weight_distribution_pct": "62/38"
+        },
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    }
+  },
+  "QX70": {
+    "QX70 AWD V6 PREMIUM 4DR SUV": {
+      "years": [
+        2014
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 153,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 89,
+          "max_width_cm": 112,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 486,
+          "overall_width_cm": 193,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 1960,
+          "weight_distribution_pct": "53/47"
+        }
+      }
+    },
+    "QX70 AWD V8 PREMIUM 4DR SUV": {
+      "years": [
+        2014
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 153,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 89,
+          "max_width_cm": 112,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 486,
+          "overall_width_cm": 193,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 2069,
+          "weight_distribution_pct": "53/47"
+        }
+      }
+    },
+    "QX70 3.7 4DR SUV AWD": {
+      "years": [
+        2015,
+        2016
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 153,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 89,
+          "max_width_cm": 112,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 486,
+          "overall_width_cm": 193,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 1989,
+          "weight_distribution_pct": "53/47"
+        },
+        "2016": "<default>"
+      }
+    },
+    "QX70 3.7 SPORT 4DR SUV AWD": {
+      "years": [
+        2015,
+        2016
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 153,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 89,
+          "max_width_cm": 112,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 486,
+          "overall_width_cm": 193,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 2087,
+          "weight_distribution_pct": "53/47"
+        },
+        "2016": "<default>"
+      }
+    },
+    "QX70 4DR SUV AWD": {
+      "years": [
+        2017
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 153,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 89,
+          "max_width_cm": 112,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 486,
+          "overall_width_cm": 193,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 1989,
+          "weight_distribution_pct": "53/47"
+        }
+      }
+    },
+    "QX70 SPORT 4DR SUV AWD": {
+      "years": [
+        2017
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 153,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 89,
+          "max_width_cm": 112,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 486,
+          "overall_width_cm": 193,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 2087,
+          "weight_distribution_pct": "53/47"
+        }
+      }
+    }
+  },
+  "QX80": {
+    "QX80 AWD 7 PASSENGER 4 DR SUV AWD": {
+      "years": [
+        2014
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 217,
+          "side_glass_max_height_cm": 43,
+          "door_height_cm": 92,
+          "max_width_cm": 133,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 126,
+          "overall_length_cm": 529,
+          "overall_width_cm": 203,
+          "overall_height_cm": 193,
+          "wheelbase_cm": 308,
+          "front_track_width_cm": 172,
+          "rear_track_width_cm": 174,
+          "curb_weight_kg": 2555,
+          "weight_distribution_pct": "51/49"
+        }
+      }
+    },
+    "QX80 AWD 8 PASSENGER 4 DR SUV AWD": {
+      "years": [
+        2014
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 217,
+          "side_glass_max_height_cm": 43,
+          "door_height_cm": 92,
+          "max_width_cm": 133,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 126,
+          "overall_length_cm": 529,
+          "overall_width_cm": 203,
+          "overall_height_cm": 193,
+          "wheelbase_cm": 308,
+          "front_track_width_cm": 172,
+          "rear_track_width_cm": 174,
+          "curb_weight_kg": 2666,
+          "weight_distribution_pct": "52/48"
+        }
+      }
+    },
+    "QX80 AWD 7 PASSENGER 4DR SUV AWD": {
+      "years": [
+        2015
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 141,
+          "back_length_cm": 220,
+          "side_glass_max_height_cm": 43,
+          "door_height_cm": 92,
+          "max_width_cm": 133,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 127,
+          "overall_length_cm": 531,
+          "overall_width_cm": 203,
+          "overall_height_cm": 193,
+          "wheelbase_cm": 308,
+          "front_track_width_cm": 172,
+          "rear_track_width_cm": 173,
+          "curb_weight_kg": 2555,
+          "weight_distribution_pct": "52/48"
+        }
+      }
+    },
+    "QX80 AWD 8 PASSENGER 4DR SUV AWD": {
+      "years": [
+        2015
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 141,
+          "back_length_cm": 220,
+          "side_glass_max_height_cm": 43,
+          "door_height_cm": 92,
+          "max_width_cm": 133,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 127,
+          "overall_length_cm": 531,
+          "overall_width_cm": 203,
+          "overall_height_cm": 193,
+          "wheelbase_cm": 308,
+          "front_track_width_cm": 172,
+          "rear_track_width_cm": 173,
+          "curb_weight_kg": 2666,
+          "weight_distribution_pct": "52/48"
+        }
+      }
+    },
+    "QX80 AWD 4DR SUV": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 141,
+          "back_length_cm": 220,
+          "side_glass_max_height_cm": 43,
+          "door_height_cm": 92,
+          "max_width_cm": 133,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 127,
+          "overall_length_cm": 531,
+          "overall_width_cm": 203,
+          "overall_height_cm": 193,
+          "wheelbase_cm": 308,
+          "front_track_width_cm": 172,
+          "rear_track_width_cm": 173,
+          "curb_weight_kg": 2671,
+          "weight_distribution_pct": "52/48"
+        },
+        "2017": "<default>",
+        "2018": {
+          "hood_length_cm": 143,
+          "back_length_cm": 220,
+          "side_glass_max_height_cm": 43,
+          "door_height_cm": 92,
+          "max_width_cm": 133,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 127,
+          "overall_length_cm": 534,
+          "overall_width_cm": 203,
+          "overall_height_cm": 193,
+          "wheelbase_cm": 308,
+          "front_track_width_cm": 172,
+          "rear_track_width_cm": 173,
+          "curb_weight_kg": 2671,
+          "weight_distribution_pct": "52/48"
+        },
+        "2019": {
+          "hood_length_cm": 143,
+          "back_length_cm": 220,
+          "side_glass_max_height_cm": 43,
+          "door_height_cm": 92,
+          "max_width_cm": 133,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 127,
+          "overall_length_cm": 534,
+          "overall_width_cm": 203,
+          "overall_height_cm": 193,
+          "wheelbase_cm": 308,
+          "front_track_width_cm": 172,
+          "rear_track_width_cm": 173,
+          "curb_weight_kg": 2671,
+          "weight_distribution_pct": "52/48"
+        }
+      }
+    }
+  },
+  "QX60": {
+    "QX60 3.5 4DR SUV FWD": {
+      "years": [
+        2014,
+        2015,
+        2016
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 189,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 87,
+          "max_width_cm": 123,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 109,
+          "overall_length_cm": 499,
+          "overall_width_cm": 196,
+          "overall_height_cm": 174,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 168,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 1960,
+          "weight_distribution_pct": "55/45"
+        },
+        "2015": {
+          "hood_length_cm": 122,
+          "back_length_cm": 189,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 87,
+          "max_width_cm": 123,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 109,
+          "overall_length_cm": 499,
+          "overall_width_cm": 196,
+          "overall_height_cm": 174,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2013,
+          "weight_distribution_pct": "56/44"
+        },
+        "2016": {
+          "hood_length_cm": 122,
+          "back_length_cm": 189,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 87,
+          "max_width_cm": 123,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 109,
+          "overall_length_cm": 499,
+          "overall_width_cm": 196,
+          "overall_height_cm": 174,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2013,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "QX60 3.5 AWD 4DR SUV AWD": {
+      "years": [
+        2014,
+        2015,
+        2016
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 189,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 87,
+          "max_width_cm": 123,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 109,
+          "overall_length_cm": 499,
+          "overall_width_cm": 196,
+          "overall_height_cm": 174,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 168,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2024,
+          "weight_distribution_pct": "55/45"
+        },
+        "2015": {
+          "hood_length_cm": 122,
+          "back_length_cm": 189,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 87,
+          "max_width_cm": 123,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 109,
+          "overall_length_cm": 499,
+          "overall_width_cm": 196,
+          "overall_height_cm": 174,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2077,
+          "weight_distribution_pct": "56/44"
+        },
+        "2016": {
+          "hood_length_cm": 122,
+          "back_length_cm": 189,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 87,
+          "max_width_cm": 123,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 109,
+          "overall_length_cm": 499,
+          "overall_width_cm": 196,
+          "overall_height_cm": 174,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2077,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "QX60 HYBRID AWD PREMIUM 4DR SUV": {
+      "years": [
+        2014
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 189,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 87,
+          "max_width_cm": 123,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 109,
+          "overall_length_cm": 499,
+          "overall_width_cm": 196,
+          "overall_height_cm": 174,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 168,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2005,
+          "weight_distribution_pct": "55/45"
+        }
+      }
+    },
+    "QX60 HYBRID AWD 4DR SUV": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 189,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 87,
+          "max_width_cm": 123,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 109,
+          "overall_length_cm": 499,
+          "overall_width_cm": 196,
+          "overall_height_cm": 174,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 168,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2124,
+          "weight_distribution_pct": "56/44"
+        },
+        "2016": "<default>",
+        "2017": "<default>",
+        "2018": "<default>"
+      }
+    },
+    "QX60 4DR SUV AWD": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 189,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 87,
+          "max_width_cm": 123,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 109,
+          "overall_length_cm": 499,
+          "overall_width_cm": 196,
+          "overall_height_cm": 174,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2077,
+          "weight_distribution_pct": "56/44"
+        },
+        "2018": {
+          "hood_length_cm": 122,
+          "back_length_cm": 189,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 87,
+          "max_width_cm": 123,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 109,
+          "overall_length_cm": 499,
+          "overall_width_cm": 196,
+          "overall_height_cm": 174,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2049,
+          "weight_distribution_pct": "56/44"
+        },
+        "2019": {
+          "hood_length_cm": 122,
+          "back_length_cm": 189,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 87,
+          "max_width_cm": 123,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 109,
+          "overall_length_cm": 499,
+          "overall_width_cm": 196,
+          "overall_height_cm": 174,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2049,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "QX60 4DR SUV FWD": {
+      "years": [
+        2017
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 189,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 87,
+          "max_width_cm": 123,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 109,
+          "overall_length_cm": 499,
+          "overall_width_cm": 196,
+          "overall_height_cm": 174,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2013,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    }
+  },
+  "FX35": {
+    "FX35 4DR SUV AWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": 132,
+          "back_length_cm": 143,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 88,
+          "max_width_cm": 107,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 480,
+          "overall_width_cm": 192,
+          "overall_height_cm": 167,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 165,
+          "curb_weight_kg": null,
+          "weight_distribution_pct": "54/46"
+        },
+        "2004": {
+          "hood_length_cm": 132,
+          "back_length_cm": 143,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 88,
+          "max_width_cm": 107,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 480,
+          "overall_width_cm": 192,
+          "overall_height_cm": 167,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 165,
+          "curb_weight_kg": 1917,
+          "weight_distribution_pct": "54/46"
+        },
+        "2005": {
+          "hood_length_cm": 132,
+          "back_length_cm": 143,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 88,
+          "max_width_cm": 107,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 480,
+          "overall_width_cm": 192,
+          "overall_height_cm": 167,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 165,
+          "curb_weight_kg": 1917,
+          "weight_distribution_pct": "54/46"
+        },
+        "2006": {
+          "hood_length_cm": 132,
+          "back_length_cm": 143,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 88,
+          "max_width_cm": 107,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 480,
+          "overall_width_cm": 192,
+          "overall_height_cm": 167,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 165,
+          "curb_weight_kg": 1917,
+          "weight_distribution_pct": "54/46"
+        },
+        "2007": {
+          "hood_length_cm": 132,
+          "back_length_cm": 143,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 88,
+          "max_width_cm": 107,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 480,
+          "overall_width_cm": 192,
+          "overall_height_cm": 167,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 165,
+          "curb_weight_kg": 1917,
+          "weight_distribution_pct": "54/46"
+        },
+        "2008": {
+          "hood_length_cm": 132,
+          "back_length_cm": 143,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 88,
+          "max_width_cm": 107,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 480,
+          "overall_width_cm": 192,
+          "overall_height_cm": 167,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 165,
+          "curb_weight_kg": 1957,
+          "weight_distribution_pct": "54/46"
+        },
+        "2009": {
+          "hood_length_cm": 137,
+          "back_length_cm": 153,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 89,
+          "max_width_cm": 112,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 486,
+          "overall_width_cm": 193,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 1954,
+          "weight_distribution_pct": "52/48"
+        },
+        "2010": {
+          "hood_length_cm": 137,
+          "back_length_cm": 153,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 89,
+          "max_width_cm": 112,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 486,
+          "overall_width_cm": 193,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 1954,
+          "weight_distribution_pct": "52/48"
+        },
+        "2011": {
+          "hood_length_cm": 137,
+          "back_length_cm": 153,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 89,
+          "max_width_cm": 112,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 486,
+          "overall_width_cm": 193,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 1954,
+          "weight_distribution_pct": "52/48"
+        },
+        "2012": {
+          "hood_length_cm": 137,
+          "back_length_cm": 153,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 89,
+          "max_width_cm": 112,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 486,
+          "overall_width_cm": 193,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 1954,
+          "weight_distribution_pct": "52/48"
+        }
+      }
+    },
+    "FX35 4DR SUV AWD /LIMITED": {
+      "years": [
+        2013
+      ],
+      "details": {
+        "2013": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 153,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 89,
+          "max_width_cm": 112,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 486,
+          "overall_width_cm": 193,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 1954,
+          "weight_distribution_pct": "53/47"
+        }
+      }
+    }
+  },
+  "FX45": {
+    "FX45 4DR SUV AWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": 132,
+          "back_length_cm": 143,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 88,
+          "max_width_cm": 107,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 480,
+          "overall_width_cm": 192,
+          "overall_height_cm": 167,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 165,
+          "curb_weight_kg": 1954,
+          "weight_distribution_pct": "54/46"
+        },
+        "2004": {
+          "hood_length_cm": 132,
+          "back_length_cm": 143,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 88,
+          "max_width_cm": 107,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 480,
+          "overall_width_cm": 192,
+          "overall_height_cm": 167,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 165,
+          "curb_weight_kg": 1964,
+          "weight_distribution_pct": "54/46"
+        },
+        "2005": {
+          "hood_length_cm": 132,
+          "back_length_cm": 143,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 88,
+          "max_width_cm": 107,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 480,
+          "overall_width_cm": 192,
+          "overall_height_cm": 167,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 165,
+          "curb_weight_kg": 1964,
+          "weight_distribution_pct": "54/46"
+        },
+        "2006": {
+          "hood_length_cm": 132,
+          "back_length_cm": 143,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 88,
+          "max_width_cm": 107,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 480,
+          "overall_width_cm": 192,
+          "overall_height_cm": 167,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 165,
+          "curb_weight_kg": 1964,
+          "weight_distribution_pct": "54/46"
+        },
+        "2007": {
+          "hood_length_cm": 132,
+          "back_length_cm": 143,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 88,
+          "max_width_cm": 107,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 480,
+          "overall_width_cm": 192,
+          "overall_height_cm": 167,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 165,
+          "curb_weight_kg": 1964,
+          "weight_distribution_pct": "54/46"
+        },
+        "2008": {
+          "hood_length_cm": 132,
+          "back_length_cm": 143,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 88,
+          "max_width_cm": 107,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 480,
+          "overall_width_cm": 192,
+          "overall_height_cm": 167,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 165,
+          "curb_weight_kg": 2036,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    }
+  },
+  "QX56": {
+    "QX56 4DR SUV 4X4": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ],
+      "details": {
+        "2004": "<default>",
+        "<default>": {
+          "hood_length_cm": 118,
+          "back_length_cm": 217,
+          "side_glass_max_height_cm": 51,
+          "door_height_cm": 91,
+          "max_width_cm": 131,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 123,
+          "overall_length_cm": 527,
+          "overall_width_cm": 200,
+          "overall_height_cm": 200,
+          "wheelbase_cm": 314,
+          "front_track_width_cm": 170,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2554,
+          "weight_distribution_pct": null
+        },
+        "2005": {
+          "hood_length_cm": 118,
+          "back_length_cm": 217,
+          "side_glass_max_height_cm": 51,
+          "door_height_cm": 91,
+          "max_width_cm": 131,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 123,
+          "overall_length_cm": 527,
+          "overall_width_cm": 200,
+          "overall_height_cm": 200,
+          "wheelbase_cm": 314,
+          "front_track_width_cm": 170,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2554,
+          "weight_distribution_pct": "52/48"
+        },
+        "2006": {
+          "hood_length_cm": 118,
+          "back_length_cm": 217,
+          "side_glass_max_height_cm": 51,
+          "door_height_cm": 91,
+          "max_width_cm": 131,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 123,
+          "overall_length_cm": 527,
+          "overall_width_cm": 200,
+          "overall_height_cm": 200,
+          "wheelbase_cm": 314,
+          "front_track_width_cm": 170,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2568,
+          "weight_distribution_pct": "52/48"
+        },
+        "2007": {
+          "hood_length_cm": 118,
+          "back_length_cm": 217,
+          "side_glass_max_height_cm": 51,
+          "door_height_cm": 91,
+          "max_width_cm": 131,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 123,
+          "overall_length_cm": 527,
+          "overall_width_cm": 200,
+          "overall_height_cm": 200,
+          "wheelbase_cm": 314,
+          "front_track_width_cm": 170,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2568,
+          "weight_distribution_pct": "52/48"
+        },
+        "2008": {
+          "hood_length_cm": 118,
+          "back_length_cm": 217,
+          "side_glass_max_height_cm": 51,
+          "door_height_cm": 91,
+          "max_width_cm": 131,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 123,
+          "overall_length_cm": 527,
+          "overall_width_cm": 200,
+          "overall_height_cm": 200,
+          "wheelbase_cm": 314,
+          "front_track_width_cm": 170,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2682,
+          "weight_distribution_pct": "52/48"
+        },
+        "2009": {
+          "hood_length_cm": 118,
+          "back_length_cm": 217,
+          "side_glass_max_height_cm": 51,
+          "door_height_cm": 91,
+          "max_width_cm": 131,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 123,
+          "overall_length_cm": 527,
+          "overall_width_cm": 200,
+          "overall_height_cm": 200,
+          "wheelbase_cm": 314,
+          "front_track_width_cm": 170,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2682,
+          "weight_distribution_pct": "52/48"
+        },
+        "2010": {
+          "hood_length_cm": 118,
+          "back_length_cm": 217,
+          "side_glass_max_height_cm": 51,
+          "door_height_cm": 91,
+          "max_width_cm": 131,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 123,
+          "overall_length_cm": 527,
+          "overall_width_cm": 200,
+          "overall_height_cm": 200,
+          "wheelbase_cm": 314,
+          "front_track_width_cm": 170,
+          "rear_track_width_cm": 170,
+          "curb_weight_kg": 2682,
+          "weight_distribution_pct": "52/48"
+        }
+      }
+    },
+    "QX56 4 DR SUV": {
+      "years": [
+        2011
+      ],
+      "details": {
+        "2011": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 217,
+          "side_glass_max_height_cm": 43,
+          "door_height_cm": 92,
+          "max_width_cm": 133,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 126,
+          "overall_length_cm": 529,
+          "overall_width_cm": 203,
+          "overall_height_cm": 193,
+          "wheelbase_cm": 308,
+          "front_track_width_cm": 172,
+          "rear_track_width_cm": 174,
+          "curb_weight_kg": 2654,
+          "weight_distribution_pct": "51/49"
+        }
+      }
+    },
+    "QX56 4 DR SUV AWD": {
+      "years": [
+        2012,
+        2013
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": 140,
+          "back_length_cm": 217,
+          "side_glass_max_height_cm": 43,
+          "door_height_cm": 92,
+          "max_width_cm": 133,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 126,
+          "overall_length_cm": 529,
+          "overall_width_cm": 203,
+          "overall_height_cm": 193,
+          "wheelbase_cm": 308,
+          "front_track_width_cm": 172,
+          "rear_track_width_cm": 174,
+          "curb_weight_kg": 2654,
+          "weight_distribution_pct": "51/49"
+        },
+        "2013": {
+          "hood_length_cm": 140,
+          "back_length_cm": 217,
+          "side_glass_max_height_cm": 43,
+          "door_height_cm": 92,
+          "max_width_cm": 133,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 126,
+          "overall_length_cm": 529,
+          "overall_width_cm": 203,
+          "overall_height_cm": 193,
+          "wheelbase_cm": 308,
+          "front_track_width_cm": 172,
+          "rear_track_width_cm": 174,
+          "curb_weight_kg": 2671,
+          "weight_distribution_pct": "51/49"
+        }
+      }
+    }
+  },
+  "FX50": {
+    "FX50 4DR SUV AWD": {
+      "years": [
+        2009,
+        2010,
+        2011,
+        2012,
+        2013
+      ],
+      "details": {
+        "2009": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 153,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 89,
+          "max_width_cm": 112,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 486,
+          "overall_width_cm": 193,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 2080,
+          "weight_distribution_pct": "54/46"
+        },
+        "2010": "<default>",
+        "2011": "<default>",
+        "2012": "<default>",
+        "2013": "<default>"
+      }
+    }
+  },
+  "FX37": {},
+  "JX35": {
+    "JX35 4DR SUV AWD": {
+      "years": [
+        2013
+      ],
+      "details": {
+        "2013": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 189,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 87,
+          "max_width_cm": 123,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 109,
+          "overall_length_cm": 499,
+          "overall_width_cm": 196,
+          "overall_height_cm": 174,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 168,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2005,
+          "weight_distribution_pct": "55/45"
+        }
+      }
+    }
+  },
+  "QX4": {
+    "QX4 4DR SUV 4X4": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ],
+      "details": {
+        "1997": "<default>",
+        "<default>": {
+          "hood_length_cm": 121,
+          "back_length_cm": 216,
+          "side_glass_max_height_cm": 45,
+          "door_height_cm": 76,
+          "max_width_cm": 112,
+          "front_overhang_cm": 83,
+          "rear_overhang_cm": 112,
+          "overall_length_cm": 467,
+          "overall_width_cm": 184,
+          "overall_height_cm": 180,
+          "wheelbase_cm": 270,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1939,
+          "weight_distribution_pct": "56/44"
+        },
+        "1998": {
+          "hood_length_cm": 121,
+          "back_length_cm": 216,
+          "side_glass_max_height_cm": 45,
+          "door_height_cm": 76,
+          "max_width_cm": 112,
+          "front_overhang_cm": 83,
+          "rear_overhang_cm": 112,
+          "overall_length_cm": 467,
+          "overall_width_cm": 184,
+          "overall_height_cm": 180,
+          "wheelbase_cm": 270,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1939,
+          "weight_distribution_pct": "55/45"
+        },
+        "1999": {
+          "hood_length_cm": 121,
+          "back_length_cm": 216,
+          "side_glass_max_height_cm": 45,
+          "door_height_cm": 76,
+          "max_width_cm": 112,
+          "front_overhang_cm": 83,
+          "rear_overhang_cm": 112,
+          "overall_length_cm": 467,
+          "overall_width_cm": 184,
+          "overall_height_cm": 180,
+          "wheelbase_cm": 270,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1939,
+          "weight_distribution_pct": "55/45"
+        },
+        "2000": {
+          "hood_length_cm": 121,
+          "back_length_cm": 216,
+          "side_glass_max_height_cm": 45,
+          "door_height_cm": 76,
+          "max_width_cm": 112,
+          "front_overhang_cm": 83,
+          "rear_overhang_cm": 112,
+          "overall_length_cm": 467,
+          "overall_width_cm": 184,
+          "overall_height_cm": 180,
+          "wheelbase_cm": 270,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1966,
+          "weight_distribution_pct": "55/45"
+        },
+        "2001": {
+          "hood_length_cm": 121,
+          "back_length_cm": 216,
+          "side_glass_max_height_cm": 45,
+          "door_height_cm": 76,
+          "max_width_cm": 112,
+          "front_overhang_cm": 83,
+          "rear_overhang_cm": 112,
+          "overall_length_cm": 465,
+          "overall_width_cm": 184,
+          "overall_height_cm": 180,
+          "wheelbase_cm": 270,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1974,
+          "weight_distribution_pct": "55/45"
+        },
+        "2002": {
+          "hood_length_cm": 121,
+          "back_length_cm": 216,
+          "side_glass_max_height_cm": 45,
+          "door_height_cm": 76,
+          "max_width_cm": 112,
+          "front_overhang_cm": 83,
+          "rear_overhang_cm": 112,
+          "overall_length_cm": 465,
+          "overall_width_cm": 184,
+          "overall_height_cm": 180,
+          "wheelbase_cm": 270,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1974,
+          "weight_distribution_pct": "55/45"
+        },
+        "2003": {
+          "hood_length_cm": 121,
+          "back_length_cm": 216,
+          "side_glass_max_height_cm": 45,
+          "door_height_cm": 76,
+          "max_width_cm": 112,
+          "front_overhang_cm": 83,
+          "rear_overhang_cm": 112,
+          "overall_length_cm": 465,
+          "overall_width_cm": 184,
+          "overall_height_cm": 180,
+          "wheelbase_cm": 270,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1974,
+          "weight_distribution_pct": "55/45"
+        }
+      }
+    }
+  }
+}

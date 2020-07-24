@@ -1,0 +1,659 @@
+{
+  "4C": {
+    "4C 2DR COUPE": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 114,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": 26,
+          "door_height_cm": 81,
+          "max_width_cm": 105,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 75,
+          "overall_length_cm": 399,
+          "overall_width_cm": 187,
+          "overall_height_cm": 118,
+          "wheelbase_cm": 238,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 160,
+          "curb_weight_kg": 1134,
+          "weight_distribution_pct": "41/59"
+        },
+        "2015": {
+          "hood_length_cm": 114,
+          "back_length_cm": 25,
+          "side_glass_max_height_cm": 26,
+          "door_height_cm": 81,
+          "max_width_cm": 105,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 75,
+          "overall_length_cm": 399,
+          "overall_width_cm": 187,
+          "overall_height_cm": 118,
+          "wheelbase_cm": 238,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 160,
+          "curb_weight_kg": 1118,
+          "weight_distribution_pct": "41/59"
+        },
+        "2016": {
+          "hood_length_cm": 114,
+          "back_length_cm": 25,
+          "side_glass_max_height_cm": 26,
+          "door_height_cm": 81,
+          "max_width_cm": 105,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 75,
+          "overall_length_cm": 399,
+          "overall_width_cm": 187,
+          "overall_height_cm": 118,
+          "wheelbase_cm": 238,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 160,
+          "curb_weight_kg": 1118,
+          "weight_distribution_pct": "41/59"
+        },
+        "2017": {
+          "hood_length_cm": 114,
+          "back_length_cm": 25,
+          "side_glass_max_height_cm": 26,
+          "door_height_cm": 81,
+          "max_width_cm": 105,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 75,
+          "overall_length_cm": 399,
+          "overall_width_cm": 187,
+          "overall_height_cm": 118,
+          "wheelbase_cm": 238,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 160,
+          "curb_weight_kg": 1118,
+          "weight_distribution_pct": "41/59"
+        },
+        "2018": {
+          "hood_length_cm": 114,
+          "back_length_cm": 25,
+          "side_glass_max_height_cm": 26,
+          "door_height_cm": 81,
+          "max_width_cm": 105,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 75,
+          "overall_length_cm": 399,
+          "overall_width_cm": 187,
+          "overall_height_cm": 118,
+          "wheelbase_cm": 238,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 160,
+          "curb_weight_kg": 1118,
+          "weight_distribution_pct": "41/59"
+        },
+        "2019": {
+          "hood_length_cm": 114,
+          "back_length_cm": 25,
+          "side_glass_max_height_cm": 26,
+          "door_height_cm": 81,
+          "max_width_cm": 105,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 75,
+          "overall_length_cm": 399,
+          "overall_width_cm": 187,
+          "overall_height_cm": 118,
+          "wheelbase_cm": 238,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 160,
+          "curb_weight_kg": 1118,
+          "weight_distribution_pct": "41/59"
+        }
+      }
+    },
+    "4C 2DR SPIDER": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 114,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": 26,
+          "door_height_cm": 81,
+          "max_width_cm": 105,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 75,
+          "overall_length_cm": 399,
+          "overall_width_cm": 187,
+          "overall_height_cm": 118,
+          "wheelbase_cm": 238,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 160,
+          "curb_weight_kg": 1128,
+          "weight_distribution_pct": "41/59"
+        },
+        "2016": "<default>",
+        "2017": "<default>",
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    }
+  },
+  "8C Competizione Spider": {},
+  "164": {
+    "164 SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ],
+      "details": {
+        "1990": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 456,
+          "overall_width_cm": 176,
+          "overall_height_cm": 140,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1313,
+          "weight_distribution_pct": null
+        },
+        "1991": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 426,
+          "overall_width_cm": 162,
+          "overall_height_cm": 126,
+          "wheelbase_cm": 225,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1156,
+          "weight_distribution_pct": null
+        },
+        "1992": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 456,
+          "overall_width_cm": 176,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1508,
+          "weight_distribution_pct": null
+        },
+        "1993": {
+          "hood_length_cm": 121,
+          "back_length_cm": 62,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 71,
+          "max_width_cm": 111,
+          "front_overhang_cm": 91,
+          "rear_overhang_cm": 101,
+          "overall_length_cm": 456,
+          "overall_width_cm": 176,
+          "overall_height_cm": 140,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1508,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "164 4DR SEDAN LS": {
+      "years": [
+        1994,
+        1995
+      ],
+      "details": {
+        "1994": "<default>",
+        "<default>": {
+          "hood_length_cm": 125,
+          "back_length_cm": 66,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 71,
+          "max_width_cm": 113,
+          "front_overhang_cm": 96,
+          "rear_overhang_cm": 106,
+          "overall_length_cm": 467,
+          "overall_width_cm": 176,
+          "overall_height_cm": 139,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": 151,
+          "rear_track_width_cm": 149,
+          "curb_weight_kg": 1550,
+          "weight_distribution_pct": null
+        },
+        "1995": "<default>"
+      }
+    }
+  },
+  "Giulia (952)": {},
+  "Spider": {
+    "SPIDER VELOCE": {
+      "years": [
+        1981,
+        1985,
+        1986,
+        1987
+      ],
+      "details": {
+        "1981": "<default>",
+        "<default>": {
+          "hood_length_cm": 132,
+          "back_length_cm": 41,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 68,
+          "max_width_cm": 110,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 429,
+          "overall_width_cm": 163,
+          "overall_height_cm": 124,
+          "wheelbase_cm": 225,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": null,
+          "weight_distribution_pct": null
+        },
+        "1985": {
+          "hood_length_cm": 141,
+          "back_length_cm": 103,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 62,
+          "max_width_cm": 110,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 429,
+          "overall_width_cm": 163,
+          "overall_height_cm": 124,
+          "wheelbase_cm": 225,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1158,
+          "weight_distribution_pct": null
+        },
+        "1986": {
+          "hood_length_cm": 141,
+          "back_length_cm": 103,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 62,
+          "max_width_cm": 110,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 429,
+          "overall_width_cm": 163,
+          "overall_height_cm": 124,
+          "wheelbase_cm": 225,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1158,
+          "weight_distribution_pct": null
+        },
+        "1987": {
+          "hood_length_cm": 141,
+          "back_length_cm": 103,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 62,
+          "max_width_cm": 110,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 105,
+          "overall_length_cm": 429,
+          "overall_width_cm": 163,
+          "overall_height_cm": 124,
+          "wheelbase_cm": 225,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1156,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "SPIDER GRADUATE/VELOCE/QUADIFOGLIO": {
+      "years": [
+        1990
+      ],
+      "details": {
+        "1990": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 429,
+          "overall_width_cm": 163,
+          "overall_height_cm": 124,
+          "wheelbase_cm": 225,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1156,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "SPIDER /SPIDER VELOCE": {
+      "years": [
+        1991,
+        1992,
+        1993,
+        1994
+      ],
+      "details": {
+        "1991": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 456,
+          "overall_width_cm": 176,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1508,
+          "weight_distribution_pct": null
+        },
+        "1992": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 426,
+          "overall_width_cm": 162,
+          "overall_height_cm": 126,
+          "wheelbase_cm": 225,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1156,
+          "weight_distribution_pct": null
+        },
+        "1993": {
+          "hood_length_cm": 146,
+          "back_length_cm": 101,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 64,
+          "max_width_cm": 108,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 100,
+          "overall_length_cm": 426,
+          "overall_width_cm": 162,
+          "overall_height_cm": 126,
+          "wheelbase_cm": 225,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1156,
+          "weight_distribution_pct": null
+        },
+        "1994": {
+          "hood_length_cm": 146,
+          "back_length_cm": 100,
+          "side_glass_max_height_cm": 32,
+          "door_height_cm": 64,
+          "max_width_cm": 108,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 100,
+          "overall_length_cm": 426,
+          "overall_width_cm": 162,
+          "overall_height_cm": 126,
+          "wheelbase_cm": 225,
+          "front_track_width_cm": 132,
+          "rear_track_width_cm": 127,
+          "curb_weight_kg": 1148,
+          "weight_distribution_pct": null
+        }
+      }
+    }
+  },
+  "Milano": {
+    "MILANO GOLD 4 DR SEDAN": {
+      "years": [
+        1987
+      ],
+      "details": {
+        "1987": "<default>",
+        "<default>": {
+          "hood_length_cm": 132,
+          "back_length_cm": 56,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 69,
+          "max_width_cm": 117,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 101,
+          "overall_length_cm": 433,
+          "overall_width_cm": 163,
+          "overall_height_cm": 135,
+          "wheelbase_cm": 251,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": null,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "MILANO PLATINUM 4 DR SEDAN": {
+      "years": [
+        1987
+      ],
+      "details": {
+        "1987": "<default>",
+        "<default>": {
+          "hood_length_cm": 132,
+          "back_length_cm": 56,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 69,
+          "max_width_cm": 117,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 101,
+          "overall_length_cm": 433,
+          "overall_width_cm": 163,
+          "overall_height_cm": 135,
+          "wheelbase_cm": 251,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": null,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "MILANO SILVER 4 DR SEDAN": {
+      "years": [
+        1987
+      ],
+      "details": {
+        "1987": "<default>",
+        "<default>": {
+          "hood_length_cm": 132,
+          "back_length_cm": 56,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 69,
+          "max_width_cm": 117,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 101,
+          "overall_length_cm": 433,
+          "overall_width_cm": 163,
+          "overall_height_cm": 135,
+          "wheelbase_cm": 251,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1319,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "MILANO GOLD/PLATINUM/VERDE 4 DR SEDAN": {
+      "years": [
+        1988
+      ],
+      "details": {
+        "1988": "<default>",
+        "<default>": {
+          "hood_length_cm": 132,
+          "back_length_cm": 56,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 69,
+          "max_width_cm": 117,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 101,
+          "overall_length_cm": 433,
+          "overall_width_cm": 163,
+          "overall_height_cm": 135,
+          "wheelbase_cm": 251,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1319,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "MILANO GOLD/VERDE 4 DR SEDAN": {
+      "years": [
+        1989
+      ],
+      "details": {
+        "1989": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 433,
+          "overall_width_cm": 163,
+          "overall_height_cm": 135,
+          "wheelbase_cm": 251,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1319,
+          "weight_distribution_pct": "53/47"
+        }
+      }
+    }
+  },
+  "GTV6": {
+    "GTV62.5": {
+      "years": [
+        1985,
+        1986
+      ],
+      "details": {
+        "1985": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 71,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 68,
+          "max_width_cm": 110,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 426,
+          "overall_width_cm": 166,
+          "overall_height_cm": 133,
+          "wheelbase_cm": 240,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1288,
+          "weight_distribution_pct": null
+        },
+        "1986": "<default>"
+      }
+    }
+  },
+  "Stelvio": {
+    "STELVIO BASE/Ti": {
+      "years": [
+        2018,
+        2019
+      ],
+      "details": {
+        "2018": "<default>",
+        "<default>": {
+          "hood_length_cm": 138,
+          "back_length_cm": 143,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 95,
+          "max_width_cm": 104,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 102,
+          "overall_length_cm": 469,
+          "overall_width_cm": 190,
+          "overall_height_cm": 165,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 165,
+          "curb_weight_kg": 1660,
+          "weight_distribution_pct": "52/48"
+        },
+        "2019": "<default>"
+      }
+    },
+    "STELVIO QUADRIFOGLIO": {
+      "years": [
+        2018,
+        2019
+      ],
+      "details": {
+        "2018": "<default>",
+        "<default>": {
+          "hood_length_cm": 138,
+          "back_length_cm": 143,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 95,
+          "max_width_cm": 104,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 102,
+          "overall_length_cm": 469,
+          "overall_width_cm": 190,
+          "overall_height_cm": 165,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 165,
+          "curb_weight_kg": 1750,
+          "weight_distribution_pct": "53/47"
+        },
+        "2019": "<default>"
+      }
+    }
+  }
+}

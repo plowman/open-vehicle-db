@@ -1,0 +1,3979 @@
+{
+  "MKZ": {
+    "MKZ 4DR SEDAN": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010
+      ],
+      "details": {
+        "2007": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 63,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 78,
+          "max_width_cm": 105,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 111,
+          "overall_length_cm": 484,
+          "overall_width_cm": 183,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 273,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1603,
+          "weight_distribution_pct": "61/39"
+        },
+        "2008": "<default>",
+        "2009": "<default>",
+        "2010": {
+          "hood_length_cm": 122,
+          "back_length_cm": 63,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 78,
+          "max_width_cm": 105,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 111,
+          "overall_length_cm": 484,
+          "overall_width_cm": 183,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 273,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1633,
+          "weight_distribution_pct": "61/39"
+        }
+      }
+    },
+    "MKZ 4DR SEDAN FWD/AWD/HYBRID": {
+      "years": [
+        2011
+      ],
+      "details": {
+        "2011": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 63,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 78,
+          "max_width_cm": 105,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 111,
+          "overall_length_cm": 484,
+          "overall_width_cm": 183,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 273,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1633,
+          "weight_distribution_pct": "61/39"
+        }
+      }
+    },
+    "MKZ 4DR SEDAN AWD/HYBRID": {
+      "years": [
+        2012
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 63,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 78,
+          "max_width_cm": 105,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 111,
+          "overall_length_cm": 484,
+          "overall_width_cm": 183,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 273,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1701,
+          "weight_distribution_pct": "61/39"
+        }
+      }
+    },
+    "MKZ 4DR SEDAN FWD": {
+      "years": [
+        2012
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 63,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 78,
+          "max_width_cm": 105,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 111,
+          "overall_length_cm": 484,
+          "overall_width_cm": 183,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 273,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1633,
+          "weight_distribution_pct": "61/39"
+        }
+      }
+    },
+    "MKZ 2.0L FWD/AWD/3.7L FWD/HYBRID 4DR SEDAN": {
+      "years": [
+        2013,
+        2014
+      ],
+      "details": {
+        "2013": "<default>",
+        "<default>": {
+          "hood_length_cm": 131,
+          "back_length_cm": 58,
+          "side_glass_max_height_cm": 30,
+          "door_height_cm": 87,
+          "max_width_cm": 116,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 111,
+          "overall_length_cm": 493,
+          "overall_width_cm": 186,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1736,
+          "weight_distribution_pct": "59/41"
+        },
+        "2014": "<default>"
+      }
+    },
+    "MKZ 3.7L AWD 4DR SEDAN": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016
+      ],
+      "details": {
+        "2013": "<default>",
+        "<default>": {
+          "hood_length_cm": 131,
+          "back_length_cm": 58,
+          "side_glass_max_height_cm": 30,
+          "door_height_cm": 87,
+          "max_width_cm": 116,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 111,
+          "overall_length_cm": 493,
+          "overall_width_cm": 186,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1815,
+          "weight_distribution_pct": "59/41"
+        },
+        "2014": "<default>",
+        "2015": "<default>",
+        "2016": "<default>"
+      }
+    },
+    "MKZ 2.0L/HYBRID 4DR SEDAN FWD": {
+      "years": [
+        2015
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 131,
+          "back_length_cm": 58,
+          "side_glass_max_height_cm": 30,
+          "door_height_cm": 87,
+          "max_width_cm": 116,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 111,
+          "overall_length_cm": 493,
+          "overall_width_cm": 186,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1736,
+          "weight_distribution_pct": "59/41"
+        }
+      }
+    },
+    "MKZ 2.0L/HYBRID 4DR SEDAN": {
+      "years": [
+        2016
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 131,
+          "back_length_cm": 58,
+          "side_glass_max_height_cm": 30,
+          "door_height_cm": 87,
+          "max_width_cm": 116,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 111,
+          "overall_length_cm": 493,
+          "overall_width_cm": 186,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1736,
+          "weight_distribution_pct": "59/41"
+        }
+      }
+    },
+    "MKZ 2.0L AWD 4DR SEDAN": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 131,
+          "back_length_cm": 59,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 87,
+          "max_width_cm": 116,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 111,
+          "overall_length_cm": 493,
+          "overall_width_cm": 186,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1773,
+          "weight_distribution_pct": "59/41"
+        },
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    },
+    "MKZ 3.0L AWD 4DR SEDAN": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 131,
+          "back_length_cm": 58,
+          "side_glass_max_height_cm": 30,
+          "door_height_cm": 87,
+          "max_width_cm": 116,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 111,
+          "overall_length_cm": 493,
+          "overall_width_cm": 186,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1905,
+          "weight_distribution_pct": "59/41"
+        },
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    },
+    "MKZ HYBRID 4DR SEDAN": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 131,
+          "back_length_cm": 58,
+          "side_glass_max_height_cm": 30,
+          "door_height_cm": 87,
+          "max_width_cm": 116,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 111,
+          "overall_length_cm": 493,
+          "overall_width_cm": 186,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1759,
+          "weight_distribution_pct": "57/43"
+        },
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    }
+  },
+  "Town Car": {
+    "TOWN CAR": {
+      "years": [
+        1985,
+        1986
+      ],
+      "details": {
+        "1985": "<default>",
+        "<default>": {
+          "hood_length_cm": 171,
+          "back_length_cm": 112,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 70,
+          "max_width_cm": 140,
+          "front_overhang_cm": 115,
+          "rear_overhang_cm": 143,
+          "overall_length_cm": 556,
+          "overall_width_cm": 199,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1827,
+          "weight_distribution_pct": "57/43"
+        },
+        "1986": {
+          "hood_length_cm": 171,
+          "back_length_cm": 112,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 70,
+          "max_width_cm": 140,
+          "front_overhang_cm": 115,
+          "rear_overhang_cm": 143,
+          "overall_length_cm": 556,
+          "overall_width_cm": 199,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1832,
+          "weight_distribution_pct": "57/43"
+        }
+      }
+    },
+    "TOWN CAR 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988
+      ],
+      "details": {
+        "1987": "<default>",
+        "<default>": {
+          "hood_length_cm": 171,
+          "back_length_cm": 112,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 70,
+          "max_width_cm": 140,
+          "front_overhang_cm": 115,
+          "rear_overhang_cm": 143,
+          "overall_length_cm": 556,
+          "overall_width_cm": 199,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1838,
+          "weight_distribution_pct": "56/44"
+        },
+        "1988": "<default>"
+      }
+    },
+    "TOWN CAR CARTIER 4 DR SEDAN": {
+      "years": [
+        1987
+      ],
+      "details": {
+        "1987": "<default>",
+        "<default>": {
+          "hood_length_cm": 171,
+          "back_length_cm": 112,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 70,
+          "max_width_cm": 140,
+          "front_overhang_cm": 115,
+          "rear_overhang_cm": 143,
+          "overall_length_cm": 556,
+          "overall_width_cm": 199,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1853,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "TOWN CAR SIGNATURE 4 DR SEDAN": {
+      "years": [
+        1987
+      ],
+      "details": {
+        "1987": "<default>",
+        "<default>": {
+          "hood_length_cm": 171,
+          "back_length_cm": 112,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 70,
+          "max_width_cm": 140,
+          "front_overhang_cm": 115,
+          "rear_overhang_cm": 143,
+          "overall_length_cm": 556,
+          "overall_width_cm": 199,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1863,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "TOWN CAR 4 DR SEDAN/SIGNATURE/CARTIER": {
+      "years": [
+        1989
+      ],
+      "details": {
+        "1989": "<default>",
+        "<default>": {
+          "hood_length_cm": 171,
+          "back_length_cm": 112,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 70,
+          "max_width_cm": 140,
+          "front_overhang_cm": 115,
+          "rear_overhang_cm": 143,
+          "overall_length_cm": 557,
+          "overall_width_cm": 199,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1834,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "TOWN CAR BASE/SIGNATURE/CARTIER 4D SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ],
+      "details": {
+        "1990": "<default>",
+        "<default>": {
+          "hood_length_cm": 166,
+          "back_length_cm": 105,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 75,
+          "max_width_cm": 130,
+          "front_overhang_cm": 112,
+          "rear_overhang_cm": 145,
+          "overall_length_cm": 559,
+          "overall_width_cm": 199,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 162,
+          "curb_weight_kg": 1830,
+          "weight_distribution_pct": "56/44"
+        },
+        "1991": {
+          "hood_length_cm": 166,
+          "back_length_cm": 105,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 75,
+          "max_width_cm": 130,
+          "front_overhang_cm": 112,
+          "rear_overhang_cm": 145,
+          "overall_length_cm": 559,
+          "overall_width_cm": 199,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1830,
+          "weight_distribution_pct": "56/44"
+        },
+        "1992": {
+          "hood_length_cm": 166,
+          "back_length_cm": 105,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 75,
+          "max_width_cm": 130,
+          "front_overhang_cm": 112,
+          "rear_overhang_cm": 145,
+          "overall_length_cm": 559,
+          "overall_width_cm": 199,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1830,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "TOWN CAR EXEC/SIGNATURE/CARTIER 4D SEDAN": {
+      "years": [
+        1993
+      ],
+      "details": {
+        "1993": "<default>",
+        "<default>": {
+          "hood_length_cm": 166,
+          "back_length_cm": 105,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 75,
+          "max_width_cm": 130,
+          "front_overhang_cm": 112,
+          "rear_overhang_cm": 145,
+          "overall_length_cm": 559,
+          "overall_width_cm": 199,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1830,
+          "weight_distribution_pct": "55/45"
+        }
+      }
+    },
+    "TOWN CAR 4DR SEDAN EXEC/SIGNATURE/CARTIER": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ],
+      "details": {
+        "1994": "<default>",
+        "<default>": {
+          "hood_length_cm": 166,
+          "back_length_cm": 105,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 75,
+          "max_width_cm": 130,
+          "front_overhang_cm": 112,
+          "rear_overhang_cm": 145,
+          "overall_length_cm": 556,
+          "overall_width_cm": 195,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 161,
+          "curb_weight_kg": 1830,
+          "weight_distribution_pct": "54/46"
+        },
+        "1995": {
+          "hood_length_cm": 168,
+          "back_length_cm": 105,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 72,
+          "max_width_cm": 129,
+          "front_overhang_cm": 115,
+          "rear_overhang_cm": 144,
+          "overall_length_cm": 556,
+          "overall_width_cm": 195,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1830,
+          "weight_distribution_pct": "54/46"
+        },
+        "1996": {
+          "hood_length_cm": 168,
+          "back_length_cm": 105,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 72,
+          "max_width_cm": 129,
+          "front_overhang_cm": 115,
+          "rear_overhang_cm": 144,
+          "overall_length_cm": 556,
+          "overall_width_cm": 195,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 161,
+          "curb_weight_kg": 1833,
+          "weight_distribution_pct": "54/46"
+        },
+        "1997": {
+          "hood_length_cm": 168,
+          "back_length_cm": 105,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 72,
+          "max_width_cm": 129,
+          "front_overhang_cm": 115,
+          "rear_overhang_cm": 144,
+          "overall_length_cm": 556,
+          "overall_width_cm": 195,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 161,
+          "curb_weight_kg": 1833,
+          "weight_distribution_pct": "54/46"
+        },
+        "1998": {
+          "hood_length_cm": 151,
+          "back_length_cm": 104,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 77,
+          "max_width_cm": 115,
+          "front_overhang_cm": 141,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 547,
+          "overall_width_cm": 198,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 1817,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "TOWN CAR 4DR SEDAN SIGNATURE/TOURING/CARTIER": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002
+      ],
+      "details": {
+        "1999": "<default>",
+        "<default>": {
+          "hood_length_cm": 151,
+          "back_length_cm": 104,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 77,
+          "max_width_cm": 115,
+          "front_overhang_cm": 141,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 547,
+          "overall_width_cm": 199,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 1821,
+          "weight_distribution_pct": "56/44"
+        },
+        "2000": "<default>",
+        "2001": "<default>",
+        "2002": {
+          "hood_length_cm": 151,
+          "back_length_cm": 104,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 77,
+          "max_width_cm": 115,
+          "front_overhang_cm": 107,
+          "rear_overhang_cm": 141,
+          "overall_length_cm": 547,
+          "overall_width_cm": 199,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 1821,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "TOWN CAR CARTIER L 4DR SEDAN RWD": {
+      "years": [
+        2002
+      ],
+      "details": {
+        "2002": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 562,
+          "overall_width_cm": 199,
+          "overall_height_cm": 147,
+          "wheelbase_cm": 314,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1869,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "TOWN CAR CARTIER/EXECUTIVE LIVERY/LIMOUSINE": {
+      "years": [
+        2003
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": 151,
+          "back_length_cm": 104,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 77,
+          "max_width_cm": 115,
+          "front_overhang_cm": 107,
+          "rear_overhang_cm": 141,
+          "overall_length_cm": 547,
+          "overall_width_cm": 199,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 1836,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "TOWN CAR EXECUTIVE L LIVERY 4DR SEDAN": {
+      "years": [
+        2003
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 562,
+          "overall_width_cm": 199,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 314,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1869,
+          "weight_distribution_pct": "43/57"
+        }
+      }
+    },
+    "TOWN CAR SIGNATURE/SIGNATURE PREMIUM": {
+      "years": [
+        2003
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": 151,
+          "back_length_cm": 104,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 77,
+          "max_width_cm": 115,
+          "front_overhang_cm": 107,
+          "rear_overhang_cm": 141,
+          "overall_length_cm": 547,
+          "overall_width_cm": 199,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 1836,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "TOWN CAR 4DR SEDAN RWD /ULTIMATE": {
+      "years": [
+        2004
+      ],
+      "details": {
+        "2004": "<default>",
+        "<default>": {
+          "hood_length_cm": 151,
+          "back_length_cm": 104,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 77,
+          "max_width_cm": 115,
+          "front_overhang_cm": 107,
+          "rear_overhang_cm": 141,
+          "overall_length_cm": 547,
+          "overall_width_cm": 199,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 1982,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "TOWN CAR 4DR SEDAN RWD /ULTIMATE L": {
+      "years": [
+        2004
+      ],
+      "details": {
+        "2004": "<default>",
+        "<default>": {
+          "hood_length_cm": 151,
+          "back_length_cm": 104,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 77,
+          "max_width_cm": 115,
+          "front_overhang_cm": 107,
+          "rear_overhang_cm": 141,
+          "overall_length_cm": 562,
+          "overall_width_cm": 199,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 314,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 2029,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "TOWN CAR 4DR SEDAN RWD /SIGNATURE LIMITED": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ],
+      "details": {
+        "2005": "<default>",
+        "<default>": {
+          "hood_length_cm": 151,
+          "back_length_cm": 104,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 77,
+          "max_width_cm": 115,
+          "front_overhang_cm": 107,
+          "rear_overhang_cm": 141,
+          "overall_length_cm": 547,
+          "overall_width_cm": 199,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 2003,
+          "weight_distribution_pct": "54/46"
+        },
+        "2006": {
+          "hood_length_cm": 151,
+          "back_length_cm": 104,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 77,
+          "max_width_cm": 115,
+          "front_overhang_cm": 107,
+          "rear_overhang_cm": 141,
+          "overall_length_cm": 547,
+          "overall_width_cm": 199,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 1971,
+          "weight_distribution_pct": "54/46"
+        },
+        "2007": {
+          "hood_length_cm": 151,
+          "back_length_cm": 104,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 77,
+          "max_width_cm": 115,
+          "front_overhang_cm": 141,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 547,
+          "overall_width_cm": 199,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 1971,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "TOWN CAR 4DR SEDAN RWD /SIGNATURE L": {
+      "years": [
+        2006,
+        2007
+      ],
+      "details": {
+        "2006": "<default>",
+        "<default>": {
+          "hood_length_cm": 151,
+          "back_length_cm": 104,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 77,
+          "max_width_cm": 115,
+          "front_overhang_cm": 107,
+          "rear_overhang_cm": 141,
+          "overall_length_cm": 562,
+          "overall_width_cm": 199,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 314,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 2004,
+          "weight_distribution_pct": "54/46"
+        },
+        "2007": {
+          "hood_length_cm": 151,
+          "back_length_cm": 104,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 77,
+          "max_width_cm": 115,
+          "front_overhang_cm": 141,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 562,
+          "overall_width_cm": 199,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 314,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 2004,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    }
+  },
+  "MKS": {
+    "MKS 4DR SEDAN AWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ],
+      "details": {
+        "2008": "<default>",
+        "<default>": {
+          "hood_length_cm": 132,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 85,
+          "max_width_cm": 116,
+          "front_overhang_cm": 108,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 518,
+          "overall_width_cm": 193,
+          "overall_height_cm": 156,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 165,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 1940,
+          "weight_distribution_pct": null
+        },
+        "2009": {
+          "hood_length_cm": 132,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 85,
+          "max_width_cm": 116,
+          "front_overhang_cm": 108,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 518,
+          "overall_width_cm": 193,
+          "overall_height_cm": 156,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 165,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 1940,
+          "weight_distribution_pct": "58/42"
+        },
+        "2010": {
+          "hood_length_cm": 132,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 85,
+          "max_width_cm": 116,
+          "front_overhang_cm": 108,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 518,
+          "overall_width_cm": 193,
+          "overall_height_cm": 156,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 165,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 1940,
+          "weight_distribution_pct": "58/42"
+        },
+        "2011": {
+          "hood_length_cm": 132,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 85,
+          "max_width_cm": 116,
+          "front_overhang_cm": 108,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 518,
+          "overall_width_cm": 193,
+          "overall_height_cm": 156,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 165,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 1940,
+          "weight_distribution_pct": "58/42"
+        },
+        "2012": {
+          "hood_length_cm": 132,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 85,
+          "max_width_cm": 116,
+          "front_overhang_cm": 108,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 518,
+          "overall_width_cm": 193,
+          "overall_height_cm": 156,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 165,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 1940,
+          "weight_distribution_pct": "58/42"
+        },
+        "2013": {
+          "hood_length_cm": 132,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 85,
+          "max_width_cm": 116,
+          "front_overhang_cm": 108,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 518,
+          "overall_width_cm": 193,
+          "overall_height_cm": 156,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 165,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 1940,
+          "weight_distribution_pct": "58/42"
+        },
+        "2014": {
+          "hood_length_cm": 141,
+          "back_length_cm": 62,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 85,
+          "max_width_cm": 116,
+          "front_overhang_cm": 108,
+          "rear_overhang_cm": 128,
+          "overall_length_cm": 522,
+          "overall_width_cm": 193,
+          "overall_height_cm": 157,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 165,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 1940,
+          "weight_distribution_pct": "58/42"
+        }
+      }
+    },
+    "MKS 4DR SEDAN FWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ],
+      "details": {
+        "2008": "<default>",
+        "<default>": {
+          "hood_length_cm": 132,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 85,
+          "max_width_cm": 116,
+          "front_overhang_cm": 108,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 518,
+          "overall_width_cm": 193,
+          "overall_height_cm": 156,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 165,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 1872,
+          "weight_distribution_pct": null
+        },
+        "2009": {
+          "hood_length_cm": 132,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 85,
+          "max_width_cm": 116,
+          "front_overhang_cm": 108,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 518,
+          "overall_width_cm": 193,
+          "overall_height_cm": 156,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 165,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 1872,
+          "weight_distribution_pct": "58/42"
+        },
+        "2010": {
+          "hood_length_cm": 132,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 85,
+          "max_width_cm": 116,
+          "front_overhang_cm": 108,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 518,
+          "overall_width_cm": 193,
+          "overall_height_cm": 156,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 165,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 1872,
+          "weight_distribution_pct": "58/42"
+        },
+        "2011": {
+          "hood_length_cm": 132,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 85,
+          "max_width_cm": 116,
+          "front_overhang_cm": 108,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 518,
+          "overall_width_cm": 193,
+          "overall_height_cm": 156,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 165,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 1872,
+          "weight_distribution_pct": "58/42"
+        },
+        "2012": {
+          "hood_length_cm": 132,
+          "back_length_cm": 55,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 85,
+          "max_width_cm": 116,
+          "front_overhang_cm": 108,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 518,
+          "overall_width_cm": 193,
+          "overall_height_cm": 156,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 165,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 1872,
+          "weight_distribution_pct": "58/42"
+        }
+      }
+    },
+    "MKS 4DR SEDAN AWD /ECOBOOST": {
+      "years": [
+        2015
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 141,
+          "back_length_cm": 62,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 85,
+          "max_width_cm": 116,
+          "front_overhang_cm": 108,
+          "rear_overhang_cm": 128,
+          "overall_length_cm": 522,
+          "overall_width_cm": 193,
+          "overall_height_cm": 157,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 165,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 1940,
+          "weight_distribution_pct": "58/42"
+        }
+      }
+    },
+    "MKS 4DR SEDAN": {
+      "years": [
+        2016
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 141,
+          "back_length_cm": 62,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 85,
+          "max_width_cm": 116,
+          "front_overhang_cm": 108,
+          "rear_overhang_cm": 128,
+          "overall_length_cm": 522,
+          "overall_width_cm": 193,
+          "overall_height_cm": 157,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 165,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 1992,
+          "weight_distribution_pct": "58/42"
+        }
+      }
+    }
+  },
+  "LS": {
+    "LS 4DR SEDAN V6 3.0L": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ],
+      "details": {
+        "2000": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 68,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 79,
+          "max_width_cm": 108,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 493,
+          "overall_width_cm": 186,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1621,
+          "weight_distribution_pct": "51/49"
+        },
+        "2001": {
+          "hood_length_cm": 120,
+          "back_length_cm": 68,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 79,
+          "max_width_cm": 108,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 493,
+          "overall_width_cm": 186,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 291,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1621,
+          "weight_distribution_pct": "51/49"
+        },
+        "2002": {
+          "hood_length_cm": 120,
+          "back_length_cm": 68,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 79,
+          "max_width_cm": 108,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 493,
+          "overall_width_cm": 186,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 291,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 2050,
+          "weight_distribution_pct": "51/49"
+        }
+      }
+    },
+    "LS 4DR SEDAN V8 4.0L": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ],
+      "details": {
+        "2000": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 68,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 79,
+          "max_width_cm": 108,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 493,
+          "overall_width_cm": 186,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1666,
+          "weight_distribution_pct": "52/48"
+        },
+        "2001": {
+          "hood_length_cm": 120,
+          "back_length_cm": 68,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 79,
+          "max_width_cm": 108,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 493,
+          "overall_width_cm": 186,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 291,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1666,
+          "weight_distribution_pct": "52/48"
+        },
+        "2002": {
+          "hood_length_cm": 120,
+          "back_length_cm": 68,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 79,
+          "max_width_cm": 108,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 493,
+          "overall_width_cm": 186,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 291,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 2119,
+          "weight_distribution_pct": "52/48"
+        }
+      }
+    },
+    "LS 4DR SEDAN V6 3.0L/ SPORT": {
+      "years": [
+        2003
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 68,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 79,
+          "max_width_cm": 108,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 493,
+          "overall_width_cm": 186,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 291,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1621,
+          "weight_distribution_pct": "52/48"
+        }
+      }
+    },
+    "LS 4DR SEDAN V8 3.9L": {
+      "years": [
+        2003
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 68,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 79,
+          "max_width_cm": 108,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 493,
+          "overall_width_cm": 186,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 291,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1666,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "LS 4DR SEDAN RWD V6 3.0L": {
+      "years": [
+        2004,
+        2005
+      ],
+      "details": {
+        "2004": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 68,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 79,
+          "max_width_cm": 108,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 493,
+          "overall_width_cm": 186,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 291,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1670,
+          "weight_distribution_pct": "52/48"
+        },
+        "2005": "<default>"
+      }
+    },
+    "LS 4DR SEDAN RWD V8 3.9L": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ],
+      "details": {
+        "2004": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 68,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 79,
+          "max_width_cm": 108,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 493,
+          "overall_width_cm": 186,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 291,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1709,
+          "weight_distribution_pct": "56/44"
+        },
+        "2005": "<default>",
+        "2006": {
+          "hood_length_cm": 120,
+          "back_length_cm": 68,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 79,
+          "max_width_cm": 108,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 493,
+          "overall_width_cm": 186,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 291,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1729,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    }
+  },
+  "Zephyr": {
+    "ZEPHYR 4DR SEDAN": {
+      "years": [
+        2006
+      ],
+      "details": {
+        "2006": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 63,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 78,
+          "max_width_cm": 105,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 111,
+          "overall_length_cm": 484,
+          "overall_width_cm": 183,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 273,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1545,
+          "weight_distribution_pct": "61/39"
+        }
+      }
+    }
+  },
+  "Continental": {
+    "CONTINENTAL 4 DR": {
+      "years": [
+        1981,
+        1982
+      ],
+      "details": {
+        "1981": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": null,
+          "overall_width_cm": null,
+          "overall_height_cm": null,
+          "wheelbase_cm": null,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": null,
+          "weight_distribution_pct": null
+        },
+        "1982": {
+          "hood_length_cm": 162,
+          "back_length_cm": 103,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 69,
+          "max_width_cm": 133,
+          "front_overhang_cm": 108,
+          "rear_overhang_cm": 126,
+          "overall_length_cm": 511,
+          "overall_width_cm": 197,
+          "overall_height_cm": 140,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1680,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "CONTINENTAL MARK VI 2 DR": {
+      "years": [
+        1981,
+        1982
+      ],
+      "details": {
+        "1981": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 549,
+          "overall_width_cm": 198,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1839,
+          "weight_distribution_pct": null
+        },
+        "1982": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 549,
+          "overall_width_cm": 198,
+          "overall_height_cm": 140,
+          "wheelbase_cm": 290,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1840,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "CONTINENTAL MARK VI 4 DR": {
+      "years": [
+        1981,
+        1982
+      ],
+      "details": {
+        "1981": "<default>",
+        "<default>": {
+          "hood_length_cm": 178,
+          "back_length_cm": 105,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 72,
+          "max_width_cm": 140,
+          "front_overhang_cm": 116,
+          "rear_overhang_cm": 141,
+          "overall_length_cm": 557,
+          "overall_width_cm": 198,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1880,
+          "weight_distribution_pct": null
+        },
+        "1982": {
+          "hood_length_cm": 178,
+          "back_length_cm": 105,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 72,
+          "max_width_cm": 140,
+          "front_overhang_cm": 116,
+          "rear_overhang_cm": 141,
+          "overall_length_cm": 557,
+          "overall_width_cm": 198,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1880,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "CONTINENTAL": {
+      "years": [
+        1985,
+        1986,
+        2017
+      ],
+      "details": {
+        "1985": "<default>",
+        "<default>": {
+          "hood_length_cm": 174,
+          "back_length_cm": 82,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 74,
+          "max_width_cm": 132,
+          "front_overhang_cm": 117,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 510,
+          "overall_width_cm": 187,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1723,
+          "weight_distribution_pct": "56/44"
+        },
+        "1986": {
+          "hood_length_cm": 174,
+          "back_length_cm": 82,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 74,
+          "max_width_cm": 132,
+          "front_overhang_cm": 117,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 510,
+          "overall_width_cm": 187,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1714,
+          "weight_distribution_pct": "56/44"
+        },
+        "2017": {
+          "hood_length_cm": 128,
+          "back_length_cm": 65,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 83,
+          "max_width_cm": 117,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 512,
+          "overall_width_cm": 191,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1916,
+          "weight_distribution_pct": "59/41"
+        }
+      }
+    },
+    "CONTINENTAL MARK VII": {
+      "years": [
+        1985,
+        1986
+      ],
+      "details": {
+        "1985": "<default>",
+        "<default>": {
+          "hood_length_cm": 159,
+          "back_length_cm": 81,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 67,
+          "max_width_cm": 110,
+          "front_overhang_cm": 110,
+          "rear_overhang_cm": 128,
+          "overall_length_cm": 515,
+          "overall_width_cm": 180,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1643,
+          "weight_distribution_pct": "56/44"
+        },
+        "1986": {
+          "hood_length_cm": 159,
+          "back_length_cm": 81,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 67,
+          "max_width_cm": 110,
+          "front_overhang_cm": 110,
+          "rear_overhang_cm": 128,
+          "overall_length_cm": 515,
+          "overall_width_cm": 180,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1663,
+          "weight_distribution_pct": "57/43"
+        }
+      }
+    },
+    "CONTINENTAL 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988
+      ],
+      "details": {
+        "1987": "<default>",
+        "<default>": {
+          "hood_length_cm": 174,
+          "back_length_cm": 82,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 74,
+          "max_width_cm": 132,
+          "front_overhang_cm": 117,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 510,
+          "overall_width_cm": 187,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1723,
+          "weight_distribution_pct": "56/44"
+        },
+        "1988": {
+          "hood_length_cm": 147,
+          "back_length_cm": 83,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 72,
+          "max_width_cm": 116,
+          "front_overhang_cm": 116,
+          "rear_overhang_cm": 132,
+          "overall_length_cm": 521,
+          "overall_width_cm": 185,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1650,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "CONTINENTAL GIVENCHY 4 DR SEDAN": {
+      "years": [
+        1987
+      ],
+      "details": {
+        "1987": "<default>",
+        "<default>": {
+          "hood_length_cm": 174,
+          "back_length_cm": 82,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 74,
+          "max_width_cm": 132,
+          "front_overhang_cm": 117,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 510,
+          "overall_width_cm": 187,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1735,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "CONTINENTAL 4 DR SEDAN/SIGNATURE": {
+      "years": [
+        1989
+      ],
+      "details": {
+        "1989": "<default>",
+        "<default>": {
+          "hood_length_cm": 147,
+          "back_length_cm": 83,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 72,
+          "max_width_cm": 116,
+          "front_overhang_cm": 116,
+          "rear_overhang_cm": 132,
+          "overall_length_cm": 521,
+          "overall_width_cm": 185,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1649,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "CONTINENTAL BASE/SIGNATURE 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ],
+      "details": {
+        "1990": "<default>",
+        "<default>": {
+          "hood_length_cm": 147,
+          "back_length_cm": 83,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 72,
+          "max_width_cm": 116,
+          "front_overhang_cm": 116,
+          "rear_overhang_cm": 132,
+          "overall_length_cm": 521,
+          "overall_width_cm": 185,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1665,
+          "weight_distribution_pct": "62/38"
+        },
+        "1991": {
+          "hood_length_cm": 147,
+          "back_length_cm": 83,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 72,
+          "max_width_cm": 116,
+          "front_overhang_cm": 116,
+          "rear_overhang_cm": 132,
+          "overall_length_cm": 521,
+          "overall_width_cm": 185,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1665,
+          "weight_distribution_pct": "62/38"
+        },
+        "1992": {
+          "hood_length_cm": 147,
+          "back_length_cm": 83,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 72,
+          "max_width_cm": 116,
+          "front_overhang_cm": 116,
+          "rear_overhang_cm": 132,
+          "overall_length_cm": 521,
+          "overall_width_cm": 185,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1665,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "CONTINENTAL EXECUTIV/SIGNATURE 4DR SEDAN": {
+      "years": [
+        1993
+      ],
+      "details": {
+        "1993": "<default>",
+        "<default>": {
+          "hood_length_cm": 147,
+          "back_length_cm": 83,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 72,
+          "max_width_cm": 116,
+          "front_overhang_cm": 116,
+          "rear_overhang_cm": 132,
+          "overall_length_cm": 521,
+          "overall_width_cm": 185,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1665,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "CONTINENTAL 4DR SEDAN EXECUTIV/SIGNATURE": {
+      "years": [
+        1994
+      ],
+      "details": {
+        "1994": "<default>",
+        "<default>": {
+          "hood_length_cm": 147,
+          "back_length_cm": 83,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 72,
+          "max_width_cm": 116,
+          "front_overhang_cm": 114,
+          "rear_overhang_cm": 132,
+          "overall_length_cm": 522,
+          "overall_width_cm": 184,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1630,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "CONTINENTAL 4DR SEDAN": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2018,
+        2019
+      ],
+      "details": {
+        "1995": "<default>",
+        "<default>": {
+          "hood_length_cm": 151,
+          "back_length_cm": 77,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 73,
+          "max_width_cm": 113,
+          "front_overhang_cm": 117,
+          "rear_overhang_cm": 130,
+          "overall_length_cm": 524,
+          "overall_width_cm": 186,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1938,
+          "weight_distribution_pct": "62/38"
+        },
+        "1996": {
+          "hood_length_cm": 151,
+          "back_length_cm": 77,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 73,
+          "max_width_cm": 113,
+          "front_overhang_cm": 117,
+          "rear_overhang_cm": 130,
+          "overall_length_cm": 524,
+          "overall_width_cm": 187,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1801,
+          "weight_distribution_pct": "62/38"
+        },
+        "1997": {
+          "hood_length_cm": 151,
+          "back_length_cm": 77,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 73,
+          "max_width_cm": 113,
+          "front_overhang_cm": 117,
+          "rear_overhang_cm": 130,
+          "overall_length_cm": 524,
+          "overall_width_cm": 187,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1801,
+          "weight_distribution_pct": "63/37"
+        },
+        "1998": {
+          "hood_length_cm": 133,
+          "back_length_cm": 85,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 72,
+          "max_width_cm": 113,
+          "front_overhang_cm": 115,
+          "rear_overhang_cm": 139,
+          "overall_length_cm": 530,
+          "overall_width_cm": 187,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1755,
+          "weight_distribution_pct": "63/37"
+        },
+        "1999": {
+          "hood_length_cm": 133,
+          "back_length_cm": 85,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 72,
+          "max_width_cm": 113,
+          "front_overhang_cm": 115,
+          "rear_overhang_cm": 139,
+          "overall_length_cm": 530,
+          "overall_width_cm": 187,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1755,
+          "weight_distribution_pct": "63/37"
+        },
+        "2000": {
+          "hood_length_cm": 133,
+          "back_length_cm": 85,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 72,
+          "max_width_cm": 113,
+          "front_overhang_cm": 115,
+          "rear_overhang_cm": 139,
+          "overall_length_cm": 530,
+          "overall_width_cm": 187,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1745,
+          "weight_distribution_pct": "62/38"
+        },
+        "2001": {
+          "hood_length_cm": 133,
+          "back_length_cm": 85,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 72,
+          "max_width_cm": 113,
+          "front_overhang_cm": 115,
+          "rear_overhang_cm": 139,
+          "overall_length_cm": 530,
+          "overall_width_cm": 187,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1755,
+          "weight_distribution_pct": "62/38"
+        },
+        "2002": {
+          "hood_length_cm": 133,
+          "back_length_cm": 85,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 72,
+          "max_width_cm": 113,
+          "front_overhang_cm": 115,
+          "rear_overhang_cm": 139,
+          "overall_length_cm": 530,
+          "overall_width_cm": 187,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1745,
+          "weight_distribution_pct": "62/38"
+        },
+        "2018": {
+          "hood_length_cm": 128,
+          "back_length_cm": 65,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 83,
+          "max_width_cm": 117,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 512,
+          "overall_width_cm": 191,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1916,
+          "weight_distribution_pct": "59/41"
+        },
+        "2019": {
+          "hood_length_cm": 128,
+          "back_length_cm": 65,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 83,
+          "max_width_cm": 117,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 512,
+          "overall_width_cm": 191,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1916,
+          "weight_distribution_pct": "59/41"
+        }
+      }
+    }
+  },
+  "Mark": {
+    "MARK VII 2 DR COUPE": {
+      "years": [
+        1987
+      ],
+      "details": {
+        "1987": "<default>",
+        "<default>": {
+          "hood_length_cm": 159,
+          "back_length_cm": 81,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 67,
+          "max_width_cm": 110,
+          "front_overhang_cm": 110,
+          "rear_overhang_cm": 128,
+          "overall_length_cm": 515,
+          "overall_width_cm": 180,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1688,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "MARK VII BILL BLASS 2 DR COUPE": {
+      "years": [
+        1987
+      ],
+      "details": {
+        "1987": "<default>",
+        "<default>": {
+          "hood_length_cm": 159,
+          "back_length_cm": 81,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 67,
+          "max_width_cm": 110,
+          "front_overhang_cm": 110,
+          "rear_overhang_cm": 128,
+          "overall_length_cm": 515,
+          "overall_width_cm": 180,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1700,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "MARK VII LSC 2 DR COUPE": {
+      "years": [
+        1987
+      ],
+      "details": {
+        "1987": "<default>",
+        "<default>": {
+          "hood_length_cm": 159,
+          "back_length_cm": 81,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 67,
+          "max_width_cm": 110,
+          "front_overhang_cm": 110,
+          "rear_overhang_cm": 128,
+          "overall_length_cm": 515,
+          "overall_width_cm": 180,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1700,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "MARK VII BILL BLASS/LSC 2 DR COUPE": {
+      "years": [
+        1988,
+        1989
+      ],
+      "details": {
+        "1988": "<default>",
+        "<default>": {
+          "hood_length_cm": 159,
+          "back_length_cm": 81,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 67,
+          "max_width_cm": 110,
+          "front_overhang_cm": 110,
+          "rear_overhang_cm": 128,
+          "overall_length_cm": 515,
+          "overall_width_cm": 180,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1700,
+          "weight_distribution_pct": "56/44"
+        },
+        "1989": {
+          "hood_length_cm": 159,
+          "back_length_cm": 81,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 67,
+          "max_width_cm": 110,
+          "front_overhang_cm": 110,
+          "rear_overhang_cm": 128,
+          "overall_length_cm": 515,
+          "overall_width_cm": 180,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 148,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1716,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "MARK VII BILL BLASS/LSC 2DR COUPE": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ],
+      "details": {
+        "1990": "<default>",
+        "<default>": {
+          "hood_length_cm": 159,
+          "back_length_cm": 81,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 67,
+          "max_width_cm": 110,
+          "front_overhang_cm": 110,
+          "rear_overhang_cm": 128,
+          "overall_length_cm": 515,
+          "overall_width_cm": 180,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 148,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1718,
+          "weight_distribution_pct": "56/44"
+        },
+        "1991": {
+          "hood_length_cm": 159,
+          "back_length_cm": 81,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 67,
+          "max_width_cm": 110,
+          "front_overhang_cm": 110,
+          "rear_overhang_cm": 128,
+          "overall_length_cm": 515,
+          "overall_width_cm": 180,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1718,
+          "weight_distribution_pct": "56/44"
+        },
+        "1992": {
+          "hood_length_cm": 159,
+          "back_length_cm": 81,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 67,
+          "max_width_cm": 110,
+          "front_overhang_cm": 110,
+          "rear_overhang_cm": 128,
+          "overall_length_cm": 515,
+          "overall_width_cm": 180,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1718,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "MARK VIII 2DR COUPE": {
+      "years": [
+        1993,
+        1994,
+        1995,
+        1996
+      ],
+      "details": {
+        "1993": "<default>",
+        "<default>": {
+          "hood_length_cm": 153,
+          "back_length_cm": 73,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 70,
+          "max_width_cm": 115,
+          "front_overhang_cm": 114,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 526,
+          "overall_width_cm": 190,
+          "overall_height_cm": 136,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1701,
+          "weight_distribution_pct": "59/41"
+        },
+        "1994": {
+          "hood_length_cm": 153,
+          "back_length_cm": 73,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 70,
+          "max_width_cm": 115,
+          "front_overhang_cm": 114,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 526,
+          "overall_width_cm": 190,
+          "overall_height_cm": 136,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1701,
+          "weight_distribution_pct": "59/41"
+        },
+        "1995": {
+          "hood_length_cm": 153,
+          "back_length_cm": 73,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 70,
+          "max_width_cm": 115,
+          "front_overhang_cm": 114,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 526,
+          "overall_width_cm": 190,
+          "overall_height_cm": 136,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1701,
+          "weight_distribution_pct": "59/41"
+        },
+        "1996": {
+          "hood_length_cm": 153,
+          "back_length_cm": 73,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 70,
+          "max_width_cm": 115,
+          "front_overhang_cm": 114,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 526,
+          "overall_width_cm": 190,
+          "overall_height_cm": 136,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 157,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1709,
+          "weight_distribution_pct": "59/41"
+        }
+      }
+    },
+    "MARK VIII/LSC 2DR COUPE": {
+      "years": [
+        1997,
+        1998
+      ],
+      "details": {
+        "1997": "<default>",
+        "<default>": {
+          "hood_length_cm": 153,
+          "back_length_cm": 70,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 70,
+          "max_width_cm": 116,
+          "front_overhang_cm": 116,
+          "rear_overhang_cm": 125,
+          "overall_length_cm": 526,
+          "overall_width_cm": 190,
+          "overall_height_cm": 136,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1709,
+          "weight_distribution_pct": "59/41"
+        },
+        "1998": "<default>"
+      }
+    },
+    "MARK LT P/U EXT CAB S/BOX 4WD": {
+      "years": [
+        2006,
+        2008,
+        2009,
+        2010
+      ],
+      "details": {
+        "2006": "<default>",
+        "<default>": {
+          "hood_length_cm": 129,
+          "back_length_cm": 294,
+          "side_glass_max_height_cm": 44,
+          "door_height_cm": 91,
+          "max_width_cm": 127,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 565,
+          "overall_width_cm": 200,
+          "overall_height_cm": 187,
+          "wheelbase_cm": 352,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2575,
+          "weight_distribution_pct": "57/43"
+        },
+        "2008": "<default>",
+        "2009": "<default>",
+        "2010": "<default>"
+      }
+    },
+    "MARK LT P/U EXT CAB S/BOX RWD": {
+      "years": [
+        2006,
+        2008,
+        2009,
+        2010
+      ],
+      "details": {
+        "2006": "<default>",
+        "<default>": {
+          "hood_length_cm": 129,
+          "back_length_cm": 294,
+          "side_glass_max_height_cm": 44,
+          "door_height_cm": 91,
+          "max_width_cm": 127,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 565,
+          "overall_width_cm": 200,
+          "overall_height_cm": 187,
+          "wheelbase_cm": 352,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2436,
+          "weight_distribution_pct": "57/43"
+        },
+        "2008": "<default>",
+        "2009": "<default>",
+        "2010": "<default>"
+      }
+    }
+  },
+  "Navigator": {
+    "NAVIGATOR 4DR SUV 4WD": {
+      "years": [
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "1998": "<default>",
+        "<default>": {
+          "hood_length_cm": 132,
+          "back_length_cm": 248,
+          "side_glass_max_height_cm": 52,
+          "door_height_cm": 85,
+          "max_width_cm": 131,
+          "front_overhang_cm": 96,
+          "rear_overhang_cm": 120,
+          "overall_length_cm": 520,
+          "overall_width_cm": 203,
+          "overall_height_cm": 195,
+          "wheelbase_cm": 302,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 2533,
+          "weight_distribution_pct": null
+        },
+        "1999": {
+          "hood_length_cm": 132,
+          "back_length_cm": 248,
+          "side_glass_max_height_cm": 52,
+          "door_height_cm": 85,
+          "max_width_cm": 131,
+          "front_overhang_cm": 96,
+          "rear_overhang_cm": 120,
+          "overall_length_cm": 520,
+          "overall_width_cm": 203,
+          "overall_height_cm": 195,
+          "wheelbase_cm": 302,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 2533,
+          "weight_distribution_pct": "53/47"
+        },
+        "2000": {
+          "hood_length_cm": 132,
+          "back_length_cm": 248,
+          "side_glass_max_height_cm": 52,
+          "door_height_cm": 85,
+          "max_width_cm": 131,
+          "front_overhang_cm": 96,
+          "rear_overhang_cm": 120,
+          "overall_length_cm": 520,
+          "overall_width_cm": 203,
+          "overall_height_cm": 195,
+          "wheelbase_cm": 302,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 2595,
+          "weight_distribution_pct": "53/47"
+        },
+        "2001": {
+          "hood_length_cm": 132,
+          "back_length_cm": 248,
+          "side_glass_max_height_cm": 52,
+          "door_height_cm": 85,
+          "max_width_cm": 131,
+          "front_overhang_cm": 96,
+          "rear_overhang_cm": 120,
+          "overall_length_cm": 520,
+          "overall_width_cm": 203,
+          "overall_height_cm": 195,
+          "wheelbase_cm": 302,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 2606,
+          "weight_distribution_pct": "53/47"
+        },
+        "2002": {
+          "hood_length_cm": 132,
+          "back_length_cm": 208,
+          "side_glass_max_height_cm": 52,
+          "door_height_cm": 85,
+          "max_width_cm": 131,
+          "front_overhang_cm": 96,
+          "rear_overhang_cm": 120,
+          "overall_length_cm": 520,
+          "overall_width_cm": 203,
+          "overall_height_cm": 195,
+          "wheelbase_cm": 302,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 2619,
+          "weight_distribution_pct": "53/47"
+        },
+        "2015": {
+          "hood_length_cm": 135,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 124,
+          "overall_length_cm": 527,
+          "overall_width_cm": 200,
+          "overall_height_cm": 199,
+          "wheelbase_cm": 302,
+          "front_track_width_cm": 170,
+          "rear_track_width_cm": 171,
+          "curb_weight_kg": 2753,
+          "weight_distribution_pct": null
+        },
+        "2016": {
+          "hood_length_cm": 135,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 124,
+          "overall_length_cm": 527,
+          "overall_width_cm": 200,
+          "overall_height_cm": 199,
+          "wheelbase_cm": 302,
+          "front_track_width_cm": 170,
+          "rear_track_width_cm": 171,
+          "curb_weight_kg": 2753,
+          "weight_distribution_pct": "50/50"
+        },
+        "2017": {
+          "hood_length_cm": 135,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 124,
+          "overall_length_cm": 527,
+          "overall_width_cm": 200,
+          "overall_height_cm": 199,
+          "wheelbase_cm": 302,
+          "front_track_width_cm": 170,
+          "rear_track_width_cm": 171,
+          "curb_weight_kg": 2753,
+          "weight_distribution_pct": "50/50"
+        },
+        "2018": {
+          "hood_length_cm": 134,
+          "back_length_cm": 215,
+          "side_glass_max_height_cm": 45,
+          "door_height_cm": 82,
+          "max_width_cm": 139,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 127,
+          "overall_length_cm": 533,
+          "overall_width_cm": 203,
+          "overall_height_cm": 194,
+          "wheelbase_cm": 311,
+          "front_track_width_cm": 172,
+          "rear_track_width_cm": 171,
+          "curb_weight_kg": 2656,
+          "weight_distribution_pct": "50/50"
+        },
+        "2019": {
+          "hood_length_cm": 134,
+          "back_length_cm": 215,
+          "side_glass_max_height_cm": 45,
+          "door_height_cm": 82,
+          "max_width_cm": 139,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 127,
+          "overall_length_cm": 533,
+          "overall_width_cm": 203,
+          "overall_height_cm": 194,
+          "wheelbase_cm": 311,
+          "front_track_width_cm": 172,
+          "rear_track_width_cm": 171,
+          "curb_weight_kg": 2656,
+          "weight_distribution_pct": "50/50"
+        }
+      }
+    },
+    "NAVIGATOR 4DR SUV RWD": {
+      "years": [
+        1998
+      ],
+      "details": {
+        "1998": "<default>",
+        "<default>": {
+          "hood_length_cm": 132,
+          "back_length_cm": 248,
+          "side_glass_max_height_cm": 52,
+          "door_height_cm": 85,
+          "max_width_cm": 131,
+          "front_overhang_cm": 96,
+          "rear_overhang_cm": 120,
+          "overall_length_cm": 520,
+          "overall_width_cm": 203,
+          "overall_height_cm": 191,
+          "wheelbase_cm": 302,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 2348,
+          "weight_distribution_pct": "52/48"
+        }
+      }
+    },
+    "NAVIGATOR": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": 135,
+          "back_length_cm": 208,
+          "side_glass_max_height_cm": 52,
+          "door_height_cm": 95,
+          "max_width_cm": 135,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 126,
+          "overall_length_cm": 529,
+          "overall_width_cm": 203,
+          "overall_height_cm": 195,
+          "wheelbase_cm": 303,
+          "front_track_width_cm": 173,
+          "rear_track_width_cm": 173,
+          "curb_weight_kg": 2619,
+          "weight_distribution_pct": "53/47"
+        },
+        "2004": "<default>",
+        "2005": "<default>",
+        "2006": {
+          "hood_length_cm": 135,
+          "back_length_cm": 208,
+          "side_glass_max_height_cm": 52,
+          "door_height_cm": 95,
+          "max_width_cm": 135,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 126,
+          "overall_length_cm": 529,
+          "overall_width_cm": 203,
+          "overall_height_cm": 195,
+          "wheelbase_cm": 303,
+          "front_track_width_cm": 173,
+          "rear_track_width_cm": 173,
+          "curb_weight_kg": 2650,
+          "weight_distribution_pct": "53/47"
+        }
+      }
+    },
+    "NAVIGATOR 4DR SUV 4WD /ULTIMATE": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ],
+      "details": {
+        "2007": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 124,
+          "overall_length_cm": 529,
+          "overall_width_cm": 200,
+          "overall_height_cm": 199,
+          "wheelbase_cm": 302,
+          "front_track_width_cm": 170,
+          "rear_track_width_cm": 171,
+          "curb_weight_kg": 2753,
+          "weight_distribution_pct": "51/49"
+        },
+        "2008": {
+          "hood_length_cm": 137,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 124,
+          "overall_length_cm": 529,
+          "overall_width_cm": 200,
+          "overall_height_cm": 189,
+          "wheelbase_cm": 302,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2753,
+          "weight_distribution_pct": "51/49"
+        },
+        "2009": {
+          "hood_length_cm": 137,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 124,
+          "overall_length_cm": 529,
+          "overall_width_cm": 200,
+          "overall_height_cm": 189,
+          "wheelbase_cm": 302,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2753,
+          "weight_distribution_pct": "51/49"
+        },
+        "2010": {
+          "hood_length_cm": 137,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 124,
+          "overall_length_cm": 529,
+          "overall_width_cm": 200,
+          "overall_height_cm": 189,
+          "wheelbase_cm": 302,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2724,
+          "weight_distribution_pct": "51/49"
+        },
+        "2011": {
+          "hood_length_cm": 137,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 124,
+          "overall_length_cm": 529,
+          "overall_width_cm": 200,
+          "overall_height_cm": 189,
+          "wheelbase_cm": 302,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2724,
+          "weight_distribution_pct": "51/49"
+        },
+        "2012": {
+          "hood_length_cm": 137,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 124,
+          "overall_length_cm": 529,
+          "overall_width_cm": 200,
+          "overall_height_cm": 189,
+          "wheelbase_cm": 302,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2724,
+          "weight_distribution_pct": "51/49"
+        },
+        "2013": {
+          "hood_length_cm": 137,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 124,
+          "overall_length_cm": 529,
+          "overall_width_cm": 200,
+          "overall_height_cm": 189,
+          "wheelbase_cm": 302,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2724,
+          "weight_distribution_pct": "51/49"
+        },
+        "2014": {
+          "hood_length_cm": 137,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 124,
+          "overall_length_cm": 529,
+          "overall_width_cm": 200,
+          "overall_height_cm": 189,
+          "wheelbase_cm": 302,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2724,
+          "weight_distribution_pct": "51/49"
+        }
+      }
+    },
+    "NAVIGATOR L 4DR SUV 4WD": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2007": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 252,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 130,
+          "overall_length_cm": 567,
+          "overall_width_cm": 200,
+          "overall_height_cm": 198,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 170,
+          "rear_track_width_cm": 171,
+          "curb_weight_kg": 2822,
+          "weight_distribution_pct": "51/49"
+        },
+        "2008": {
+          "hood_length_cm": 137,
+          "back_length_cm": 252,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 162,
+          "overall_length_cm": 567,
+          "overall_width_cm": 200,
+          "overall_height_cm": 198,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2822,
+          "weight_distribution_pct": "51/49"
+        },
+        "2009": {
+          "hood_length_cm": 137,
+          "back_length_cm": 252,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 132,
+          "overall_length_cm": 567,
+          "overall_width_cm": 200,
+          "overall_height_cm": 198,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2822,
+          "weight_distribution_pct": "51/49"
+        },
+        "2010": {
+          "hood_length_cm": 137,
+          "back_length_cm": 252,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 132,
+          "overall_length_cm": 567,
+          "overall_width_cm": 200,
+          "overall_height_cm": 198,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2833,
+          "weight_distribution_pct": "51/49"
+        },
+        "2011": {
+          "hood_length_cm": 137,
+          "back_length_cm": 252,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 132,
+          "overall_length_cm": 567,
+          "overall_width_cm": 200,
+          "overall_height_cm": 198,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2833,
+          "weight_distribution_pct": "51/49"
+        },
+        "2012": {
+          "hood_length_cm": 137,
+          "back_length_cm": 252,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 132,
+          "overall_length_cm": 567,
+          "overall_width_cm": 200,
+          "overall_height_cm": 198,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2833,
+          "weight_distribution_pct": "51/49"
+        },
+        "2013": {
+          "hood_length_cm": 137,
+          "back_length_cm": 252,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 132,
+          "overall_length_cm": 567,
+          "overall_width_cm": 200,
+          "overall_height_cm": 198,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2833,
+          "weight_distribution_pct": "51/49"
+        },
+        "2014": {
+          "hood_length_cm": 137,
+          "back_length_cm": 252,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 132,
+          "overall_length_cm": 567,
+          "overall_width_cm": 200,
+          "overall_height_cm": 198,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2833,
+          "weight_distribution_pct": "51/49"
+        },
+        "2015": {
+          "hood_length_cm": 135,
+          "back_length_cm": 251,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 131,
+          "overall_length_cm": 565,
+          "overall_width_cm": 200,
+          "overall_height_cm": 199,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 170,
+          "rear_track_width_cm": 171,
+          "curb_weight_kg": 2856,
+          "weight_distribution_pct": null
+        },
+        "2016": {
+          "hood_length_cm": 135,
+          "back_length_cm": 251,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 131,
+          "overall_length_cm": 565,
+          "overall_width_cm": 200,
+          "overall_height_cm": 199,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 170,
+          "rear_track_width_cm": 171,
+          "curb_weight_kg": 2856,
+          "weight_distribution_pct": null
+        },
+        "2017": {
+          "hood_length_cm": 135,
+          "back_length_cm": 251,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 131,
+          "overall_length_cm": 565,
+          "overall_width_cm": 200,
+          "overall_height_cm": 199,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 170,
+          "rear_track_width_cm": 171,
+          "curb_weight_kg": 2856,
+          "weight_distribution_pct": "50/50"
+        },
+        "2018": {
+          "hood_length_cm": 134,
+          "back_length_cm": 245,
+          "side_glass_max_height_cm": 45,
+          "door_height_cm": 82,
+          "max_width_cm": 139,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 133,
+          "overall_length_cm": 564,
+          "overall_width_cm": 203,
+          "overall_height_cm": 194,
+          "wheelbase_cm": 334,
+          "front_track_width_cm": 172,
+          "rear_track_width_cm": 171,
+          "curb_weight_kg": 2747,
+          "weight_distribution_pct": "50/50"
+        },
+        "2019": {
+          "hood_length_cm": 134,
+          "back_length_cm": 245,
+          "side_glass_max_height_cm": 45,
+          "door_height_cm": 82,
+          "max_width_cm": 139,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 133,
+          "overall_length_cm": 564,
+          "overall_width_cm": 203,
+          "overall_height_cm": 194,
+          "wheelbase_cm": 334,
+          "front_track_width_cm": 172,
+          "rear_track_width_cm": 171,
+          "curb_weight_kg": 2747,
+          "weight_distribution_pct": "50/50"
+        }
+      }
+    }
+  },
+  "Mark LT": {
+    "MARK LT P/U EXT CAB S/BOX 4WD": {
+      "years": [
+        2006,
+        2008,
+        2009,
+        2010
+      ],
+      "details": {
+        "2006": "<default>",
+        "<default>": {
+          "hood_length_cm": 129,
+          "back_length_cm": 294,
+          "side_glass_max_height_cm": 44,
+          "door_height_cm": 91,
+          "max_width_cm": 127,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 565,
+          "overall_width_cm": 200,
+          "overall_height_cm": 187,
+          "wheelbase_cm": 352,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2575,
+          "weight_distribution_pct": "57/43"
+        },
+        "2008": "<default>",
+        "2009": "<default>",
+        "2010": "<default>"
+      }
+    },
+    "MARK LT P/U EXT CAB S/BOX RWD": {
+      "years": [
+        2006,
+        2008,
+        2009,
+        2010
+      ],
+      "details": {
+        "2006": "<default>",
+        "<default>": {
+          "hood_length_cm": 129,
+          "back_length_cm": 294,
+          "side_glass_max_height_cm": 44,
+          "door_height_cm": 91,
+          "max_width_cm": 127,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 565,
+          "overall_width_cm": 200,
+          "overall_height_cm": 187,
+          "wheelbase_cm": 352,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2436,
+          "weight_distribution_pct": "57/43"
+        },
+        "2008": "<default>",
+        "2009": "<default>",
+        "2010": "<default>"
+      }
+    }
+  },
+  "Blackwood": {},
+  "MKT": {
+    "MKT 4DR SUV 3.5/ECOBOOST": {
+      "years": [
+        2010,
+        2011
+      ],
+      "details": {
+        "2010": "<default>",
+        "<default>": {
+          "hood_length_cm": 133,
+          "back_length_cm": 184,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 88,
+          "max_width_cm": 122,
+          "front_overhang_cm": 105,
+          "rear_overhang_cm": 123,
+          "overall_length_cm": 527,
+          "overall_width_cm": 193,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2203,
+          "weight_distribution_pct": "54/46"
+        },
+        "2011": "<default>"
+      }
+    },
+    "MKT 4DR SUV 3.5": {
+      "years": [
+        2012
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": 133,
+          "back_length_cm": 184,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 88,
+          "max_width_cm": 122,
+          "front_overhang_cm": 105,
+          "rear_overhang_cm": 123,
+          "overall_length_cm": 527,
+          "overall_width_cm": 193,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2203,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "MKT 4DR SUV ECOBOOST": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": 133,
+          "back_length_cm": 184,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 88,
+          "max_width_cm": 122,
+          "front_overhang_cm": 105,
+          "rear_overhang_cm": 123,
+          "overall_length_cm": 527,
+          "overall_width_cm": 193,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2272,
+          "weight_distribution_pct": "54/46"
+        },
+        "2013": {
+          "hood_length_cm": 133,
+          "back_length_cm": 184,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 88,
+          "max_width_cm": 122,
+          "front_overhang_cm": 105,
+          "rear_overhang_cm": 123,
+          "overall_length_cm": 527,
+          "overall_width_cm": 193,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2240,
+          "weight_distribution_pct": "54/46"
+        },
+        "2014": {
+          "hood_length_cm": 133,
+          "back_length_cm": 184,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 88,
+          "max_width_cm": 122,
+          "front_overhang_cm": 105,
+          "rear_overhang_cm": 123,
+          "overall_length_cm": 527,
+          "overall_width_cm": 193,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2240,
+          "weight_distribution_pct": "54/46"
+        },
+        "2015": {
+          "hood_length_cm": 133,
+          "back_length_cm": 184,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 88,
+          "max_width_cm": 122,
+          "front_overhang_cm": 105,
+          "rear_overhang_cm": 123,
+          "overall_length_cm": 527,
+          "overall_width_cm": 193,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2240,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "MKT 4DR SUV": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 133,
+          "back_length_cm": 184,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 88,
+          "max_width_cm": 122,
+          "front_overhang_cm": 105,
+          "rear_overhang_cm": 123,
+          "overall_length_cm": 527,
+          "overall_width_cm": 193,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2242,
+          "weight_distribution_pct": "54/46"
+        },
+        "2017": "<default>",
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    }
+  },
+  "MKX": {
+    "MKX 4DR SUV FWD": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ],
+      "details": {
+        "2007": "<default>",
+        "<default>": {
+          "hood_length_cm": 105,
+          "back_length_cm": 156,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 84,
+          "max_width_cm": 117,
+          "front_overhang_cm": 96,
+          "rear_overhang_cm": 98,
+          "overall_length_cm": 475,
+          "overall_width_cm": 190,
+          "overall_height_cm": 176,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 2004,
+          "weight_distribution_pct": "60/40"
+        },
+        "2008": "<default>",
+        "2009": "<default>"
+      }
+    },
+    "MKX 4DR SUV AWD": {
+      "years": [
+        2010
+      ],
+      "details": {
+        "2010": "<default>",
+        "<default>": {
+          "hood_length_cm": 105,
+          "back_length_cm": 156,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 84,
+          "max_width_cm": 117,
+          "front_overhang_cm": 96,
+          "rear_overhang_cm": 98,
+          "overall_length_cm": 475,
+          "overall_width_cm": 190,
+          "overall_height_cm": 176,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 2004,
+          "weight_distribution_pct": "60/40"
+        }
+      }
+    },
+    "MKX 4DR CUV": {
+      "years": [
+        2011,
+        2012
+      ],
+      "details": {
+        "2011": "<default>",
+        "<default>": {
+          "hood_length_cm": 121,
+          "back_length_cm": 157,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 83,
+          "max_width_cm": 126,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 96,
+          "overall_length_cm": 476,
+          "overall_width_cm": 193,
+          "overall_height_cm": 172,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 2008,
+          "weight_distribution_pct": "57/43"
+        },
+        "2012": "<default>"
+      }
+    },
+    "MKX 4DR SUV": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2013": "<default>",
+        "<default>": {
+          "hood_length_cm": 121,
+          "back_length_cm": 157,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 83,
+          "max_width_cm": 126,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 95,
+          "overall_length_cm": 474,
+          "overall_width_cm": 193,
+          "overall_height_cm": 172,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 2008,
+          "weight_distribution_pct": "57/43"
+        },
+        "2014": "<default>",
+        "2015": {
+          "hood_length_cm": 121,
+          "back_length_cm": 157,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 83,
+          "max_width_cm": 126,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 95,
+          "overall_length_cm": 474,
+          "overall_width_cm": 193,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 2008,
+          "weight_distribution_pct": "57/43"
+        },
+        "2016": {
+          "hood_length_cm": 122,
+          "back_length_cm": 167,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 93,
+          "max_width_cm": 117,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 100,
+          "overall_length_cm": 483,
+          "overall_width_cm": 193,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 165,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 1990,
+          "weight_distribution_pct": "59/41"
+        },
+        "2017": {
+          "hood_length_cm": 122,
+          "back_length_cm": 167,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 93,
+          "max_width_cm": 117,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 100,
+          "overall_length_cm": 483,
+          "overall_width_cm": 193,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 165,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 1990,
+          "weight_distribution_pct": "59/41"
+        },
+        "2018": {
+          "hood_length_cm": 122,
+          "back_length_cm": 167,
+          "side_glass_max_height_cm": 38,
+          "door_height_cm": 93,
+          "max_width_cm": 117,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 100,
+          "overall_length_cm": 483,
+          "overall_width_cm": 193,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 285,
+          "front_track_width_cm": 165,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 1990,
+          "weight_distribution_pct": "59/41"
+        }
+      }
+    }
+  },
+  "Aviator": {
+    "AVIATOR 4DR SUV AWD": {
+      "years": [
+        2003,
+        2004,
+        2005
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": 129,
+          "back_length_cm": 183,
+          "side_glass_max_height_cm": 45,
+          "door_height_cm": 79,
+          "max_width_cm": 103,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 116,
+          "overall_length_cm": 490,
+          "overall_width_cm": 193,
+          "overall_height_cm": 181,
+          "wheelbase_cm": 289,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 2269,
+          "weight_distribution_pct": "52/48"
+        },
+        "2004": "<default>",
+        "2005": "<default>"
+      }
+    },
+    "AVIATOR 4DR SUV": {
+      "years": [
+        2020
+      ],
+      "details": {
+        "2020": "<default>",
+        "<default>": {
+          "hood_length_cm": 130,
+          "back_length_cm": 203,
+          "side_glass_max_height_cm": 45,
+          "door_height_cm": 94,
+          "max_width_cm": 120,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 508,
+          "overall_width_cm": 200,
+          "overall_height_cm": 172,
+          "wheelbase_cm": 303,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": null,
+          "weight_distribution_pct": null
+        }
+      }
+    }
+  },
+  "MKC": {
+    "MKC 2.0L ECOBOOST/2.3L ECOBOOST 4DR SUV AWD": {
+      "years": [
+        2015
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 117,
+          "back_length_cm": 152,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 90,
+          "max_width_cm": 107,
+          "front_overhang_cm": 96,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 455,
+          "overall_width_cm": 186,
+          "overall_height_cm": 166,
+          "wheelbase_cm": 269,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1798,
+          "weight_distribution_pct": "57/43"
+        }
+      }
+    },
+    "MKC 4DR SUV AWD": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 117,
+          "back_length_cm": 152,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 90,
+          "max_width_cm": 107,
+          "front_overhang_cm": 96,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 455,
+          "overall_width_cm": 186,
+          "overall_height_cm": 166,
+          "wheelbase_cm": 269,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1792,
+          "weight_distribution_pct": "57/43"
+        },
+        "2017": "<default>",
+        "2018": "<default>"
+      }
+    },
+    "MKC 4DR SUV": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 117,
+          "back_length_cm": 152,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 90,
+          "max_width_cm": 107,
+          "front_overhang_cm": 96,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 455,
+          "overall_width_cm": 186,
+          "overall_height_cm": 166,
+          "wheelbase_cm": 269,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1796,
+          "weight_distribution_pct": "57/43"
+        }
+      }
+    }
+  },
+  "Nautilus": {
+    "NAUTILUS I-4 4DR SUV": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 168,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 95,
+          "max_width_cm": 104,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 100,
+          "overall_length_cm": 482,
+          "overall_width_cm": 193,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 284,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 1953,
+          "weight_distribution_pct": "59/41"
+        }
+      }
+    },
+    "NAUTILUS V6 4DR SUV": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 168,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 95,
+          "max_width_cm": 104,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 100,
+          "overall_length_cm": 482,
+          "overall_width_cm": 193,
+          "overall_height_cm": 168,
+          "wheelbase_cm": 284,
+          "front_track_width_cm": 164,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 2071,
+          "weight_distribution_pct": "59/41"
+        }
+      }
+    }
+  },
+  "Corsair": {},
+  "Navigator L": {
+    "NAVIGATOR L 4DR SUV 4WD": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2007": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 252,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 130,
+          "overall_length_cm": 567,
+          "overall_width_cm": 200,
+          "overall_height_cm": 198,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 170,
+          "rear_track_width_cm": 171,
+          "curb_weight_kg": 2822,
+          "weight_distribution_pct": "51/49"
+        },
+        "2008": {
+          "hood_length_cm": 137,
+          "back_length_cm": 252,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 162,
+          "overall_length_cm": 567,
+          "overall_width_cm": 200,
+          "overall_height_cm": 198,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2822,
+          "weight_distribution_pct": "51/49"
+        },
+        "2009": {
+          "hood_length_cm": 137,
+          "back_length_cm": 252,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 132,
+          "overall_length_cm": 567,
+          "overall_width_cm": 200,
+          "overall_height_cm": 198,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2822,
+          "weight_distribution_pct": "51/49"
+        },
+        "2010": {
+          "hood_length_cm": 137,
+          "back_length_cm": 252,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 132,
+          "overall_length_cm": 567,
+          "overall_width_cm": 200,
+          "overall_height_cm": 198,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2833,
+          "weight_distribution_pct": "51/49"
+        },
+        "2011": {
+          "hood_length_cm": 137,
+          "back_length_cm": 252,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 132,
+          "overall_length_cm": 567,
+          "overall_width_cm": 200,
+          "overall_height_cm": 198,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2833,
+          "weight_distribution_pct": "51/49"
+        },
+        "2012": {
+          "hood_length_cm": 137,
+          "back_length_cm": 252,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 132,
+          "overall_length_cm": 567,
+          "overall_width_cm": 200,
+          "overall_height_cm": 198,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2833,
+          "weight_distribution_pct": "51/49"
+        },
+        "2013": {
+          "hood_length_cm": 137,
+          "back_length_cm": 252,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 132,
+          "overall_length_cm": 567,
+          "overall_width_cm": 200,
+          "overall_height_cm": 198,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2833,
+          "weight_distribution_pct": "51/49"
+        },
+        "2014": {
+          "hood_length_cm": 137,
+          "back_length_cm": 252,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 104,
+          "rear_overhang_cm": 132,
+          "overall_length_cm": 567,
+          "overall_width_cm": 200,
+          "overall_height_cm": 198,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 169,
+          "curb_weight_kg": 2833,
+          "weight_distribution_pct": "51/49"
+        },
+        "2015": {
+          "hood_length_cm": 135,
+          "back_length_cm": 251,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 131,
+          "overall_length_cm": 565,
+          "overall_width_cm": 200,
+          "overall_height_cm": 199,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 170,
+          "rear_track_width_cm": 171,
+          "curb_weight_kg": 2856,
+          "weight_distribution_pct": null
+        },
+        "2016": {
+          "hood_length_cm": 135,
+          "back_length_cm": 251,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 131,
+          "overall_length_cm": 565,
+          "overall_width_cm": 200,
+          "overall_height_cm": 199,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 170,
+          "rear_track_width_cm": 171,
+          "curb_weight_kg": 2856,
+          "weight_distribution_pct": null
+        },
+        "2017": {
+          "hood_length_cm": 135,
+          "back_length_cm": 251,
+          "side_glass_max_height_cm": 50,
+          "door_height_cm": 82,
+          "max_width_cm": 96,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 131,
+          "overall_length_cm": 565,
+          "overall_width_cm": 200,
+          "overall_height_cm": 199,
+          "wheelbase_cm": 333,
+          "front_track_width_cm": 170,
+          "rear_track_width_cm": 171,
+          "curb_weight_kg": 2856,
+          "weight_distribution_pct": "50/50"
+        },
+        "2018": {
+          "hood_length_cm": 134,
+          "back_length_cm": 245,
+          "side_glass_max_height_cm": 45,
+          "door_height_cm": 82,
+          "max_width_cm": 139,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 133,
+          "overall_length_cm": 564,
+          "overall_width_cm": 203,
+          "overall_height_cm": 194,
+          "wheelbase_cm": 334,
+          "front_track_width_cm": 172,
+          "rear_track_width_cm": 171,
+          "curb_weight_kg": 2747,
+          "weight_distribution_pct": "50/50"
+        },
+        "2019": {
+          "hood_length_cm": 134,
+          "back_length_cm": 245,
+          "side_glass_max_height_cm": 45,
+          "door_height_cm": 82,
+          "max_width_cm": 139,
+          "front_overhang_cm": 97,
+          "rear_overhang_cm": 133,
+          "overall_length_cm": 564,
+          "overall_width_cm": 203,
+          "overall_height_cm": 194,
+          "wheelbase_cm": 334,
+          "front_track_width_cm": 172,
+          "rear_track_width_cm": 171,
+          "curb_weight_kg": 2747,
+          "weight_distribution_pct": "50/50"
+        }
+      }
+    }
+  }
+}

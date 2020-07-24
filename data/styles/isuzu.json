@@ -1,0 +1,1271 @@
+{
+  "IMPULSE": {
+    "IMPULSE XS 2DR HATCHBACK": {
+      "years": [
+        1990
+      ],
+      "details": {
+        "1990": "<default>",
+        "<default>": {
+          "hood_length_cm": 115,
+          "back_length_cm": 133,
+          "side_glass_max_height_cm": 31,
+          "door_height_cm": 69,
+          "max_width_cm": 140,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 79,
+          "overall_length_cm": 422,
+          "overall_width_cm": 169,
+          "overall_height_cm": 130,
+          "wheelbase_cm": 245,
+          "front_track_width_cm": 144,
+          "rear_track_width_cm": 140,
+          "curb_weight_kg": 1096,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "IMPULSE XS/RS 2DR HATCHBACK": {
+      "years": [
+        1991
+      ],
+      "details": {
+        "1991": "<default>",
+        "<default>": {
+          "hood_length_cm": 115,
+          "back_length_cm": 133,
+          "side_glass_max_height_cm": 31,
+          "door_height_cm": 69,
+          "max_width_cm": 140,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 79,
+          "overall_length_cm": 422,
+          "overall_width_cm": 169,
+          "overall_height_cm": 130,
+          "wheelbase_cm": 245,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1096,
+          "weight_distribution_pct": "63/37"
+        }
+      }
+    }
+  },
+  "I-Mark": {},
+  "Stylus": {
+    "STYLUS S/XS 4DR SEDAN": {
+      "years": [
+        1991
+      ],
+      "details": {
+        "1991": "<default>",
+        "<default>": {
+          "hood_length_cm": 117,
+          "back_length_cm": 59,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 67,
+          "max_width_cm": 104,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 88,
+          "overall_length_cm": 419,
+          "overall_width_cm": 168,
+          "overall_height_cm": 137,
+          "wheelbase_cm": 245,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 971,
+          "weight_distribution_pct": "63/37"
+        }
+      }
+    }
+  },
+  "Trooper": {
+    "TROOPER LS 4x4": {
+      "years": [
+        1990,
+        1991
+      ],
+      "details": {
+        "1990": "<default>",
+        "<default>": {
+          "hood_length_cm": 130,
+          "back_length_cm": 221,
+          "side_glass_max_height_cm": 49,
+          "door_height_cm": 82,
+          "max_width_cm": 133,
+          "front_overhang_cm": 75,
+          "rear_overhang_cm": 97,
+          "overall_length_cm": 447,
+          "overall_width_cm": 165,
+          "overall_height_cm": 182,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": 140,
+          "rear_track_width_cm": 141,
+          "curb_weight_kg": 1709,
+          "weight_distribution_pct": null
+        },
+        "1991": {
+          "hood_length_cm": 130,
+          "back_length_cm": 221,
+          "side_glass_max_height_cm": 49,
+          "door_height_cm": 82,
+          "max_width_cm": 133,
+          "front_overhang_cm": 75,
+          "rear_overhang_cm": 97,
+          "overall_length_cm": 447,
+          "overall_width_cm": 165,
+          "overall_height_cm": 182,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1642,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "TROOPER XS 4x4": {
+      "years": [
+        1990,
+        1991
+      ],
+      "details": {
+        "1990": "<default>",
+        "<default>": {
+          "hood_length_cm": 130,
+          "back_length_cm": 221,
+          "side_glass_max_height_cm": 49,
+          "door_height_cm": 82,
+          "max_width_cm": 133,
+          "front_overhang_cm": 75,
+          "rear_overhang_cm": 97,
+          "overall_length_cm": 447,
+          "overall_width_cm": 165,
+          "overall_height_cm": 182,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": 142,
+          "rear_track_width_cm": 142,
+          "curb_weight_kg": 1682,
+          "weight_distribution_pct": null
+        },
+        "1991": {
+          "hood_length_cm": 130,
+          "back_length_cm": 221,
+          "side_glass_max_height_cm": 49,
+          "door_height_cm": 82,
+          "max_width_cm": 133,
+          "front_overhang_cm": 75,
+          "rear_overhang_cm": 97,
+          "overall_length_cm": 447,
+          "overall_width_cm": 165,
+          "overall_height_cm": 182,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1642,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "TROOPER II 4x4": {
+      "years": [
+        1992,
+        1993
+      ],
+      "details": {
+        "1992": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 215,
+          "side_glass_max_height_cm": 48,
+          "door_height_cm": 83,
+          "max_width_cm": 116,
+          "front_overhang_cm": 81,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 455,
+          "overall_width_cm": 175,
+          "overall_height_cm": 185,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1885,
+          "weight_distribution_pct": null
+        },
+        "1993": {
+          "hood_length_cm": 118,
+          "back_length_cm": 216,
+          "side_glass_max_height_cm": 48,
+          "door_height_cm": 83,
+          "max_width_cm": 116,
+          "front_overhang_cm": 81,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 455,
+          "overall_width_cm": 175,
+          "overall_height_cm": 185,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1885,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "TROOPER II 4DR SUV 4X4": {
+      "years": [
+        1994
+      ],
+      "details": {
+        "1994": "<default>",
+        "<default>": {
+          "hood_length_cm": 118,
+          "back_length_cm": 216,
+          "side_glass_max_height_cm": 48,
+          "door_height_cm": 83,
+          "max_width_cm": 116,
+          "front_overhang_cm": 80,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 455,
+          "overall_width_cm": 175,
+          "overall_height_cm": 185,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 146,
+          "rear_track_width_cm": 146,
+          "curb_weight_kg": 1885,
+          "weight_distribution_pct": "51/49"
+        }
+      }
+    },
+    "TROOPER II 4DR SUV S/LS/LTD 4X4": {
+      "years": [
+        1995,
+        1996,
+        1997
+      ],
+      "details": {
+        "1995": "<default>",
+        "<default>": {
+          "hood_length_cm": 118,
+          "back_length_cm": 216,
+          "side_glass_max_height_cm": 48,
+          "door_height_cm": 83,
+          "max_width_cm": 116,
+          "front_overhang_cm": 80,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 455,
+          "overall_width_cm": 175,
+          "overall_height_cm": 185,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 146,
+          "rear_track_width_cm": 146,
+          "curb_weight_kg": 1910,
+          "weight_distribution_pct": "51/49"
+        },
+        "1996": {
+          "hood_length_cm": 118,
+          "back_length_cm": 216,
+          "side_glass_max_height_cm": 48,
+          "door_height_cm": 83,
+          "max_width_cm": 116,
+          "front_overhang_cm": 80,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 455,
+          "overall_width_cm": 175,
+          "overall_height_cm": 185,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 146,
+          "rear_track_width_cm": 146,
+          "curb_weight_kg": 1939,
+          "weight_distribution_pct": "51/49"
+        },
+        "1997": {
+          "hood_length_cm": 121,
+          "back_length_cm": 216,
+          "side_glass_max_height_cm": 47,
+          "door_height_cm": 130,
+          "max_width_cm": 130,
+          "front_overhang_cm": 81,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 466,
+          "overall_width_cm": 184,
+          "overall_height_cm": 184,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 151,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1939,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "TROOPER 4DR SUV S/LS/LTD 4X4": {
+      "years": [
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005
+      ],
+      "details": {
+        "1998": "<default>",
+        "<default>": {
+          "hood_length_cm": 124,
+          "back_length_cm": 215,
+          "side_glass_max_height_cm": 48,
+          "door_height_cm": 83,
+          "max_width_cm": 132,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 100,
+          "overall_length_cm": 459,
+          "overall_width_cm": 177,
+          "overall_height_cm": 184,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1939,
+          "weight_distribution_pct": "51/49"
+        },
+        "1999": {
+          "hood_length_cm": 124,
+          "back_length_cm": 215,
+          "side_glass_max_height_cm": 48,
+          "door_height_cm": 83,
+          "max_width_cm": 132,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 100,
+          "overall_length_cm": 459,
+          "overall_width_cm": 177,
+          "overall_height_cm": 184,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 2020,
+          "weight_distribution_pct": "51/49"
+        },
+        "2000": {
+          "hood_length_cm": 124,
+          "back_length_cm": 215,
+          "side_glass_max_height_cm": 48,
+          "door_height_cm": 83,
+          "max_width_cm": 132,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 100,
+          "overall_length_cm": 459,
+          "overall_width_cm": 177,
+          "overall_height_cm": 184,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 2021,
+          "weight_distribution_pct": "51/49"
+        },
+        "2001": {
+          "hood_length_cm": 124,
+          "back_length_cm": 215,
+          "side_glass_max_height_cm": 48,
+          "door_height_cm": 83,
+          "max_width_cm": 132,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 100,
+          "overall_length_cm": 459,
+          "overall_width_cm": 184,
+          "overall_height_cm": 184,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 2025,
+          "weight_distribution_pct": "51/49"
+        },
+        "2002": {
+          "hood_length_cm": 124,
+          "back_length_cm": 215,
+          "side_glass_max_height_cm": 48,
+          "door_height_cm": 83,
+          "max_width_cm": 132,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 100,
+          "overall_length_cm": 459,
+          "overall_width_cm": 184,
+          "overall_height_cm": 184,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 2025,
+          "weight_distribution_pct": "51/49"
+        },
+        "2003": {
+          "hood_length_cm": 124,
+          "back_length_cm": 215,
+          "side_glass_max_height_cm": 48,
+          "door_height_cm": 83,
+          "max_width_cm": 132,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 100,
+          "overall_length_cm": 459,
+          "overall_width_cm": 184,
+          "overall_height_cm": 184,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 2025,
+          "weight_distribution_pct": "51/49"
+        },
+        "2004": {
+          "hood_length_cm": 124,
+          "back_length_cm": 215,
+          "side_glass_max_height_cm": 48,
+          "door_height_cm": 83,
+          "max_width_cm": 132,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 100,
+          "overall_length_cm": 459,
+          "overall_width_cm": 184,
+          "overall_height_cm": 184,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 2025,
+          "weight_distribution_pct": "51/49"
+        },
+        "2005": {
+          "hood_length_cm": 124,
+          "back_length_cm": 215,
+          "side_glass_max_height_cm": 48,
+          "door_height_cm": 83,
+          "max_width_cm": 132,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 100,
+          "overall_length_cm": 459,
+          "overall_width_cm": 184,
+          "overall_height_cm": 184,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 2025,
+          "weight_distribution_pct": "51/49"
+        }
+      }
+    }
+  },
+  "Rodeo": {
+    "RODEO S 4X2": {
+      "years": [
+        1991,
+        1992
+      ],
+      "details": {
+        "1991": "<default>",
+        "<default>": {
+          "hood_length_cm": 110,
+          "back_length_cm": 209,
+          "side_glass_max_height_cm": 44,
+          "door_height_cm": 74,
+          "max_width_cm": 119,
+          "front_overhang_cm": 71,
+          "rear_overhang_cm": 102,
+          "overall_length_cm": 448,
+          "overall_width_cm": 169,
+          "overall_height_cm": 166,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1586,
+          "weight_distribution_pct": null
+        },
+        "1992": "<default>"
+      }
+    },
+    "RODEO S 4X4": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ],
+      "details": {
+        "1991": "<default>",
+        "<default>": {
+          "hood_length_cm": 102,
+          "back_length_cm": 209,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 74,
+          "max_width_cm": 119,
+          "front_overhang_cm": 74,
+          "rear_overhang_cm": 98,
+          "overall_length_cm": 448,
+          "overall_width_cm": 169,
+          "overall_height_cm": 166,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1693,
+          "weight_distribution_pct": null
+        },
+        "1992": "<default>",
+        "1993": {
+          "hood_length_cm": 110,
+          "back_length_cm": 210,
+          "side_glass_max_height_cm": 44,
+          "door_height_cm": 74,
+          "max_width_cm": 117,
+          "front_overhang_cm": 73,
+          "rear_overhang_cm": 101,
+          "overall_length_cm": 448,
+          "overall_width_cm": 169,
+          "overall_height_cm": 166,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1787,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "RODEO 4DR SUV S/LS 4X4": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ],
+      "details": {
+        "1994": "<default>",
+        "<default>": {
+          "hood_length_cm": 110,
+          "back_length_cm": 210,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 74,
+          "max_width_cm": 118,
+          "front_overhang_cm": 73,
+          "rear_overhang_cm": 101,
+          "overall_length_cm": 448,
+          "overall_width_cm": 174,
+          "overall_height_cm": 169,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 144,
+          "rear_track_width_cm": 145,
+          "curb_weight_kg": 1787,
+          "weight_distribution_pct": "51/49"
+        },
+        "1995": {
+          "hood_length_cm": 110,
+          "back_length_cm": 210,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 74,
+          "max_width_cm": 118,
+          "front_overhang_cm": 73,
+          "rear_overhang_cm": 101,
+          "overall_length_cm": 448,
+          "overall_width_cm": 174,
+          "overall_height_cm": 169,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 144,
+          "rear_track_width_cm": 145,
+          "curb_weight_kg": 1802,
+          "weight_distribution_pct": "51/49"
+        },
+        "1996": {
+          "hood_length_cm": 110,
+          "back_length_cm": 210,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 74,
+          "max_width_cm": 118,
+          "front_overhang_cm": 73,
+          "rear_overhang_cm": 101,
+          "overall_length_cm": 448,
+          "overall_width_cm": 174,
+          "overall_height_cm": 169,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 144,
+          "rear_track_width_cm": 145,
+          "curb_weight_kg": 1867,
+          "weight_distribution_pct": "51/49"
+        },
+        "1997": {
+          "hood_length_cm": 110,
+          "back_length_cm": 210,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 74,
+          "max_width_cm": 118,
+          "front_overhang_cm": 73,
+          "rear_overhang_cm": 101,
+          "overall_length_cm": 469,
+          "overall_width_cm": 174,
+          "overall_height_cm": 169,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 144,
+          "rear_track_width_cm": 145,
+          "curb_weight_kg": 1867,
+          "weight_distribution_pct": null
+        },
+        "1998": {
+          "hood_length_cm": 116,
+          "back_length_cm": 202,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 76,
+          "max_width_cm": 116,
+          "front_overhang_cm": 77,
+          "rear_overhang_cm": 98,
+          "overall_length_cm": 445,
+          "overall_width_cm": 179,
+          "overall_height_cm": 169,
+          "wheelbase_cm": 270,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1782,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "RODEO 4DR SUV S/LS/LSE 4X4": {
+      "years": [
+        1999,
+        2000,
+        2001
+      ],
+      "details": {
+        "1999": "<default>",
+        "<default>": {
+          "hood_length_cm": 116,
+          "back_length_cm": 202,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 76,
+          "max_width_cm": 116,
+          "front_overhang_cm": 77,
+          "rear_overhang_cm": 98,
+          "overall_length_cm": 445,
+          "overall_width_cm": 179,
+          "overall_height_cm": 169,
+          "wheelbase_cm": 270,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1730,
+          "weight_distribution_pct": "54/46"
+        },
+        "2000": {
+          "hood_length_cm": 116,
+          "back_length_cm": 202,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 76,
+          "max_width_cm": 116,
+          "front_overhang_cm": 77,
+          "rear_overhang_cm": 98,
+          "overall_length_cm": 445,
+          "overall_width_cm": 179,
+          "overall_height_cm": 169,
+          "wheelbase_cm": 270,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1728,
+          "weight_distribution_pct": "54/46"
+        },
+        "2001": {
+          "hood_length_cm": 116,
+          "back_length_cm": 202,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 76,
+          "max_width_cm": 116,
+          "front_overhang_cm": 80,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 451,
+          "overall_width_cm": 179,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 270,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1871,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "RODEO 4DR SUV S/SE/LS/LSE 4X4": {
+      "years": [
+        2002
+      ],
+      "details": {
+        "2002": "<default>",
+        "<default>": {
+          "hood_length_cm": 116,
+          "back_length_cm": 202,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 76,
+          "max_width_cm": 116,
+          "front_overhang_cm": 80,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 451,
+          "overall_width_cm": 179,
+          "overall_height_cm": 176,
+          "wheelbase_cm": 270,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1879,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "RODEO 4DR SUV SE 4X4": {
+      "years": [
+        2002
+      ],
+      "details": {
+        "2002": "<default>",
+        "<default>": {
+          "hood_length_cm": 116,
+          "back_length_cm": 202,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 76,
+          "max_width_cm": 116,
+          "front_overhang_cm": 80,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 451,
+          "overall_width_cm": 181,
+          "overall_height_cm": 176,
+          "wheelbase_cm": 270,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1902,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "RODEO LS/LSE 4DR SUV 4WD": {
+      "years": [
+        2003
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": 116,
+          "back_length_cm": 202,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 76,
+          "max_width_cm": 116,
+          "front_overhang_cm": 80,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 451,
+          "overall_width_cm": 181,
+          "overall_height_cm": 176,
+          "wheelbase_cm": 270,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1902,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "RODEO S/SE 4DR SUV 4WD": {
+      "years": [
+        2003
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": 116,
+          "back_length_cm": 202,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 76,
+          "max_width_cm": 116,
+          "front_overhang_cm": 80,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 451,
+          "overall_width_cm": 179,
+          "overall_height_cm": 176,
+          "wheelbase_cm": 270,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1879,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    }
+  },
+  "NPR/NPR-HD": {},
+  "NQR/NRR": {},
+  "Pickup": {
+    "PICKUP XS LONGBED 4X2": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ],
+      "details": {
+        "1991": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 492,
+          "overall_width_cm": 169,
+          "overall_height_cm": 158,
+          "wheelbase_cm": 303,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1239,
+          "weight_distribution_pct": null
+        },
+        "1992": {
+          "hood_length_cm": 110,
+          "back_length_cm": 239,
+          "side_glass_max_height_cm": 43,
+          "door_height_cm": 73,
+          "max_width_cm": 119,
+          "front_overhang_cm": 73,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 492,
+          "overall_width_cm": 169,
+          "overall_height_cm": 158,
+          "wheelbase_cm": 303,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1239,
+          "weight_distribution_pct": null
+        },
+        "1993": {
+          "hood_length_cm": 110,
+          "back_length_cm": 239,
+          "side_glass_max_height_cm": 43,
+          "door_height_cm": 73,
+          "max_width_cm": 119,
+          "front_overhang_cm": 73,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 492,
+          "overall_width_cm": 169,
+          "overall_height_cm": 158,
+          "wheelbase_cm": 303,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1277,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "PICKUP S SHORTBED 4X2": {
+      "years": [
+        1992,
+        1993
+      ],
+      "details": {
+        "1992": "<default>",
+        "<default>": {
+          "hood_length_cm": 110,
+          "back_length_cm": 200,
+          "side_glass_max_height_cm": 44,
+          "door_height_cm": 73,
+          "max_width_cm": 119,
+          "front_overhang_cm": 72,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 450,
+          "overall_width_cm": 169,
+          "overall_height_cm": 158,
+          "wheelbase_cm": 268,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1193,
+          "weight_distribution_pct": null
+        },
+        "1993": {
+          "hood_length_cm": 110,
+          "back_length_cm": 200,
+          "side_glass_max_height_cm": 44,
+          "door_height_cm": 73,
+          "max_width_cm": 119,
+          "front_overhang_cm": 72,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 450,
+          "overall_width_cm": 169,
+          "overall_height_cm": 158,
+          "wheelbase_cm": 268,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1227,
+          "weight_distribution_pct": null
+        }
+      }
+    }
+  },
+  "i-280": {},
+  "Hombre": {
+    "HOMBRE P/U 2DR EXTENDED CAB S/BOX": {
+      "years": [
+        1997
+      ],
+      "details": {
+        "1997": "<default>",
+        "<default>": {
+          "hood_length_cm": 119,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 76,
+          "max_width_cm": 115,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 517,
+          "overall_width_cm": 173,
+          "overall_height_cm": 158,
+          "wheelbase_cm": 312,
+          "front_track_width_cm": 137,
+          "rear_track_width_cm": 139,
+          "curb_weight_kg": null,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "HOMBRE P/U 2DR REG CAB S/BOX": {
+      "years": [
+        1997,
+        2000
+      ],
+      "details": {
+        "1997": "<default>",
+        "<default>": {
+          "hood_length_cm": 119,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 76,
+          "max_width_cm": 115,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 480,
+          "overall_width_cm": 173,
+          "overall_height_cm": 158,
+          "wheelbase_cm": 275,
+          "front_track_width_cm": 137,
+          "rear_track_width_cm": 139,
+          "curb_weight_kg": null,
+          "weight_distribution_pct": null
+        },
+        "2000": {
+          "hood_length_cm": 119,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 76,
+          "max_width_cm": 115,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 480,
+          "overall_width_cm": 173,
+          "overall_height_cm": 158,
+          "wheelbase_cm": 275,
+          "front_track_width_cm": 137,
+          "rear_track_width_cm": 139,
+          "curb_weight_kg": 1380,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "HOMBRE P/U 2DR SPACECAB S/BOX": {
+      "years": [
+        1998,
+        1999,
+        2000
+      ],
+      "details": {
+        "1998": "<default>",
+        "<default>": {
+          "hood_length_cm": 119,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 76,
+          "max_width_cm": 115,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 517,
+          "overall_width_cm": 173,
+          "overall_height_cm": 158,
+          "wheelbase_cm": 312,
+          "front_track_width_cm": 137,
+          "rear_track_width_cm": 139,
+          "curb_weight_kg": 1607,
+          "weight_distribution_pct": null
+        },
+        "1999": {
+          "hood_length_cm": 119,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 76,
+          "max_width_cm": 115,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 517,
+          "overall_width_cm": 173,
+          "overall_height_cm": 158,
+          "wheelbase_cm": 312,
+          "front_track_width_cm": 137,
+          "rear_track_width_cm": 139,
+          "curb_weight_kg": 1489,
+          "weight_distribution_pct": null
+        },
+        "2000": {
+          "hood_length_cm": 119,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 76,
+          "max_width_cm": 115,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 517,
+          "overall_width_cm": 173,
+          "overall_height_cm": 158,
+          "wheelbase_cm": 312,
+          "front_track_width_cm": 137,
+          "rear_track_width_cm": 139,
+          "curb_weight_kg": 1489,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "HOMBRE P/U 2DR STD CAB S/BOX": {
+      "years": [
+        1998,
+        1999
+      ],
+      "details": {
+        "1998": "<default>",
+        "<default>": {
+          "hood_length_cm": 119,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 76,
+          "max_width_cm": 115,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 480,
+          "overall_width_cm": 173,
+          "overall_height_cm": 158,
+          "wheelbase_cm": 275,
+          "front_track_width_cm": 137,
+          "rear_track_width_cm": 139,
+          "curb_weight_kg": 1467,
+          "weight_distribution_pct": null
+        },
+        "1999": {
+          "hood_length_cm": 119,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 76,
+          "max_width_cm": 115,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 480,
+          "overall_width_cm": 173,
+          "overall_height_cm": 158,
+          "wheelbase_cm": 275,
+          "front_track_width_cm": 137,
+          "rear_track_width_cm": 139,
+          "curb_weight_kg": 1380,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "HOMBRE P/U 2DR SPACECAB S/BOX V6 4X4": {
+      "years": [
+        1999,
+        2000
+      ],
+      "details": {
+        "1999": "<default>",
+        "<default>": {
+          "hood_length_cm": 119,
+          "back_length_cm": 213,
+          "side_glass_max_height_cm": 42,
+          "door_height_cm": 76,
+          "max_width_cm": 115,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 117,
+          "overall_length_cm": 517,
+          "overall_width_cm": 173,
+          "overall_height_cm": 158,
+          "wheelbase_cm": 312,
+          "front_track_width_cm": 137,
+          "rear_track_width_cm": 139,
+          "curb_weight_kg": 1752,
+          "weight_distribution_pct": null
+        },
+        "2000": "<default>"
+      }
+    }
+  },
+  "T6F": {},
+  "T7F": {},
+  "T8F": {},
+  "FRR": {},
+  "NQR": {},
+  "NPR": {},
+  "H-Series": {},
+  "F6": {},
+  "F7": {},
+  "FSR": {},
+  "FTR/FVR": {},
+  "FTR/FVR/EVR": {},
+  "Trooper II": {
+    "TROOPER II 4x4": {
+      "years": [
+        1992,
+        1993
+      ],
+      "details": {
+        "1992": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 215,
+          "side_glass_max_height_cm": 48,
+          "door_height_cm": 83,
+          "max_width_cm": 116,
+          "front_overhang_cm": 81,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 455,
+          "overall_width_cm": 175,
+          "overall_height_cm": 185,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1885,
+          "weight_distribution_pct": null
+        },
+        "1993": {
+          "hood_length_cm": 118,
+          "back_length_cm": 216,
+          "side_glass_max_height_cm": 48,
+          "door_height_cm": 83,
+          "max_width_cm": 116,
+          "front_overhang_cm": 81,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 455,
+          "overall_width_cm": 175,
+          "overall_height_cm": 185,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1885,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "TROOPER II 4DR SUV 4X4": {
+      "years": [
+        1994
+      ],
+      "details": {
+        "1994": "<default>",
+        "<default>": {
+          "hood_length_cm": 118,
+          "back_length_cm": 216,
+          "side_glass_max_height_cm": 48,
+          "door_height_cm": 83,
+          "max_width_cm": 116,
+          "front_overhang_cm": 80,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 455,
+          "overall_width_cm": 175,
+          "overall_height_cm": 185,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 146,
+          "rear_track_width_cm": 146,
+          "curb_weight_kg": 1885,
+          "weight_distribution_pct": "51/49"
+        }
+      }
+    },
+    "TROOPER II 4DR SUV S/LS/LTD 4X4": {
+      "years": [
+        1995,
+        1996,
+        1997
+      ],
+      "details": {
+        "1995": "<default>",
+        "<default>": {
+          "hood_length_cm": 118,
+          "back_length_cm": 216,
+          "side_glass_max_height_cm": 48,
+          "door_height_cm": 83,
+          "max_width_cm": 116,
+          "front_overhang_cm": 80,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 455,
+          "overall_width_cm": 175,
+          "overall_height_cm": 185,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 146,
+          "rear_track_width_cm": 146,
+          "curb_weight_kg": 1910,
+          "weight_distribution_pct": "51/49"
+        },
+        "1996": {
+          "hood_length_cm": 118,
+          "back_length_cm": 216,
+          "side_glass_max_height_cm": 48,
+          "door_height_cm": 83,
+          "max_width_cm": 116,
+          "front_overhang_cm": 80,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 455,
+          "overall_width_cm": 175,
+          "overall_height_cm": 185,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 146,
+          "rear_track_width_cm": 146,
+          "curb_weight_kg": 1939,
+          "weight_distribution_pct": "51/49"
+        },
+        "1997": {
+          "hood_length_cm": 121,
+          "back_length_cm": 216,
+          "side_glass_max_height_cm": 47,
+          "door_height_cm": 130,
+          "max_width_cm": 130,
+          "front_overhang_cm": 81,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 466,
+          "overall_width_cm": 184,
+          "overall_height_cm": 184,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 151,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1939,
+          "weight_distribution_pct": null
+        }
+      }
+    }
+  },
+  "Amigo": {},
+  "NRR": {},
+  "i-350": {},
+  "i-290": {},
+  "i-370": {},
+  "VehiCross": {},
+  "Ascender": {
+    "ASCENDER S/LS/LIMITED 4DR SUV RWD": {
+      "years": [
+        2003
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": 131,
+          "back_length_cm": 206,
+          "side_glass_max_height_cm": 48,
+          "door_height_cm": 85,
+          "max_width_cm": 123,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 527,
+          "overall_width_cm": 190,
+          "overall_height_cm": 196,
+          "wheelbase_cm": 328,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 2194,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    }
+  },
+  "Oasis": {},
+  "Axiom": {},
+  "Rodeo/Amigo": {}
+}

@@ -1,0 +1,4660 @@
+{
+  "S60": {
+    "S60 4DR SEDAN": {
+      "years": [
+        2001,
+        2019
+      ],
+      "details": {
+        "2001": "<default>",
+        "<default>": {
+          "hood_length_cm": 111,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 73,
+          "max_width_cm": 122,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 458,
+          "overall_width_cm": 180,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 272,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1465,
+          "weight_distribution_pct": "59/41"
+        },
+        "2019": {
+          "hood_length_cm": 135,
+          "back_length_cm": 56,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 81,
+          "max_width_cm": 112,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 476,
+          "overall_width_cm": 185,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 160,
+          "curb_weight_kg": 1662,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "S60 4DR SEDAN T-5": {
+      "years": [
+        2001
+      ],
+      "details": {
+        "2001": "<default>",
+        "<default>": {
+          "hood_length_cm": 111,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 73,
+          "max_width_cm": 122,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 458,
+          "overall_width_cm": 180,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 272,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": null,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "S60 4DR SEDAN 2.4/2.4T/2.4T AWD/T5": {
+      "years": [
+        2002
+      ],
+      "details": {
+        "2002": "<default>",
+        "<default>": {
+          "hood_length_cm": 111,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 73,
+          "max_width_cm": 122,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 458,
+          "overall_width_cm": 180,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 272,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1440,
+          "weight_distribution_pct": "59/41"
+        }
+      }
+    },
+    "S60 4DR SEDAN 2.4/ 2.4T/ T5": {
+      "years": [
+        2003,
+        2004,
+        2005
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": 111,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 73,
+          "max_width_cm": 122,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 460,
+          "overall_width_cm": 180,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 272,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1440,
+          "weight_distribution_pct": "59/41"
+        },
+        "2004": "<default>",
+        "2005": "<default>"
+      }
+    },
+    "S60 4DR SEDAN AWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": 111,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 73,
+          "max_width_cm": 122,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 460,
+          "overall_width_cm": 180,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 272,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1502,
+          "weight_distribution_pct": "59/41"
+        },
+        "2004": "<default>",
+        "2005": "<default>",
+        "2006": {
+          "hood_length_cm": 111,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 73,
+          "max_width_cm": 122,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 460,
+          "overall_width_cm": 180,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 272,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1531,
+          "weight_distribution_pct": "59/41"
+        },
+        "2007": {
+          "hood_length_cm": 111,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 73,
+          "max_width_cm": 122,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 460,
+          "overall_width_cm": 180,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 272,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1531,
+          "weight_distribution_pct": "59/41"
+        }
+      }
+    },
+    "S60R 4DR SEDAN AWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007
+      ],
+      "details": {
+        "2004": "<default>",
+        "<default>": {
+          "hood_length_cm": 118,
+          "back_length_cm": 46,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 74,
+          "max_width_cm": 114,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 98,
+          "overall_length_cm": 463,
+          "overall_width_cm": 180,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 272,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1637,
+          "weight_distribution_pct": null
+        },
+        "2005": {
+          "hood_length_cm": 118,
+          "back_length_cm": 46,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 74,
+          "max_width_cm": 114,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 98,
+          "overall_length_cm": 463,
+          "overall_width_cm": 180,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 272,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1637,
+          "weight_distribution_pct": "59/41"
+        },
+        "2006": {
+          "hood_length_cm": 118,
+          "back_length_cm": 46,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 74,
+          "max_width_cm": 114,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 98,
+          "overall_length_cm": 463,
+          "overall_width_cm": 180,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 272,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1602,
+          "weight_distribution_pct": "59/41"
+        },
+        "2007": {
+          "hood_length_cm": 118,
+          "back_length_cm": 46,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 74,
+          "max_width_cm": 114,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 98,
+          "overall_length_cm": 463,
+          "overall_width_cm": 180,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 272,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1602,
+          "weight_distribution_pct": "59/41"
+        }
+      }
+    },
+    "S60 4DR SEDAN 2.5T/ T5": {
+      "years": [
+        2006
+      ],
+      "details": {
+        "2006": "<default>",
+        "<default>": {
+          "hood_length_cm": 111,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 73,
+          "max_width_cm": 122,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 460,
+          "overall_width_cm": 180,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 272,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1455,
+          "weight_distribution_pct": "59/41"
+        }
+      }
+    },
+    "S60 4DR SEDAN FWD 2.5T/ T5": {
+      "years": [
+        2007
+      ],
+      "details": {
+        "2007": "<default>",
+        "<default>": {
+          "hood_length_cm": 111,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 73,
+          "max_width_cm": 122,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 460,
+          "overall_width_cm": 180,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 272,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1455,
+          "weight_distribution_pct": "59/41"
+        }
+      }
+    },
+    "S60 4DR SEDAN FWD 2.5T/T5": {
+      "years": [
+        2008,
+        2009
+      ],
+      "details": {
+        "2008": "<default>",
+        "<default>": {
+          "hood_length_cm": 111,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 73,
+          "max_width_cm": 122,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 460,
+          "overall_width_cm": 180,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 272,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1455,
+          "weight_distribution_pct": "59/41"
+        },
+        "2009": "<default>"
+      }
+    },
+    "S60 4 DR SEDAN T6 AWD": {
+      "years": [
+        2011
+      ],
+      "details": {
+        "2011": "<default>",
+        "<default>": {
+          "hood_length_cm": 127,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 112,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 92,
+          "overall_length_cm": 463,
+          "overall_width_cm": 187,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 157,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1711,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "S60 4 DR SEDAN T5 FWD": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": 127,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 112,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 92,
+          "overall_length_cm": 463,
+          "overall_width_cm": 187,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 157,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1609,
+          "weight_distribution_pct": "62/38"
+        },
+        "2013": "<default>",
+        "2014": "<default>"
+      }
+    },
+    "S60 4 DR SEDAN T6 AWD/R-DESIGN": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": 127,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 112,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 92,
+          "overall_length_cm": 463,
+          "overall_width_cm": 187,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 157,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1711,
+          "weight_distribution_pct": "62/38"
+        },
+        "2013": "<default>",
+        "2014": "<default>"
+      }
+    },
+    "S60 4DR SEDAN T5/T6 AWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 127,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 112,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 92,
+          "overall_length_cm": 463,
+          "overall_width_cm": 187,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 157,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1749,
+          "weight_distribution_pct": "62/38"
+        },
+        "2016": {
+          "hood_length_cm": 127,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 112,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 92,
+          "overall_length_cm": 464,
+          "overall_width_cm": 187,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1749,
+          "weight_distribution_pct": "62/38"
+        },
+        "2017": {
+          "hood_length_cm": 127,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 112,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 92,
+          "overall_length_cm": 464,
+          "overall_width_cm": 187,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1749,
+          "weight_distribution_pct": "62/38"
+        },
+        "2018": {
+          "hood_length_cm": 127,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 112,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 92,
+          "overall_length_cm": 464,
+          "overall_width_cm": 187,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1749,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "S60 4DR SEDAN T5/T6 FWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 127,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 112,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 92,
+          "overall_length_cm": 463,
+          "overall_width_cm": 187,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 157,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1658,
+          "weight_distribution_pct": "62/38"
+        },
+        "2016": {
+          "hood_length_cm": 127,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 112,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 92,
+          "overall_length_cm": 464,
+          "overall_width_cm": 187,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1658,
+          "weight_distribution_pct": "62/38"
+        },
+        "2017": {
+          "hood_length_cm": 127,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 112,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 92,
+          "overall_length_cm": 464,
+          "overall_width_cm": 187,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1658,
+          "weight_distribution_pct": "62/38"
+        },
+        "2018": {
+          "hood_length_cm": 127,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 112,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 92,
+          "overall_length_cm": 464,
+          "overall_width_cm": 187,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1658,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "S60 CROSS COUNTRY 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 127,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 112,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 92,
+          "overall_length_cm": 464,
+          "overall_width_cm": 187,
+          "overall_height_cm": 154,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 162,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1757,
+          "weight_distribution_pct": "62/38"
+        },
+        "2017": "<default>",
+        "2018": "<default>"
+      }
+    }
+  },
+  "S80": {
+    "S80 4DR SEDAN": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ],
+      "details": {
+        "1999": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 52,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 73,
+          "max_width_cm": 125,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 482,
+          "overall_width_cm": 183,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 279,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1632,
+          "weight_distribution_pct": "59/41"
+        },
+        "2000": "<default>",
+        "2001": "<default>",
+        "2002": "<default>",
+        "2003": "<default>"
+      }
+    },
+    "S80 4DR SEDAN T-6": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ],
+      "details": {
+        "1999": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 52,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 73,
+          "max_width_cm": 125,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 482,
+          "overall_width_cm": 183,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 279,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1680,
+          "weight_distribution_pct": "59/41"
+        },
+        "2000": "<default>",
+        "2001": "<default>",
+        "2002": "<default>",
+        "2003": "<default>"
+      }
+    },
+    "S80 4DR SEDAN FWD /2.9/AWD/T6": {
+      "years": [
+        2004
+      ],
+      "details": {
+        "2004": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 52,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 73,
+          "max_width_cm": 125,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 482,
+          "overall_width_cm": 183,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 279,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1584,
+          "weight_distribution_pct": "59/41"
+        }
+      }
+    },
+    "S80 4DR SEDAN AWD": {
+      "years": [
+        2005,
+        2006
+      ],
+      "details": {
+        "2005": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 52,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 73,
+          "max_width_cm": 125,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 482,
+          "overall_width_cm": 183,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 279,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1604,
+          "weight_distribution_pct": "59/41"
+        },
+        "2006": "<default>"
+      }
+    },
+    "S80 4DR SEDAN FWD /T6": {
+      "years": [
+        2005
+      ],
+      "details": {
+        "2005": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 52,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 73,
+          "max_width_cm": 125,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 482,
+          "overall_width_cm": 183,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 279,
+          "front_track_width_cm": 158,
+          "rear_track_width_cm": 156,
+          "curb_weight_kg": 1574,
+          "weight_distribution_pct": "59/41"
+        }
+      }
+    },
+    "S80 4DR SEDAN AWD 3.2 V6": {
+      "years": [
+        2007
+      ],
+      "details": {
+        "2007": "<default>",
+        "<default>": {
+          "hood_length_cm": 121,
+          "back_length_cm": 51,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 112,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 485,
+          "overall_width_cm": 186,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 284,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1581,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "S80 4DR SEDAN AWD 4.4 V8": {
+      "years": [
+        2007
+      ],
+      "details": {
+        "2007": "<default>",
+        "<default>": {
+          "hood_length_cm": 121,
+          "back_length_cm": 51,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 112,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 485,
+          "overall_width_cm": 186,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 284,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1742,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "S80 3.2 4DR SEDAN AWD 3.2L V6": {
+      "years": [
+        2008,
+        2009
+      ],
+      "details": {
+        "2008": "<default>",
+        "<default>": {
+          "hood_length_cm": 121,
+          "back_length_cm": 51,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 112,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 485,
+          "overall_width_cm": 186,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 284,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1654,
+          "weight_distribution_pct": "61/39"
+        },
+        "2009": "<default>"
+      }
+    },
+    "S80 V8 4DR SEDAN AWD 4.4L V8": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ],
+      "details": {
+        "2008": "<default>",
+        "<default>": {
+          "hood_length_cm": 121,
+          "back_length_cm": 51,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 112,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 485,
+          "overall_width_cm": 186,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 284,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1742,
+          "weight_distribution_pct": "61/39"
+        },
+        "2009": "<default>",
+        "2010": {
+          "hood_length_cm": 121,
+          "back_length_cm": 51,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 112,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 485,
+          "overall_width_cm": 186,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 284,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1889,
+          "weight_distribution_pct": "61/39"
+        }
+      }
+    },
+    "S80 3.2 4DR SEDAN FWD 3.2L I6": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ],
+      "details": {
+        "2010": "<default>",
+        "<default>": {
+          "hood_length_cm": 121,
+          "back_length_cm": 51,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 112,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 485,
+          "overall_width_cm": 186,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 284,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1716,
+          "weight_distribution_pct": "61/39"
+        },
+        "2011": "<default>",
+        "2012": "<default>"
+      }
+    },
+    "S80 T6 4DR SEDAN AWD 3.0L I6": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ],
+      "details": {
+        "2010": "<default>",
+        "<default>": {
+          "hood_length_cm": 121,
+          "back_length_cm": 51,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 112,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 485,
+          "overall_width_cm": 186,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 284,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1829,
+          "weight_distribution_pct": "61/39"
+        },
+        "2011": "<default>",
+        "2012": "<default>"
+      }
+    },
+    "S80 3.2 4DR SEDAN FWD": {
+      "years": [
+        2013,
+        2014
+      ],
+      "details": {
+        "2013": "<default>",
+        "<default>": {
+          "hood_length_cm": 121,
+          "back_length_cm": 51,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 112,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 485,
+          "overall_width_cm": 186,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 284,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1716,
+          "weight_distribution_pct": "61/39"
+        },
+        "2014": "<default>"
+      }
+    },
+    "S80 T6 4DR SEDAN AWD": {
+      "years": [
+        2013,
+        2014
+      ],
+      "details": {
+        "2013": "<default>",
+        "<default>": {
+          "hood_length_cm": 121,
+          "back_length_cm": 51,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 112,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 485,
+          "overall_width_cm": 186,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 284,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1829,
+          "weight_distribution_pct": "61/39"
+        },
+        "2014": "<default>"
+      }
+    },
+    "S80 4DR SEDAN T5 DRIVE-E FWD": {
+      "years": [
+        2015,
+        2016
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 121,
+          "back_length_cm": 51,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 112,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 485,
+          "overall_width_cm": 186,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 284,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1716,
+          "weight_distribution_pct": "61/39"
+        },
+        "2016": {
+          "hood_length_cm": 121,
+          "back_length_cm": 51,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 112,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 485,
+          "overall_width_cm": 186,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 284,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1692,
+          "weight_distribution_pct": "61/39"
+        }
+      }
+    },
+    "S80 4DR SEDAN T6 AWD": {
+      "years": [
+        2015
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 121,
+          "back_length_cm": 51,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 80,
+          "max_width_cm": 112,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 485,
+          "overall_width_cm": 186,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 284,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1829,
+          "weight_distribution_pct": "61/39"
+        }
+      }
+    }
+  },
+  "V60": {
+    "V60 4DR WAGON T5 AWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 126,
+          "back_length_cm": 166,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 83,
+          "max_width_cm": 103,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 464,
+          "overall_width_cm": 183,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1634,
+          "weight_distribution_pct": "62/38"
+        },
+        "2016": {
+          "hood_length_cm": 126,
+          "back_length_cm": 166,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 83,
+          "max_width_cm": 103,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 464,
+          "overall_width_cm": 186,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1634,
+          "weight_distribution_pct": "62/38"
+        },
+        "2017": {
+          "hood_length_cm": 126,
+          "back_length_cm": 166,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 83,
+          "max_width_cm": 103,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 464,
+          "overall_width_cm": 186,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1634,
+          "weight_distribution_pct": "62/38"
+        },
+        "2018": {
+          "hood_length_cm": 126,
+          "back_length_cm": 166,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 83,
+          "max_width_cm": 103,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 464,
+          "overall_width_cm": 186,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1634,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "V60 4DR WAGON T5 DRIVE-E FWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 126,
+          "back_length_cm": 166,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 83,
+          "max_width_cm": 103,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 464,
+          "overall_width_cm": 183,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1600,
+          "weight_distribution_pct": "62/38"
+        },
+        "2016": {
+          "hood_length_cm": 126,
+          "back_length_cm": 166,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 83,
+          "max_width_cm": 103,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 464,
+          "overall_width_cm": 186,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1689,
+          "weight_distribution_pct": "62/38"
+        },
+        "2017": {
+          "hood_length_cm": 126,
+          "back_length_cm": 166,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 83,
+          "max_width_cm": 103,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 464,
+          "overall_width_cm": 186,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1689,
+          "weight_distribution_pct": "62/38"
+        },
+        "2018": {
+          "hood_length_cm": 126,
+          "back_length_cm": 166,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 83,
+          "max_width_cm": 103,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 464,
+          "overall_width_cm": 186,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1689,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "V60 4DR WAGON T6 AWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 126,
+          "back_length_cm": 166,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 83,
+          "max_width_cm": 103,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 464,
+          "overall_width_cm": 183,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1719,
+          "weight_distribution_pct": "62/38"
+        },
+        "2016": {
+          "hood_length_cm": 126,
+          "back_length_cm": 166,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 83,
+          "max_width_cm": 103,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 464,
+          "overall_width_cm": 186,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1822,
+          "weight_distribution_pct": "62/38"
+        },
+        "2017": {
+          "hood_length_cm": 126,
+          "back_length_cm": 166,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 83,
+          "max_width_cm": 103,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 464,
+          "overall_width_cm": 186,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1822,
+          "weight_distribution_pct": "62/38"
+        },
+        "2018": {
+          "hood_length_cm": 126,
+          "back_length_cm": 166,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 83,
+          "max_width_cm": 103,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 464,
+          "overall_width_cm": 186,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 159,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1822,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "V60 CROSS COUNTRY 4DR WAGON T5 AWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 126,
+          "back_length_cm": 166,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 83,
+          "max_width_cm": 103,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 464,
+          "overall_width_cm": 183,
+          "overall_height_cm": 155,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 162,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1634,
+          "weight_distribution_pct": "62/38"
+        },
+        "2016": {
+          "hood_length_cm": 126,
+          "back_length_cm": 166,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 83,
+          "max_width_cm": 103,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 464,
+          "overall_width_cm": 186,
+          "overall_height_cm": 155,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 162,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1634,
+          "weight_distribution_pct": "62/38"
+        },
+        "2017": {
+          "hood_length_cm": 126,
+          "back_length_cm": 166,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 83,
+          "max_width_cm": 103,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 464,
+          "overall_width_cm": 186,
+          "overall_height_cm": 155,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 162,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1634,
+          "weight_distribution_pct": "62/38"
+        },
+        "2018": {
+          "hood_length_cm": 126,
+          "back_length_cm": 166,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 83,
+          "max_width_cm": 103,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 464,
+          "overall_width_cm": 186,
+          "overall_height_cm": 155,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 162,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1634,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "V60 4DR WAGON": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 135,
+          "back_length_cm": 177,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 81,
+          "max_width_cm": 112,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 476,
+          "overall_width_cm": 185,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 160,
+          "curb_weight_kg": 1723,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "V60 CROSS COUNTRY 4DR WAGON": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 177,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 81,
+          "max_width_cm": 112,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 478,
+          "overall_width_cm": 185,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 165,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": null,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    }
+  },
+  "XC60": {
+    "XC60 4DR 3.2 FWD/AWD SUV": {
+      "years": [
+        2010,
+        2011
+      ],
+      "details": {
+        "2010": "<default>",
+        "<default>": {
+          "hood_length_cm": 110,
+          "back_length_cm": 165,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 86,
+          "max_width_cm": 106,
+          "front_overhang_cm": 91,
+          "rear_overhang_cm": 93,
+          "overall_length_cm": 463,
+          "overall_width_cm": 189,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1872,
+          "weight_distribution_pct": "58/42"
+        },
+        "2011": "<default>"
+      }
+    },
+    "XC60 4DR T6 AWD SUV": {
+      "years": [
+        2010,
+        2011
+      ],
+      "details": {
+        "2010": "<default>",
+        "<default>": {
+          "hood_length_cm": 110,
+          "back_length_cm": 165,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 86,
+          "max_width_cm": 106,
+          "front_overhang_cm": 91,
+          "rear_overhang_cm": 93,
+          "overall_length_cm": 463,
+          "overall_width_cm": 189,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1928,
+          "weight_distribution_pct": "58/42"
+        },
+        "2011": "<default>"
+      }
+    },
+    "XC60 4DR 3.2 FWD/PREMIER/PLATINUM FWD SUV": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": 110,
+          "back_length_cm": 165,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 86,
+          "max_width_cm": 106,
+          "front_overhang_cm": 91,
+          "rear_overhang_cm": 93,
+          "overall_length_cm": 463,
+          "overall_width_cm": 189,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1872,
+          "weight_distribution_pct": "58/42"
+        },
+        "2013": {
+          "hood_length_cm": 110,
+          "back_length_cm": 165,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 86,
+          "max_width_cm": 106,
+          "front_overhang_cm": 91,
+          "rear_overhang_cm": 93,
+          "overall_length_cm": 463,
+          "overall_width_cm": 189,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1791,
+          "weight_distribution_pct": "58/42"
+        },
+        "2014": {
+          "hood_length_cm": 110,
+          "back_length_cm": 165,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 86,
+          "max_width_cm": 106,
+          "front_overhang_cm": 91,
+          "rear_overhang_cm": 93,
+          "overall_length_cm": 463,
+          "overall_width_cm": 189,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1791,
+          "weight_distribution_pct": "58/42"
+        }
+      }
+    },
+    "XC60 4DR T6 AWD/PREMIER/PLATINUM/R-DESIGN AWD": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": 110,
+          "back_length_cm": 165,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 86,
+          "max_width_cm": 106,
+          "front_overhang_cm": 91,
+          "rear_overhang_cm": 93,
+          "overall_length_cm": 463,
+          "overall_width_cm": 189,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1928,
+          "weight_distribution_pct": "58/42"
+        },
+        "2013": "<default>",
+        "2014": "<default>"
+      }
+    },
+    "XC60 4DR SUV T5 AWD/T6 AWD/T6 R-DESIGN AWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 110,
+          "back_length_cm": 165,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 86,
+          "max_width_cm": 106,
+          "front_overhang_cm": 91,
+          "rear_overhang_cm": 93,
+          "overall_length_cm": 463,
+          "overall_width_cm": 189,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1928,
+          "weight_distribution_pct": "58/42"
+        },
+        "2016": {
+          "hood_length_cm": 110,
+          "back_length_cm": 165,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 86,
+          "max_width_cm": 106,
+          "front_overhang_cm": 91,
+          "rear_overhang_cm": 93,
+          "overall_length_cm": 464,
+          "overall_width_cm": 189,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1935,
+          "weight_distribution_pct": "58/42"
+        },
+        "2017": {
+          "hood_length_cm": 110,
+          "back_length_cm": 165,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 86,
+          "max_width_cm": 106,
+          "front_overhang_cm": 91,
+          "rear_overhang_cm": 93,
+          "overall_length_cm": 464,
+          "overall_width_cm": 189,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1935,
+          "weight_distribution_pct": "58/42"
+        }
+      }
+    },
+    "XC60 4DR SUV T5 DRIVE-E/T6 DRIVE-E FWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 110,
+          "back_length_cm": 165,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 86,
+          "max_width_cm": 106,
+          "front_overhang_cm": 91,
+          "rear_overhang_cm": 93,
+          "overall_length_cm": 463,
+          "overall_width_cm": 189,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1791,
+          "weight_distribution_pct": "58/42"
+        },
+        "2016": {
+          "hood_length_cm": 110,
+          "back_length_cm": 165,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 86,
+          "max_width_cm": 106,
+          "front_overhang_cm": 91,
+          "rear_overhang_cm": 93,
+          "overall_length_cm": 464,
+          "overall_width_cm": 189,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1820,
+          "weight_distribution_pct": "58/42"
+        },
+        "2017": {
+          "hood_length_cm": 110,
+          "back_length_cm": 165,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 86,
+          "max_width_cm": 106,
+          "front_overhang_cm": 91,
+          "rear_overhang_cm": 93,
+          "overall_length_cm": 464,
+          "overall_width_cm": 189,
+          "overall_height_cm": 171,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 159,
+          "curb_weight_kg": 1820,
+          "weight_distribution_pct": "58/42"
+        }
+      }
+    },
+    "XC60 4DR SUV T5 AWD": {
+      "years": [
+        2018
+      ],
+      "details": {
+        "2018": "<default>",
+        "<default>": {
+          "hood_length_cm": 135,
+          "back_length_cm": 161,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 88,
+          "max_width_cm": 102,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 95,
+          "overall_length_cm": 469,
+          "overall_width_cm": 190,
+          "overall_height_cm": 166,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 1866,
+          "weight_distribution_pct": "55/45"
+        }
+      }
+    },
+    "XC60 4DR SUV T6 AWD": {
+      "years": [
+        2018
+      ],
+      "details": {
+        "2018": "<default>",
+        "<default>": {
+          "hood_length_cm": 135,
+          "back_length_cm": 161,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 88,
+          "max_width_cm": 102,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 95,
+          "overall_length_cm": 469,
+          "overall_width_cm": 190,
+          "overall_height_cm": 166,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 1909,
+          "weight_distribution_pct": "55/45"
+        }
+      }
+    },
+    "XC60 4DR SUV T8 AWD PHEV": {
+      "years": [
+        2018
+      ],
+      "details": {
+        "2018": "<default>",
+        "<default>": {
+          "hood_length_cm": 135,
+          "back_length_cm": 161,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 88,
+          "max_width_cm": 102,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 95,
+          "overall_length_cm": 469,
+          "overall_width_cm": 190,
+          "overall_height_cm": 166,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2108,
+          "weight_distribution_pct": "55/45"
+        }
+      }
+    },
+    "XC60 4DR SUV": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 135,
+          "back_length_cm": 160,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 85,
+          "max_width_cm": 103,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 95,
+          "overall_length_cm": 469,
+          "overall_width_cm": 190,
+          "overall_height_cm": 166,
+          "wheelbase_cm": 287,
+          "front_track_width_cm": 166,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 1866,
+          "weight_distribution_pct": "55/45"
+        }
+      }
+    }
+  },
+  "XC70": {
+    "XC70 4DR WAGON AWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": 116,
+          "back_length_cm": 176,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 74,
+          "max_width_cm": 124,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 473,
+          "overall_width_cm": 186,
+          "overall_height_cm": 156,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1630,
+          "weight_distribution_pct": "54/46"
+        },
+        "2004": "<default>",
+        "2005": "<default>",
+        "2006": "<default>",
+        "2007": "<default>",
+        "2008": {
+          "hood_length_cm": 120,
+          "back_length_cm": 193,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 81,
+          "max_width_cm": 114,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 484,
+          "overall_width_cm": 186,
+          "overall_height_cm": 160,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1891,
+          "weight_distribution_pct": null
+        },
+        "2009": {
+          "hood_length_cm": 120,
+          "back_length_cm": 193,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 81,
+          "max_width_cm": 114,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 484,
+          "overall_width_cm": 186,
+          "overall_height_cm": 160,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1891,
+          "weight_distribution_pct": "58/42"
+        }
+      }
+    },
+    "XC70 4DR WAGON AWD 3.2/T6": {
+      "years": [
+        2010,
+        2011
+      ],
+      "details": {
+        "2010": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 193,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 81,
+          "max_width_cm": 114,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 484,
+          "overall_width_cm": 187,
+          "overall_height_cm": 160,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1891,
+          "weight_distribution_pct": "58/42"
+        },
+        "2011": {
+          "hood_length_cm": 120,
+          "back_length_cm": 193,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 81,
+          "max_width_cm": 114,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 484,
+          "overall_width_cm": 187,
+          "overall_height_cm": 160,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1742,
+          "weight_distribution_pct": "58/42"
+        }
+      }
+    },
+    "XC70 4DR WAGON AWD 3.2/T6/PREMIER/PLATINUM": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 193,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 81,
+          "max_width_cm": 114,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 484,
+          "overall_width_cm": 187,
+          "overall_height_cm": 160,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1742,
+          "weight_distribution_pct": "58/42"
+        },
+        "2013": {
+          "hood_length_cm": 120,
+          "back_length_cm": 193,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 81,
+          "max_width_cm": 114,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 484,
+          "overall_width_cm": 187,
+          "overall_height_cm": 160,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1881,
+          "weight_distribution_pct": "58/42"
+        },
+        "2014": {
+          "hood_length_cm": 120,
+          "back_length_cm": 193,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 81,
+          "max_width_cm": 114,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 484,
+          "overall_width_cm": 187,
+          "overall_height_cm": 160,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1881,
+          "weight_distribution_pct": "58/42"
+        }
+      }
+    },
+    "XC70 4DR WAGON T5 DRIVE-E FWD": {
+      "years": [
+        2015,
+        2016
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 193,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 81,
+          "max_width_cm": 114,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 484,
+          "overall_width_cm": 187,
+          "overall_height_cm": 160,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1881,
+          "weight_distribution_pct": "58/42"
+        },
+        "2016": {
+          "hood_length_cm": 120,
+          "back_length_cm": 193,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 81,
+          "max_width_cm": 114,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 484,
+          "overall_width_cm": 187,
+          "overall_height_cm": 160,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1820,
+          "weight_distribution_pct": "58/42"
+        }
+      }
+    },
+    "XC70 4DR WAGON T6 AWD": {
+      "years": [
+        2015,
+        2016
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 193,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 81,
+          "max_width_cm": 114,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 484,
+          "overall_width_cm": 187,
+          "overall_height_cm": 160,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1881,
+          "weight_distribution_pct": "58/42"
+        },
+        "2016": {
+          "hood_length_cm": 120,
+          "back_length_cm": 193,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 81,
+          "max_width_cm": 114,
+          "front_overhang_cm": 98,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 484,
+          "overall_width_cm": 187,
+          "overall_height_cm": 160,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1880,
+          "weight_distribution_pct": "58/42"
+        }
+      }
+    }
+  },
+  "S40": {
+    "S40 4DR SEDAN": {
+      "years": [
+        2001,
+        2002,
+        2003,
+        2004
+      ],
+      "details": {
+        "2001": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 71,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 454,
+          "overall_width_cm": 172,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 256,
+          "front_track_width_cm": 147,
+          "rear_track_width_cm": 147,
+          "curb_weight_kg": 1255,
+          "weight_distribution_pct": "61/39"
+        },
+        "2002": "<default>",
+        "2003": "<default>",
+        "2004": "<default>"
+      }
+    },
+    "S40 4DR SEDAN AWD /T5": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ],
+      "details": {
+        "2005": "<default>",
+        "<default>": {
+          "hood_length_cm": 105,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 82,
+          "max_width_cm": 112,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 448,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1345,
+          "weight_distribution_pct": "61/39"
+        },
+        "2006": {
+          "hood_length_cm": 105,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 82,
+          "max_width_cm": 112,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 448,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1465,
+          "weight_distribution_pct": "61/39"
+        },
+        "2007": {
+          "hood_length_cm": 105,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 82,
+          "max_width_cm": 112,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 448,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1465,
+          "weight_distribution_pct": "61/39"
+        }
+      }
+    },
+    "S40 4DR SEDAN FWD /2.4i/T5": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ],
+      "details": {
+        "2005": "<default>",
+        "<default>": {
+          "hood_length_cm": 105,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 82,
+          "max_width_cm": 112,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 448,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1399,
+          "weight_distribution_pct": "61/39"
+        },
+        "2006": {
+          "hood_length_cm": 105,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 82,
+          "max_width_cm": 112,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 448,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1368,
+          "weight_distribution_pct": "61/39"
+        },
+        "2007": {
+          "hood_length_cm": 105,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 82,
+          "max_width_cm": 112,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 448,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1368,
+          "weight_distribution_pct": "61/39"
+        }
+      }
+    },
+    "S40 2.4i 4DR SEDAN FWD": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ],
+      "details": {
+        "2008": "<default>",
+        "<default>": {
+          "hood_length_cm": 105,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 82,
+          "max_width_cm": 112,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 448,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1465,
+          "weight_distribution_pct": "61/39"
+        },
+        "2009": "<default>",
+        "2010": {
+          "hood_length_cm": 105,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 82,
+          "max_width_cm": 112,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 448,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1467,
+          "weight_distribution_pct": "61/39"
+        }
+      }
+    },
+    "S40 T5 4DR SEDAN FWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ],
+      "details": {
+        "2008": "<default>",
+        "<default>": {
+          "hood_length_cm": 105,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 82,
+          "max_width_cm": 112,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 448,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1505,
+          "weight_distribution_pct": "61/39"
+        },
+        "2009": "<default>",
+        "2010": {
+          "hood_length_cm": 105,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 82,
+          "max_width_cm": 112,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 448,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1561,
+          "weight_distribution_pct": "61/39"
+        },
+        "2011": {
+          "hood_length_cm": 105,
+          "back_length_cm": 44,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 82,
+          "max_width_cm": 112,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 99,
+          "overall_length_cm": 448,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1536,
+          "weight_distribution_pct": "61/39"
+        }
+      }
+    }
+  },
+  "V50": {
+    "V50 4DR WAGON AWD /T5": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ],
+      "details": {
+        "2005": "<default>",
+        "<default>": {
+          "hood_length_cm": 100,
+          "back_length_cm": 169,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 81,
+          "max_width_cm": 103,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 102,
+          "overall_length_cm": 451,
+          "overall_width_cm": 177,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1480,
+          "weight_distribution_pct": "58/42"
+        },
+        "2006": "<default>",
+        "2007": "<default>"
+      }
+    },
+    "V50 4DR WAGON FWD /2.4i/T5": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ],
+      "details": {
+        "2005": "<default>",
+        "<default>": {
+          "hood_length_cm": 100,
+          "back_length_cm": 169,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 81,
+          "max_width_cm": 103,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 102,
+          "overall_length_cm": 451,
+          "overall_width_cm": 177,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1616,
+          "weight_distribution_pct": "58/42"
+        },
+        "2006": {
+          "hood_length_cm": 100,
+          "back_length_cm": 169,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 81,
+          "max_width_cm": 103,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 102,
+          "overall_length_cm": 451,
+          "overall_width_cm": 177,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1414,
+          "weight_distribution_pct": "58/42"
+        },
+        "2007": {
+          "hood_length_cm": 100,
+          "back_length_cm": 169,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 81,
+          "max_width_cm": 103,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 102,
+          "overall_length_cm": 451,
+          "overall_width_cm": 177,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1414,
+          "weight_distribution_pct": "58/42"
+        }
+      }
+    },
+    "V50 4DR WAGON FWD 2.4i/T5": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ],
+      "details": {
+        "2008": "<default>",
+        "<default>": {
+          "hood_length_cm": 100,
+          "back_length_cm": 169,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 81,
+          "max_width_cm": 103,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 102,
+          "overall_length_cm": 451,
+          "overall_width_cm": 177,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1414,
+          "weight_distribution_pct": "58/42"
+        },
+        "2009": "<default>",
+        "2010": "<default>",
+        "2011": "<default>"
+      }
+    }
+  },
+  "C70": {
+    "C70 2DR COUPE": {
+      "years": [
+        1997,
+        1998,
+        1999
+      ],
+      "details": {
+        "1997": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 472,
+          "overall_width_cm": 182,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1418,
+          "weight_distribution_pct": null
+        },
+        "1998": {
+          "hood_length_cm": 131,
+          "back_length_cm": 54,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 78,
+          "max_width_cm": 128,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 106,
+          "overall_length_cm": 472,
+          "overall_width_cm": 182,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1450,
+          "weight_distribution_pct": "61/39"
+        },
+        "1999": {
+          "hood_length_cm": 131,
+          "back_length_cm": 54,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 78,
+          "max_width_cm": 128,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 106,
+          "overall_length_cm": 472,
+          "overall_width_cm": 182,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1453,
+          "weight_distribution_pct": "61/39"
+        }
+      }
+    },
+    "C70 2DR CONVERTIBLE": {
+      "years": [
+        1998,
+        1999
+      ],
+      "details": {
+        "1998": "<default>",
+        "<default>": {
+          "hood_length_cm": 131,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": 78,
+          "max_width_cm": 128,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 106,
+          "overall_length_cm": 472,
+          "overall_width_cm": 182,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": null,
+          "weight_distribution_pct": null
+        },
+        "1999": {
+          "hood_length_cm": 131,
+          "back_length_cm": 62,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 78,
+          "max_width_cm": 132,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 106,
+          "overall_length_cm": 472,
+          "overall_width_cm": 182,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1453,
+          "weight_distribution_pct": "59/41"
+        }
+      }
+    },
+    "C70 2DR CONVERTIBLE LPT/HPT": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004
+      ],
+      "details": {
+        "2000": "<default>",
+        "<default>": {
+          "hood_length_cm": 131,
+          "back_length_cm": 62,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 78,
+          "max_width_cm": 132,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 106,
+          "overall_length_cm": 472,
+          "overall_width_cm": 182,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1565,
+          "weight_distribution_pct": "59/41"
+        },
+        "2001": {
+          "hood_length_cm": 131,
+          "back_length_cm": 62,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 78,
+          "max_width_cm": 132,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 106,
+          "overall_length_cm": 472,
+          "overall_width_cm": 182,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1564,
+          "weight_distribution_pct": "59/41"
+        },
+        "2002": {
+          "hood_length_cm": 131,
+          "back_length_cm": 62,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 78,
+          "max_width_cm": 132,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 106,
+          "overall_length_cm": 472,
+          "overall_width_cm": 182,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1564,
+          "weight_distribution_pct": "59/41"
+        },
+        "2003": {
+          "hood_length_cm": 131,
+          "back_length_cm": 62,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 78,
+          "max_width_cm": 132,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 106,
+          "overall_length_cm": 472,
+          "overall_width_cm": 182,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1564,
+          "weight_distribution_pct": "59/41"
+        },
+        "2004": {
+          "hood_length_cm": 131,
+          "back_length_cm": 62,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 78,
+          "max_width_cm": 132,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 106,
+          "overall_length_cm": 472,
+          "overall_width_cm": 182,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1564,
+          "weight_distribution_pct": "59/41"
+        }
+      }
+    },
+    "C70 2DR COUPE LPT/HPT": {
+      "years": [
+        2000
+      ],
+      "details": {
+        "2000": "<default>",
+        "<default>": {
+          "hood_length_cm": 131,
+          "back_length_cm": 54,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 78,
+          "max_width_cm": 128,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 106,
+          "overall_length_cm": 472,
+          "overall_width_cm": 182,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1453,
+          "weight_distribution_pct": "61/39"
+        }
+      }
+    },
+    "C70 2DR COUPE HPT": {
+      "years": [
+        2001,
+        2002
+      ],
+      "details": {
+        "2001": "<default>",
+        "<default>": {
+          "hood_length_cm": 131,
+          "back_length_cm": 54,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 78,
+          "max_width_cm": 128,
+          "front_overhang_cm": 101,
+          "rear_overhang_cm": 106,
+          "overall_length_cm": 472,
+          "overall_width_cm": 182,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1451,
+          "weight_distribution_pct": "61/39"
+        },
+        "2002": "<default>"
+      }
+    },
+    "C70 2DR CONV FWD": {
+      "years": [
+        2006,
+        2007
+      ],
+      "details": {
+        "2006": "<default>",
+        "<default>": {
+          "hood_length_cm": 103,
+          "back_length_cm": 67,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 82,
+          "max_width_cm": 103,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 458,
+          "overall_width_cm": 182,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1711,
+          "weight_distribution_pct": null
+        },
+        "2007": "<default>"
+      }
+    },
+    "C70 T5 2DR CONV FWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ],
+      "details": {
+        "2008": "<default>",
+        "<default>": {
+          "hood_length_cm": 103,
+          "back_length_cm": 67,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 82,
+          "max_width_cm": 103,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 458,
+          "overall_width_cm": 182,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1711,
+          "weight_distribution_pct": "56/44"
+        },
+        "2009": "<default>",
+        "2010": {
+          "hood_length_cm": 103,
+          "back_length_cm": 67,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 82,
+          "max_width_cm": 103,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 458,
+          "overall_width_cm": 182,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1736,
+          "weight_distribution_pct": "56/44"
+        },
+        "2011": {
+          "hood_length_cm": 103,
+          "back_length_cm": 67,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 82,
+          "max_width_cm": 103,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 458,
+          "overall_width_cm": 182,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1736,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "C70 T5/PREMIER PLUS/PLATINUM 2DR CONV FWD": {
+      "years": [
+        2012,
+        2013
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": 103,
+          "back_length_cm": 67,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 82,
+          "max_width_cm": 103,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 458,
+          "overall_width_cm": 182,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1736,
+          "weight_distribution_pct": "56/44"
+        },
+        "2013": {
+          "hood_length_cm": 103,
+          "back_length_cm": 67,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 82,
+          "max_width_cm": 103,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 458,
+          "overall_width_cm": 182,
+          "overall_height_cm": 141,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1750,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    }
+  },
+  "V70": {
+    "V70 4DR WAGON BASE/GLT": {
+      "years": [
+        1998,
+        1999,
+        2000
+      ],
+      "details": {
+        "1998": "<default>",
+        "<default>": {
+          "hood_length_cm": 130,
+          "back_length_cm": 212,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 69,
+          "max_width_cm": 130,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 472,
+          "overall_width_cm": 176,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 146,
+          "curb_weight_kg": 1431,
+          "weight_distribution_pct": null
+        },
+        "1999": {
+          "hood_length_cm": 130,
+          "back_length_cm": 212,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 69,
+          "max_width_cm": 130,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 472,
+          "overall_width_cm": 176,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 146,
+          "curb_weight_kg": 1376,
+          "weight_distribution_pct": "62/38"
+        },
+        "2000": {
+          "hood_length_cm": 130,
+          "back_length_cm": 212,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 69,
+          "max_width_cm": 130,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 473,
+          "overall_width_cm": 176,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 146,
+          "curb_weight_kg": 1415,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "V70 4DR WAGON BASE/R AWD": {
+      "years": [
+        1998
+      ],
+      "details": {
+        "1998": "<default>",
+        "<default>": {
+          "hood_length_cm": 130,
+          "back_length_cm": 212,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 69,
+          "max_width_cm": 130,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 473,
+          "overall_width_cm": 176,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": 150,
+          "rear_track_width_cm": 149,
+          "curb_weight_kg": 1453,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "V70 4DR WAGON T-5": {
+      "years": [
+        1998,
+        1999,
+        2001
+      ],
+      "details": {
+        "1998": "<default>",
+        "<default>": {
+          "hood_length_cm": 130,
+          "back_length_cm": 212,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 69,
+          "max_width_cm": 130,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 472,
+          "overall_width_cm": 176,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 146,
+          "curb_weight_kg": 1458,
+          "weight_distribution_pct": "60/40"
+        },
+        "1999": {
+          "hood_length_cm": 130,
+          "back_length_cm": 212,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 69,
+          "max_width_cm": 130,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 472,
+          "overall_width_cm": 176,
+          "overall_height_cm": 143,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 146,
+          "curb_weight_kg": null,
+          "weight_distribution_pct": "62/38"
+        },
+        "2001": {
+          "hood_length_cm": 113,
+          "back_length_cm": 215,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 74,
+          "max_width_cm": 124,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 471,
+          "overall_width_cm": 180,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": null,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "V70 4DR WAGON XC AWD": {
+      "years": [
+        1998,
+        2001,
+        2002
+      ],
+      "details": {
+        "1998": "<default>",
+        "<default>": {
+          "hood_length_cm": 130,
+          "back_length_cm": 212,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 69,
+          "max_width_cm": 130,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 474,
+          "overall_width_cm": 176,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": 150,
+          "rear_track_width_cm": 149,
+          "curb_weight_kg": 1480,
+          "weight_distribution_pct": null
+        },
+        "2001": {
+          "hood_length_cm": 116,
+          "back_length_cm": 215,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 74,
+          "max_width_cm": 124,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 473,
+          "overall_width_cm": 186,
+          "overall_height_cm": 156,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1630,
+          "weight_distribution_pct": null
+        },
+        "2002": {
+          "hood_length_cm": 116,
+          "back_length_cm": 176,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 74,
+          "max_width_cm": 124,
+          "front_overhang_cm": 95,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 473,
+          "overall_width_cm": 186,
+          "overall_height_cm": 156,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 161,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1630,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "V70 4DR WAGON AWD BASE/R": {
+      "years": [
+        1999
+      ],
+      "details": {
+        "1999": "<default>",
+        "<default>": {
+          "hood_length_cm": 130,
+          "back_length_cm": 212,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 69,
+          "max_width_cm": 130,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 473,
+          "overall_width_cm": 176,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": 150,
+          "rear_track_width_cm": 149,
+          "curb_weight_kg": 1694,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "V70 4DR WAGON AWD XC": {
+      "years": [
+        1999,
+        2000
+      ],
+      "details": {
+        "1999": "<default>",
+        "<default>": {
+          "hood_length_cm": 130,
+          "back_length_cm": 212,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 69,
+          "max_width_cm": 130,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 474,
+          "overall_width_cm": 176,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": 150,
+          "rear_track_width_cm": 149,
+          "curb_weight_kg": 1691,
+          "weight_distribution_pct": null
+        },
+        "2000": {
+          "hood_length_cm": 130,
+          "back_length_cm": 212,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 69,
+          "max_width_cm": 130,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 474,
+          "overall_width_cm": 176,
+          "overall_height_cm": 148,
+          "wheelbase_cm": 266,
+          "front_track_width_cm": 150,
+          "rear_track_width_cm": 149,
+          "curb_weight_kg": 1625,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "V70 4DR WAGON AWD R": {
+      "years": [
+        2000
+      ],
+      "details": {
+        "2000": "<default>",
+        "<default>": {
+          "hood_length_cm": 130,
+          "back_length_cm": 212,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 69,
+          "max_width_cm": 130,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 473,
+          "overall_width_cm": 176,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": 150,
+          "rear_track_width_cm": 149,
+          "curb_weight_kg": 1665,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "V70 4DR WAGON": {
+      "years": [
+        2001
+      ],
+      "details": {
+        "2001": "<default>",
+        "<default>": {
+          "hood_length_cm": 113,
+          "back_length_cm": 215,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 74,
+          "max_width_cm": 124,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 471,
+          "overall_width_cm": 180,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1528,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "V70 4DR WAGON 2.4/2.4T/2.4T AWD/T5": {
+      "years": [
+        2002
+      ],
+      "details": {
+        "2002": "<default>",
+        "<default>": {
+          "hood_length_cm": 113,
+          "back_length_cm": 176,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 74,
+          "max_width_cm": 124,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 471,
+          "overall_width_cm": 180,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1528,
+          "weight_distribution_pct": "56/44"
+        }
+      }
+    },
+    "V70 4DR WAGON 2.4 /2.4T /T5": {
+      "years": [
+        2003
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": 113,
+          "back_length_cm": 176,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 74,
+          "max_width_cm": 124,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 471,
+          "overall_width_cm": 180,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1485,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "V70 4DR WAGON AWD": {
+      "years": [
+        2003
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": 113,
+          "back_length_cm": 176,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 74,
+          "max_width_cm": 124,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 471,
+          "overall_width_cm": 180,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1485,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "V70 4DR WAGON AWD /2.5T AWD/T5": {
+      "years": [
+        2004
+      ],
+      "details": {
+        "2004": "<default>",
+        "<default>": {
+          "hood_length_cm": 113,
+          "back_length_cm": 176,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 74,
+          "max_width_cm": 124,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 471,
+          "overall_width_cm": 180,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1485,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "V70 4DR WAGON FWD /2.4 /2.5T /2.5T TITANIUM E": {
+      "years": [
+        2004
+      ],
+      "details": {
+        "2004": "<default>",
+        "<default>": {
+          "hood_length_cm": 113,
+          "back_length_cm": 176,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 74,
+          "max_width_cm": 124,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 471,
+          "overall_width_cm": 180,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1485,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "V70R 4DR WAGON AWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007
+      ],
+      "details": {
+        "2004": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 176,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 74,
+          "max_width_cm": 110,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 471,
+          "overall_width_cm": 180,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1713,
+          "weight_distribution_pct": null
+        },
+        "2005": {
+          "hood_length_cm": 120,
+          "back_length_cm": 176,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 74,
+          "max_width_cm": 110,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 471,
+          "overall_width_cm": 180,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1713,
+          "weight_distribution_pct": "54/46"
+        },
+        "2006": {
+          "hood_length_cm": 120,
+          "back_length_cm": 176,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 74,
+          "max_width_cm": 110,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 471,
+          "overall_width_cm": 180,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1677,
+          "weight_distribution_pct": "54/46"
+        },
+        "2007": {
+          "hood_length_cm": 120,
+          "back_length_cm": 176,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 74,
+          "max_width_cm": 110,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 103,
+          "overall_length_cm": 471,
+          "overall_width_cm": 180,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1677,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "V70 4DR WAGON AWD /2.5T AWD": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ],
+      "details": {
+        "2005": "<default>",
+        "<default>": {
+          "hood_length_cm": 113,
+          "back_length_cm": 176,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 74,
+          "max_width_cm": 124,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 471,
+          "overall_width_cm": 180,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1485,
+          "weight_distribution_pct": "54/46"
+        },
+        "2006": "<default>",
+        "2007": "<default>"
+      }
+    },
+    "V70 4DR WAGON FWD /2.4 /2.5T /T5": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ],
+      "details": {
+        "2005": "<default>",
+        "<default>": {
+          "hood_length_cm": 113,
+          "back_length_cm": 176,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 74,
+          "max_width_cm": 124,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 471,
+          "overall_width_cm": 180,
+          "overall_height_cm": 149,
+          "wheelbase_cm": 276,
+          "front_track_width_cm": 155,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1485,
+          "weight_distribution_pct": "54/46"
+        },
+        "2006": "<default>",
+        "2007": "<default>"
+      }
+    },
+    "V70 4DR WAGON FWD /3.2": {
+      "years": [
+        2008,
+        2009
+      ],
+      "details": {
+        "2008": "<default>",
+        "<default>": {
+          "hood_length_cm": 121,
+          "back_length_cm": 193,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 80,
+          "max_width_cm": 113,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 102,
+          "overall_length_cm": 482,
+          "overall_width_cm": 186,
+          "overall_height_cm": 155,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 157,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1770,
+          "weight_distribution_pct": null
+        },
+        "2009": {
+          "hood_length_cm": 121,
+          "back_length_cm": 193,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 80,
+          "max_width_cm": 113,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 102,
+          "overall_length_cm": 482,
+          "overall_width_cm": 186,
+          "overall_height_cm": 155,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 157,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1770,
+          "weight_distribution_pct": "58/42"
+        }
+      }
+    },
+    "V70 4DR WAGON FWD 3.2 I6": {
+      "years": [
+        2010
+      ],
+      "details": {
+        "2010": "<default>",
+        "<default>": {
+          "hood_length_cm": 121,
+          "back_length_cm": 193,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 80,
+          "max_width_cm": 113,
+          "front_overhang_cm": 99,
+          "rear_overhang_cm": 102,
+          "overall_length_cm": 482,
+          "overall_width_cm": 186,
+          "overall_height_cm": 155,
+          "wheelbase_cm": 282,
+          "front_track_width_cm": 157,
+          "rear_track_width_cm": 155,
+          "curb_weight_kg": 1767,
+          "weight_distribution_pct": "58/42"
+        }
+      }
+    }
+  },
+  "XC90": {
+    "XC90 4DR SUV AWD 3.2": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011
+      ],
+      "details": {
+        "2007": "<default>",
+        "<default>": {
+          "hood_length_cm": 111,
+          "back_length_cm": 188,
+          "side_glass_max_height_cm": 46,
+          "door_height_cm": 86,
+          "max_width_cm": 125,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 480,
+          "overall_width_cm": 190,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 286,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 162,
+          "curb_weight_kg": 1985,
+          "weight_distribution_pct": "53/47"
+        },
+        "2008": {
+          "hood_length_cm": 111,
+          "back_length_cm": 188,
+          "side_glass_max_height_cm": 46,
+          "door_height_cm": 86,
+          "max_width_cm": 125,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 480,
+          "overall_width_cm": 190,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 286,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 162,
+          "curb_weight_kg": 2111,
+          "weight_distribution_pct": "53/47"
+        },
+        "2009": {
+          "hood_length_cm": 111,
+          "back_length_cm": 188,
+          "side_glass_max_height_cm": 46,
+          "door_height_cm": 86,
+          "max_width_cm": 125,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 480,
+          "overall_width_cm": 190,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 286,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 162,
+          "curb_weight_kg": 2111,
+          "weight_distribution_pct": "53/47"
+        },
+        "2010": {
+          "hood_length_cm": 111,
+          "back_length_cm": 188,
+          "side_glass_max_height_cm": 46,
+          "door_height_cm": 86,
+          "max_width_cm": 125,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 480,
+          "overall_width_cm": 190,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 286,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 162,
+          "curb_weight_kg": 2111,
+          "weight_distribution_pct": "53/47"
+        },
+        "2011": {
+          "hood_length_cm": 111,
+          "back_length_cm": 188,
+          "side_glass_max_height_cm": 46,
+          "door_height_cm": 86,
+          "max_width_cm": 125,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 480,
+          "overall_width_cm": 190,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 286,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 162,
+          "curb_weight_kg": 2060,
+          "weight_distribution_pct": "53/47"
+        }
+      }
+    },
+    "XC90 4DR SUV AWD V8": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010
+      ],
+      "details": {
+        "2007": "<default>",
+        "<default>": {
+          "hood_length_cm": 111,
+          "back_length_cm": 188,
+          "side_glass_max_height_cm": 46,
+          "door_height_cm": 86,
+          "max_width_cm": 125,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 480,
+          "overall_width_cm": 190,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 286,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 162,
+          "curb_weight_kg": 2036,
+          "weight_distribution_pct": "53/47"
+        },
+        "2008": {
+          "hood_length_cm": 111,
+          "back_length_cm": 188,
+          "side_glass_max_height_cm": 46,
+          "door_height_cm": 86,
+          "max_width_cm": 125,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 480,
+          "overall_width_cm": 190,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 286,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 162,
+          "curb_weight_kg": 2157,
+          "weight_distribution_pct": "53/4794"
+        },
+        "2009": {
+          "hood_length_cm": 111,
+          "back_length_cm": 188,
+          "side_glass_max_height_cm": 46,
+          "door_height_cm": 86,
+          "max_width_cm": 125,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 480,
+          "overall_width_cm": 190,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 286,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 162,
+          "curb_weight_kg": 2157,
+          "weight_distribution_pct": "53/47"
+        },
+        "2010": {
+          "hood_length_cm": 111,
+          "back_length_cm": 188,
+          "side_glass_max_height_cm": 46,
+          "door_height_cm": 86,
+          "max_width_cm": 125,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 480,
+          "overall_width_cm": 190,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 286,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 162,
+          "curb_weight_kg": 2157,
+          "weight_distribution_pct": "53/47"
+        }
+      }
+    },
+    "XC90 4DR SUV AWD 3.2/R-DESIGN/PREMIER/PLATINU": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": 111,
+          "back_length_cm": 188,
+          "side_glass_max_height_cm": 46,
+          "door_height_cm": 86,
+          "max_width_cm": 125,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 480,
+          "overall_width_cm": 190,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 286,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 162,
+          "curb_weight_kg": 2060,
+          "weight_distribution_pct": "53/47"
+        },
+        "2013": {
+          "hood_length_cm": 111,
+          "back_length_cm": 188,
+          "side_glass_max_height_cm": 46,
+          "door_height_cm": 86,
+          "max_width_cm": 125,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 480,
+          "overall_width_cm": 190,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 286,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 162,
+          "curb_weight_kg": 2160,
+          "weight_distribution_pct": "53/47"
+        },
+        "2014": {
+          "hood_length_cm": 111,
+          "back_length_cm": 188,
+          "side_glass_max_height_cm": 46,
+          "door_height_cm": 86,
+          "max_width_cm": 125,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 480,
+          "overall_width_cm": 190,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 286,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 162,
+          "curb_weight_kg": 2160,
+          "weight_distribution_pct": "53/47"
+        },
+        "2015": {
+          "hood_length_cm": 111,
+          "back_length_cm": 188,
+          "side_glass_max_height_cm": 46,
+          "door_height_cm": 86,
+          "max_width_cm": 125,
+          "front_overhang_cm": 90,
+          "rear_overhang_cm": 104,
+          "overall_length_cm": 480,
+          "overall_width_cm": 190,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 286,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 162,
+          "curb_weight_kg": 2160,
+          "weight_distribution_pct": "53/47"
+        }
+      }
+    },
+    "XC90 4DR SUV AWD T6": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 136,
+          "back_length_cm": 183,
+          "side_glass_max_height_cm": 43,
+          "door_height_cm": 95,
+          "max_width_cm": 118,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 495,
+          "overall_width_cm": 201,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2750,
+          "weight_distribution_pct": "53/47"
+        },
+        "2017": {
+          "hood_length_cm": 136,
+          "back_length_cm": 183,
+          "side_glass_max_height_cm": 43,
+          "door_height_cm": 95,
+          "max_width_cm": 118,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 495,
+          "overall_width_cm": 201,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2101,
+          "weight_distribution_pct": "53/47"
+        },
+        "2018": {
+          "hood_length_cm": 136,
+          "back_length_cm": 183,
+          "side_glass_max_height_cm": 43,
+          "door_height_cm": 95,
+          "max_width_cm": 118,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 495,
+          "overall_width_cm": 201,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2101,
+          "weight_distribution_pct": "53/47"
+        },
+        "2019": {
+          "hood_length_cm": 136,
+          "back_length_cm": 183,
+          "side_glass_max_height_cm": 43,
+          "door_height_cm": 95,
+          "max_width_cm": 118,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 495,
+          "overall_width_cm": 201,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2101,
+          "weight_distribution_pct": "53/47"
+        }
+      }
+    },
+    "XC90 4DR SUV AWD T5": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 136,
+          "back_length_cm": 183,
+          "side_glass_max_height_cm": 43,
+          "door_height_cm": 95,
+          "max_width_cm": 118,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 495,
+          "overall_width_cm": 201,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2030,
+          "weight_distribution_pct": "53/47"
+        },
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    },
+    "XC90 4DR SUV AWD T8 PHEV": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 136,
+          "back_length_cm": 183,
+          "side_glass_max_height_cm": 43,
+          "door_height_cm": 95,
+          "max_width_cm": 118,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 495,
+          "overall_width_cm": 201,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 2320,
+          "weight_distribution_pct": "53/47"
+        },
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    },
+    "XC90 4DR SUV FWD T5": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 136,
+          "back_length_cm": 183,
+          "side_glass_max_height_cm": 43,
+          "door_height_cm": 95,
+          "max_width_cm": 118,
+          "front_overhang_cm": 89,
+          "rear_overhang_cm": 108,
+          "overall_length_cm": 495,
+          "overall_width_cm": 201,
+          "overall_height_cm": 178,
+          "wheelbase_cm": 298,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 167,
+          "curb_weight_kg": 1967,
+          "weight_distribution_pct": "53/47"
+        },
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    }
+  },
+  "C30": {
+    "C30 4DR HATCH FWD 2.4i/T5": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010
+      ],
+      "details": {
+        "2007": "<default>",
+        "<default>": {
+          "hood_length_cm": 102,
+          "back_length_cm": 96,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 104,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 75,
+          "overall_length_cm": 425,
+          "overall_width_cm": 178,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1406,
+          "weight_distribution_pct": null
+        },
+        "2008": {
+          "hood_length_cm": 102,
+          "back_length_cm": 96,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 104,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 75,
+          "overall_length_cm": 425,
+          "overall_width_cm": 178,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1406,
+          "weight_distribution_pct": "62/38"
+        },
+        "2009": {
+          "hood_length_cm": 102,
+          "back_length_cm": 96,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 104,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 75,
+          "overall_length_cm": 425,
+          "overall_width_cm": 178,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1406,
+          "weight_distribution_pct": "62/38"
+        },
+        "2010": {
+          "hood_length_cm": 102,
+          "back_length_cm": 96,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 104,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 75,
+          "overall_length_cm": 425,
+          "overall_width_cm": 178,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1425,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "C30 2DR HATCH T5": {
+      "years": [
+        2011
+      ],
+      "details": {
+        "2011": "<default>",
+        "<default>": {
+          "hood_length_cm": 102,
+          "back_length_cm": 96,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 104,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 75,
+          "overall_length_cm": 426,
+          "overall_width_cm": 178,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1424,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "C30 2DR HATCH T5/R-DESIGN": {
+      "years": [
+        2012,
+        2013
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": 102,
+          "back_length_cm": 96,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 104,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 75,
+          "overall_length_cm": 426,
+          "overall_width_cm": 178,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1424,
+          "weight_distribution_pct": "62/38"
+        },
+        "2013": {
+          "hood_length_cm": 102,
+          "back_length_cm": 96,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 104,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 75,
+          "overall_length_cm": 426,
+          "overall_width_cm": 178,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 264,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 153,
+          "curb_weight_kg": 1457,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    }
+  },
+  "940 Series": {},
+  "960 Series": {},
+  "850 Series": {},
+  "V60CC": {},
+  "S60 Cross Country": {
+    "S60 CROSS COUNTRY 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 127,
+          "back_length_cm": 50,
+          "side_glass_max_height_cm": 35,
+          "door_height_cm": 83,
+          "max_width_cm": 112,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 92,
+          "overall_length_cm": 464,
+          "overall_width_cm": 187,
+          "overall_height_cm": 154,
+          "wheelbase_cm": 278,
+          "front_track_width_cm": 162,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1757,
+          "weight_distribution_pct": "62/38"
+        },
+        "2017": "<default>",
+        "2018": "<default>"
+      }
+    }
+  },
+  "S90": {
+    "S90 4DR SEDAN": {
+      "years": [
+        1998
+      ],
+      "details": {
+        "1998": "<default>",
+        "<default>": {
+          "hood_length_cm": 144,
+          "back_length_cm": 67,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 67,
+          "max_width_cm": 127,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 111,
+          "overall_length_cm": 487,
+          "overall_width_cm": 175,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 150,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1570,
+          "weight_distribution_pct": "60/40"
+        }
+      }
+    },
+    "S90 4DR SEDAN T5 AWD": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 81,
+          "max_width_cm": 112,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 496,
+          "overall_width_cm": 189,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 294,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1840,
+          "weight_distribution_pct": "56/44"
+        },
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    },
+    "S90 4DR SEDAN T5 FWD": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 81,
+          "max_width_cm": 112,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 496,
+          "overall_width_cm": 189,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 294,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1759,
+          "weight_distribution_pct": "56/44"
+        },
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    },
+    "S90 4DR SEDAN T6 AWD": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 81,
+          "max_width_cm": 112,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 496,
+          "overall_width_cm": 189,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 294,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1880,
+          "weight_distribution_pct": "56/44"
+        },
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    },
+    "S90 4DR SEDAN T8 eAWD PHEV": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 57,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 81,
+          "max_width_cm": 112,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 115,
+          "overall_length_cm": 496,
+          "overall_width_cm": 189,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 294,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 2081,
+          "weight_distribution_pct": "56/44"
+        },
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    }
+  },
+  "V90": {
+    "V90 4DR WAGON": {
+      "years": [
+        1998,
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "1998": "<default>",
+        "<default>": {
+          "hood_length_cm": 144,
+          "back_length_cm": 222,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 67,
+          "max_width_cm": 127,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 111,
+          "overall_length_cm": 486,
+          "overall_width_cm": 175,
+          "overall_height_cm": 145,
+          "wheelbase_cm": 277,
+          "front_track_width_cm": 150,
+          "rear_track_width_cm": 152,
+          "curb_weight_kg": 1609,
+          "weight_distribution_pct": null
+        },
+        "2017": {
+          "hood_length_cm": 137,
+          "back_length_cm": 117,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 79,
+          "max_width_cm": 102,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 113,
+          "overall_length_cm": 494,
+          "overall_width_cm": 189,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 294,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": null,
+          "weight_distribution_pct": null
+        },
+        "2018": {
+          "hood_length_cm": 137,
+          "back_length_cm": 117,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 79,
+          "max_width_cm": 102,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 113,
+          "overall_length_cm": 494,
+          "overall_width_cm": 189,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 294,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1826,
+          "weight_distribution_pct": "54/46"
+        },
+        "2019": {
+          "hood_length_cm": 137,
+          "back_length_cm": 117,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 79,
+          "max_width_cm": 102,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 113,
+          "overall_length_cm": 494,
+          "overall_width_cm": 189,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 294,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1826,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    },
+    "V90 CROSSCOUNTRY 4DR WAGON": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 117,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 79,
+          "max_width_cm": 102,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 113,
+          "overall_length_cm": 494,
+          "overall_width_cm": 189,
+          "overall_height_cm": 151,
+          "wheelbase_cm": 294,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": null,
+          "weight_distribution_pct": null
+        },
+        "2018": {
+          "hood_length_cm": 137,
+          "back_length_cm": 117,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 79,
+          "max_width_cm": 102,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 113,
+          "overall_length_cm": 494,
+          "overall_width_cm": 189,
+          "overall_height_cm": 151,
+          "wheelbase_cm": 294,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1868,
+          "weight_distribution_pct": "54/46"
+        },
+        "2019": {
+          "hood_length_cm": 137,
+          "back_length_cm": 117,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 79,
+          "max_width_cm": 102,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 113,
+          "overall_length_cm": 494,
+          "overall_width_cm": 189,
+          "overall_height_cm": 151,
+          "wheelbase_cm": 294,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1868,
+          "weight_distribution_pct": "54/46"
+        }
+      }
+    }
+  },
+  "V90CC": {},
+  "240 Series": {},
+  "740 Series": {},
+  "780 Series": {},
+  "760 Series": {},
+  "V40": {
+    "V40 4DR WAGON": {
+      "years": [
+        2001,
+        2002,
+        2003,
+        2004
+      ],
+      "details": {
+        "2001": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 205,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 71,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 454,
+          "overall_width_cm": 172,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 256,
+          "front_track_width_cm": 147,
+          "rear_track_width_cm": 147,
+          "curb_weight_kg": 1280,
+          "weight_distribution_pct": "60/40"
+        },
+        "2002": {
+          "hood_length_cm": 120,
+          "back_length_cm": 143,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 71,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 454,
+          "overall_width_cm": 172,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 256,
+          "front_track_width_cm": 147,
+          "rear_track_width_cm": 147,
+          "curb_weight_kg": 1280,
+          "weight_distribution_pct": "60/40"
+        },
+        "2003": {
+          "hood_length_cm": 120,
+          "back_length_cm": 143,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 71,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 454,
+          "overall_width_cm": 172,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 256,
+          "front_track_width_cm": 147,
+          "rear_track_width_cm": 147,
+          "curb_weight_kg": 1280,
+          "weight_distribution_pct": "60/40"
+        },
+        "2004": {
+          "hood_length_cm": 120,
+          "back_length_cm": 143,
+          "side_glass_max_height_cm": 39,
+          "door_height_cm": 71,
+          "max_width_cm": 112,
+          "front_overhang_cm": 92,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 454,
+          "overall_width_cm": 172,
+          "overall_height_cm": 142,
+          "wheelbase_cm": 256,
+          "front_track_width_cm": 147,
+          "rear_track_width_cm": 147,
+          "curb_weight_kg": 1280,
+          "weight_distribution_pct": "60/40"
+        }
+      }
+    }
+  },
+  "S70": {
+    "S70 4DR SEDAN BASE/GLT": {
+      "years": [
+        1998,
+        1999,
+        2000
+      ],
+      "details": {
+        "1998": "<default>",
+        "<default>": {
+          "hood_length_cm": 131,
+          "back_length_cm": 62,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 69,
+          "max_width_cm": 129,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 472,
+          "overall_width_cm": 176,
+          "overall_height_cm": 140,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 146,
+          "curb_weight_kg": 1431,
+          "weight_distribution_pct": null
+        },
+        "1999": {
+          "hood_length_cm": 131,
+          "back_length_cm": 62,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 69,
+          "max_width_cm": 129,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 472,
+          "overall_width_cm": 176,
+          "overall_height_cm": 140,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 147,
+          "curb_weight_kg": 1376,
+          "weight_distribution_pct": "62/38"
+        },
+        "2000": {
+          "hood_length_cm": 131,
+          "back_length_cm": 62,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 69,
+          "max_width_cm": 129,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 472,
+          "overall_width_cm": 176,
+          "overall_height_cm": 140,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 147,
+          "curb_weight_kg": 1376,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "S70 4DR SEDAN T-5": {
+      "years": [
+        1998,
+        1999,
+        2000
+      ],
+      "details": {
+        "1998": "<default>",
+        "<default>": {
+          "hood_length_cm": 131,
+          "back_length_cm": 62,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 69,
+          "max_width_cm": 129,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 472,
+          "overall_width_cm": 176,
+          "overall_height_cm": 140,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 146,
+          "curb_weight_kg": 1458,
+          "weight_distribution_pct": "60/40"
+        },
+        "1999": {
+          "hood_length_cm": 131,
+          "back_length_cm": 62,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 69,
+          "max_width_cm": 129,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 472,
+          "overall_width_cm": 176,
+          "overall_height_cm": 140,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 147,
+          "curb_weight_kg": 1376,
+          "weight_distribution_pct": "62/38"
+        },
+        "2000": {
+          "hood_length_cm": 131,
+          "back_length_cm": 62,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 69,
+          "max_width_cm": 129,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 472,
+          "overall_width_cm": 176,
+          "overall_height_cm": 140,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 147,
+          "curb_weight_kg": 1376,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "S70 4DR SEDAN AWD": {
+      "years": [
+        1999,
+        2000
+      ],
+      "details": {
+        "1999": "<default>",
+        "<default>": {
+          "hood_length_cm": 131,
+          "back_length_cm": 62,
+          "side_glass_max_height_cm": 41,
+          "door_height_cm": 69,
+          "max_width_cm": 129,
+          "front_overhang_cm": 100,
+          "rear_overhang_cm": 107,
+          "overall_length_cm": 472,
+          "overall_width_cm": 176,
+          "overall_height_cm": 144,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 147,
+          "curb_weight_kg": 1565,
+          "weight_distribution_pct": null
+        },
+        "2000": "<default>"
+      }
+    }
+  },
+  "260 Series": {},
+  "XC40": {
+    "XC40 4DR SUV": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 119,
+          "back_length_cm": 148,
+          "side_glass_max_height_cm": 36,
+          "door_height_cm": 88,
+          "max_width_cm": 102,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 88,
+          "overall_length_cm": 443,
+          "overall_width_cm": 186,
+          "overall_height_cm": 165,
+          "wheelbase_cm": 270,
+          "front_track_width_cm": 160,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1682,
+          "weight_distribution_pct": null
+        }
+      }
+    }
+  },
+  "Cab Over Engine HT": {},
+  "Cab Over Engine LT": {},
+  "Cab Over Engine Prod. Class 03": {},
+  "Cab Over Engine Prod. Class 07": {},
+  "F12 w/F7 Cab": {},
+  "F6 w/F7 Cab": {},
+  "Cab Over Engine Prod. Class 07 (USA)": {},
+  "Cab behind engine": {},
+  "VT": {},
+  "VS": {}
+}

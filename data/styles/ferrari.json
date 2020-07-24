@@ -1,0 +1,1105 @@
+{
+  "612 Scaglietti": {
+    "612 SCAGLIETTI 2DR COUPE RWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011
+      ],
+      "details": {
+        "2004": "<default>",
+        "<default>": {
+          "hood_length_cm": 162,
+          "back_length_cm": 56,
+          "side_glass_max_height_cm": 83,
+          "door_height_cm": 27,
+          "max_width_cm": 112,
+          "front_overhang_cm": 87,
+          "rear_overhang_cm": 110,
+          "overall_length_cm": 491,
+          "overall_width_cm": 196,
+          "overall_height_cm": 134,
+          "wheelbase_cm": 294,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1840,
+          "weight_distribution_pct": null
+        },
+        "2005": "<default>",
+        "2006": "<default>",
+        "2007": "<default>",
+        "2008": "<default>",
+        "2009": "<default>",
+        "2010": "<default>",
+        "2011": "<default>"
+      }
+    }
+  },
+  "F430 Coupe": {},
+  "599 GTB": {
+    "599 GTB FIORANO 2DR COUPE RWD": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ],
+      "details": {
+        "2007": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 467,
+          "overall_width_cm": 196,
+          "overall_height_cm": 133,
+          "wheelbase_cm": 275,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1688,
+          "weight_distribution_pct": null
+        },
+        "2008": "<default>",
+        "2009": "<default>",
+        "2010": "<default>",
+        "2011": "<default>",
+        "2012": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 467,
+          "overall_width_cm": 196,
+          "overall_height_cm": 133,
+          "wheelbase_cm": 275,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 162,
+          "curb_weight_kg": 1688,
+          "weight_distribution_pct": "47/53"
+        }
+      }
+    }
+  },
+  "F430 Spider": {
+    "F430 SPIDER 2DR CONV RWD": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009
+      ],
+      "details": {
+        "2006": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 451,
+          "overall_width_cm": 192,
+          "overall_height_cm": 123,
+          "wheelbase_cm": 260,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1525,
+          "weight_distribution_pct": null
+        },
+        "2007": "<default>",
+        "2008": "<default>",
+        "2009": "<default>"
+      }
+    }
+  },
+  "599 GTB Fiorano": {
+    "599 GTB FIORANO 2DR COUPE RWD": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ],
+      "details": {
+        "2007": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 467,
+          "overall_width_cm": 196,
+          "overall_height_cm": 133,
+          "wheelbase_cm": 275,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1688,
+          "weight_distribution_pct": null
+        },
+        "2008": "<default>",
+        "2009": "<default>",
+        "2010": "<default>",
+        "2011": "<default>",
+        "2012": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 467,
+          "overall_width_cm": 196,
+          "overall_height_cm": 133,
+          "wheelbase_cm": 275,
+          "front_track_width_cm": 169,
+          "rear_track_width_cm": 162,
+          "curb_weight_kg": 1688,
+          "weight_distribution_pct": "47/53"
+        }
+      }
+    }
+  },
+  "430 Scuderia": {},
+  "F430": {
+    "F430 2DR COUPE RWD": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009
+      ],
+      "details": {
+        "2006": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 451,
+          "overall_width_cm": 192,
+          "overall_height_cm": 121,
+          "wheelbase_cm": 260,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1450,
+          "weight_distribution_pct": null
+        },
+        "2007": "<default>",
+        "2008": "<default>",
+        "2009": "<default>"
+      }
+    },
+    "F430 CHALLENGE 2DR COUPE RWD": {
+      "years": [
+        2006,
+        2007
+      ],
+      "details": {
+        "2006": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 451,
+          "overall_width_cm": 192,
+          "overall_height_cm": 121,
+          "wheelbase_cm": 260,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1225,
+          "weight_distribution_pct": null
+        },
+        "2007": "<default>"
+      }
+    },
+    "F430 SPIDER 2DR CONV RWD": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009
+      ],
+      "details": {
+        "2006": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 451,
+          "overall_width_cm": 192,
+          "overall_height_cm": 123,
+          "wheelbase_cm": 260,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1525,
+          "weight_distribution_pct": null
+        },
+        "2007": "<default>",
+        "2008": "<default>",
+        "2009": "<default>"
+      }
+    },
+    "F430 SCUDERIA 2DR COUPE RWD": {
+      "years": [
+        2008,
+        2009
+      ],
+      "details": {
+        "2008": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 451,
+          "overall_width_cm": 192,
+          "overall_height_cm": 121,
+          "wheelbase_cm": 260,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1225,
+          "weight_distribution_pct": null
+        },
+        "2009": "<default>"
+      }
+    }
+  },
+  "430 Scuderia Spider": {},
+  "360 Modena/360 Modena F1": {},
+  "360 Spider/360 Spider F1": {},
+  "575 M Maranello/575 M Maranello F1": {},
+  "456 MGT": {},
+  "456 MGTA": {},
+  "Enzo": {
+    "ENZO 2DR COUPE RWD": {
+      "years": [
+        2003
+      ],
+      "details": {
+        "2003": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 470,
+          "overall_width_cm": 204,
+          "overall_height_cm": 115,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1365,
+          "weight_distribution_pct": null
+        }
+      }
+    }
+  },
+  "F355": {
+    "F355 2DR COUPE": {
+      "years": [
+        1995
+      ],
+      "details": {
+        "1995": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 425,
+          "overall_width_cm": 190,
+          "overall_height_cm": 117,
+          "wheelbase_cm": 245,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1350,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "F355 SPYDER 2DR COUPE": {
+      "years": [
+        1996,
+        1997,
+        1998
+      ],
+      "details": {
+        "1996": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 425,
+          "overall_width_cm": 190,
+          "overall_height_cm": 117,
+          "wheelbase_cm": 245,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1350,
+          "weight_distribution_pct": null
+        },
+        "1997": "<default>",
+        "1998": "<default>"
+      }
+    },
+    "F355 TB/TS 2DR COUPE": {
+      "years": [
+        1996,
+        1997
+      ],
+      "details": {
+        "1996": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 425,
+          "overall_width_cm": 190,
+          "overall_height_cm": 117,
+          "wheelbase_cm": 245,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1350,
+          "weight_distribution_pct": null
+        },
+        "1997": "<default>"
+      }
+    },
+    "F355 B/TS 2DR COUPE": {
+      "years": [
+        1998
+      ],
+      "details": {
+        "1998": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 425,
+          "overall_width_cm": 190,
+          "overall_height_cm": 117,
+          "wheelbase_cm": 245,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1350,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "F355 SPYDER 2DR COUPE BASE/F1": {
+      "years": [
+        1999
+      ],
+      "details": {
+        "1999": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 425,
+          "overall_width_cm": 190,
+          "overall_height_cm": 117,
+          "wheelbase_cm": 245,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1350,
+          "weight_distribution_pct": null
+        }
+      }
+    }
+  },
+  "550 Maranello": {},
+  "F12 Berlinetta": {
+    "F12 BERLINETTA 2DR COUPE RWD": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 462,
+          "overall_width_cm": 194,
+          "overall_height_cm": 127,
+          "wheelbase_cm": 272,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 162,
+          "curb_weight_kg": 1630,
+          "weight_distribution_pct": "46/54"
+        },
+        "2015": "<default>",
+        "2016": "<default>",
+        "2017": "<default>"
+      }
+    }
+  },
+  "California T": {
+    "CALIFORNIA T 2DR CONVERTIBLE RWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 457,
+          "overall_width_cm": 191,
+          "overall_height_cm": 132,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 161,
+          "curb_weight_kg": 1730,
+          "weight_distribution_pct": "47/53"
+        },
+        "2016": "<default>",
+        "2017": "<default>"
+      }
+    }
+  },
+  "FF": {
+    "FF 2DR COUPE AWD": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 491,
+          "overall_width_cm": 196,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1840,
+          "weight_distribution_pct": null
+        },
+        "2013": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 491,
+          "overall_width_cm": 196,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1880,
+          "weight_distribution_pct": "47/53"
+        },
+        "2014": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 491,
+          "overall_width_cm": 196,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1880,
+          "weight_distribution_pct": "47/53"
+        },
+        "2015": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 491,
+          "overall_width_cm": 196,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1880,
+          "weight_distribution_pct": "47/53"
+        },
+        "2016": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 491,
+          "overall_width_cm": 196,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 299,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1880,
+          "weight_distribution_pct": "47/53"
+        }
+      }
+    }
+  },
+  "La Ferrari": {},
+  "458 Italia": {
+    "458 ITALIA 2DR COUPE RWD": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015
+      ],
+      "details": {
+        "2010": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 453,
+          "overall_width_cm": 194,
+          "overall_height_cm": 121,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1380,
+          "weight_distribution_pct": "42/58"
+        },
+        "2011": "<default>",
+        "2012": "<default>",
+        "2013": "<default>",
+        "2014": "<default>",
+        "2015": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 453,
+          "overall_width_cm": 194,
+          "overall_height_cm": 121,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": 168,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1380,
+          "weight_distribution_pct": "42/58"
+        }
+      }
+    }
+  },
+  "458 Speciale": {
+    "458 SPECIALE 2DR COUPE RWD": {
+      "years": [
+        2016
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 457,
+          "overall_width_cm": 195,
+          "overall_height_cm": 120,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": 168,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1395,
+          "weight_distribution_pct": "42/58"
+        }
+      }
+    },
+    "458 SPECIALE A 2DR CONVERTIBLE RWD": {
+      "years": [
+        2016
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 457,
+          "overall_width_cm": 195,
+          "overall_height_cm": 120,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": 168,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1445,
+          "weight_distribution_pct": "42/58"
+        }
+      }
+    }
+  },
+  "458 Speciale Spider": {},
+  "458 Spider": {
+    "458 SPIDER 2DR CONVERTIBLE RWD": {
+      "years": [
+        2014,
+        2015
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 453,
+          "overall_width_cm": 194,
+          "overall_height_cm": 121,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1430,
+          "weight_distribution_pct": "42/58"
+        },
+        "2015": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 453,
+          "overall_width_cm": 194,
+          "overall_height_cm": 121,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 161,
+          "curb_weight_kg": 1535,
+          "weight_distribution_pct": "42/58"
+        }
+      }
+    }
+  },
+  "California": {
+    "CALIFORNIA 2DR COUPE RWD": {
+      "years": [
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ],
+      "details": {
+        "2009": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 456,
+          "overall_width_cm": 190,
+          "overall_height_cm": 131,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1735,
+          "weight_distribution_pct": null
+        },
+        "2010": "<default>",
+        "2011": "<default>",
+        "2012": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 456,
+          "overall_width_cm": 190,
+          "overall_height_cm": 131,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 168,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 1880,
+          "weight_distribution_pct": "47/53"
+        },
+        "2013": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 456,
+          "overall_width_cm": 190,
+          "overall_height_cm": 131,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 168,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 1735,
+          "weight_distribution_pct": "47/53"
+        },
+        "2014": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 456,
+          "overall_width_cm": 190,
+          "overall_height_cm": 131,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 168,
+          "rear_track_width_cm": 166,
+          "curb_weight_kg": 1735,
+          "weight_distribution_pct": "47/53"
+        }
+      }
+    },
+    "CALIFORNIA T 2DR CONVERTIBLE RWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ],
+      "details": {
+        "2015": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 457,
+          "overall_width_cm": 191,
+          "overall_height_cm": 132,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 161,
+          "curb_weight_kg": 1730,
+          "weight_distribution_pct": "47/53"
+        },
+        "2016": "<default>",
+        "2017": "<default>"
+      }
+    }
+  },
+  "599 GTO": {},
+  "348 tb": {},
+  "348 ts": {},
+  "512 TR": {},
+  "355 Berlinetta": {},
+  "355 GTS": {},
+  "348 Spider": {
+    "348 SPIDER 2DR CONVERTIBLE": {
+      "years": [
+        1994
+      ],
+      "details": {
+        "1994": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 423,
+          "overall_width_cm": 189,
+          "overall_height_cm": 117,
+          "wheelbase_cm": 245,
+          "front_track_width_cm": 150,
+          "rear_track_width_cm": 163,
+          "curb_weight_kg": 1487,
+          "weight_distribution_pct": null
+        }
+      }
+    }
+  },
+  "456 GT": {},
+  "355 Spider": {},
+  "Mondial T": {},
+  "Testarossa": {},
+  "F40": {},
+  "328 GTB": {},
+  "328 GTS": {},
+  "3.2 Mondial": {},
+  "328": {},
+  "308GTB Quattrovalvole": {},
+  "308GTS Quattrovalvole": {},
+  "Mondial 8": {
+    "MONDIAL 8": {
+      "years": [
+        1982
+      ],
+      "details": {
+        "1982": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 464,
+          "overall_width_cm": 179,
+          "overall_height_cm": 126,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1589,
+          "weight_distribution_pct": null
+        }
+      }
+    }
+  },
+  "308 Convertible": {},
+  "488 GTB": {
+    "488 GTB": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 457,
+          "overall_width_cm": 195,
+          "overall_height_cm": 121,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": 168,
+          "rear_track_width_cm": 165,
+          "curb_weight_kg": 1475,
+          "weight_distribution_pct": "42/58"
+        },
+        "2017": "<default>",
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    }
+  },
+  "488 GTS": {},
+  "F12 Special Series": {},
+  "F60 America": {},
+  "308GTBi": {},
+  "308GTSi": {},
+  "308GTB": {},
+  "308GTS": {},
+  "F12 tdf (Tour de France)": {},
+  "GTC4Lusso": {},
+  "488 Spider": {
+    "488 SPIDER": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 457,
+          "overall_width_cm": 195,
+          "overall_height_cm": 121,
+          "wheelbase_cm": 265,
+          "front_track_width_cm": 168,
+          "rear_track_width_cm": 165,
+          "curb_weight_kg": 1525,
+          "weight_distribution_pct": "42/58"
+        },
+        "2017": "<default>",
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    }
+  },
+  "812 Superfast": {
+    "812 SUPERFAST": {
+      "years": [
+        2018,
+        2019
+      ],
+      "details": {
+        "2018": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 466,
+          "overall_width_cm": 197,
+          "overall_height_cm": 127,
+          "wheelbase_cm": 272,
+          "front_track_width_cm": 167,
+          "rear_track_width_cm": 162,
+          "curb_weight_kg": 1633,
+          "weight_distribution_pct": "47/53"
+        },
+        "2019": "<default>"
+      }
+    }
+  },
+  "Portofino": {
+    "PORTOFINO": {
+      "years": [
+        2018,
+        2019
+      ],
+      "details": {
+        "2018": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 459,
+          "overall_width_cm": 194,
+          "overall_height_cm": 132,
+          "wheelbase_cm": 267,
+          "front_track_width_cm": 163,
+          "rear_track_width_cm": 164,
+          "curb_weight_kg": 1664,
+          "weight_distribution_pct": "46/54"
+        },
+        "2019": "<default>"
+      }
+    }
+  },
+  "488 Pista": {},
+  "F8 Tributo": {}
+}

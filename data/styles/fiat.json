@@ -1,0 +1,814 @@
+{
+  "500": {
+    "500 2 DR HATCHBACK POP/SPORT/LOUNGE": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2011": "<default>",
+        "<default>": {
+          "hood_length_cm": 80,
+          "back_length_cm": 61,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 84,
+          "max_width_cm": 101,
+          "front_overhang_cm": 71,
+          "rear_overhang_cm": 54,
+          "overall_length_cm": 355,
+          "overall_width_cm": 163,
+          "overall_height_cm": 152,
+          "wheelbase_cm": 230,
+          "front_track_width_cm": 142,
+          "rear_track_width_cm": 140,
+          "curb_weight_kg": 1068,
+          "weight_distribution_pct": "62/38"
+        },
+        "2012": "<default>",
+        "2013": "<default>",
+        "2014": "<default>",
+        "2015": "<default>",
+        "2016": "<default>",
+        "2017": "<default>",
+        "2018": "<default>"
+      }
+    },
+    "500 ABARTH": {
+      "years": [
+        2012
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": 88,
+          "back_length_cm": 37,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 85,
+          "max_width_cm": 104,
+          "front_overhang_cm": 78,
+          "rear_overhang_cm": 59,
+          "overall_length_cm": 367,
+          "overall_width_cm": 163,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 230,
+          "front_track_width_cm": 141,
+          "rear_track_width_cm": 141,
+          "curb_weight_kg": 1106,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "500C 2 DR HATCHBACK CONVERTIBLE POP/LOUNGE": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": 80,
+          "back_length_cm": 61,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 84,
+          "max_width_cm": 101,
+          "front_overhang_cm": 71,
+          "rear_overhang_cm": 54,
+          "overall_length_cm": 355,
+          "overall_width_cm": 163,
+          "overall_height_cm": 152,
+          "wheelbase_cm": 230,
+          "front_track_width_cm": 142,
+          "rear_track_width_cm": 140,
+          "curb_weight_kg": 1098,
+          "weight_distribution_pct": "63/37"
+        },
+        "2013": "<default>",
+        "2014": "<default>",
+        "2015": "<default>",
+        "2016": "<default>",
+        "2017": "<default>",
+        "2018": "<default>"
+      }
+    },
+    "500 2 DR HATCHBACK TURBO/ABARTH": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2013": "<default>",
+        "<default>": {
+          "hood_length_cm": 88,
+          "back_length_cm": 37,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 85,
+          "max_width_cm": 104,
+          "front_overhang_cm": 78,
+          "rear_overhang_cm": 59,
+          "overall_length_cm": 367,
+          "overall_width_cm": 163,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 230,
+          "front_track_width_cm": 141,
+          "rear_track_width_cm": 141,
+          "curb_weight_kg": 1130,
+          "weight_distribution_pct": "62/38"
+        },
+        "2014": "<default>",
+        "2015": "<default>",
+        "2016": "<default>",
+        "2017": "<default>",
+        "2018": "<default>"
+      }
+    },
+    "500C 2 DR HATCHBACK CONVERTIBLE TURBO/ABARTH": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2013": "<default>",
+        "<default>": {
+          "hood_length_cm": 88,
+          "back_length_cm": 37,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 85,
+          "max_width_cm": 104,
+          "front_overhang_cm": 78,
+          "rear_overhang_cm": 59,
+          "overall_length_cm": 367,
+          "overall_width_cm": 163,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 230,
+          "front_track_width_cm": 141,
+          "rear_track_width_cm": 141,
+          "curb_weight_kg": 1130,
+          "weight_distribution_pct": "62/38"
+        },
+        "2014": "<default>",
+        "2015": "<default>",
+        "2016": "<default>",
+        "2017": "<default>",
+        "2018": "<default>"
+      }
+    },
+    "500L": {
+      "years": [
+        2013
+      ],
+      "details": {
+        "2013": "<default>",
+        "<default>": {
+          "hood_length_cm": 93,
+          "back_length_cm": 137,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 87,
+          "max_width_cm": 110,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 78,
+          "overall_length_cm": 425,
+          "overall_width_cm": 179,
+          "overall_height_cm": 165,
+          "wheelbase_cm": 261,
+          "front_track_width_cm": 151,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1453,
+          "weight_distribution_pct": "61/39"
+        }
+      }
+    },
+    "500L 4DR HATCHBACK POP/SPORT/TREKKING/LOUNGE": {
+      "years": [
+        2014,
+        2015,
+        2016
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 93,
+          "back_length_cm": 137,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 87,
+          "max_width_cm": 110,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 78,
+          "overall_length_cm": 425,
+          "overall_width_cm": 179,
+          "overall_height_cm": 165,
+          "wheelbase_cm": 261,
+          "front_track_width_cm": 151,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1476,
+          "weight_distribution_pct": "61/39"
+        },
+        "2015": "<default>",
+        "2016": "<default>"
+      }
+    },
+    "500X 4DR SUV AWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 110,
+          "back_length_cm": 156,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 87,
+          "max_width_cm": 107,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 81,
+          "overall_length_cm": 426,
+          "overall_width_cm": 180,
+          "overall_height_cm": 161,
+          "wheelbase_cm": 257,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1487,
+          "weight_distribution_pct": "61/39"
+        },
+        "2017": "<default>",
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    },
+    "500X 4DR SUV FWD AUTOMATIC": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 110,
+          "back_length_cm": 156,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 87,
+          "max_width_cm": 107,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 81,
+          "overall_length_cm": 426,
+          "overall_width_cm": 180,
+          "overall_height_cm": 160,
+          "wheelbase_cm": 257,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1404,
+          "weight_distribution_pct": "61/39"
+        },
+        "2017": "<default>",
+        "2018": "<default>"
+      }
+    },
+    "500X 4DR SUV FWD MANUAL": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 110,
+          "back_length_cm": 156,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 87,
+          "max_width_cm": 107,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 81,
+          "overall_length_cm": 426,
+          "overall_width_cm": 180,
+          "overall_height_cm": 160,
+          "wheelbase_cm": 257,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1346,
+          "weight_distribution_pct": "61/39"
+        },
+        "2017": "<default>",
+        "2018": "<default>"
+      }
+    },
+    "500L 4DR HATCHBACK": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 93,
+          "back_length_cm": 137,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 87,
+          "max_width_cm": 110,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 78,
+          "overall_length_cm": 425,
+          "overall_width_cm": 179,
+          "overall_height_cm": 165,
+          "wheelbase_cm": 261,
+          "front_track_width_cm": 151,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1476,
+          "weight_distribution_pct": "61/39"
+        },
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    },
+    "500 2 DR HATCHBACK": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 80,
+          "back_length_cm": 61,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 84,
+          "max_width_cm": 101,
+          "front_overhang_cm": 71,
+          "rear_overhang_cm": 54,
+          "overall_length_cm": 355,
+          "overall_width_cm": 163,
+          "overall_height_cm": 152,
+          "wheelbase_cm": 230,
+          "front_track_width_cm": 142,
+          "rear_track_width_cm": 140,
+          "curb_weight_kg": 1068,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "500 2 DR HATCHBACK ABARTH": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 88,
+          "back_length_cm": 37,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 85,
+          "max_width_cm": 104,
+          "front_overhang_cm": 78,
+          "rear_overhang_cm": 59,
+          "overall_length_cm": 367,
+          "overall_width_cm": 163,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 230,
+          "front_track_width_cm": 141,
+          "rear_track_width_cm": 141,
+          "curb_weight_kg": 1130,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    },
+    "500C 2 DR HATCHBACK CONVERTIBLE": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 80,
+          "back_length_cm": 61,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 84,
+          "max_width_cm": 101,
+          "front_overhang_cm": 71,
+          "rear_overhang_cm": 54,
+          "overall_length_cm": 355,
+          "overall_width_cm": 163,
+          "overall_height_cm": 152,
+          "wheelbase_cm": 230,
+          "front_track_width_cm": 142,
+          "rear_track_width_cm": 140,
+          "curb_weight_kg": 1098,
+          "weight_distribution_pct": "63/37"
+        }
+      }
+    },
+    "500C 2 DR HATCHBACK CONVERTIBLE ABARTH": {
+      "years": [
+        2019
+      ],
+      "details": {
+        "2019": "<default>",
+        "<default>": {
+          "hood_length_cm": 88,
+          "back_length_cm": 37,
+          "side_glass_max_height_cm": 34,
+          "door_height_cm": 85,
+          "max_width_cm": 104,
+          "front_overhang_cm": 78,
+          "rear_overhang_cm": 59,
+          "overall_length_cm": 367,
+          "overall_width_cm": 163,
+          "overall_height_cm": 150,
+          "wheelbase_cm": 230,
+          "front_track_width_cm": 141,
+          "rear_track_width_cm": 141,
+          "curb_weight_kg": 1130,
+          "weight_distribution_pct": "62/38"
+        }
+      }
+    }
+  },
+  "124 Spider": {
+    "124 SPIDER 2DR CONVERTIBLE": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 155,
+          "back_length_cm": 79,
+          "side_glass_max_height_cm": 31,
+          "door_height_cm": 67,
+          "max_width_cm": 116,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 91,
+          "overall_length_cm": 407,
+          "overall_width_cm": 173,
+          "overall_height_cm": 124,
+          "wheelbase_cm": 231,
+          "front_track_width_cm": 152,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 1114,
+          "weight_distribution_pct": "54/46"
+        },
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    }
+  },
+  "Spider 2000": {
+    "SPIDER 2000": {
+      "years": [
+        1981
+      ],
+      "details": {
+        "1981": "<default>",
+        "<default>": {
+          "hood_length_cm": 135,
+          "back_length_cm": 106,
+          "side_glass_max_height_cm": 31,
+          "door_height_cm": 65,
+          "max_width_cm": 114,
+          "front_overhang_cm": 85,
+          "rear_overhang_cm": 102,
+          "overall_length_cm": 414,
+          "overall_width_cm": 161,
+          "overall_height_cm": 122,
+          "wheelbase_cm": 228,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1071,
+          "weight_distribution_pct": null
+        }
+      }
+    }
+  },
+  "X 1/9": {
+    "X 1/9": {
+      "years": [
+        1981
+      ],
+      "details": {
+        "1981": "<default>",
+        "<default>": {
+          "hood_length_cm": 137,
+          "back_length_cm": 115,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 63,
+          "max_width_cm": 104,
+          "front_overhang_cm": 93,
+          "rear_overhang_cm": 77,
+          "overall_length_cm": 397,
+          "overall_width_cm": 157,
+          "overall_height_cm": 118,
+          "wheelbase_cm": 220,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 967,
+          "weight_distribution_pct": null
+        }
+      }
+    }
+  },
+  "Brava": {
+    "BRAVA 4 DR SD": {
+      "years": [
+        1981
+      ],
+      "details": {
+        "1981": "<default>",
+        "<default>": {
+          "hood_length_cm": 119,
+          "back_length_cm": 73,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 69,
+          "max_width_cm": 124,
+          "front_overhang_cm": 77,
+          "rear_overhang_cm": 112,
+          "overall_length_cm": 438,
+          "overall_width_cm": 165,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 249,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1158,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "BRAVA 2 DR": {
+      "years": [
+        1982
+      ],
+      "details": {
+        "1982": "<default>",
+        "<default>": {
+          "hood_length_cm": 119,
+          "back_length_cm": 73,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 69,
+          "max_width_cm": 124,
+          "front_overhang_cm": 77,
+          "rear_overhang_cm": 112,
+          "overall_length_cm": 438,
+          "overall_width_cm": 165,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 249,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": null,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "BRAVA 4 DR": {
+      "years": [
+        1982
+      ],
+      "details": {
+        "1982": "<default>",
+        "<default>": {
+          "hood_length_cm": 119,
+          "back_length_cm": 73,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 69,
+          "max_width_cm": 124,
+          "front_overhang_cm": 77,
+          "rear_overhang_cm": 112,
+          "overall_length_cm": 438,
+          "overall_width_cm": 165,
+          "overall_height_cm": 138,
+          "wheelbase_cm": 249,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": null,
+          "weight_distribution_pct": null
+        }
+      }
+    }
+  },
+  "Strada": {
+    "STRADA": {
+      "years": [
+        1981
+      ],
+      "details": {
+        "1981": "<default>",
+        "<default>": {
+          "hood_length_cm": 119,
+          "back_length_cm": 73,
+          "side_glass_max_height_cm": 37,
+          "door_height_cm": 69,
+          "max_width_cm": 124,
+          "front_overhang_cm": 77,
+          "rear_overhang_cm": 112,
+          "overall_length_cm": 409,
+          "overall_width_cm": 165,
+          "overall_height_cm": 140,
+          "wheelbase_cm": 245,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 955,
+          "weight_distribution_pct": null
+        }
+      }
+    }
+  },
+  "Freemont": {},
+  "Ducato": {},
+  "500L": {
+    "500L": {
+      "years": [
+        2013
+      ],
+      "details": {
+        "2013": "<default>",
+        "<default>": {
+          "hood_length_cm": 93,
+          "back_length_cm": 137,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 87,
+          "max_width_cm": 110,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 78,
+          "overall_length_cm": 425,
+          "overall_width_cm": 179,
+          "overall_height_cm": 165,
+          "wheelbase_cm": 261,
+          "front_track_width_cm": 151,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1453,
+          "weight_distribution_pct": "61/39"
+        }
+      }
+    },
+    "500L 4DR HATCHBACK POP/SPORT/TREKKING/LOUNGE": {
+      "years": [
+        2014,
+        2015,
+        2016
+      ],
+      "details": {
+        "2014": "<default>",
+        "<default>": {
+          "hood_length_cm": 93,
+          "back_length_cm": 137,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 87,
+          "max_width_cm": 110,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 78,
+          "overall_length_cm": 425,
+          "overall_width_cm": 179,
+          "overall_height_cm": 165,
+          "wheelbase_cm": 261,
+          "front_track_width_cm": 151,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1476,
+          "weight_distribution_pct": "61/39"
+        },
+        "2015": "<default>",
+        "2016": "<default>"
+      }
+    },
+    "500L 4DR HATCHBACK": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2017": "<default>",
+        "<default>": {
+          "hood_length_cm": 93,
+          "back_length_cm": 137,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 87,
+          "max_width_cm": 110,
+          "front_overhang_cm": 86,
+          "rear_overhang_cm": 78,
+          "overall_length_cm": 425,
+          "overall_width_cm": 179,
+          "overall_height_cm": 165,
+          "wheelbase_cm": 261,
+          "front_track_width_cm": 151,
+          "rear_track_width_cm": 151,
+          "curb_weight_kg": 1476,
+          "weight_distribution_pct": "61/39"
+        },
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    }
+  },
+  "500X": {
+    "500X 4DR SUV AWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 110,
+          "back_length_cm": 156,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 87,
+          "max_width_cm": 107,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 81,
+          "overall_length_cm": 426,
+          "overall_width_cm": 180,
+          "overall_height_cm": 161,
+          "wheelbase_cm": 257,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1487,
+          "weight_distribution_pct": "61/39"
+        },
+        "2017": "<default>",
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    },
+    "500X 4DR SUV FWD AUTOMATIC": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 110,
+          "back_length_cm": 156,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 87,
+          "max_width_cm": 107,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 81,
+          "overall_length_cm": 426,
+          "overall_width_cm": 180,
+          "overall_height_cm": 160,
+          "wheelbase_cm": 257,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1404,
+          "weight_distribution_pct": "61/39"
+        },
+        "2017": "<default>",
+        "2018": "<default>"
+      }
+    },
+    "500X 4DR SUV FWD MANUAL": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": 110,
+          "back_length_cm": 156,
+          "side_glass_max_height_cm": 40,
+          "door_height_cm": 87,
+          "max_width_cm": 107,
+          "front_overhang_cm": 88,
+          "rear_overhang_cm": 81,
+          "overall_length_cm": 426,
+          "overall_width_cm": 180,
+          "overall_height_cm": 160,
+          "wheelbase_cm": 257,
+          "front_track_width_cm": 154,
+          "rear_track_width_cm": 154,
+          "curb_weight_kg": 1346,
+          "weight_distribution_pct": "61/39"
+        },
+        "2017": "<default>",
+        "2018": "<default>"
+      }
+    }
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "makes": [
+    {
+      "make_id": 475,
+      "make_name": "Acura",
+      "make_slug": "acura"
+    },
+    {
+      "make_id": 493,
+      "make_name": "Alfa Romeo",
+      "make_slug": "alfa_romeo"
+    },
+    {
+      "make_id": 440,
+      "make_name": "Aston Martin",
+      "make_slug": "aston_martin"
+    },
+    {
+      "make_id": 582,
+      "make_name": "Audi",
+      "make_slug": "audi"
+    },
+    {
+      "make_id": 452,
+      "make_name": "BMW",
+      "make_slug": "bmw"
+    },
+    {
+      "make_id": 583,
+      "make_name": "Bentley",
+      "make_slug": "bentley"
+    },
+    {
+      "make_id": 454,
+      "make_name": "Bugatti",
+      "make_slug": "bugatti"
+    },
+    {
+      "make_id": 468,
+      "make_name": "Buick",
+      "make_slug": "buick"
+    },
+    {
+      "make_id": 469,
+      "make_name": "Cadillac",
+      "make_slug": "cadillac"
+    },
+    {
+      "make_id": 467,
+      "make_name": "Chevrolet",
+      "make_slug": "chevrolet"
+    },
+    {
+      "make_id": 477,
+      "make_name": "Chrysler",
+      "make_slug": "chrysler"
+    },
+    {
+      "make_id": 1077,
+      "make_name": "Daewoo",
+      "make_slug": "daewoo"
+    },
+    {
+      "make_id": 10285,
+      "make_name": "Daimler",
+      "make_slug": "daimler"
+    },
+    {
+      "make_id": 5657,
+      "make_name": "Datsun",
+      "make_slug": "datsun"
+    },
+    {
+      "make_id": 476,
+      "make_name": "Dodge",
+      "make_slug": "dodge"
+    },
+    {
+      "make_id": 1033,
+      "make_name": "Fisker",
+      "make_slug": "fisker"
+    },
+    {
+      "make_id": 603,
+      "make_name": "Ferrari",
+      "make_slug": "ferrari"
+    },
+    {
+      "make_id": 492,
+      "make_name": "Fiat",
+      "make_slug": "fiat"
+    },
+    {
+      "make_id": 460,
+      "make_name": "Ford",
+      "make_slug": "ford"
+    },
+    {
+      "make_id": 472,
+      "make_name": "GMC",
+      "make_slug": "gmc"
+    },
+    {
+      "make_id": 1146,
+      "make_name": "Geo",
+      "make_slug": "geo"
+    },
+    {
+      "make_id": 474,
+      "make_name": "Honda",
+      "make_slug": "honda"
+    },
+    {
+      "make_id": 951,
+      "make_name": "Hummer",
+      "make_slug": "hummer"
+    },
+    {
+      "make_id": 498,
+      "make_name": "Hyundai",
+      "make_slug": "hyundai"
+    },
+    {
+      "make_id": 480,
+      "make_name": "Infiniti",
+      "make_slug": "infiniti"
+    },
+    {
+      "make_id": 542,
+      "make_name": "Isuzu",
+      "make_slug": "isuzu"
+    },
+    {
+      "make_id": 442,
+      "make_name": "Jaguar",
+      "make_slug": "jaguar"
+    },
+    {
+      "make_id": 483,
+      "make_name": "Jeep",
+      "make_slug": "jeep"
+    },
+    {
+      "make_id": 5122,
+      "make_name": "KARMA",
+      "make_slug": "karma"
+    },
+    {
+      "make_id": 499,
+      "make_name": "Kia",
+      "make_slug": "kia"
+    },
+    {
+      "make_id": 502,
+      "make_name": "Lamborghini",
+      "make_slug": "lamborghini"
+    },
+    {
+      "make_id": 515,
+      "make_name": "Lexus",
+      "make_slug": "lexus"
+    },
+    {
+      "make_id": 464,
+      "make_name": "Lincoln",
+      "make_slug": "lincoln"
+    },
+    {
+      "make_id": 466,
+      "make_name": "Lotus",
+      "make_slug": "lotus"
+    },
+    {
+      "make_id": 456,
+      "make_name": "MINI",
+      "make_slug": "mini"
+    },
+    {
+      "make_id": 443,
+      "make_name": "Maserati",
+      "make_slug": "maserati"
+    },
+    {
+      "make_id": 533,
+      "make_name": "Maybach",
+      "make_slug": "maybach"
+    },
+    {
+      "make_id": 473,
+      "make_name": "Mazda",
+      "make_slug": "mazda"
+    },
+    {
+      "make_id": 2236,
+      "make_name": "McLaren",
+      "make_slug": "mclaren"
+    },
+    {
+      "make_id": 449,
+      "make_name": "Mercedes-Benz",
+      "make_slug": "mercedes_benz"
+    },
+    {
+      "make_id": 465,
+      "make_name": "Mercury",
+      "make_slug": "mercury"
+    },
+    {
+      "make_id": 481,
+      "make_name": "Mitsubishi",
+      "make_slug": "mitsubishi"
+    },
+    {
+      "make_id": 478,
+      "make_name": "Nissan",
+      "make_slug": "nissan"
+    },
+    {
+      "make_id": 4162,
+      "make_name": "Oldsmobile",
+      "make_slug": "oldsmobile"
+    },
+    {
+      "make_id": 495,
+      "make_name": "Peterbilt",
+      "make_slug": "peterbilt"
+    },
+    {
+      "make_id": 5554,
+      "make_name": "Peugeot",
+      "make_slug": "peugeot"
+    },
+    {
+      "make_id": 2409,
+      "make_name": "Plymouth",
+      "make_slug": "plymouth"
+    },
+    {
+      "make_id": 536,
+      "make_name": "Pontiac",
+      "make_slug": "pontiac"
+    },
+    {
+      "make_id": 584,
+      "make_name": "Porsche",
+      "make_slug": "porsche"
+    },
+    {
+      "make_id": 496,
+      "make_name": "Ram",
+      "make_slug": "ram"
+    },
+    {
+      "make_id": 445,
+      "make_name": "Rolls Royce",
+      "make_slug": "rolls_royce"
+    },
+    {
+      "make_id": 572,
+      "make_name": "SAAB",
+      "make_slug": "saab"
+    },
+    {
+      "make_id": 1056,
+      "make_name": "Saturn",
+      "make_slug": "saturn"
+    },
+    {
+      "make_id": 3766,
+      "make_name": "Spyker",
+      "make_slug": "spyker"
+    },
+    {
+      "make_id": 523,
+      "make_name": "Subaru",
+      "make_slug": "subaru"
+    },
+    {
+      "make_id": 509,
+      "make_name": "Suzuki",
+      "make_slug": "suzuki"
+    },
+    {
+      "make_id": 441,
+      "make_name": "Tesla",
+      "make_slug": "tesla"
+    },
+    {
+      "make_id": 448,
+      "make_name": "Toyota",
+      "make_slug": "toyota"
+    },
+    {
+      "make_id": 565,
+      "make_name": "Triumph",
+      "make_slug": "triumph"
+    },
+    {
+      "make_id": 485,
+      "make_name": "Volvo",
+      "make_slug": "volvo"
+    },
+    {
+      "make_id": 5553,
+      "make_name": "YUGO",
+      "make_slug": "yugo"
+    },
+    {
+      "make_id": 504,
+      "make_name": "smart",
+      "make_slug": "smart"
+    }
+  ]
+}

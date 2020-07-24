@@ -1,0 +1,656 @@
+{
+  "Evora": {
+    "EVORA 2DR COUPE RWD": {
+      "years": [
+        2009,
+        2010,
+        2011
+      ],
+      "details": {
+        "2009": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 434,
+          "overall_width_cm": null,
+          "overall_height_cm": 122,
+          "wheelbase_cm": 258,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1350,
+          "weight_distribution_pct": null
+        },
+        "2010": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 434,
+          "overall_width_cm": null,
+          "overall_height_cm": 122,
+          "wheelbase_cm": 258,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1382,
+          "weight_distribution_pct": null
+        },
+        "2011": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 434,
+          "overall_width_cm": null,
+          "overall_height_cm": 122,
+          "wheelbase_cm": 258,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1382,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "EVORA 2DR COUPE RWD/IPS": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 434,
+          "overall_width_cm": null,
+          "overall_height_cm": 122,
+          "wheelbase_cm": 258,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1382,
+          "weight_distribution_pct": null
+        },
+        "2013": "<default>",
+        "2014": "<default>",
+        "2015": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 435,
+          "overall_width_cm": null,
+          "overall_height_cm": 123,
+          "wheelbase_cm": 258,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1382,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "EVORA S 2DR COUPE RWD": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016
+      ],
+      "details": {
+        "2012": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 434,
+          "overall_width_cm": null,
+          "overall_height_cm": 122,
+          "wheelbase_cm": 258,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1436,
+          "weight_distribution_pct": null
+        },
+        "2013": "<default>",
+        "2014": "<default>",
+        "2015": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 436,
+          "overall_width_cm": null,
+          "overall_height_cm": 123,
+          "wheelbase_cm": 258,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1436,
+          "weight_distribution_pct": null
+        },
+        "2016": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 436,
+          "overall_width_cm": null,
+          "overall_height_cm": 123,
+          "wheelbase_cm": 258,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1436,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "EVORA 2DR COUPE": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 439,
+          "overall_width_cm": 185,
+          "overall_height_cm": 123,
+          "wheelbase_cm": 258,
+          "front_track_width_cm": 156,
+          "rear_track_width_cm": 158,
+          "curb_weight_kg": 1395,
+          "weight_distribution_pct": null
+        },
+        "2017": "<default>",
+        "2018": "<default>",
+        "2019": "<default>"
+      }
+    }
+  },
+  "Elise": {
+    "ELISE 2DR COUPE": {
+      "years": [
+        2006,
+        2007
+      ],
+      "details": {
+        "2006": "<default>",
+        "<default>": {
+          "hood_length_cm": 93,
+          "back_length_cm": 126,
+          "side_glass_max_height_cm": 23,
+          "door_height_cm": 61,
+          "max_width_cm": 109,
+          "front_overhang_cm": 77,
+          "rear_overhang_cm": 70,
+          "overall_length_cm": 374,
+          "overall_width_cm": 172,
+          "overall_height_cm": 113,
+          "wheelbase_cm": 228,
+          "front_track_width_cm": 145,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 907,
+          "weight_distribution_pct": "38/62"
+        },
+        "2007": "<default>"
+      }
+    },
+    "ELISE 2DR COUPE RWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ],
+      "details": {
+        "2008": "<default>",
+        "<default>": {
+          "hood_length_cm": 93,
+          "back_length_cm": 125,
+          "side_glass_max_height_cm": 26,
+          "door_height_cm": 61,
+          "max_width_cm": 109,
+          "front_overhang_cm": 79,
+          "rear_overhang_cm": 70,
+          "overall_length_cm": 379,
+          "overall_width_cm": 185,
+          "overall_height_cm": 112,
+          "wheelbase_cm": 230,
+          "front_track_width_cm": 146,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 900,
+          "weight_distribution_pct": "38/62"
+        },
+        "2009": "<default>",
+        "2010": "<default>",
+        "2011": "<default>"
+      }
+    },
+    "ELISE 2DR ROADSTER": {
+      "years": [
+        2016
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 382,
+          "overall_width_cm": 172,
+          "overall_height_cm": 112,
+          "wheelbase_cm": 230,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 866,
+          "weight_distribution_pct": null
+        }
+      }
+    }
+  },
+  "Eleven": {},
+  "Esprit": {
+    "ESPRIT": {
+      "years": [
+        1981
+      ],
+      "details": {
+        "1981": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 39,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 63,
+          "max_width_cm": 116,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 77,
+          "overall_length_cm": 426,
+          "overall_width_cm": 186,
+          "overall_height_cm": 111,
+          "wheelbase_cm": 244,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1109,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "ESPRIT S3": {
+      "years": [
+        1982
+      ],
+      "details": {
+        "1982": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 39,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 63,
+          "max_width_cm": 116,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 77,
+          "overall_length_cm": 419,
+          "overall_width_cm": 185,
+          "overall_height_cm": 111,
+          "wheelbase_cm": 244,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1114,
+          "weight_distribution_pct": null
+        }
+      }
+    },
+    "ESPRIT TURBO SE 2DR COUPE": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ],
+      "details": {
+        "1990": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 433,
+          "overall_width_cm": 186,
+          "overall_height_cm": 115,
+          "wheelbase_cm": 244,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1157,
+          "weight_distribution_pct": null
+        },
+        "1991": "<default>",
+        "1992": "<default>"
+      }
+    },
+    "ESPRIT V8": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ],
+      "details": {
+        "1997": "<default>",
+        "<default>": {
+          "hood_length_cm": 122,
+          "back_length_cm": 141,
+          "side_glass_max_height_cm": 25,
+          "door_height_cm": 66,
+          "max_width_cm": 114,
+          "front_overhang_cm": 107,
+          "rear_overhang_cm": 89,
+          "overall_length_cm": 441,
+          "overall_width_cm": 188,
+          "overall_height_cm": 115,
+          "wheelbase_cm": 244,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1380,
+          "weight_distribution_pct": null
+        },
+        "1998": "<default>",
+        "1999": {
+          "hood_length_cm": 122,
+          "back_length_cm": 141,
+          "side_glass_max_height_cm": 25,
+          "door_height_cm": 66,
+          "max_width_cm": 114,
+          "front_overhang_cm": 107,
+          "rear_overhang_cm": 89,
+          "overall_length_cm": 441,
+          "overall_width_cm": 188,
+          "overall_height_cm": 115,
+          "wheelbase_cm": 244,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1380,
+          "weight_distribution_pct": "43/57"
+        },
+        "2000": {
+          "hood_length_cm": 122,
+          "back_length_cm": 141,
+          "side_glass_max_height_cm": 25,
+          "door_height_cm": 66,
+          "max_width_cm": 114,
+          "front_overhang_cm": 107,
+          "rear_overhang_cm": 89,
+          "overall_length_cm": 441,
+          "overall_width_cm": 188,
+          "overall_height_cm": 115,
+          "wheelbase_cm": 244,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1380,
+          "weight_distribution_pct": "43/57"
+        },
+        "2001": {
+          "hood_length_cm": 122,
+          "back_length_cm": 141,
+          "side_glass_max_height_cm": 25,
+          "door_height_cm": 66,
+          "max_width_cm": 114,
+          "front_overhang_cm": 107,
+          "rear_overhang_cm": 89,
+          "overall_length_cm": 441,
+          "overall_width_cm": 188,
+          "overall_height_cm": 115,
+          "wheelbase_cm": 244,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1380,
+          "weight_distribution_pct": "43/57"
+        },
+        "2002": {
+          "hood_length_cm": 122,
+          "back_length_cm": 141,
+          "side_glass_max_height_cm": 25,
+          "door_height_cm": 66,
+          "max_width_cm": 114,
+          "front_overhang_cm": 107,
+          "rear_overhang_cm": 89,
+          "overall_length_cm": 441,
+          "overall_width_cm": 188,
+          "overall_height_cm": 115,
+          "wheelbase_cm": 244,
+          "front_track_width_cm": 153,
+          "rear_track_width_cm": 157,
+          "curb_weight_kg": 1380,
+          "weight_distribution_pct": "43/57"
+        },
+        "2003": "<default>"
+      }
+    }
+  },
+  "Eagle": {},
+  "Europa": {},
+  "Monaco": {},
+  "MEL": {},
+  "Elite": {
+    "ELITE": {
+      "years": [
+        1981,
+        1982
+      ],
+      "details": {
+        "1981": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 456,
+          "overall_width_cm": 182,
+          "overall_height_cm": 120,
+          "wheelbase_cm": 248,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": null,
+          "weight_distribution_pct": null
+        },
+        "1982": "<default>"
+      }
+    }
+  },
+  "Eclat": {
+    "ECLAT": {
+      "years": [
+        1982
+      ],
+      "details": {
+        "1982": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 456,
+          "overall_width_cm": 182,
+          "overall_height_cm": 120,
+          "wheelbase_cm": 248,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1105,
+          "weight_distribution_pct": null
+        }
+      }
+    }
+  },
+  "Elan": {
+    "ELAN SE ROADSTER": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ],
+      "details": {
+        "1990": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 380,
+          "overall_width_cm": 189,
+          "overall_height_cm": 123,
+          "wheelbase_cm": 225,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 997,
+          "weight_distribution_pct": null
+        },
+        "1991": "<default>",
+        "1992": "<default>"
+      }
+    }
+  },
+  "Exige": {
+    "EXIGE S 2DR COUPE RWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ],
+      "details": {
+        "2008": "<default>",
+        "<default>": {
+          "hood_length_cm": 95,
+          "back_length_cm": 135,
+          "side_glass_max_height_cm": 26,
+          "door_height_cm": 63,
+          "max_width_cm": 110,
+          "front_overhang_cm": 80,
+          "rear_overhang_cm": 70,
+          "overall_length_cm": 379,
+          "overall_width_cm": 185,
+          "overall_height_cm": 117,
+          "wheelbase_cm": 230,
+          "front_track_width_cm": 146,
+          "rear_track_width_cm": 150,
+          "curb_weight_kg": 942,
+          "weight_distribution_pct": "38/62"
+        },
+        "2009": "<default>",
+        "2010": "<default>",
+        "2011": "<default>"
+      }
+    },
+    "EXIGE 2DR ROADSTER": {
+      "years": [
+        2016
+      ],
+      "details": {
+        "2016": "<default>",
+        "<default>": {
+          "hood_length_cm": null,
+          "back_length_cm": null,
+          "side_glass_max_height_cm": null,
+          "door_height_cm": null,
+          "max_width_cm": null,
+          "front_overhang_cm": null,
+          "rear_overhang_cm": null,
+          "overall_length_cm": 408,
+          "overall_width_cm": 180,
+          "overall_height_cm": 113,
+          "wheelbase_cm": 237,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1166,
+          "weight_distribution_pct": null
+        }
+      }
+    }
+  },
+  "Spa": {},
+  "340R": {},
+  "Monza": {},
+  "2-Eleven": {},
+  "Turbo Esprit": {
+    "TURBO ESPRIT": {
+      "years": [
+        1982
+      ],
+      "details": {
+        "1982": "<default>",
+        "<default>": {
+          "hood_length_cm": 120,
+          "back_length_cm": 39,
+          "side_glass_max_height_cm": 33,
+          "door_height_cm": 63,
+          "max_width_cm": 116,
+          "front_overhang_cm": 94,
+          "rear_overhang_cm": 77,
+          "overall_length_cm": 419,
+          "overall_width_cm": 185,
+          "overall_height_cm": 112,
+          "wheelbase_cm": 244,
+          "front_track_width_cm": null,
+          "rear_track_width_cm": null,
+          "curb_weight_kg": 1223,
+          "weight_distribution_pct": null
+        }
+      }
+    }
+  }
+}
