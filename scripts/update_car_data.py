@@ -272,7 +272,7 @@ def update_makes_file():
       filtered_makes.append(make)
       print(f"{make['make_name']} produces passenger vehicles: {make}")
 
-  persist_json_file("./data/makes.json", {"makes": filtered_makes})
+  persist_json_file("../data/makes.json", {"makes": filtered_makes})
 
 
 def update_models_files():
@@ -280,7 +280,7 @@ def update_models_files():
   Update models.json with the latest of makes and models from the
   """
   # all_makes = load_json("./makes.json")["makes"]
-  all_makes = load_json("./data/models.json")
+  all_makes = load_json("../data/models.json")
   for count, make in enumerate(all_makes):
     print("=" * 120)
     print("=" * 120)
@@ -308,11 +308,11 @@ def update_models_files():
     make["models"] = models
     print(models)
 
-  persist_json_file("./data/models.json", all_makes)
+  persist_json_file("../data/models.json", all_makes)
 
 
 def update_styles():
-  all_makes = load_json("./data/models.json")
+  all_makes = load_json("../data/models.json")
   all_mismatched_models = []
 
   for count, make in enumerate(all_makes):
@@ -359,3 +359,5 @@ def update_everything():
   update_makes_file()
   update_models_files()
   update_styles()
+
+# TODO: unify the makes and models files
