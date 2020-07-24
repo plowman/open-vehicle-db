@@ -323,13 +323,56 @@ def update_models_files():
   persist_json_file(all_makes, "data", "models.json")
 
 
+not_alphanumeric = re.compile("[^A-Z0-9]")
+
+
+def choose_matching_model_for_style(model_style_name, model_choices):
+  """
+  Fuzzy matching to try to connect Canadian styles to American model names
+  """
+  model_choices = set(model_choices)
+  matching_models = []
+
+  # First, check if the model_style_name
+  model_style_uc = model_style_name.upper()
+  model_style_uc = model_style_uc.replace("&", "And")
+  model_style_alphanumeric = not_alphanumeric.sub("", model_style_uc)
+  model_choice_original_map = {}
+  for model_choice in model_choices:
+    model_choice_original_map[not_alphanumeric.sub("", model_choice.upper())] = model_choice
+  model_choices_alphanumeric = model_choice_original_map.keys()
+
+  for model_choice in model_choices_alphanumeric:
+    if model_style_alphanumeric.startswith(model_choice):
+      matching_models.append(model_choice_original_map[model_choice])
+
+  if len(matching_models) == 1:
+    return matching_models[0]
+
+  # If that fails, look for overlap
+  for model_choice in model_choices_alphanumeric:
+    if model_choice in model_style_alphanumeric:
+      matching_models.append(model_choice_original_map[model_choice])
+
+  if len(matching_models) == 1:
+    return matching_models[0]
+
+  if len(matching_models) > 1:
+    # If there are multiple matching, choose the largest match first. This mostly seems to work.
+    matching_models = sorted(matching_models, key=lambda x: len(x), reverse=True)
+    return matching_models[0]
+
+  return None
+
+
 def update_styles():
   all_makes = load_json("data", "models.json")
   all_orphaned_styles = {}
 
   for count, make in enumerate(all_makes):
+    model_choices = [model["model_name"] for model in make["models"]]
     all_orphaned_styles[make["make_name"]] = {
-      "model_choices": [model["model_name"] for model in make["models"]],
+      "model_choices": model_choices,
       "orphaned_styles": [],
     }
     for year in range(make["first_year"], make["last_year"] + 1):
@@ -338,22 +381,23 @@ def update_styles():
         model_style_name = detail["model_style"]
         del detail["model_style"]
 
-        found_match = False
-        for model in make["models"]:
-          if model_style_name.upper().startswith(model["model_name"].upper()):
-            found_match = True
-            if model_style_name not in model["model_styles"]:
-              model["model_styles"][model_style_name] = {
-                "years": [year],
-                # "details": {year: detail},
-              }
-            else:
-              model_style_details = model["model_styles"][model_style_name]
-              model_style_details["years"].append(year)
-              # model_style_details["details"][year] = detail
-
-        if not found_match:
+        matching_model = choose_matching_model_for_style(model_style_name, model_choices)
+        if matching_model:
+          for model in make["models"]:
+            if model["model_name"] == matching_model:
+              print(f"style {model_style_name} matches model {model['model_name']}")
+              if model_style_name not in model["model_styles"]:
+                model["model_styles"][model_style_name] = {
+                  "years": [year],
+                  # "details": {year: detail},
+                }
+              else:
+                model_style_details = model["model_styles"][model_style_name]
+                model_style_details["years"].append(year)
+                # model_style_details["details"][year] = detail
+        else:
           all_orphaned_styles[make["make_name"]]["orphaned_styles"].append(model_style_name)
+          print(make["make_name"] + " could not find model style: " + model_style_name)
 
     print(f"Found orphans for make {make['make_name']}: \n {all_orphaned_styles[make['make_name']]}")
 
@@ -363,15 +407,19 @@ def update_styles():
     persist_json_file(style_data, "data", "styles", make["make_slug"] + ".json")
 
   print("ALL MODELS WE COULD NOT FIND:")
-  for model in all_orphaned_styles:
-    print(model)
+  for make, values in all_orphaned_styles.items():
+    print(f"For make {make}")
+    print(f"Model choices: {values['model_choices']}")
+    for orphaned_style in values["orphaned_styles"]:
+      print(orphaned_style)
+
   persist_json_file(all_orphaned_styles, "data", "all_orphaned_styles.json")
 
 
 def update_stats():
   make_models_data = load_models_json()
-  model_count = len(make_models_data)
-  make_count = sum(len(make_data["models"]) for make_data in make_models_data)
+  make_count = len(make_models_data)
+  model_count = sum(len(make_data["models"]) for make_data in make_models_data)
 
   make_slugs = [make_data["make_slug"] for make_data in make_models_data]
   style_count = 0
@@ -382,8 +430,8 @@ def update_stats():
         style_count += 1
 
   stat_data = {
-    "model_count": model_count,
     "make_count": make_count,
+    "model_count": model_count,
     "style_count": style_count,
     "last_updated": datetime.utcnow().isoformat(),
   }
@@ -400,7 +448,9 @@ def update_everything():
 
 def main(args):
   print(f"Running update_car_data with args: {args}")
+  # update_styles()
   update_stats()
+  # test_difflib_for_make_matching()
 
 
 if __name__ == "__main__":
