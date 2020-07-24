@@ -14,12 +14,12 @@ jobs:
       uses: actions/checkout@v1
     - name: List local files
       run: find .
-    - name: Install python3
-      run: sudo apt-get install python3
+    - name: Update apt and install python3
+      run: sudo apt-get update && sudo apt-get install python3
     - name: Check python version
-      run: python --version
+      run: python3 --version
     - name: Run the script
-      run: python ./scripts/update_car_data.py
+      run: python3 ./scripts/update_car_data.py
 
 # LATER: Can we schedule this to run, say, once per month?
 # on:
