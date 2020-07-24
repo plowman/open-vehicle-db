@@ -1,0 +1,27 @@
+# This workflow downloads all of the vehicle data from the NHTSA
+name: Update data
+
+# Trigger the workflow manually
+on: workflow_dispatch
+
+jobs:
+  update_data:
+    # Run this workflow on ubuntu
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v1
+    - name: List local files
+      run: find .
+    - name: Install python3
+      run: sudo apt-get install python3
+    - name: Check python version
+      run: python -version
+    - name: Run the script
+      run: python ./scripts/update_car_data.py
+
+# LATER: Can we schedule this to run, say, once per month?
+# on:
+  #  schedule:
+  #    - cron: '0 * * * *'

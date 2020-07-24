@@ -1,4 +1,5 @@
 import json
+import sys
 from datetime import datetime
 
 import re
@@ -360,4 +361,9 @@ def update_everything():
   update_models_files()
   update_styles()
 
-# TODO: unify the makes and models files
+
+def main(args):
+  print(f"Running update_car_data with args: {args}")
+
+if __name__ == "__main__":
+  main(sys.argv[1:])
