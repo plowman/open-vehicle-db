@@ -1,0 +1,432 @@
+{
+  "Discovery Sport": {
+    "DISCOVERY SPORT": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "LR2": {
+    "LR2 4DR SUV AWD": {
+      "years": [
+        2007
+      ]
+    },
+    "LR2 4DR SUV 4WD SE/HSE": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "LR2 4DR SUV 4WD HSE": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "LR2 4DR SUV 4WD HSE/HSE LUX": {
+      "years": [
+        2012
+      ]
+    },
+    "LR2 4DR SUV 4WD SE/HSE/HSE LUX": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "LR2 4DR SUV": {
+      "years": [
+        2016,
+        2017
+      ]
+    }
+  },
+  "Range Rover Evoque": {
+    "RANGE ROVER EVOQUE 5DR PURE/DYNAMIC/PREMIUM": {
+      "years": [
+        2012
+      ]
+    },
+    "RANGE ROVER EVOQUE COUPE 3DR PURE/DYNAMIC/PRE": {
+      "years": [
+        2012
+      ]
+    },
+    "RANGE ROVER EVOQUE 4DR SUV PURE/DYNAMIC/PREMI": {
+      "years": [
+        2013
+      ]
+    },
+    "RANGE ROVER EVOQUE COUPE 3DR SUV PURE/DYNAMIC": {
+      "years": [
+        2013
+      ]
+    },
+    "RANGE ROVER EVOQUE 4DR SUV PURE/PRESTIGE/DYNA": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "RANGE ROVER EVOQUE COUPE 3DR SUV PURE/PRESTIG": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "RANGE ROVER EVOQUE 4DR SUV": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "RANGE ROVER EVOQUE COUPE 3DR SUV": {
+      "years": [
+        2016
+      ]
+    },
+    "RANGE ROVER EVOQUE CONVERTIBLE": {
+      "years": [
+        2017,
+        2018
+      ]
+    }
+  },
+  "LR4": {
+    "LR4 4DR SUV 4WD HSE / HSE LUX": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "LR4 4DR SUV 4WD HSE/HSE LUX": {
+      "years": [
+        2012
+      ]
+    },
+    "LR4 4DR SUV 4WD /HSE/HSE LUX": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "LR4 4DR SUV 4WD /HSE/HSE LUXURY": {
+      "years": [
+        2015
+      ]
+    },
+    "LR4 4DR SUV": {
+      "years": [
+        2016,
+        2017
+      ]
+    }
+  },
+  "Range Rover Sport": {
+    "RANGE ROVER SPORT": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "RANGE ROVER SPORT 4DR SUV 4WD": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "RANGE ROVER SPORT SUPERCHARGED 4DR SUV 4WD": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "RANGE ROVER SPORT SUPERCHARGED 4DR SUV 4WD /A": {
+      "years": [
+        2013
+      ]
+    },
+    "RANGE ROVER SPORT SE/HSE": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "RANGE ROVER SPORT SUPERCHARGED/AUTOBIOGRAPHY": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Range Rover": {
+    "RANGE ROVER/COUNTY": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "RANGE ROVER LWB 4DR 4x4": {
+      "years": [
+        1993
+      ]
+    },
+    "RANGE ROVER 4DR COUNTY 4X4": {
+      "years": [
+        1994
+      ]
+    },
+    "RANGE ROVER 4DR LWB 4X4": {
+      "years": [
+        1994
+      ]
+    },
+    "RANGE ROVER 4DR COUNTY CLASSIC 4X4": {
+      "years": [
+        1995
+      ]
+    },
+    "RANGE ROVER 4DR COUNTY LWB 4X4": {
+      "years": [
+        1995
+      ]
+    },
+    "RANGE ROVER SE 4DR SUV 4X4": {
+      "years": [
+        1995
+      ]
+    },
+    "RANGE ROVER 4.0 SE 4DR SUV 4X4": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "RANGE ROVER 4.6 HSE 4DR SUV 4X4": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    },
+    "RANGE ROVER 4.6 SE 4DR SUV 4X4": {
+      "years": [
+        2001
+      ]
+    },
+    "RANGE ROVER HSE 4DR SUV 4X4": {
+      "years": [
+        2006
+      ]
+    },
+    "RANGE ROVER SUPERCHARGED 4DR SUV 4X4": {
+      "years": [
+        2006
+      ]
+    },
+    "RANGE ROVER HSE 4DR SUV 4WD": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "RANGE ROVER SUPERCHARGED 4DR SUV 4WD": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "RANGE ROVER SUPERCHARGED/AUTOBIOGRAPHY4DR SUV": {
+      "years": [
+        2013
+      ]
+    },
+    "RANGE ROVER SWB SUPERCHARGED/AUTOBIOGRAPHY4DR": {
+      "years": [
+        2014
+      ]
+    },
+    "RANGE ROVER LWB SUPERCHARGED/AUTOBIOGRAPHY4DR": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "RANGE ROVER SWB HSE/SUPERCHARGED/AUTOBIOGRAPH": {
+      "years": [
+        2015
+      ]
+    },
+    "RANGE ROVER LWB 4DR SUV": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "RANGE ROVER SWB 4DR SUV": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "LR3": {
+    "LR3 4DR SUV 4WD SE/HSE": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "LR3 4DR SUV 4WD": {
+      "years": [
+        2006
+      ]
+    },
+    "LR3 4DR SUV 4WD V6 SE": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "LR3 4DR SUV 4WD V8 SE/HSE": {
+      "years": [
+        2007
+      ]
+    },
+    "LR3 4DR SUV 4WD V8 SE/V8 HSE": {
+      "years": [
+        2008,
+        2009
+      ]
+    }
+  },
+  "Discovery": {
+    "DISCOVERY 4DR SUV 4X4": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "DISCOVERY SERIES I 4DR SUV 4X4": {
+      "years": [
+        1999
+      ]
+    },
+    "DISCOVERY SERIES II 4DR SUV 4X4": {
+      "years": [
+        1999,
+        2000
+      ]
+    },
+    "DISCOVERY SERIES II 4DR SUV 4X4 SD/LE/SE": {
+      "years": [
+        2001,
+        2002
+      ]
+    },
+    "DISCOVERY S/SE/HSE 4DR SUV 4WD": {
+      "years": [
+        2003,
+        2004
+      ]
+    },
+    "DISCOVERY": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Freelander": {
+    "FREELANDER S/SE/HSE 4DR SUV AWD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    },
+    "FREELANDER SE3 2DR SUV AWD": {
+      "years": [
+        2003,
+        2004,
+        2005
+      ]
+    }
+  },
+  "Defender": {
+    "DEFENDER 110 4DR 4x4": {
+      "years": [
+        1993,
+        1994
+      ]
+    },
+    "DEFENDER 90 2DR SUV": {
+      "years": [
+        1994
+      ]
+    },
+    "DEFENDER 90 2DR 4X4": {
+      "years": [
+        1997
+      ]
+    }
+  },
+  "Range Rover Velar": {
+    "RANGE ROVER VELAR 4DR SUV": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  }
+}

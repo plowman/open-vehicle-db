@@ -17,7 +17,7 @@ def get_make_data():
 
 
 def get_model_data():
-  return load_json("data", "models.json")
+  return load_json("data", "makes_and_models.json")
 
 
 def get_style_data(make_slug):

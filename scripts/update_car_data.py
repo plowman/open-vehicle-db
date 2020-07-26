@@ -46,7 +46,7 @@ def slugify_string(input_string):
   return slug
 
 
-def get_all_makes():
+def fetch_all_makes():
   raw_makes_list = _make_api_request("/getallmakes")
 
   all_makes = []
@@ -57,17 +57,20 @@ def get_all_makes():
       "make_id": make_data["Make_ID"],
       "make_name": make_name,
       "make_slug": make_slug,
+      "models": {},
+      "first_year": None,
+      "last_year": None,
     })
 
   return all_makes
 
 
-def get_types_for_make(make_name):
+def fetch_types_for_make(make_name):
   raw_types_list = _make_api_request(f"/GetVehicleTypesForMake/{make_name}")
   print(raw_types_list)
 
 
-def get_types_for_make_id(make_id):
+def fetch_types_for_make_id(make_id):
   raw_types_list = _make_api_request(f"/GetVehicleTypesForMakeId/{make_id}")
 
   all_types = []
@@ -92,7 +95,7 @@ def _get_model_dict(raw_model, vehicle_type=None):
   }
 
 
-def get_models_for_make_id(make_id):
+def fetch_models_for_make_id(make_id):
   models = []
 
   raw_cars_list = _make_api_request(f"/GetModelsForMakeIdYear/makeId/{make_id}/vehicleType/car")
@@ -111,7 +114,7 @@ def get_models_for_make_id(make_id):
   return models
 
 
-def get_model_ids_for_make_and_year(make_id, year):
+def fetch_model_ids_for_make_and_year(make_id, year):
   model_ids = []
   models_in_year = _make_api_request(f"/getmodelsformakeidyear/makeId/{make_id}/modelyear/{year}")
   for model in models_in_year:
@@ -124,7 +127,7 @@ def make_produces_passenger_vehicles(make_id):
   """
   Return true if this make produces cars or trucks.
   """
-  make_types = get_types_for_make_id(make_id)
+  make_types = fetch_types_for_make_id(make_id)
   make_type_ids = set([make_type["type_id"] for make_type in make_types])
 
   if not make_type_ids.issubset(VEHICLE_TYPE_ID_MAP.keys()):
@@ -153,7 +156,7 @@ def persist_json_file(data_dict, *json_path_segments):
 grey_list = set()
 
 
-def make_is_whitelisted(make):
+def make_is_whitelisted(make, warn_if_unlisted=True):
   # Makes which create "mass market" cars or are otherwise well known
   white_list = {
     "smart", "yugo", "volkwagen", "volvo", "triumph", "toyota", "tesla", "suzuki", "subaru", "spyker",
@@ -161,11 +164,54 @@ def make_is_whitelisted(make):
     "oldsmobile", "nissan", "mitsubishi", "mercury", "mercedes_benz", "mclaren", "mazda", "maybach",
     "maserati", "mini", "lotus", "lincoln", "lexus", "lamborghini", "karma", "kia", "jeep", "jaguar",
     "isuzu", "infiniti", "hyundai", "hummer", "honda", "honda", "gmc", "geo", "ford", "fiat", "ferrari",
-    "fisker_automotive", "dodge", "datsun", "daimler", "daewoo", "chrysler", "chevrolet", "cadillac",
-    "buick", "bugatti", "bentley", "bmw", "audi", "aston_martin", "alfa_romeo", "acura", "am_general"}
+    "fisker", "dodge", "datsun", "daimler", "daewoo", "chrysler", "chevrolet", "cadillac",
+    "buick", "bugatti", "bentley", "bmw", "audi", "aston_martin", "alfa_romeo", "acura", "am_general", "land_rover",
+    "daihatsu",
+  }
 
   # This should contain all of the other makes which technically produce cars but which nobody has heard of
-  black_list = {}
+  black_list = {
+    'sterling_motor_car', 'saw', 'bxr', 'zeligson', 'lancia', 'global_environmental_products_inc', 'vintage_microbus',
+    'ives_motors_corporation_imc', 'phoenix', 'protected_vehicles', 'laforza', 'western_star', 'volvo_truck', 'sutphen',
+    'panther', 'thnk', 'mycar', 'frontline', 'thomas_built', 'consulier', 'grumman', 'autocar', 'morgan',
+    'azure_dynamic_inc', 'vector_aeromotive_corporation', 'blue_bird', 'spartan_motors',
+    'utilimaster_motor_corporation', 'freightliner', 'osprey_custom_4x4', 'mack', 'gruppe_b', 'crane_carrier',
+    'consulier_gtp', 'engine_connection', 'scammell', 'winnebago', 'outabout', 'ema', 'care_industries_ltd',
+    'autocar_industries', 'avanti', 'xos', 'wheatridge', 'rocket_sled_motors', 'bug_motors', 'badger_equipment',
+    'saleen', 'wausau_equipment_company', 'formula_1_street_com', 'alkane', 'pininfarina', 'london', 'california',
+    'indiana_phoenix_inc', 'excalibur_automobile_corporation', 'international', 'rs_spider', 'lodal', 'polestar',
+    'autokad', 'mosler', 'capacity_trucks', 'clenet', 'patriot_energy_services', 'jaspers_hot_rods_llc',
+    'vision_industries', 'white', 'electric_mobile_cars', 'yester_year_auto', 'vironex', 'azure_dynamics',
+    'matrix_motor_company', 'phoenix_sports_cars_inc', 'asuna', 'usa_motor_corporation', 'mgs_grand_sport_mardikian',
+    'pas', 'chanje', 'hmc', 'ev_innovations', 'beyond_roads', 'transpower', 'efficient_drivetrains_inc',
+    'national_oilwell_varco', 'lite_car', 'precedent', 'envirotech_drive_systems_incorporated', 'renaissance',
+    'fortunesport_ves', 'hino', 'workhorse', 'electric_vehicles_international', 'mini_big_trucks', 'autocar_ltd',
+    'rage', 'mitsubishi_fuso', 'kalmar_industries_llc', 'nina', 'londoncoach_inc', 'service_king_manufacturing',
+    'sprinter_dodge_or_freightliner', 'desoto_motors', 'execucoach_inc', 'ccc', 'american_lafrance', 'la_exotics',
+    'tiger_truck_manufacturing', 'opel', 'moke_america', 'glickenhaus', 'cobra_cars', 'greenkraft',
+    'global_fabricators', 'genesis', 'elgin_sweeper_co', 'truck_equipment_corporationtec',
+    'hunter_automotive_group_inc', 'holden', 'sterling_truck', 'equus_automotive', 'collins', 'pagani',
+    'marmon_motor_co', 'mahindra', 'american_motors', 'faw_jiaxing_happy_messenger', 'simon_duplex', 'ic_bus', 'inzuro',
+    'orange_ev_llc', 'iron_guru_customs', 'bbc', 'scuderia_cameron_glickenhaus_scg', 'oshkosh',
+    'smith_electric_vehicles', 'njd_automotive_llc', 'federal_motors_inc', 'jlg', 'warhawk_performance',
+    'westfall_motors_corp', 'contemporary_classic_cars_ccc', 'maxim_inc', 'zhejiang_kangdi_vehicles_co',
+    'ottawa_brimont_corporation', 'jac_427', 'cx_automotive', 'whitegmc', 'e_one', 'boulder_electric_vehicle', 'lumen',
+    'korando', 'falcon', 'nanchang_freedom_technology_limited_company', 'heritage', 'merkur', 'caterpillar',
+    'phoenix_motorcars', 'eagle', 'kimble_chassis', 'mcneilus', 'terrafugia', 'american_truck_company',
+    'penske', 'rainier_truck_and_chassis', 'pierce_manufacturing', 'dennis', 'vintage_auto', 'byd', 'trident_motor',
+    'steamroller_motorcycle_company_llc', 'winnebago_industries_inc', 'spv', 'brain_unlimited', 'koenigsegg',
+    'allianz_sweeper_company', 'blackwater', 'us_specialty_vehicles_llc', 'jerr_dan', 'kimble', 'navistar',
+    'avera_motors', 'creative_coachworks', 'general_purpose_vehicles', 'stanford_customs', 'coda', 'coachworks', 'smit',
+    'crane_carrier_company', 'ud', 'czinger', 'classic_roadsters', 'faradayfuture_inc',
+    'gullwing_international_motors_ltd', 'canadian_electric_vehicles', 'cami', 'kovatch_mobile_equipment',
+    'diamond_reo', 'ucc', 'vintage_cruiser', 'crown_energy_technologies', 'spartan_motors_chassis', 'kubvan',
+    'revology', 'kenworth', 'armbruster_stageway', 'volkswagen', 'autodelta_usa_inc',
+    'atlanta_fabricating__equipment_co', 'mana', 'terex_advance_mixer', 'hunter_design_group_llc',
+    'the_vehicle_production_group', 'sti', 'ukeycheyma', 'orion_bus', 'panoz',
+    'diamond_heavy_vehicle_solutions', 'daytona_coach_builders', 'kepler_motors', 'stoutbilt', 'superior_coaches',
+    'vintage_rover', 'mobile_armoured_vehicle', 'humvee', 'making_you_mobile', 'c_r_cheetah_race_cars',
+    'calaveras_mfg_inc', 'world_transport_authority', 'costin_sports_car', 'solectria', 'rig_works',
+    'snowblast_sicard_inc', 'classic_sports_cars', 'bakkura_mobility', 'bluecar', 'sf_motors_inc'}
 
   make_slug = make["make_slug"]
   if make_slug in white_list:
@@ -174,14 +220,15 @@ def make_is_whitelisted(make):
   if make_slug in black_list:
     return False
 
-  print(f"ERROR: unrecognized make needs to be whitelisted or blacklisted: {make}")
-  grey_list.add(make_slug)
-  print(f"Unclassified makes: {grey_list}")
+  if warn_if_unlisted:
+    print(f"ERROR: unrecognized make needs to be whitelisted or blacklisted: {make}")
+    grey_list.add(make_slug)
+    print(f"Unclassified makes: {grey_list}")
 
   return False
 
 
-def get_vehicle_details(year=None, model=None, make=None):
+def fetch_vehicle_details(year=None, model=None, make=None):
   """
   Get the "Canadian" vehicle details for this year/model/make.
 
@@ -264,63 +311,64 @@ def update_makes_file():
   This takes roughly an hour or two to run.
   """
   filtered_makes = []
-  all_makes = get_all_makes()
-  all_makes = sorted(all_makes, key=lambda x: x["make_name"])
-  for make in all_makes:
-    if not make_produces_passenger_vehicles(make["make_id"]):
-      # There are too many random car brands so we focus on just those makings cars and/or trucks
-      continue
-
+  all_makes = fetch_all_makes()
+  for count, make in enumerate(all_makes):
+    print(f"update_makes_file() progress: {count + 1} / {len(all_makes)}")
     if make["make_name"] == "FISKER AUTOMOTIVE":
       # This is a dumb name that doesn't match canada's name.
       make["make_name"] = "Fisker"
       make["make_slug"] = "fisker"
 
-    if make_is_whitelisted(make):
+    if make_is_whitelisted(make, warn_if_unlisted=False):
       filtered_makes.append(make)
       print(f"{make['make_name']} produces passenger vehicles: {make}")
+    else:
+      continue
 
-  persist_json_file({"makes": filtered_makes}, "data", "makes.json")
+    if not make_produces_passenger_vehicles(make["make_id"]):
+      # There are too many random car brands so we focus on just those makings cars and/or trucks
+      continue
+
+  persist_json_file(filtered_makes, "data", "makes_and_models.json")
 
 
-def load_models_json():
-  return load_json("data", "models.json")
+def load_make_models_json():
+  return load_json("data", "makes_and_models.json")
 
 
 def update_models_files():
   """
-  Update models.json with the latest of makes and models from the
+  Update makes_and_models.json with the latest of makes and models from the
   """
-  # all_makes = load_json("./makes.json")["makes"]
-  all_makes = load_json("data", "models.json")
+  all_makes = load_make_models_json()
   for count, make in enumerate(all_makes):
     print("=" * 120)
     print("=" * 120)
     print(f"Updating Model {count + 1} / {len(all_makes)}: {make}")
     print("=" * 120)
     print("=" * 120)
-    models = get_models_for_make_id(make["make_id"])
+    models = fetch_models_for_make_id(make["make_id"])
     first_year = None
     last_year = None
     print(models)
 
-    for year in range(make["first_year"], make["last_year"] + 1):
+    for year in YEAR_RANGE:
       # 1981 is the earliest I see any models showing up in the API.
-      model_ids_in_year = get_model_ids_for_make_and_year(make["make_id"], year)
+      model_ids_in_year = fetch_model_ids_for_make_and_year(make["make_id"], year)
       if model_ids_in_year:
         if not first_year:
           first_year = year
         last_year = year
 
       for model in models:
+        make["models"][model["model_name"]] = model
         if model["model_id"] in model_ids_in_year:
           model["years"].append(year)
     make["first_year"] = first_year
     make["last_year"] = last_year
-    make["models"] = models
     print(models)
 
-  persist_json_file(all_makes, "data", "models.json")
+  persist_json_file(all_makes, "data", "makes_and_models.json")
 
 
 not_alphanumeric = re.compile("[^A-Z0-9]")
@@ -366,35 +414,34 @@ def choose_matching_model_for_style(model_style_name, model_choices):
 
 
 def update_styles():
-  all_makes = load_json("data", "models.json")
+  all_makes = load_json("data", "makes_and_models.json")
   all_orphaned_styles = {}
 
   for count, make in enumerate(all_makes):
-    model_choices = [model["model_name"] for model in make["models"]]
+    if make['make_name'] != 'BMW':
+      continue
+    print("Cool starting stuff now...")
+    model_choices = make["models"].keys()
     all_orphaned_styles[make["make_name"]] = {
-      "model_choices": model_choices,
+      "model_choices": list(model_choices),
       "orphaned_styles": [],
     }
     for year in range(make["first_year"], make["last_year"] + 1):
-      details = get_vehicle_details(year=year, make=make["make_name"])
+      details = fetch_vehicle_details(year=year, make=make["make_name"])
       for detail in details:
         model_style_name = detail["model_style"]
         del detail["model_style"]
 
         matching_model = choose_matching_model_for_style(model_style_name, model_choices)
         if matching_model:
-          for model in make["models"]:
-            if model["model_name"] == matching_model:
-              print(f"style {model_style_name} matches model {model['model_name']}")
-              if model_style_name not in model["model_styles"]:
-                model["model_styles"][model_style_name] = {
-                  "years": [year],
-                  # "details": {year: detail},
-                }
-              else:
-                model_style_details = model["model_styles"][model_style_name]
-                model_style_details["years"].append(year)
-                # model_style_details["details"][year] = detail
+          model_styles = make["models"][matching_model]["model_styles"]
+          if model_style_name not in model_styles:
+            model_styles[model_style_name] = {
+              "years": [year],
+              # "details": {year: detail},
+            }
+          else:
+            model_styles[model_style_name]["years"].append(year)
         else:
           all_orphaned_styles[make["make_name"]]["orphaned_styles"].append(model_style_name)
           print(make["make_name"] + " could not find model style: " + model_style_name)
@@ -402,8 +449,8 @@ def update_styles():
     print(f"Found orphans for make {make['make_name']}: \n {all_orphaned_styles[make['make_name']]}")
 
     style_data = {}
-    for model in make["models"]:
-      style_data[model["model_name"]] = model["model_styles"]
+    for model_key, model_data in make["models"].items():
+      style_data[model_key] = model_data["model_styles"]
     persist_json_file(style_data, "data", "styles", make["make_slug"] + ".json")
 
   print("ALL MODELS WE COULD NOT FIND:")
@@ -413,11 +460,12 @@ def update_styles():
     for orphaned_style in values["orphaned_styles"]:
       print(orphaned_style)
 
+  print(all_orphaned_styles)
   persist_json_file(all_orphaned_styles, "data", "all_orphaned_styles.json")
 
 
 def update_stats():
-  make_models_data = load_models_json()
+  make_models_data = load_make_models_json()
   make_count = len(make_models_data)
   model_count = sum(len(make_data["models"]) for make_data in make_models_data)
 
@@ -448,8 +496,7 @@ def update_everything():
 
 def main(args):
   print(f"Running update_car_data with args: {args}")
-  update_styles()
-  update_stats()
+  update_everything()
 
 
 if __name__ == "__main__":
