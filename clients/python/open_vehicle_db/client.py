@@ -1,7 +1,8 @@
 import json
 import os
 
-python_path = os.path.dirname(__file__)
+open_vehicle_db_path = os.path.dirname(__file__)
+python_path = os.path.dirname(open_vehicle_db_path)
 clients_path = os.path.dirname(python_path)
 project_root = os.path.dirname(clients_path)
 
@@ -40,9 +41,9 @@ def list_models_for_year_make(year=None, make_name=None):
   for make in model_data:
     if make_name != make["make_name"]:
       continue
-    for model in make["models"]:
-      if year in model["years"]:
-        matching_models.append(model)
+    for model_name, model_data in make["models"].items():
+      if year in model_data["years"]:
+        matching_models.append(model_data)
 
   return matching_models
 
@@ -65,16 +66,6 @@ def list_styles_for_year_make_model(year=None, make=None, model=None):
       continue
     for style_name, style_info in style_data[model_key].items():
       if year in style_info["years"]:
-        matching_styles.append(style_name)
+        matching_styles.append({"style_name": style_name})
 
   return matching_styles
-
-
-makes_2003 = list_makes_for_year(2003)
-print([make["make_name"] for make in makes_2003])
-
-models_2003_mazda = list_models_for_year_make(year=2003, make_name="Mazda")
-print([model["model_name"] for model in models_2003_mazda])
-
-models_2003_mazda_protege = list_styles_for_year_make_model(year=2003, make="Mazda", model="Protege")
-print(models_2003_mazda_protege)
