@@ -51,6 +51,155 @@
       ]
     }
   },
+  "Equator": {
+    "EQUATOR 4DR PICKUP RWD": {
+      "years": [
+        2009,
+        2010
+      ]
+    }
+  },
+  "Esteem": {
+    "ESTEEM 4DR SEDAN GL/GLX": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
+      ]
+    },
+    "ESTEEM 4DR WAGON GL/GLX": {
+      "years": [
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    }
+  },
+  "Forenza": {},
+  "Forsa": {
+    "FORSA GA (2DR) / GL (2DR)": {
+      "years": [
+        1986
+      ]
+    },
+    "FORSA VLG (4DR)": {
+      "years": [
+        1986
+      ]
+    },
+    "FORSA GA/GL 2 DR KAMBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "FORSA V GL 4 DR KAMBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "FORSA  GL/GA 4 DR KAMBACK": {
+      "years": [
+        1988
+      ]
+    },
+    "FORSA GA/GL/GE 2DR KAMBACK": {
+      "years": [
+        1988
+      ]
+    }
+  },
+  "Grand Vitara": {
+    "GRAND VITARA V6 4DR 4WD JX/JLX": {
+      "years": [
+        1999,
+        2000
+      ]
+    },
+    "GRAND VITARA 4DR 4WD V6 JX/JLX/LTD": {
+      "years": [
+        2001
+      ]
+    },
+    "GRAND VITARA 4DR 4WD V6 JX/JLX": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    },
+    "GRAND VITARA 4DR 4WD V6 JA/JX/JLX": {
+      "years": [
+        2006,
+        2007,
+        2008
+      ]
+    },
+    "GRAND VITARA 4DR SUV AWD JA/JX/JLX": {
+      "years": [
+        2009
+      ]
+    },
+    "GRAND VITARA 4DR SUV AWD JX/JLX": {
+      "years": [
+        2010
+      ]
+    },
+    "GRAND VITARA 4DR SUV AWD JX/JLX/JLX-L": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "GRAND VITARA 4DR SUV AWD URBAN/JX/JLX/JLX-L": {
+      "years": [
+        2013,
+        2014
+      ]
+    }
+  },
+  "Grand Vitara XL-7": {},
+  "Kizashi": {
+    "KIZASHI 4DR SEDAN": {
+      "years": [
+        2011
+      ]
+    },
+    "KIZASHI S 4DR SEDAN": {
+      "years": [
+        2012
+      ]
+    },
+    "KIZASHI SPORT 4DR SEDAN": {
+      "years": [
+        2012
+      ]
+    },
+    "KIZASHI SX AWD 4DR SEDAN": {
+      "years": [
+        2012
+      ]
+    },
+    "KIZASHI S iAWD 4DR SEDAN": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "KIZASHI SPORT iAWD/SX iAWD 4DR SEDAN": {
+      "years": [
+        2013,
+        2014
+      ]
+    }
+  },
+  "Reno": {},
   "SX4": {
     "SX4 4DR HATCH FWD": {
       "years": [
@@ -149,40 +298,160 @@
       ]
     }
   },
-  "Kizashi": {
-    "KIZASHI 4DR SEDAN": {
+  "Samurai": {
+    "SAMURAI CONVERTIBLE": {
       "years": [
-        2011
+        1985,
+        1986,
+        1987
       ]
     },
-    "KIZASHI S 4DR SEDAN": {
+    "SAMURAI HARD TOP": {
       "years": [
-        2012
+        1985,
+        1986,
+        1987
       ]
     },
-    "KIZASHI SPORT 4DR SEDAN": {
+    "SAMURAI LONG BODY CONVERTIBLE": {
       "years": [
-        2012
+        1985,
+        1986
       ]
     },
-    "KIZASHI SX AWD 4DR SEDAN": {
+    "SAMURAI LONG BODY": {
       "years": [
-        2012
+        1987
       ]
     },
-    "KIZASHI S iAWD 4DR SEDAN": {
+    "SAMURAI CONVERTABLE STD/JX": {
       "years": [
-        2013,
-        2014
+        1988,
+        1989,
+        1990
       ]
     },
-    "KIZASHI SPORT iAWD/SX iAWD 4DR SEDAN": {
+    "SAMURAI HARDTOP STD/JX": {
       "years": [
-        2013,
-        2014
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "SAMURAI JX PLUS": {
+      "years": [
+        1988
+      ]
+    },
+    "SAMURAI LONG BODY JX": {
+      "years": [
+        1988
+      ]
+    },
+    "SAMURAI CONVERTABLE STD/JA": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "SAMURAI HARDTOP STD/JA": {
+      "years": [
+        1991,
+        1992
       ]
     }
   },
+  "Sidekick": {
+    "SIDEKICK BASE/DLX/SUPER DLX CONV. 4X4": {
+      "years": [
+        1989
+      ]
+    },
+    "SIDEKICK DLX/SUPER DLX HARDTOP 4X4": {
+      "years": [
+        1989
+      ]
+    },
+    "SIDEKICK STD/DLX/SUPER DLX HARD TOP 4x4": {
+      "years": [
+        1990
+      ]
+    },
+    "SIDEKICK STD/DLX/SUPER DLX SOFT TOP 4x4": {
+      "years": [
+        1990
+      ]
+    },
+    "SIDEKICK 2DR JA/JX HARD TOP 4x4": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "SIDEKICK 2DR JA/JX/JLX SOFT TOP 4x4": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "SIDEKICK 4DR JA/JLX/JLX-PP 4X4": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "SIDEKICK 2DR HARD TOP 4X4 JA/JX": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "SIDEKICK 2DR SOFT TOP 4X4 JA/JX/JLX": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "SIDEKICK 4DR HARD TOP 4X4 JX/JLX": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "SIDEKICK 2DR SOFT TOP 4X4 JA/JX": {
+      "years": [
+        1996,
+        1997
+      ]
+    },
+    "SIDEKICK 4DR HARD TOP 4X4 JX": {
+      "years": [
+        1996,
+        1997
+      ]
+    },
+    "SIDEKICK 4DR HARD TOP 4X4 SPORT JX/JLX": {
+      "years": [
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "SIDEKICK 2DR SOFT TOP 4X4": {
+      "years": [
+        1998
+      ]
+    },
+    "SIDEKICK 4DR HARD TOP 4X4": {
+      "years": [
+        1998
+      ]
+    }
+  },
+  "Sidekick Sport": {},
   "Swift": {
     "SWIFTL/S/DL 2DR HATCHBACK": {
       "years": [
@@ -290,279 +559,12 @@
       ]
     }
   },
-  "Forenza": {},
-  "Reno": {},
-  "Esteem": {
-    "ESTEEM 4DR SEDAN GL/GLX": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001
-      ]
-    },
-    "ESTEEM 4DR WAGON GL/GLX": {
-      "years": [
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    }
-  },
   "Verona": {
     "VERONA 4DR SEDAN FWD GL/GLX": {
       "years": [
         2004,
         2005,
         2006
-      ]
-    }
-  },
-  "Forsa": {
-    "FORSA GA (2DR) / GL (2DR)": {
-      "years": [
-        1986
-      ]
-    },
-    "FORSA VLG (4DR)": {
-      "years": [
-        1986
-      ]
-    },
-    "FORSA GA/GL 2 DR KAMBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "FORSA V GL 4 DR KAMBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "FORSA  GL/GA 4 DR KAMBACK": {
-      "years": [
-        1988
-      ]
-    },
-    "FORSA GA/GL/GE 2DR KAMBACK": {
-      "years": [
-        1988
-      ]
-    }
-  },
-  "Equator": {
-    "EQUATOR 4DR PICKUP RWD": {
-      "years": [
-        2009,
-        2010
-      ]
-    }
-  },
-  "Sidekick": {
-    "SIDEKICK BASE/DLX/SUPER DLX CONV. 4X4": {
-      "years": [
-        1989
-      ]
-    },
-    "SIDEKICK DLX/SUPER DLX HARDTOP 4X4": {
-      "years": [
-        1989
-      ]
-    },
-    "SIDEKICK STD/DLX/SUPER DLX HARD TOP 4x4": {
-      "years": [
-        1990
-      ]
-    },
-    "SIDEKICK STD/DLX/SUPER DLX SOFT TOP 4x4": {
-      "years": [
-        1990
-      ]
-    },
-    "SIDEKICK 2DR JA/JX HARD TOP 4x4": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "SIDEKICK 2DR JA/JX/JLX SOFT TOP 4x4": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "SIDEKICK 4DR JA/JLX/JLX-PP 4X4": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "SIDEKICK 2DR HARD TOP 4X4 JA/JX": {
-      "years": [
-        1994,
-        1995
-      ]
-    },
-    "SIDEKICK 2DR SOFT TOP 4X4 JA/JX/JLX": {
-      "years": [
-        1994,
-        1995
-      ]
-    },
-    "SIDEKICK 4DR HARD TOP 4X4 JX/JLX": {
-      "years": [
-        1994,
-        1995
-      ]
-    },
-    "SIDEKICK 2DR SOFT TOP 4X4 JA/JX": {
-      "years": [
-        1996,
-        1997
-      ]
-    },
-    "SIDEKICK 4DR HARD TOP 4X4 JX": {
-      "years": [
-        1996,
-        1997
-      ]
-    },
-    "SIDEKICK 4DR HARD TOP 4X4 SPORT JX/JLX": {
-      "years": [
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "SIDEKICK 2DR SOFT TOP 4X4": {
-      "years": [
-        1998
-      ]
-    },
-    "SIDEKICK 4DR HARD TOP 4X4": {
-      "years": [
-        1998
-      ]
-    }
-  },
-  "Sidekick Sport": {},
-  "Samurai": {
-    "SAMURAI CONVERTIBLE": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "SAMURAI HARD TOP": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "SAMURAI LONG BODY CONVERTIBLE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "SAMURAI LONG BODY": {
-      "years": [
-        1987
-      ]
-    },
-    "SAMURAI CONVERTABLE STD/JX": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "SAMURAI HARDTOP STD/JX": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "SAMURAI JX PLUS": {
-      "years": [
-        1988
-      ]
-    },
-    "SAMURAI LONG BODY JX": {
-      "years": [
-        1988
-      ]
-    },
-    "SAMURAI CONVERTABLE STD/JA": {
-      "years": [
-        1991,
-        1992
-      ]
-    },
-    "SAMURAI HARDTOP STD/JA": {
-      "years": [
-        1991,
-        1992
-      ]
-    }
-  },
-  "XL7": {
-    "XL-7 4DR 4WD": {
-      "years": [
-        2001
-      ]
-    },
-    "XL-7 4DR 4WD JX/JLX/LTD": {
-      "years": [
-        2002,
-        2003
-      ]
-    },
-    "XL-7 4DR 4WD /JLX/JLX PLUS/LTD": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "XL-7 4DR 4WD JX": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2009
-      ]
-    },
-    "XL-7 4DR 4WD JLX/JLX PLUS": {
-      "years": [
-        2006
-      ]
-    },
-    "XL7 4DR 4WD JLX": {
-      "years": [
-        2007,
-        2008
-      ]
-    },
-    "XL7 4DR 4WD JX": {
-      "years": [
-        2007,
-        2008
-      ]
-    },
-    "XL-7 4DR 4WD JLX": {
-      "years": [
-        2009
       ]
     }
   },
@@ -624,55 +626,53 @@
       ]
     }
   },
-  "Grand Vitara": {
-    "GRAND VITARA V6 4DR 4WD JX/JLX": {
-      "years": [
-        1999,
-        2000
-      ]
-    },
-    "GRAND VITARA 4DR 4WD V6 JX/JLX/LTD": {
+  "XL7": {
+    "XL-7 4DR 4WD": {
       "years": [
         2001
       ]
     },
-    "GRAND VITARA 4DR 4WD V6 JX/JLX": {
+    "XL-7 4DR 4WD JX/JLX/LTD": {
       "years": [
         2002,
-        2003,
+        2003
+      ]
+    },
+    "XL-7 4DR 4WD /JLX/JLX PLUS/LTD": {
+      "years": [
         2004,
         2005
       ]
     },
-    "GRAND VITARA 4DR 4WD V6 JA/JX/JLX": {
+    "XL-7 4DR 4WD JX": {
       "years": [
+        2004,
+        2005,
         2006,
+        2009
+      ]
+    },
+    "XL-7 4DR 4WD JLX/JLX PLUS": {
+      "years": [
+        2006
+      ]
+    },
+    "XL7 4DR 4WD JLX": {
+      "years": [
         2007,
         2008
       ]
     },
-    "GRAND VITARA 4DR SUV AWD JA/JX/JLX": {
+    "XL7 4DR 4WD JX": {
+      "years": [
+        2007,
+        2008
+      ]
+    },
+    "XL-7 4DR 4WD JLX": {
       "years": [
         2009
       ]
-    },
-    "GRAND VITARA 4DR SUV AWD JX/JLX": {
-      "years": [
-        2010
-      ]
-    },
-    "GRAND VITARA 4DR SUV AWD JX/JLX/JLX-L": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "GRAND VITARA 4DR SUV AWD URBAN/JX/JLX/JLX-L": {
-      "years": [
-        2013,
-        2014
-      ]
     }
-  },
-  "Grand Vitara XL-7": {}
+  }
 }

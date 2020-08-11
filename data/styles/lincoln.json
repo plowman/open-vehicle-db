@@ -1,4 +1,249 @@
 {
+  "Aviator": {
+    "AVIATOR 4DR SUV AWD": {
+      "years": [
+        2003,
+        2004,
+        2005
+      ]
+    },
+    "AVIATOR 4DR SUV": {
+      "years": [
+        2020
+      ]
+    }
+  },
+  "Blackwood": {},
+  "Continental": {
+    "CONTINENTAL 4 DR": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "CONTINENTAL MARK VI 2 DR": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "CONTINENTAL MARK VI 4 DR": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "CONTINENTAL": {
+      "years": [
+        1985,
+        1986,
+        2017
+      ]
+    },
+    "CONTINENTAL MARK VII": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "CONTINENTAL 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "CONTINENTAL GIVENCHY 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "CONTINENTAL 4 DR SEDAN/SIGNATURE": {
+      "years": [
+        1989
+      ]
+    },
+    "CONTINENTAL BASE/SIGNATURE 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "CONTINENTAL EXECUTIV/SIGNATURE 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "CONTINENTAL 4DR SEDAN EXECUTIV/SIGNATURE": {
+      "years": [
+        1994
+      ]
+    },
+    "CONTINENTAL 4DR SEDAN": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Corsair": {},
+  "LS": {
+    "LS 4DR SEDAN V6 3.0L": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "LS 4DR SEDAN V8 4.0L": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "LS 4DR SEDAN V6 3.0L/ SPORT": {
+      "years": [
+        2003
+      ]
+    },
+    "LS 4DR SEDAN V8 3.9L": {
+      "years": [
+        2003
+      ]
+    },
+    "LS 4DR SEDAN RWD V6 3.0L": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "LS 4DR SEDAN RWD V8 3.9L": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    }
+  },
+  "MKC": {
+    "MKC 2.0L ECOBOOST/2.3L ECOBOOST 4DR SUV AWD": {
+      "years": [
+        2015
+      ]
+    },
+    "MKC 4DR SUV AWD": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "MKC 4DR SUV": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "MKS": {
+    "MKS 4DR SEDAN AWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "MKS 4DR SEDAN FWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "MKS 4DR SEDAN AWD /ECOBOOST": {
+      "years": [
+        2015
+      ]
+    },
+    "MKS 4DR SEDAN": {
+      "years": [
+        2016
+      ]
+    }
+  },
+  "MKT": {
+    "MKT 4DR SUV 3.5/ECOBOOST": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "MKT 4DR SUV 3.5": {
+      "years": [
+        2012
+      ]
+    },
+    "MKT 4DR SUV ECOBOOST": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "MKT 4DR SUV": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "MKX": {
+    "MKX 4DR SUV FWD": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "MKX 4DR SUV AWD": {
+      "years": [
+        2010
+      ]
+    },
+    "MKX 4DR CUV": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "MKX 4DR SUV": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    }
+  },
   "MKZ": {
     "MKZ 4DR SEDAN": {
       "years": [
@@ -63,6 +308,151 @@
     },
     "MKZ HYBRID 4DR SEDAN": {
       "years": [
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Mark": {
+    "MARK VII 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "MARK VII BILL BLASS 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "MARK VII LSC 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "MARK VII BILL BLASS/LSC 2 DR COUPE": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "MARK VII BILL BLASS/LSC 2DR COUPE": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "MARK VIII 2DR COUPE": {
+      "years": [
+        1993,
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "MARK VIII/LSC 2DR COUPE": {
+      "years": [
+        1997,
+        1998
+      ]
+    }
+  },
+  "Mark LT": {
+    "LINCOLN MARK LT P/U EXT CAB S/BOX RWD": {
+      "years": [
+        2005,
+        2007
+      ]
+    },
+    "MARK LT P/U EXT CAB S/BOX 4WD": {
+      "years": [
+        2006,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "MARK LT P/U EXT CAB S/BOX RWD": {
+      "years": [
+        2006,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "LINCOLN MARK LT P/U EXT CAB S/BOX 4WD": {
+      "years": [
+        2007
+      ]
+    }
+  },
+  "Nautilus": {
+    "NAUTILUS I-4 4DR SUV": {
+      "years": [
+        2019
+      ]
+    },
+    "NAUTILUS V6 4DR SUV": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "Navigator": {
+    "NAVIGATOR 4DR SUV 4WD": {
+      "years": [
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "NAVIGATOR 4DR SUV RWD": {
+      "years": [
+        1998
+      ]
+    },
+    "NAVIGATOR": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "NAVIGATOR 4DR SUV 4WD /ULTIMATE": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    }
+  },
+  "Navigator L": {
+    "NAVIGATOR L 4DR SUV 4WD": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
         2017,
         2018,
         2019
@@ -170,400 +560,10 @@
       ]
     }
   },
-  "MKS": {
-    "MKS 4DR SEDAN AWD": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "MKS 4DR SEDAN FWD": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "MKS 4DR SEDAN AWD /ECOBOOST": {
-      "years": [
-        2015
-      ]
-    },
-    "MKS 4DR SEDAN": {
-      "years": [
-        2016
-      ]
-    }
-  },
-  "LS": {
-    "LS 4DR SEDAN V6 3.0L": {
-      "years": [
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "LS 4DR SEDAN V8 4.0L": {
-      "years": [
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "LS 4DR SEDAN V6 3.0L/ SPORT": {
-      "years": [
-        2003
-      ]
-    },
-    "LS 4DR SEDAN V8 3.9L": {
-      "years": [
-        2003
-      ]
-    },
-    "LS 4DR SEDAN RWD V6 3.0L": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "LS 4DR SEDAN RWD V8 3.9L": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    }
-  },
   "Zephyr": {
     "ZEPHYR 4DR SEDAN": {
       "years": [
         2006
-      ]
-    }
-  },
-  "Continental": {
-    "CONTINENTAL 4 DR": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "CONTINENTAL MARK VI 2 DR": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "CONTINENTAL MARK VI 4 DR": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "CONTINENTAL": {
-      "years": [
-        1985,
-        1986,
-        2017
-      ]
-    },
-    "CONTINENTAL MARK VII": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CONTINENTAL 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "CONTINENTAL GIVENCHY 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "CONTINENTAL 4 DR SEDAN/SIGNATURE": {
-      "years": [
-        1989
-      ]
-    },
-    "CONTINENTAL BASE/SIGNATURE 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "CONTINENTAL EXECUTIV/SIGNATURE 4DR SEDAN": {
-      "years": [
-        1993
-      ]
-    },
-    "CONTINENTAL 4DR SEDAN EXECUTIV/SIGNATURE": {
-      "years": [
-        1994
-      ]
-    },
-    "CONTINENTAL 4DR SEDAN": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Mark": {
-    "MARK VII 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "MARK VII BILL BLASS 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "MARK VII LSC 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "MARK VII BILL BLASS/LSC 2 DR COUPE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "MARK VII BILL BLASS/LSC 2DR COUPE": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "MARK VIII 2DR COUPE": {
-      "years": [
-        1993,
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "MARK VIII/LSC 2DR COUPE": {
-      "years": [
-        1997,
-        1998
-      ]
-    }
-  },
-  "Navigator": {
-    "NAVIGATOR 4DR SUV 4WD": {
-      "years": [
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "NAVIGATOR 4DR SUV RWD": {
-      "years": [
-        1998
-      ]
-    },
-    "NAVIGATOR": {
-      "years": [
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "NAVIGATOR 4DR SUV 4WD /ULTIMATE": {
-      "years": [
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    }
-  },
-  "Mark LT": {
-    "LINCOLN MARK LT P/U EXT CAB S/BOX RWD": {
-      "years": [
-        2005,
-        2007
-      ]
-    },
-    "MARK LT P/U EXT CAB S/BOX 4WD": {
-      "years": [
-        2006,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "MARK LT P/U EXT CAB S/BOX RWD": {
-      "years": [
-        2006,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "LINCOLN MARK LT P/U EXT CAB S/BOX 4WD": {
-      "years": [
-        2007
-      ]
-    }
-  },
-  "Blackwood": {},
-  "MKT": {
-    "MKT 4DR SUV 3.5/ECOBOOST": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "MKT 4DR SUV 3.5": {
-      "years": [
-        2012
-      ]
-    },
-    "MKT 4DR SUV ECOBOOST": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "MKT 4DR SUV": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "MKX": {
-    "MKX 4DR SUV FWD": {
-      "years": [
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "MKX 4DR SUV AWD": {
-      "years": [
-        2010
-      ]
-    },
-    "MKX 4DR CUV": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "MKX 4DR SUV": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    }
-  },
-  "Aviator": {
-    "AVIATOR 4DR SUV AWD": {
-      "years": [
-        2003,
-        2004,
-        2005
-      ]
-    },
-    "AVIATOR 4DR SUV": {
-      "years": [
-        2020
-      ]
-    }
-  },
-  "MKC": {
-    "MKC 2.0L ECOBOOST/2.3L ECOBOOST 4DR SUV AWD": {
-      "years": [
-        2015
-      ]
-    },
-    "MKC 4DR SUV AWD": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "MKC 4DR SUV": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "Nautilus": {
-    "NAUTILUS I-4 4DR SUV": {
-      "years": [
-        2019
-      ]
-    },
-    "NAUTILUS V6 4DR SUV": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "Corsair": {},
-  "Navigator L": {
-    "NAVIGATOR L 4DR SUV 4WD": {
-      "years": [
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
       ]
     }
   }

@@ -1,305 +1,43 @@
 {
-  "Legacy": {
-    "LEGACY 4WD 4DR SEDAN": {
+  "Ascent": {
+    "ASCENT CONVENIENCE 4DR SUV": {
       "years": [
-        1990
-      ]
-    },
-    "LEGACY 4WD WAGON": {
-      "years": [
-        1990
-      ]
-    },
-    "LEGACY FWD 4DR SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "LEGACY FWD WAGON": {
-      "years": [
-        1990
-      ]
-    },
-    "LEGACY 4WD TURBO SEDAN": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "LEGACY L/LS 4WD 4DR SEDAN": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "LEGACY L/LS 4WD WAGON": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "LEGACY L/LS FWD 4DR SEDAN": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "LEGACY L/LS FWD WAGON": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "LEGACY 4DR SEDAN AWD LS": {
-      "years": [
-        1994
-      ]
-    },
-    "LEGACY 4DR SEDAN AWD TURBO": {
-      "years": [
-        1994
-      ]
-    },
-    "LEGACY 4DR SEDAN FWD L": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "LEGACY 4DR WAGON AWD LS/TOURING": {
-      "years": [
-        1994
-      ]
-    },
-    "LEGACY 4DR WAGON FWD L": {
-      "years": [
-        1994
-      ]
-    },
-    "LEGACY 4DR SEDAN AWD L/LS/LSi": {
-      "years": [
-        1995,
-        1996
-      ]
-    },
-    "LEGACY BRIGHTON 4DR WAGON AWD L/LS/LSi": {
-      "years": [
-        1995,
-        1996
-      ]
-    },
-    "LEGACY BRIGHTON 4DR WAGON FWD L": {
-      "years": [
-        1995
-      ]
-    },
-    "LEGACY 4DR SEDAN AWD L+/LS": {
-      "years": [
-        1997
-      ]
-    },
-    "LEGACY 4DR SEDAN GT/LSi": {
-      "years": [
-        1997
-      ]
-    },
-    "LEGACY 4DR WAGON L+/BRIGHTON": {
-      "years": [
-        1997
-      ]
-    },
-    "LEGACY BRIGHTON 4DR WAGON AWD LS/GT/LSi": {
-      "years": [
-        1997
-      ]
-    },
-    "LEGACY 4DR SEDAN AWD 2.5 GT": {
-      "years": [
-        1998
-      ]
-    },
-    "LEGACY 4DR SEDAN AWD L/LTD": {
-      "years": [
-        1998
-      ]
-    },
-    "LEGACY 4DR WAGON AWD 2.5 GT": {
-      "years": [
-        1998,
-        1999
-      ]
-    },
-    "LEGACY 4DR WAGON AWD L/BRIGHTON": {
-      "years": [
-        1998,
-        1999
-      ]
-    },
-    "LEGACY 4DR SEDAN AWD 2.2 L": {
-      "years": [
-        1999
-      ]
-    },
-    "LEGACY 4DR SEDAN AWD 2.5 GT/GT LTD": {
-      "years": [
-        1999
-      ]
-    },
-    "LEGACY 4DR SEDAN AWD L/GT/GT LTD": {
-      "years": [
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "LEGACY 4DR WAGON AWD BRIGHTON/L": {
-      "years": [
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "LEGACY 4DR WAGON AWD GT": {
-      "years": [
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "LEGACY 4DR SEDAN AWD L/GT/GT PREMIUM": {
-      "years": [
-        2003
-      ]
-    },
-    "LEGACY GT 4DR WAGON AWD": {
-      "years": [
-        2003,
-        2008,
-        2009
-      ]
-    },
-    "LEGACY L 4DR WAGON AWD": {
-      "years": [
-        2003
-      ]
-    },
-    "LEGACY 4DR SEDAN AWD L/L PREMIUM/2.5 GT": {
-      "years": [
-        2004
-      ]
-    },
-    "LEGACY 4DR WAGON AWD /2.5 GT": {
-      "years": [
-        2004
-      ]
-    },
-    "LEGACY 4DR WAGON AWD /L/L PREMIUM": {
-      "years": [
-        2004
-      ]
-    },
-    "LEGACY 4DR SEDAN /2.5i/2.5 GT": {
-      "years": [
-        2005
-      ]
-    },
-    "LEGACY 4DR WAGON /2.5i/2.5 GT": {
-      "years": [
-        2005
-      ]
-    },
-    "LEGACY 4DR SEDAN 2.5 GT": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "LEGACY 4DR SEDAN 2.5i": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "LEGACY 4DR WAGON 2.5 GT": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "LEGACY 4DR WAGON 2.5i": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "LEGACY 2.5i/TOURING 4DR WAGON AWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "LEGACY 2.5i/TOURING/LIMITED 4DR SEDAN AWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "LEGACY GT 4DR SEDAN AWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "LEGACY GT SPEC.B 4DR SEDAN AWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "LEGACY 4DR SEDAN 2.5GT/3.6R": {
-      "years": [
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "LEGACY 4DR SEDAN 2.5I/PZEV": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "LEGACY 4DR SEDAN 2.5i/PZEV/2.5i TOURING/2.5i": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "LEGACY 4DR SEDAN 3.6R": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "LEGACY 4DR SEDAN 2.5i AWD": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
         2019
       ]
     },
-    "LEGACY 4DR SEDAN 3.6R AWD": {
+    "ASCENT LIMITED / PREMIER 4DR SUV": {
       "years": [
-        2015,
+        2019
+      ]
+    },
+    "ASCENT TOURING 4DR SUV": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "B9 Tribeca": {
+    "B9 TRIBECA 4DR SUV AWD": {
+      "years": [
+        2006
+      ]
+    },
+    "B9 TRIBECA 4DR SUV AWD /LIMITED": {
+      "years": [
+        2007
+      ]
+    }
+  },
+  "BRZ": {
+    "BRZ 2DR COUPE /SPORT-TECH": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "BRZ 2DR COUPE": {
+      "years": [
         2016,
         2017,
         2018,
@@ -307,141 +45,73 @@
       ]
     }
   },
-  "Outback": {
-    "OUTBACK 4DR WAGON AWD": {
+  "Baja": {
+    "BAJA EXT CAB S/BOX AWD": {
       "years": [
-        1996,
-        1997,
-        2000,
-        2001,
-        2002
+        2003,
+        2004,
+        2005
+      ]
+    }
+  },
+  "Brat": {
+    "BRAT DL 4 WD": {
+      "years": [
+        1981,
+        1982
+      ]
+    }
+  },
+  "Crosstrek": {},
+  "DL": {
+    "HARDTOP DL": {
+      "years": [
+        1981
       ]
     },
-    "OUTBACK 4DR WAGON AWD BASE/LIMITED": {
+    "SEDAN DL": {
       "years": [
-        1998,
-        1999
+        1981
       ]
     },
-    "OUTBACK SPORT 4DR WAGON AWD (IMPREZA)": {
+    "WAGON DL 4 WD": {
       "years": [
-        1998,
-        1999
+        1981
       ]
     },
-    "OUTBACK 4DR SEDAN AWD (LEGACY)": {
+    "DL 4 WD WAGON": {
       "years": [
-        1999
+        1982
       ]
     },
-    "OUTBACK 4DR SEDAN AWD LTD": {
+    "DL HD": {
       "years": [
-        2000,
-        2001
+        1982
       ]
     },
-    "OUTBACK 4DR WAGON AWD LTD": {
+    "DL SD": {
       "years": [
-        2000,
-        2001,
-        2002,
-        2003
+        1982
       ]
     },
-    "OUTBACK 4DR WAGON AWD H6": {
+    "4WD GL/DL WAGON": {
       "years": [
-        2001,
-        2002,
-        2003
+        1988
       ]
     },
-    "OUTBACK 4DR SEDAN AWD H6": {
+    "FWD DL/GL COUPE": {
       "years": [
-        2002,
-        2003
+        1988
       ]
     },
-    "OUTBACK 4DR WAGON AWD /BASE/PREMIUM": {
+    "FWD DL/GL WAGON": {
       "years": [
-        2004
+        1989
       ]
     },
-    "OUTBACK 4DR WAGON AWD /LIMITED/ANNIV": {
+    "FWD GL/DL 4 DR SEDAN": {
       "years": [
-        2004
-      ]
-    },
-    "OUTBACK 4DR WAGON AWD H6-3.0/VDC": {
-      "years": [
-        2004
-      ]
-    },
-    "OUTBACK 4DR WAGON AWD /2.5i/2.5i LIMITED": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "OUTBACK 4DR WAGON AWD /2.5XT/3.0R": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "OUTBACK 4DR WAGON AWD /3.0R VDC": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "OUTBACK 4DR WAGON AWD 3.6R": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "OUTBACK 4DR WAGON AWD PZEV/2.5I": {
-      "years": [
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "OUTBACK 4DR WAGON AWD 2.5i (manual)": {
-      "years": [
-        2013
-      ]
-    },
-    "OUTBACK 4DR WAGON AWD 2.5i/PZEV/2.5i TOURING/": {
-      "years": [
-        2013
-      ]
-    },
-    "OUTBACK 4DR WAGON AWD 2.5i": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
+        1989
       ]
     }
   },
@@ -535,6 +205,163 @@
     "FORESTER SPORT / LIMITED / PREMIER 4DR SUV": {
       "years": [
         2019
+      ]
+    }
+  },
+  "GL": {
+    "HATCHBACK GL": {
+      "years": [
+        1981
+      ]
+    },
+    "GL 2 DR HB 4 WD": {
+      "years": [
+        1982
+      ]
+    },
+    "GL 4 DR SD": {
+      "years": [
+        1982
+      ]
+    },
+    "GL WAGON": {
+      "years": [
+        1982
+      ]
+    },
+    "GL 2 WD WAGON": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "GL 4 WD WAGON": {
+      "years": [
+        1985
+      ]
+    },
+    "GL SEDAN": {
+      "years": [
+        1985
+      ]
+    },
+    "HATCHBACK GL 2 DR": {
+      "years": [
+        1985
+      ]
+    },
+    "GL/GL-10 4WD TURBO WAGON": {
+      "years": [
+        1986
+      ]
+    },
+    "GL/GL-10 TURBO SEDAN": {
+      "years": [
+        1986
+      ]
+    },
+    "GL 4WD 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "GL 4WD LIFTBACK 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "GL 4WD WAGON": {
+      "years": [
+        1987
+      ]
+    },
+    "4WD GL 4 DR SEDAN": {
+      "years": [
+        1988
+      ]
+    },
+    "FWD GL COUPE": {
+      "years": [
+        1989
+      ]
+    }
+  },
+  "GL-10": {
+    "GL-10 TURBO 4WD 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "GL-10 TURBO 4WD WAGON": {
+      "years": [
+        1987
+      ]
+    },
+    "4WD GL-10 TURBO 4DR SEDAN": {
+      "years": [
+        1988
+      ]
+    },
+    "4WD GL-10 TURBO WAGON": {
+      "years": [
+        1988
+      ]
+    },
+    "FWD GL/DL/GL-10 TURBO SEDAN": {
+      "years": [
+        1988
+      ]
+    },
+    "FWD GL/DL/GL-10 TURBO WAGON": {
+      "years": [
+        1988
+      ]
+    },
+    "4WD GL/GL-10 TURBO 4 DR SEDAN": {
+      "years": [
+        1989
+      ]
+    },
+    "4WD GL/GL-10 TURBO WAGON": {
+      "years": [
+        1989
+      ]
+    },
+    "FWD GL/GL-10 TURBO SEDAN": {
+      "years": [
+        1989
+      ]
+    }
+  },
+  "GLF": {
+    "SEDAN GL F": {
+      "years": [
+        1981
+      ]
+    },
+    "SUBARU GLF 2 DR": {
+      "years": [
+        1982
+      ]
+    },
+    "GL FWD 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "GL FWD LIFTBACK 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "GL FWD WAGON": {
+      "years": [
+        1987
+      ]
+    },
+    "CHASER GL FWD 2 DR HATCHBACK": {
+      "years": [
+        1988
       ]
     }
   },
@@ -903,54 +730,6 @@
       ]
     }
   },
-  "WRX": {
-    "WRX 4DR SEDAN": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "WRX STI 4DR SEDAN": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "BRZ": {
-    "BRZ 2DR COUPE /SPORT-TECH": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "BRZ 2DR COUPE": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "SVX": {
-    "SVX 2DR COUPE": {
-      "years": [
-        1992,
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    }
-  },
   "Justy": {
     "JUSTY GL 4WD": {
       "years": [
@@ -986,6 +765,314 @@
       "years": [
         1994,
         1995
+      ]
+    }
+  },
+  "Legacy": {
+    "LEGACY 4WD 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "LEGACY 4WD WAGON": {
+      "years": [
+        1990
+      ]
+    },
+    "LEGACY FWD 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "LEGACY FWD WAGON": {
+      "years": [
+        1990
+      ]
+    },
+    "LEGACY 4WD TURBO SEDAN": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "LEGACY L/LS 4WD 4DR SEDAN": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "LEGACY L/LS 4WD WAGON": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "LEGACY L/LS FWD 4DR SEDAN": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "LEGACY L/LS FWD WAGON": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "LEGACY 4DR SEDAN AWD LS": {
+      "years": [
+        1994
+      ]
+    },
+    "LEGACY 4DR SEDAN AWD TURBO": {
+      "years": [
+        1994
+      ]
+    },
+    "LEGACY 4DR SEDAN FWD L": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "LEGACY 4DR WAGON AWD LS/TOURING": {
+      "years": [
+        1994
+      ]
+    },
+    "LEGACY 4DR WAGON FWD L": {
+      "years": [
+        1994
+      ]
+    },
+    "LEGACY 4DR SEDAN AWD L/LS/LSi": {
+      "years": [
+        1995,
+        1996
+      ]
+    },
+    "LEGACY BRIGHTON 4DR WAGON AWD L/LS/LSi": {
+      "years": [
+        1995,
+        1996
+      ]
+    },
+    "LEGACY BRIGHTON 4DR WAGON FWD L": {
+      "years": [
+        1995
+      ]
+    },
+    "LEGACY 4DR SEDAN AWD L+/LS": {
+      "years": [
+        1997
+      ]
+    },
+    "LEGACY 4DR SEDAN GT/LSi": {
+      "years": [
+        1997
+      ]
+    },
+    "LEGACY 4DR WAGON L+/BRIGHTON": {
+      "years": [
+        1997
+      ]
+    },
+    "LEGACY BRIGHTON 4DR WAGON AWD LS/GT/LSi": {
+      "years": [
+        1997
+      ]
+    },
+    "LEGACY 4DR SEDAN AWD 2.5 GT": {
+      "years": [
+        1998
+      ]
+    },
+    "LEGACY 4DR SEDAN AWD L/LTD": {
+      "years": [
+        1998
+      ]
+    },
+    "LEGACY 4DR WAGON AWD 2.5 GT": {
+      "years": [
+        1998,
+        1999
+      ]
+    },
+    "LEGACY 4DR WAGON AWD L/BRIGHTON": {
+      "years": [
+        1998,
+        1999
+      ]
+    },
+    "LEGACY 4DR SEDAN AWD 2.2 L": {
+      "years": [
+        1999
+      ]
+    },
+    "LEGACY 4DR SEDAN AWD 2.5 GT/GT LTD": {
+      "years": [
+        1999
+      ]
+    },
+    "LEGACY 4DR SEDAN AWD L/GT/GT LTD": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "LEGACY 4DR WAGON AWD BRIGHTON/L": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "LEGACY 4DR WAGON AWD GT": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "LEGACY 4DR SEDAN AWD L/GT/GT PREMIUM": {
+      "years": [
+        2003
+      ]
+    },
+    "LEGACY GT 4DR WAGON AWD": {
+      "years": [
+        2003,
+        2008,
+        2009
+      ]
+    },
+    "LEGACY L 4DR WAGON AWD": {
+      "years": [
+        2003
+      ]
+    },
+    "LEGACY 4DR SEDAN AWD L/L PREMIUM/2.5 GT": {
+      "years": [
+        2004
+      ]
+    },
+    "LEGACY 4DR WAGON AWD /2.5 GT": {
+      "years": [
+        2004
+      ]
+    },
+    "LEGACY 4DR WAGON AWD /L/L PREMIUM": {
+      "years": [
+        2004
+      ]
+    },
+    "LEGACY 4DR SEDAN /2.5i/2.5 GT": {
+      "years": [
+        2005
+      ]
+    },
+    "LEGACY 4DR WAGON /2.5i/2.5 GT": {
+      "years": [
+        2005
+      ]
+    },
+    "LEGACY 4DR SEDAN 2.5 GT": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "LEGACY 4DR SEDAN 2.5i": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "LEGACY 4DR WAGON 2.5 GT": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "LEGACY 4DR WAGON 2.5i": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "LEGACY 2.5i/TOURING 4DR WAGON AWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "LEGACY 2.5i/TOURING/LIMITED 4DR SEDAN AWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "LEGACY GT 4DR SEDAN AWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "LEGACY GT SPEC.B 4DR SEDAN AWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "LEGACY 4DR SEDAN 2.5GT/3.6R": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "LEGACY 4DR SEDAN 2.5I/PZEV": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "LEGACY 4DR SEDAN 2.5i/PZEV/2.5i TOURING/2.5i": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "LEGACY 4DR SEDAN 3.6R": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "LEGACY 4DR SEDAN 2.5i AWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "LEGACY 4DR SEDAN 3.6R AWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
       ]
     }
   },
@@ -1026,11 +1113,174 @@
       ]
     }
   },
-  "Brat": {
-    "BRAT DL 4 WD": {
+  "Outback": {
+    "OUTBACK 4DR WAGON AWD": {
       "years": [
-        1981,
-        1982
+        1996,
+        1997,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "OUTBACK 4DR WAGON AWD BASE/LIMITED": {
+      "years": [
+        1998,
+        1999
+      ]
+    },
+    "OUTBACK SPORT 4DR WAGON AWD (IMPREZA)": {
+      "years": [
+        1998,
+        1999
+      ]
+    },
+    "OUTBACK 4DR SEDAN AWD (LEGACY)": {
+      "years": [
+        1999
+      ]
+    },
+    "OUTBACK 4DR SEDAN AWD LTD": {
+      "years": [
+        2000,
+        2001
+      ]
+    },
+    "OUTBACK 4DR WAGON AWD LTD": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "OUTBACK 4DR WAGON AWD H6": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "OUTBACK 4DR SEDAN AWD H6": {
+      "years": [
+        2002,
+        2003
+      ]
+    },
+    "OUTBACK 4DR WAGON AWD /BASE/PREMIUM": {
+      "years": [
+        2004
+      ]
+    },
+    "OUTBACK 4DR WAGON AWD /LIMITED/ANNIV": {
+      "years": [
+        2004
+      ]
+    },
+    "OUTBACK 4DR WAGON AWD H6-3.0/VDC": {
+      "years": [
+        2004
+      ]
+    },
+    "OUTBACK 4DR WAGON AWD /2.5i/2.5i LIMITED": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "OUTBACK 4DR WAGON AWD /2.5XT/3.0R": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "OUTBACK 4DR WAGON AWD /3.0R VDC": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "OUTBACK 4DR WAGON AWD 3.6R": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "OUTBACK 4DR WAGON AWD PZEV/2.5I": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "OUTBACK 4DR WAGON AWD 2.5i (manual)": {
+      "years": [
+        2013
+      ]
+    },
+    "OUTBACK 4DR WAGON AWD 2.5i/PZEV/2.5i TOURING/": {
+      "years": [
+        2013
+      ]
+    },
+    "OUTBACK 4DR WAGON AWD 2.5i": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "RX": {},
+  "SVX": {
+    "SVX 2DR COUPE": {
+      "years": [
+        1992,
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    }
+  },
+  "Standard": {},
+  "WRX": {
+    "WRX 4DR SEDAN": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "WRX STI 4DR SEDAN": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
       ]
     }
   },
@@ -1048,6 +1298,16 @@
     "XT GL-10 TURBO 4WD COUPE (2 DR)": {
       "years": [
         1987
+      ]
+    },
+    "4WD GL/4WD RX TURBO COUPE": {
+      "years": [
+        1988
+      ]
+    },
+    "4WD GL/4WD RX TURBO COUPE/FWDGL": {
+      "years": [
+        1989
       ]
     },
     "XT COUPE FWD/4WD": {
@@ -1074,228 +1334,6 @@
       ]
     }
   },
-  "DL": {
-    "HARDTOP DL": {
-      "years": [
-        1981
-      ]
-    },
-    "SEDAN DL": {
-      "years": [
-        1981
-      ]
-    },
-    "WAGON DL 4 WD": {
-      "years": [
-        1981
-      ]
-    },
-    "DL 4 WD WAGON": {
-      "years": [
-        1982
-      ]
-    },
-    "DL HD": {
-      "years": [
-        1982
-      ]
-    },
-    "DL SD": {
-      "years": [
-        1982
-      ]
-    },
-    "4WD GL/DL WAGON": {
-      "years": [
-        1988
-      ]
-    },
-    "FWD DL/GL COUPE": {
-      "years": [
-        1988
-      ]
-    },
-    "FWD DL/GL WAGON": {
-      "years": [
-        1989
-      ]
-    },
-    "FWD GL/DL 4 DR SEDAN": {
-      "years": [
-        1989
-      ]
-    }
-  },
-  "GL": {
-    "HATCHBACK GL": {
-      "years": [
-        1981
-      ]
-    },
-    "GL 2 DR HB 4 WD": {
-      "years": [
-        1982
-      ]
-    },
-    "GL 4 DR SD": {
-      "years": [
-        1982
-      ]
-    },
-    "GL WAGON": {
-      "years": [
-        1982
-      ]
-    },
-    "GL 2 WD WAGON": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "GL 4 WD WAGON": {
-      "years": [
-        1985
-      ]
-    },
-    "GL SEDAN": {
-      "years": [
-        1985
-      ]
-    },
-    "HATCHBACK GL 2 DR": {
-      "years": [
-        1985
-      ]
-    },
-    "GL/GL-10 4WD TURBO WAGON": {
-      "years": [
-        1986
-      ]
-    },
-    "GL/GL-10 TURBO SEDAN": {
-      "years": [
-        1986
-      ]
-    },
-    "GL 4WD 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "GL 4WD LIFTBACK 2 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "GL 4WD WAGON": {
-      "years": [
-        1987
-      ]
-    },
-    "4WD GL 4 DR SEDAN": {
-      "years": [
-        1988
-      ]
-    },
-    "FWD GL COUPE": {
-      "years": [
-        1989
-      ]
-    }
-  },
-  "GL-10": {
-    "GL-10 TURBO 4WD 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "GL-10 TURBO 4WD WAGON": {
-      "years": [
-        1987
-      ]
-    },
-    "4WD GL-10 TURBO 4DR SEDAN": {
-      "years": [
-        1988
-      ]
-    },
-    "4WD GL-10 TURBO WAGON": {
-      "years": [
-        1988
-      ]
-    },
-    "FWD GL/DL/GL-10 TURBO SEDAN": {
-      "years": [
-        1988
-      ]
-    },
-    "FWD GL/DL/GL-10 TURBO WAGON": {
-      "years": [
-        1988
-      ]
-    },
-    "4WD GL/GL-10 TURBO 4 DR SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "4WD GL/GL-10 TURBO WAGON": {
-      "years": [
-        1989
-      ]
-    },
-    "FWD GL/GL-10 TURBO SEDAN": {
-      "years": [
-        1989
-      ]
-    }
-  },
-  "RX": {
-    "4WD GL/4WD RX TURBO COUPE": {
-      "years": [
-        1988
-      ]
-    },
-    "4WD GL/4WD RX TURBO COUPE/FWDGL": {
-      "years": [
-        1989
-      ]
-    }
-  },
-  "Standard": {},
-  "GLF": {
-    "SEDAN GL F": {
-      "years": [
-        1981
-      ]
-    },
-    "SUBARU GLF 2 DR": {
-      "years": [
-        1982
-      ]
-    },
-    "GL FWD 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "GL FWD LIFTBACK 2 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "GL FWD WAGON": {
-      "years": [
-        1987
-      ]
-    },
-    "CHASER GL FWD 2 DR HATCHBACK": {
-      "years": [
-        1988
-      ]
-    }
-  },
   "XV CrossTrek": {
     "XV CROSSTREK TOURING/SPORT PACKAGE/LIMITED PA": {
       "years": [
@@ -1319,45 +1357,6 @@
         2016,
         2017,
         2018,
-        2019
-      ]
-    }
-  },
-  "Baja": {
-    "BAJA EXT CAB S/BOX AWD": {
-      "years": [
-        2003,
-        2004,
-        2005
-      ]
-    }
-  },
-  "B9 Tribeca": {
-    "B9 TRIBECA 4DR SUV AWD": {
-      "years": [
-        2006
-      ]
-    },
-    "B9 TRIBECA 4DR SUV AWD /LIMITED": {
-      "years": [
-        2007
-      ]
-    }
-  },
-  "Crosstrek": {},
-  "Ascent": {
-    "ASCENT CONVENIENCE 4DR SUV": {
-      "years": [
-        2019
-      ]
-    },
-    "ASCENT LIMITED / PREMIER 4DR SUV": {
-      "years": [
-        2019
-      ]
-    },
-    "ASCENT TOURING 4DR SUV": {
-      "years": [
         2019
       ]
     }

@@ -1,171 +1,35 @@
 {
-  "RL": {
-    "3.5 RL 4DR SEDAN": {
+  "CL": {
+    "2.2 CL 2DR COUPE": {
+      "years": [
+        1997
+      ]
+    },
+    "3.0 CL 2DR COUPE": {
       "years": [
         1997,
         1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004
+        1999
       ]
     },
-    "RL 4DR SEDAN AWD": {
+    "2.3 CL 2DR COUPE": {
       "years": [
-        2005,
-        2006
-      ]
-    },
-    "RL 4DR SEDAN AWD /ELITE": {
-      "years": [
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
-      ]
-    }
-  },
-  "TL": {
-    "2.5 TL 4DR SEDAN": {
-      "years": [
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "3.2 TL 4DR SEDAN": {
-      "years": [
-        1996,
-        1997,
         1998,
-        1999,
-        2000,
+        1999
+      ]
+    },
+    "3.2 CL 2DR COUPE": {
+      "years": [
         2001,
         2002,
         2003
       ]
     },
-    "3.2 TL 4DR SEDAN TYPE S": {
+    "3.2 CL 2DR COUPE TYPE S": {
       "years": [
+        2001,
         2002,
         2003
-      ]
-    },
-    "TL 4DR SEDAN FWD /DYNAMIC PACK": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "TL 4DR SEDAN FWD /NAVI PACK": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "TL /TYPE-S": {
-      "years": [
-        2007
-      ]
-    },
-    "TL /NAV PACKAGE/TYPE-S": {
-      "years": [
-        2008
-      ]
-    },
-    "TL 4 DR SEDAN NAV/TYPE-S": {
-      "years": [
-        2009
-      ]
-    },
-    "TL 4 DR SEDAN FWD/TECHNOLOGY": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "TL 4 DR SEDAN SH-AWD/SH-AWD TECHNOLOGY": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "TL 4 DR SEDAN FWD/TECH": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "TL 4 DR SEDAN SH-AWD/SH-AWD TECH/SH-AWD ELITE": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    }
-  },
-  "TSX": {
-    "TSX 4DR SEDAN FWD": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "TSX 4DR SEDAN FWD /NAV PACKAGE/TYPE-S": {
-      "years": [
-        2008
-      ]
-    },
-    "TSX 4DR SEDAN FWD TECH PACKAGE/PREMIUM": {
-      "years": [
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "TSX 4DR SEDAN FWD V6": {
-      "years": [
-        2011
-      ]
-    },
-    "TSX 4DR SEDAN FWD V6 TECH": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    }
-  },
-  "RLX": {
-    "RLX 4DR SEDAN": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "RLX 4DR SEDAN - SPORT HYBRID": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "RLX 4DR SEDAN AWD HYBRID": {
-      "years": [
-        2016,
-        2017,
-        2018
       ]
     }
   },
@@ -183,43 +47,6 @@
         2017,
         2018,
         2019
-      ]
-    }
-  },
-  "RSX": {
-    "RSX 2DR COUPE FWD": {
-      "years": [
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "RSX 2DR COUPE FWD PREMIUM": {
-      "years": [
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "RSX 2DR COUPE FWD TYPE S": {
-      "years": [
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "RSX 2DR COUPE FWD /PREMIUM": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "RSX 2DR COUPE FWD /TYPE S": {
-      "years": [
-        2005,
-        2006
       ]
     }
   },
@@ -323,72 +150,6 @@
       ]
     }
   },
-  "CL": {
-    "2.2 CL 2DR COUPE": {
-      "years": [
-        1997
-      ]
-    },
-    "3.0 CL 2DR COUPE": {
-      "years": [
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "2.3 CL 2DR COUPE": {
-      "years": [
-        1998,
-        1999
-      ]
-    },
-    "3.2 CL 2DR COUPE": {
-      "years": [
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "3.2 CL 2DR COUPE TYPE S": {
-      "years": [
-        2001,
-        2002,
-        2003
-      ]
-    }
-  },
-  "NSX": {
-    "NSX": {
-      "years": [
-        1991,
-        1992,
-        1993,
-        1994,
-        1995,
-        2003,
-        2004,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "NSX-T": {
-      "years": [
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001
-      ]
-    },
-    "NSX 2DR TARGA RWD": {
-      "years": [
-        2005
-      ]
-    }
-  },
   "Legend": {
     "LEGEND 4 DR SEDAN": {
       "years": [
@@ -436,97 +197,6 @@
       ]
     }
   },
-  "TLX": {
-    "TLX 4DR SEDAN V6 SH-AWD/Tech/Elite": {
-      "years": [
-        2015
-      ]
-    },
-    "TLX 4DR SEDAN V6/Tech/Elite": {
-      "years": [
-        2015
-      ]
-    },
-    "TLX 4DR SEDAN/Tech": {
-      "years": [
-        2015
-      ]
-    },
-    "TLX 4DR SEDAN FWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "TLX 4DR SEDAN SH-AWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Vigor": {
-    "VIGOR LS/GS 4DR SEDAN": {
-      "years": [
-        1992,
-        1993,
-        1994
-      ]
-    }
-  },
-  "ZDX": {
-    "ZDX 4DR SUV AWD / TECH ELITE": {
-      "years": [
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "ZDX 4DR SUV AWD/TECH ELITE": {
-      "years": [
-        2013
-      ]
-    }
-  },
-  "RDX": {
-    "RDX 4DR SUV AWD /TECHNOLOGY": {
-      "years": [
-        2007
-      ]
-    },
-    "RDX 4DR SUV AWD /TECH PACKAGE": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "RDX 4DR SUV AWD/TECH PACKAGE": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "RDX 4DR SUV AWD": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "RDX 4DR SUV": {
-      "years": [
-        2019
-      ]
-    }
-  },
   "MDX": {
     "MDX": {
       "years": [
@@ -568,5 +238,335 @@
       ]
     }
   },
-  "SLX": {}
+  "NSX": {
+    "NSX": {
+      "years": [
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        2003,
+        2004,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "NSX-T": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
+      ]
+    },
+    "NSX 2DR TARGA RWD": {
+      "years": [
+        2005
+      ]
+    }
+  },
+  "RDX": {
+    "RDX 4DR SUV AWD /TECHNOLOGY": {
+      "years": [
+        2007
+      ]
+    },
+    "RDX 4DR SUV AWD /TECH PACKAGE": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "RDX 4DR SUV AWD/TECH PACKAGE": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "RDX 4DR SUV AWD": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "RDX 4DR SUV": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "RL": {
+    "3.5 RL 4DR SEDAN": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "RL 4DR SEDAN AWD": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "RL 4DR SEDAN AWD /ELITE": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    }
+  },
+  "RLX": {
+    "RLX 4DR SEDAN": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "RLX 4DR SEDAN - SPORT HYBRID": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "RLX 4DR SEDAN AWD HYBRID": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    }
+  },
+  "RSX": {
+    "RSX 2DR COUPE FWD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "RSX 2DR COUPE FWD PREMIUM": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "RSX 2DR COUPE FWD TYPE S": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "RSX 2DR COUPE FWD /PREMIUM": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "RSX 2DR COUPE FWD /TYPE S": {
+      "years": [
+        2005,
+        2006
+      ]
+    }
+  },
+  "SLX": {},
+  "TL": {
+    "2.5 TL 4DR SEDAN": {
+      "years": [
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "3.2 TL 4DR SEDAN": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "3.2 TL 4DR SEDAN TYPE S": {
+      "years": [
+        2002,
+        2003
+      ]
+    },
+    "TL 4DR SEDAN FWD /DYNAMIC PACK": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "TL 4DR SEDAN FWD /NAVI PACK": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "TL /TYPE-S": {
+      "years": [
+        2007
+      ]
+    },
+    "TL /NAV PACKAGE/TYPE-S": {
+      "years": [
+        2008
+      ]
+    },
+    "TL 4 DR SEDAN NAV/TYPE-S": {
+      "years": [
+        2009
+      ]
+    },
+    "TL 4 DR SEDAN FWD/TECHNOLOGY": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "TL 4 DR SEDAN SH-AWD/SH-AWD TECHNOLOGY": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "TL 4 DR SEDAN FWD/TECH": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "TL 4 DR SEDAN SH-AWD/SH-AWD TECH/SH-AWD ELITE": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    }
+  },
+  "TLX": {
+    "TLX 4DR SEDAN V6 SH-AWD/Tech/Elite": {
+      "years": [
+        2015
+      ]
+    },
+    "TLX 4DR SEDAN V6/Tech/Elite": {
+      "years": [
+        2015
+      ]
+    },
+    "TLX 4DR SEDAN/Tech": {
+      "years": [
+        2015
+      ]
+    },
+    "TLX 4DR SEDAN FWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "TLX 4DR SEDAN SH-AWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "TSX": {
+    "TSX 4DR SEDAN FWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "TSX 4DR SEDAN FWD /NAV PACKAGE/TYPE-S": {
+      "years": [
+        2008
+      ]
+    },
+    "TSX 4DR SEDAN FWD TECH PACKAGE/PREMIUM": {
+      "years": [
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "TSX 4DR SEDAN FWD V6": {
+      "years": [
+        2011
+      ]
+    },
+    "TSX 4DR SEDAN FWD V6 TECH": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    }
+  },
+  "Vigor": {
+    "VIGOR LS/GS 4DR SEDAN": {
+      "years": [
+        1992,
+        1993,
+        1994
+      ]
+    }
+  },
+  "ZDX": {
+    "ZDX 4DR SUV AWD / TECH ELITE": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "ZDX 4DR SUV AWD/TECH ELITE": {
+      "years": [
+        2013
+      ]
+    }
+  }
 }

@@ -1,4 +1,135 @@
 {
+  "240 Series": {},
+  "260 Series": {},
+  "740 Series": {},
+  "760 Series": {},
+  "780 Series": {},
+  "850 Series": {},
+  "940 Series": {},
+  "960 Series": {},
+  "C30": {
+    "C30 4DR HATCH FWD 2.4i/T5": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "C30 2DR HATCH T5": {
+      "years": [
+        2011
+      ]
+    },
+    "C30 2DR HATCH T5/R-DESIGN": {
+      "years": [
+        2012,
+        2013
+      ]
+    }
+  },
+  "C70": {
+    "C70 2DR COUPE": {
+      "years": [
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "C70 2DR CONVERTIBLE": {
+      "years": [
+        1998,
+        1999
+      ]
+    },
+    "C70 2DR CONVERTIBLE LPT/HPT": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "C70 2DR COUPE LPT/HPT": {
+      "years": [
+        2000
+      ]
+    },
+    "C70 2DR COUPE HPT": {
+      "years": [
+        2001,
+        2002
+      ]
+    },
+    "C70 2DR CONV FWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "C70 T5 2DR CONV FWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "C70 T5/PREMIER PLUS/PLATINUM 2DR CONV FWD": {
+      "years": [
+        2012,
+        2013
+      ]
+    }
+  },
+  "Cab Over Engine HT": {},
+  "Cab Over Engine LT": {},
+  "Cab Over Engine Prod. Class 03": {},
+  "Cab Over Engine Prod. Class 07": {},
+  "Cab Over Engine Prod. Class 07 (USA)": {},
+  "Cab behind engine": {},
+  "F12 w/F7 Cab": {},
+  "F6 w/F7 Cab": {},
+  "S40": {
+    "S40 4DR SEDAN": {
+      "years": [
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "S40 4DR SEDAN AWD /T5": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "S40 4DR SEDAN FWD /2.4i/T5": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "S40 2.4i 4DR SEDAN FWD": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "S40 T5 4DR SEDAN FWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    }
+  },
   "S60": {
     "S60 4DR SEDAN": {
       "years": [
@@ -89,6 +220,37 @@
         2016,
         2017,
         2018
+      ]
+    }
+  },
+  "S60 Cross Country": {
+    "S60 CROSS COUNTRY 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    }
+  },
+  "S70": {
+    "S70 4DR SEDAN BASE/GLT": {
+      "years": [
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "S70 4DR SEDAN T-5": {
+      "years": [
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "S70 4DR SEDAN AWD": {
+      "years": [
+        1999,
+        2000
       ]
     }
   },
@@ -188,6 +350,75 @@
       ]
     }
   },
+  "S90": {
+    "S90 4DR SEDAN": {
+      "years": [
+        1998
+      ]
+    },
+    "S90 4DR SEDAN T5 AWD": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "S90 4DR SEDAN T5 FWD": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "S90 4DR SEDAN T6 AWD": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "S90 4DR SEDAN T8 eAWD PHEV": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "V40": {
+    "V40 4DR WAGON": {
+      "years": [
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    }
+  },
+  "V50": {
+    "V50 4DR WAGON AWD /T5": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "V50 4DR WAGON FWD /2.4i/T5": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "V50 4DR WAGON FWD 2.4i/T5": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    }
+  },
   "V60": {
     "V60 4DR WAGON T5 AWD": {
       "years": [
@@ -232,224 +463,7 @@
       ]
     }
   },
-  "XC60": {
-    "XC60 4DR 3.2 FWD/AWD SUV": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "XC60 4DR T6 AWD SUV": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "XC60 4DR 3.2 FWD/PREMIER/PLATINUM FWD SUV": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "XC60 4DR T6 AWD/PREMIER/PLATINUM/R-DESIGN AWD": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "XC60 4DR SUV T5 AWD/T6 AWD/T6 R-DESIGN AWD": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "XC60 4DR SUV T5 DRIVE-E/T6 DRIVE-E FWD": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "XC60 4DR SUV T5 AWD": {
-      "years": [
-        2018
-      ]
-    },
-    "XC60 4DR SUV T6 AWD": {
-      "years": [
-        2018
-      ]
-    },
-    "XC60 4DR SUV T8 AWD PHEV": {
-      "years": [
-        2018
-      ]
-    },
-    "XC60 4DR SUV": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "XC70": {
-    "XC70 4DR WAGON AWD": {
-      "years": [
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "XC70 4DR WAGON AWD 3.2/T6": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "XC70 4DR WAGON AWD 3.2/T6/PREMIER/PLATINUM": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "XC70 4DR WAGON T5 DRIVE-E FWD": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "XC70 4DR WAGON T6 AWD": {
-      "years": [
-        2015,
-        2016
-      ]
-    }
-  },
-  "S40": {
-    "S40 4DR SEDAN": {
-      "years": [
-        2001,
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "S40 4DR SEDAN AWD /T5": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "S40 4DR SEDAN FWD /2.4i/T5": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "S40 2.4i 4DR SEDAN FWD": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "S40 T5 4DR SEDAN FWD": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    }
-  },
-  "V50": {
-    "V50 4DR WAGON AWD /T5": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "V50 4DR WAGON FWD /2.4i/T5": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "V50 4DR WAGON FWD 2.4i/T5": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    }
-  },
-  "C70": {
-    "C70 2DR COUPE": {
-      "years": [
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "C70 2DR CONVERTIBLE": {
-      "years": [
-        1998,
-        1999
-      ]
-    },
-    "C70 2DR CONVERTIBLE LPT/HPT": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "C70 2DR COUPE LPT/HPT": {
-      "years": [
-        2000
-      ]
-    },
-    "C70 2DR COUPE HPT": {
-      "years": [
-        2001,
-        2002
-      ]
-    },
-    "C70 2DR CONV FWD": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "C70 T5 2DR CONV FWD": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "C70 T5/PREMIER PLUS/PLATINUM 2DR CONV FWD": {
-      "years": [
-        2012,
-        2013
-      ]
-    }
-  },
+  "V60CC": {},
   "V70": {
     "V70 4DR WAGON BASE/GLT": {
       "years": [
@@ -557,6 +571,133 @@
       ]
     }
   },
+  "V90": {
+    "V90 4DR WAGON": {
+      "years": [
+        1998,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "V90 CROSSCOUNTRY 4DR WAGON": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "V90CC": {},
+  "VS": {},
+  "VT": {},
+  "XC40": {
+    "XC40 4DR SUV": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "XC60": {
+    "XC60 4DR 3.2 FWD/AWD SUV": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "XC60 4DR T6 AWD SUV": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "XC60 4DR 3.2 FWD/PREMIER/PLATINUM FWD SUV": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "XC60 4DR T6 AWD/PREMIER/PLATINUM/R-DESIGN AWD": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "XC60 4DR SUV T5 AWD/T6 AWD/T6 R-DESIGN AWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "XC60 4DR SUV T5 DRIVE-E/T6 DRIVE-E FWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "XC60 4DR SUV T5 AWD": {
+      "years": [
+        2018
+      ]
+    },
+    "XC60 4DR SUV T6 AWD": {
+      "years": [
+        2018
+      ]
+    },
+    "XC60 4DR SUV T8 AWD PHEV": {
+      "years": [
+        2018
+      ]
+    },
+    "XC60 4DR SUV": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "XC70": {
+    "XC70 4DR WAGON AWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "XC70 4DR WAGON AWD 3.2/T6": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "XC70 4DR WAGON AWD 3.2/T6/PREMIER/PLATINUM": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "XC70 4DR WAGON T5 DRIVE-E FWD": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "XC70 4DR WAGON T6 AWD": {
+      "years": [
+        2015,
+        2016
+      ]
+    }
+  },
   "XC90": {
     "XC 90 2.5T/T6": {
       "years": [
@@ -639,146 +780,5 @@
         2019
       ]
     }
-  },
-  "C30": {
-    "C30 4DR HATCH FWD 2.4i/T5": {
-      "years": [
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "C30 2DR HATCH T5": {
-      "years": [
-        2011
-      ]
-    },
-    "C30 2DR HATCH T5/R-DESIGN": {
-      "years": [
-        2012,
-        2013
-      ]
-    }
-  },
-  "940 Series": {},
-  "960 Series": {},
-  "850 Series": {},
-  "V60CC": {},
-  "S60 Cross Country": {
-    "S60 CROSS COUNTRY 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    }
-  },
-  "S90": {
-    "S90 4DR SEDAN": {
-      "years": [
-        1998
-      ]
-    },
-    "S90 4DR SEDAN T5 AWD": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "S90 4DR SEDAN T5 FWD": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "S90 4DR SEDAN T6 AWD": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "S90 4DR SEDAN T8 eAWD PHEV": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "V90": {
-    "V90 4DR WAGON": {
-      "years": [
-        1998,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "V90 CROSSCOUNTRY 4DR WAGON": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "V90CC": {},
-  "240 Series": {},
-  "740 Series": {},
-  "780 Series": {},
-  "760 Series": {},
-  "V40": {
-    "V40 4DR WAGON": {
-      "years": [
-        2001,
-        2002,
-        2003,
-        2004
-      ]
-    }
-  },
-  "S70": {
-    "S70 4DR SEDAN BASE/GLT": {
-      "years": [
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "S70 4DR SEDAN T-5": {
-      "years": [
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "S70 4DR SEDAN AWD": {
-      "years": [
-        1999,
-        2000
-      ]
-    }
-  },
-  "260 Series": {},
-  "XC40": {
-    "XC40 4DR SUV": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "Cab Over Engine HT": {},
-  "Cab Over Engine LT": {},
-  "Cab Over Engine Prod. Class 03": {},
-  "Cab Over Engine Prod. Class 07": {},
-  "F12 w/F7 Cab": {},
-  "F6 w/F7 Cab": {},
-  "Cab Over Engine Prod. Class 07 (USA)": {},
-  "Cab behind engine": {},
-  "VT": {},
-  "VS": {}
+  }
 }

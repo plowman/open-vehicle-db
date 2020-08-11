@@ -1,4 +1,358 @@
 {
+  "Amanti": {
+    "AMANTI 4DR SEDAN FWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2008,
+        2009
+      ]
+    },
+    "AMANTI 4DR SEDAN FWD /BASE": {
+      "years": [
+        2007
+      ]
+    },
+    "AMANTI 4DR SEDAN FWD /LUXURY": {
+      "years": [
+        2007
+      ]
+    }
+  },
+  "Borrego": {
+    "BORREGO 4DR SUV 4WD LX-V6/LX-V8": {
+      "years": [
+        2009
+      ]
+    },
+    "BORREGO 4DR SUV 4WD LX-V6": {
+      "years": [
+        2010
+      ]
+    },
+    "BORREGO 4DR SUV 4WD LX-V8": {
+      "years": [
+        2010
+      ]
+    },
+    "BORREGO 4DR SUV 4WD LX-V6/EX-V6 LUXURY": {
+      "years": [
+        2011
+      ]
+    },
+    "BORREGO 4DR SUV 4WD LX-V8/EX-V8 LUXURY": {
+      "years": [
+        2011
+      ]
+    }
+  },
+  "Cadenza": {
+    "CADENZA 4DR SEDAN": {
+      "years": [
+        2014
+      ]
+    },
+    "CADENZA /PREMIUM 4DR SEDAN": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "CADENZA 4DR SEDAN BASE/PREMIUM": {
+      "years": [
+        2017,
+        2018
+      ]
+    },
+    "CADENZA 4DR SEDAN LIMITED": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "CADENZA 4DR SEDAN PREMIUM": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "Forte": {
+    "FORTE 4DR SEDAN LX/EX": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "FORTE 4DR SEDAN SX": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "FORTE5 4 DR HATCHBACK LX/EX": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "FORTE5 4 DR HATCHBACK SX": {
+      "years": [
+        2011,
+        2014
+      ]
+    },
+    "FORTE 4DR SEDAN SX/SX LUXURY": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "FORTE5 4 DR HATCHBACK SX/SX LUXURY": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "FORTE 4DR SEDAN EX/SX": {
+      "years": [
+        2014
+      ]
+    },
+    "FORTE 4DR SEDAN LX": {
+      "years": [
+        2014
+      ]
+    },
+    "FORTE5 4 DR HATCHBACK EX": {
+      "years": [
+        2014
+      ]
+    },
+    "FORTE EX/SX 4DR SEDAN": {
+      "years": [
+        2015
+      ]
+    },
+    "FORTE LX 4DR SEDAN": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "FORTE5 LX/EX 4DR HATCHBACK": {
+      "years": [
+        2015
+      ]
+    },
+    "FORTE5 SX/SX LUXURY 4DR HATCHBACK": {
+      "years": [
+        2015
+      ]
+    },
+    "FORTE 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "FORTE5 LX/EX 5DR HATCHBACK": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "FORTE5 SX/SX LUXURY 5DR HATCHBACK": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "FORTE5 5DR HATCH": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "Forte Koup": {
+    "FORTE KOUP EX 2DR COUPE": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "FORTE KOUP SX 2DR COUPE": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "FORTE KOUP SX 2DR COUPE /SX LUXURY": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "FORTE KOUPE EX": {
+      "years": [
+        2014
+      ]
+    },
+    "FORTE KOUPE SX": {
+      "years": [
+        2014
+      ]
+    },
+    "FORTE KOUPE EX 2DR COUPE": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "FORTE KOUPE SX/SX LUXURY 2DR COUPE": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    }
+  },
+  "K5": {},
+  "K900": {
+    "K900 V6 4DR SEDAN": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "K900 V8 ELITE 4DR SEDAN": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    }
+  },
+  "Niro": {
+    "NIRO": {
+      "years": [
+        2017
+      ]
+    },
+    "NIRO 4DR SUV HYBRID": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "NIRO PHEV 4DR SUV HYBRID": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "Optima": {
+    "OPTIMA 4DR SEDAN HYBRID/HYBRID PREMIUM": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "OPTIMA 4DR SEDAN LX/EX/EX LUXURY": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "OPTIMA 4DR SEDAN SX": {
+      "years": [
+        2012
+      ]
+    },
+    "OPTIMA 4DR SEDAN EX TURBO/SX": {
+      "years": [
+        2013
+      ]
+    },
+    "OPTIMA 4DR SEDAN LX/EX/SX": {
+      "years": [
+        2014
+      ]
+    },
+    "OPTIMA 4DR SEDAN SX TURBO": {
+      "years": [
+        2014
+      ]
+    },
+    "OPTIMA HYBRID LX/EX/EX PREMIUM 4DR SEDAN": {
+      "years": [
+        2015
+      ]
+    },
+    "OPTIMA LX/EX/SX 4DR SEDAN": {
+      "years": [
+        2015
+      ]
+    },
+    "OPTIMA SX TURBO 4DR SEDAN": {
+      "years": [
+        2015
+      ]
+    },
+    "OPTIMA LX/LX+/EX/LX ECO TURBO 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "OPTIMA SX/SXL 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "OPTIMA HYBRID 4DR SEDAN": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "OPTIMA PHEV 4DR SEDAN": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "OPTIMA LX/LX+/EX/EX TECH 4DR SEDAN": {
+      "years": [
+        2019
+      ]
+    }
+  },
   "Rio": {
     "RIO 4DR SEDAN S/RS/LS": {
       "years": [
@@ -118,139 +472,6 @@
       ]
     }
   },
-  "Borrego": {
-    "BORREGO 4DR SUV 4WD LX-V6/LX-V8": {
-      "years": [
-        2009
-      ]
-    },
-    "BORREGO 4DR SUV 4WD LX-V6": {
-      "years": [
-        2010
-      ]
-    },
-    "BORREGO 4DR SUV 4WD LX-V8": {
-      "years": [
-        2010
-      ]
-    },
-    "BORREGO 4DR SUV 4WD LX-V6/EX-V6 LUXURY": {
-      "years": [
-        2011
-      ]
-    },
-    "BORREGO 4DR SUV 4WD LX-V8/EX-V8 LUXURY": {
-      "years": [
-        2011
-      ]
-    }
-  },
-  "Forte": {
-    "FORTE 4DR SEDAN LX/EX": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "FORTE 4DR SEDAN SX": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "FORTE5 4 DR HATCHBACK LX/EX": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "FORTE5 4 DR HATCHBACK SX": {
-      "years": [
-        2011,
-        2014
-      ]
-    },
-    "FORTE 4DR SEDAN SX/SX LUXURY": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "FORTE5 4 DR HATCHBACK SX/SX LUXURY": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "FORTE 4DR SEDAN EX/SX": {
-      "years": [
-        2014
-      ]
-    },
-    "FORTE 4DR SEDAN LX": {
-      "years": [
-        2014
-      ]
-    },
-    "FORTE5 4 DR HATCHBACK EX": {
-      "years": [
-        2014
-      ]
-    },
-    "FORTE EX/SX 4DR SEDAN": {
-      "years": [
-        2015
-      ]
-    },
-    "FORTE LX 4DR SEDAN": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "FORTE5 LX/EX 4DR HATCHBACK": {
-      "years": [
-        2015
-      ]
-    },
-    "FORTE5 SX/SX LUXURY 4DR HATCHBACK": {
-      "years": [
-        2015
-      ]
-    },
-    "FORTE 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "FORTE5 LX/EX 5DR HATCHBACK": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "FORTE5 SX/SX LUXURY 5DR HATCHBACK": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "FORTE5 5DR HATCH": {
-      "years": [
-        2019
-      ]
-    }
-  },
   "Rondo": {
     "RONDO 4DR WAGON FWD EX-V6/EX-V6 LUXURY": {
       "years": [
@@ -290,90 +511,6 @@
         2016,
         2017,
         2018
-      ]
-    }
-  },
-  "Optima": {
-    "OPTIMA 4DR SEDAN HYBRID/HYBRID PREMIUM": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "OPTIMA 4DR SEDAN LX/EX/EX LUXURY": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "OPTIMA 4DR SEDAN SX": {
-      "years": [
-        2012
-      ]
-    },
-    "OPTIMA 4DR SEDAN EX TURBO/SX": {
-      "years": [
-        2013
-      ]
-    },
-    "OPTIMA 4DR SEDAN LX/EX/SX": {
-      "years": [
-        2014
-      ]
-    },
-    "OPTIMA 4DR SEDAN SX TURBO": {
-      "years": [
-        2014
-      ]
-    },
-    "OPTIMA HYBRID LX/EX/EX PREMIUM 4DR SEDAN": {
-      "years": [
-        2015
-      ]
-    },
-    "OPTIMA LX/EX/SX 4DR SEDAN": {
-      "years": [
-        2015
-      ]
-    },
-    "OPTIMA SX TURBO 4DR SEDAN": {
-      "years": [
-        2015
-      ]
-    },
-    "OPTIMA LX/LX+/EX/LX ECO TURBO 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "OPTIMA SX/SXL 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "OPTIMA HYBRID 4DR SEDAN": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "OPTIMA PHEV 4DR SEDAN": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "OPTIMA LX/LX+/EX/EX TECH 4DR SEDAN": {
-      "years": [
-        2019
       ]
     }
   },
@@ -457,6 +594,20 @@
       ]
     }
   },
+  "Seltos": {},
+  "Sephia": {
+    "SEPHIA 4DR SEDAN BASE/LS": {
+      "years": [
+        2000
+      ]
+    },
+    "SEPHIA 4DR SEDAN L/LS": {
+      "years": [
+        2001
+      ]
+    }
+  },
+  "Sephia II/Spectra": {},
   "Sorento": {
     "SORENTO EX/EX Luxury 4DR SUV 4WD": {
       "years": [
@@ -587,6 +738,155 @@
       ]
     }
   },
+  "Soul": {
+    "SOUL 1.6L": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "SOUL 2.0L": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "SOUL 2.0L 2U/4U/4U RETRO/4U BURNER/4U LUXURY": {
+      "years": [
+        2012
+      ]
+    },
+    "SOUL 2.0L 2U/4U/4U LUXURY": {
+      "years": [
+        2013
+      ]
+    },
+    "SOUL EX/SX": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "SOUL LX": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "SOUL EX": {
+      "years": [
+        2019
+      ]
+    },
+    "SOUL SX": {
+      "years": [
+        2019
+      ]
+    },
+    "SOUL 5DR HATCH": {
+      "years": [
+        2020
+      ]
+    }
+  },
+  "Soul EV": {
+    "SOUL EV/EV LUXURY": {
+      "years": [
+        2015
+      ]
+    },
+    "SOUL EV": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Spectra": {
+    "SPECTRA 4DR SEDAN FWD": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "SPECTRA GSX 4DR HATCH FWD": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "SPECTRA LS 4DR SEDAN FWD": {
+      "years": [
+        2002
+      ]
+    },
+    "SPECTRA RS/LS 4DR SEDAN FWD": {
+      "years": [
+        2003,
+        2004
+      ]
+    },
+    "SPECTRA 4DR SEDAN FWD /LX": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "SPECTRA5 5DR HATCH FWD": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "SPECTRA 4DR SEDAN FWD /LX CONV/EX": {
+      "years": [
+        2006
+      ]
+    },
+    "SPECTRA 4DR SEDAN FWD /LX CONV/LX PREMIUM": {
+      "years": [
+        2007
+      ]
+    },
+    "SPECTRA5 4DR HATCH FWD /LX/LX CONVENIENCE": {
+      "years": [
+        2007
+      ]
+    },
+    "SPECTRA 4DR SEDAN FWD LX": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "SPECTRA 4DR SEDAN FWD LX CONV/LX PREMIUM": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "SPECTRA5 4DR HATCH FWD LX/LX CONV/SX": {
+      "years": [
+        2008,
+        2009
+      ]
+    }
+  },
+  "Spectra LD": {},
   "Sportage": {
     "SPORTAGE 4DR AWD BASE/EX": {
       "years": [
@@ -701,211 +1001,6 @@
       ]
     }
   },
-  "Cadenza": {
-    "CADENZA 4DR SEDAN": {
-      "years": [
-        2014
-      ]
-    },
-    "CADENZA /PREMIUM 4DR SEDAN": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "CADENZA 4DR SEDAN BASE/PREMIUM": {
-      "years": [
-        2017,
-        2018
-      ]
-    },
-    "CADENZA 4DR SEDAN LIMITED": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "CADENZA 4DR SEDAN PREMIUM": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "K900": {
-    "K900 V6 4DR SEDAN": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "K900 V8 ELITE 4DR SEDAN": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    }
-  },
-  "Sephia": {
-    "SEPHIA 4DR SEDAN BASE/LS": {
-      "years": [
-        2000
-      ]
-    },
-    "SEPHIA 4DR SEDAN L/LS": {
-      "years": [
-        2001
-      ]
-    }
-  },
-  "Spectra": {
-    "SPECTRA 4DR SEDAN FWD": {
-      "years": [
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "SPECTRA GSX 4DR HATCH FWD": {
-      "years": [
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "SPECTRA LS 4DR SEDAN FWD": {
-      "years": [
-        2002
-      ]
-    },
-    "SPECTRA RS/LS 4DR SEDAN FWD": {
-      "years": [
-        2003,
-        2004
-      ]
-    },
-    "SPECTRA 4DR SEDAN FWD /LX": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "SPECTRA5 5DR HATCH FWD": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "SPECTRA 4DR SEDAN FWD /LX CONV/EX": {
-      "years": [
-        2006
-      ]
-    },
-    "SPECTRA 4DR SEDAN FWD /LX CONV/LX PREMIUM": {
-      "years": [
-        2007
-      ]
-    },
-    "SPECTRA5 4DR HATCH FWD /LX/LX CONVENIENCE": {
-      "years": [
-        2007
-      ]
-    },
-    "SPECTRA 4DR SEDAN FWD LX": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "SPECTRA 4DR SEDAN FWD LX CONV/LX PREMIUM": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "SPECTRA5 4DR HATCH FWD LX/LX CONV/SX": {
-      "years": [
-        2008,
-        2009
-      ]
-    }
-  },
-  "Amanti": {
-    "AMANTI 4DR SEDAN FWD": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2008,
-        2009
-      ]
-    },
-    "AMANTI 4DR SEDAN FWD /BASE": {
-      "years": [
-        2007
-      ]
-    },
-    "AMANTI 4DR SEDAN FWD /LUXURY": {
-      "years": [
-        2007
-      ]
-    }
-  },
-  "Spectra LD": {},
-  "Sephia II/Spectra": {},
-  "Forte Koup": {
-    "FORTE KOUP EX 2DR COUPE": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "FORTE KOUP SX 2DR COUPE": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "FORTE KOUP SX 2DR COUPE /SX LUXURY": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "FORTE KOUPE EX": {
-      "years": [
-        2014
-      ]
-    },
-    "FORTE KOUPE SX": {
-      "years": [
-        2014
-      ]
-    },
-    "FORTE KOUPE EX 2DR COUPE": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "FORTE KOUPE SX/SX LUXURY 2DR COUPE": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    }
-  },
   "Stinger": {
     "STINGER 4DR SEDAN": {
       "years": [
@@ -923,106 +1018,11 @@
       ]
     }
   },
-  "K5": {},
-  "Soul": {
-    "SOUL 1.6L": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "SOUL 2.0L": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "SOUL 2.0L 2U/4U/4U RETRO/4U BURNER/4U LUXURY": {
-      "years": [
-        2012
-      ]
-    },
-    "SOUL 2.0L 2U/4U/4U LUXURY": {
-      "years": [
-        2013
-      ]
-    },
-    "SOUL EX/SX": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "SOUL LX": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "SOUL EX": {
-      "years": [
-        2019
-      ]
-    },
-    "SOUL SX": {
-      "years": [
-        2019
-      ]
-    },
-    "SOUL 5DR HATCH": {
-      "years": [
-        2020
-      ]
-    }
-  },
-  "Soul EV": {
-    "SOUL EV/EV LUXURY": {
-      "years": [
-        2015
-      ]
-    },
-    "SOUL EV": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Niro": {
-    "NIRO": {
-      "years": [
-        2017
-      ]
-    },
-    "NIRO 4DR SUV HYBRID": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "NIRO PHEV 4DR SUV HYBRID": {
-      "years": [
-        2019
-      ]
-    }
-  },
   "Telluride": {
     "TELLURIDE 4DR SUV": {
       "years": [
         2020
       ]
     }
-  },
-  "Seltos": {}
+  }
 }

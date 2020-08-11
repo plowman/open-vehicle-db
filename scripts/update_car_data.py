@@ -1,6 +1,7 @@
 import json
 import os
 import sys
+from collections import OrderedDict
 from datetime import datetime
 
 import re
@@ -91,7 +92,7 @@ def _get_model_dict(raw_model, vehicle_type=None):
     "model_name": raw_model["Model_Name"].strip(),
     "vehicle_type": vehicle_type,
     "years": [],
-    "model_styles": {},
+    "model_styles": OrderedDict(),
   }
 
 
@@ -418,8 +419,8 @@ def update_styles():
   all_orphaned_styles = {}
 
   for count, make in enumerate(all_makes):
-    if make['make_name'] != 'BMW':
-      continue
+    # if make['make_name'] != 'BMW':
+    #   continue
     print("Cool starting stuff now...")
     model_choices = make["models"].keys()
     all_orphaned_styles[make["make_name"]] = {
@@ -448,9 +449,9 @@ def update_styles():
 
     print(f"Found orphans for make {make['make_name']}: \n {all_orphaned_styles[make['make_name']]}")
 
-    style_data = {}
-    for model_key, model_data in make["models"].items():
-      style_data[model_key] = model_data["model_styles"]
+    style_data = OrderedDict()
+    for model_key in sorted(make["models"]):
+      style_data[model_key] = OrderedDict(make["models"][model_key]["model_styles"])
     persist_json_file(style_data, "data", "styles", make["make_slug"] + ".json")
 
   print("ALL MODELS WE COULD NOT FIND:")

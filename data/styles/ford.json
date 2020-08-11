@@ -1,4 +1,339 @@
 {
+  "'34": {},
+  "A8513": {},
+  "A9513": {},
+  "A9522": {},
+  "AT8513": {},
+  "AT9513": {},
+  "AT9522": {},
+  "Aerostar": {
+    "AEROSTAR WAGON": {
+      "years": [
+        1985,
+        1986,
+        1989,
+        1990
+      ]
+    },
+    "AEROSTAR WAGON (VAN)": {
+      "years": [
+        1987
+      ]
+    },
+    "AEROSTAR VAN": {
+      "years": [
+        1988
+      ]
+    },
+    "AEROSTAR XL/XLT WAGON": {
+      "years": [
+        1988
+      ]
+    },
+    "AEROSTAR CARGO VAN": {
+      "years": [
+        1989,
+        1990,
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "AEROSTAR EXTENDED LENGTH CARGO VAN": {
+      "years": [
+        1989,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "AEROSTAR EXTENDED LENTH WAGON": {
+      "years": [
+        1989
+      ]
+    },
+    "AEROSTAR EXTENDED LENGTH WAGON": {
+      "years": [
+        1990
+      ]
+    },
+    "AEROSTAR EXTENDED LENGTH WAGON 4x4": {
+      "years": [
+        1990
+      ]
+    },
+    "AEROSTAR WAGON 4x4": {
+      "years": [
+        1990
+      ]
+    },
+    "AEROSTAR CARGO VAN 2WD": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "AEROSTAR CARGO VAN 4WD": {
+      "years": [
+        1991,
+        1993
+      ]
+    },
+    "AEROSTAR EXTENDED LENGTH WAGON 2WD": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "AEROSTAR EXTENDED LENGTH WAGON 4WD": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "AEROSTAR WAGON 2WD": {
+      "years": [
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "AEROSTAR WAGON 4WD": {
+      "years": [
+        1991,
+        1992,
+        1993,
+        1994
+      ]
+    },
+    "AEROSTAR CARGO VAN AWD": {
+      "years": [
+        1992
+      ]
+    },
+    "AEROSTAR CARGO VAN EXTENDED LENGTH": {
+      "years": [
+        1994
+      ]
+    },
+    "AEROSTAR WAGON EXTENDED LENGTH 2WD": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "AEROSTAR WAGON EXTENDED LENGTH 4WD": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    }
+  },
+  "Aspire": {
+    "ASPIRE 2DR HATCHBACK": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "ASPIRE 4DR HATCHBACK": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    }
+  },
+  "B-750": {},
+  "B600": {},
+  "B6000": {},
+  "B700": {},
+  "B7000": {},
+  "B800": {},
+  "Bronco": {
+    "BRONCO": {
+      "years": [
+        1981,
+        1982,
+        1985,
+        1986
+      ]
+    },
+    "BRONCO 4X4": {
+      "years": [
+        1987,
+        1988,
+        1989,
+        1991
+      ]
+    },
+    "BRONCO 4x4": {
+      "years": [
+        1990,
+        1992
+      ]
+    },
+    "BRONCO CUSTOM/XLT/EDDIE BAUER 2DR 4x4": {
+      "years": [
+        1993
+      ]
+    },
+    "BRONCO 2DR 4X4 XL/XLT/EDDIE BAUER": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    }
+  },
+  "Bronco II": {
+    "BRONCO II": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "BRONCO II 4 X 2": {
+      "years": [
+        1987
+      ]
+    },
+    "BRONCO II 4 X 4": {
+      "years": [
+        1987
+      ]
+    },
+    "BRONCO II 4X2": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "BRONCO II 4X4": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "BRONCO II 4x2": {
+      "years": [
+        1990
+      ]
+    },
+    "BRONCO II 4x4": {
+      "years": [
+        1990
+      ]
+    }
+  },
+  "Bronco Sport": {},
+  "C-max": {
+    "C-MAX ENERGI 4DR HATCHBACK": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "C-MAX HYBRID 4DR HATCHBACK": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    }
+  },
+  "C600": {},
+  "C700": {},
+  "C7000": {},
+  "C800": {},
+  "C8000": {},
+  "CF6000": {},
+  "CF7000": {},
+  "CF8000": {},
+  "CFT8000": {},
+  "CL9000": {},
+  "CLT9000": {},
+  "CT800": {},
+  "CT8000": {},
+  "Contour": {
+    "CONTOUR 4DR SEDAN GL/LX": {
+      "years": [
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "CONTOUR 4DR SEDAN SE": {
+      "years": [
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "CONTOUR 4DR SEDAN LX": {
+      "years": [
+        1998,
+        1999
+      ]
+    },
+    "CONTOUR 4DR SEDAN SE V6": {
+      "years": [
+        1998,
+        1999
+      ]
+    },
+    "CONTOUR 4DR SEDAN SVT": {
+      "years": [
+        1998,
+        1999
+      ]
+    }
+  },
+  "Courier": {
+    "COURIER PICKUP": {
+      "years": [
+        1981
+      ]
+    },
+    "COURIER PICKUP LONG WB": {
+      "years": [
+        1981
+      ]
+    },
+    "COURIER LONG": {
+      "years": [
+        1982
+      ]
+    },
+    "COURIER SHORT": {
+      "years": [
+        1982
+      ]
+    }
+  },
   "Crown Victoria": {
     "CROWN VICTORIA S/BASE/LX 4DR SEDAN": {
       "years": [
@@ -45,553 +380,121 @@
       ]
     }
   },
-  "Focus": {
-    "FOCUS 2DR HATCHBACK ZX3": {
+  "E-100": {
+    "E 100": {
       "years": [
-        2000,
-        2001,
-        2002
+        1981,
+        1981
       ]
     },
-    "FOCUS 4DR SEDAN LX/SE/ZTS": {
+    "E100": {
       "years": [
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "FOCUS 4DR WAGON SE": {
-      "years": [
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "FOCUS ZX5 4DR HATCH FWD": {
-      "years": [
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "FOCUS 4DR SEDAN LX/SE/SE SPORT/ZTS": {
-      "years": [
-        2003,
-        2004,
-        2005
-      ]
-    },
-    "FOCUS 4DR WAGON SE/SE SPORT/ZTW": {
-      "years": [
-        2003,
-        2004,
-        2005
-      ]
-    },
-    "FOCUS ZX3 2DR HATCH FWD": {
-      "years": [
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "FOCUS ZX3 SVT 3DR HATCH FWD": {
-      "years": [
-        2003,
-        2004
-      ]
-    },
-    "FOCUS ZX5 SVT 5DR HATCH FWD": {
-      "years": [
-        2003,
-        2004
-      ]
-    },
-    "FOCUS ZX4 4DR SEDAN FWD": {
-      "years": [
-        2006
-      ]
-    },
-    "FOCUS ZXW 4DR WAGON FWD": {
-      "years": [
-        2006
-      ]
-    },
-    "FOCUS 2DR HATCH FWD S/SE": {
-      "years": [
-        2007
-      ]
-    },
-    "FOCUS 4DR HATCH FWD": {
-      "years": [
-        2007
-      ]
-    },
-    "FOCUS 4DR SEDAN FWD S/SE/SES/ST": {
-      "years": [
-        2007
-      ]
-    },
-    "FOCUS 4DR WAGON FWD SE/SES": {
-      "years": [
-        2007
-      ]
-    },
-    "FOCUS 2DR COUPE FWD S/SE/SES": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "FOCUS 4DR SEDAN FWD S/SE/SES": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "FOCUS 2DR COUPE FWD  SE/SES": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "FOCUS 4DR HATCHBACK SE/SEL/TITANIUM": {
-      "years": [
-        2012
-      ]
-    },
-    "FOCUS 4DR SEDAN S/SE/SEL/TITANIUM": {
-      "years": [
-        2012
-      ]
-    },
-    "FOCUS 4DR HATCHBACK SE/TITANIUM": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "FOCUS 4DR SEDAN S/SE/TITANIUM": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "FOCUS ELECTRIC 4D HATCHBACK": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "FOCUS ST 4DR HATCHBACK": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "FOCUS ST/RS 4DR HATCHBACK": {
-      "years": [
-        2016,
-        2017,
-        2018
+        1982
       ]
     }
   },
-  "Fusion": {
-    "FUSION I4 4DR SEDAN /SE/SEL": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "FUSION V6 4DR SEDAN /SE/SEL": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "FUSION SE/SEL 4DR SEDAN 2.3L V4": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "FUSION SEL V6 4DR SEDAN 3.0L V6": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "FUSION S/SE/SEL 4CYL 4DR SEDAN": {
-      "years": [
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "FUSION SEL AWD / SPORT / HYBRID 4DR SEDAN": {
-      "years": [
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "FUSION SEL V6 4DR SEDAN": {
-      "years": [
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "FUSION 4DR SEDAN ENERGI SE/ENERGI TITANIUM": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "FUSION 4DR SEDAN HYBRID/TITANIUM/HYBRID TITAN": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "FUSION 4DR SEDAN S/SE": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "FUSION 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "FUSION 4DR SEDAN ENERGI PHEV": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "FUSION 4DR SEDAN HYBRID": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Mustang": {
-    "MUSTANG 2 DR HB": {
+  "E-150": {
+    "E 150": {
       "years": [
         1981,
+        1981
+      ]
+    },
+    "E150": {
+      "years": [
+        1982,
         1982
       ]
     },
-    "MUSTANG 2 DR SD": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "MUSTANG COBRA GT CONVERTIBLE": {
-      "years": [
-        1985,
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "MUSTANG COBRA GT HATCHBACK": {
-      "years": [
-        1985
-      ]
-    },
-    "MUSTANG LX 2 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "MUSTANG LX CONVERTIBLE": {
+    "E-150 CLUB WAGON": {
       "years": [
         1985,
         1986,
         1987,
-        1988
-      ]
-    },
-    "MUSTANG LX HATCHBACK": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "MUSTANG SVO": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "MUSTANG GT CONVERTIBLE": {
-      "years": [
-        1986
-      ]
-    },
-    "MUSTANG GT HATCHBACK": {
-      "years": [
-        1986
-      ]
-    },
-    "MUSTANG COBRA GT 2 DR HATCHBACK": {
-      "years": [
-        1987,
         1988,
-        1989
-      ]
-    },
-    "MUSTANG LX 2 DR COUPE": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "MUSTANG LX 2 DR HATCHBACK": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "MUSTANG LX 2 DR HATCHBACK/LX 5.0L": {
-      "years": [
-        1989
-      ]
-    },
-    "MUSTANG LX CONVERTIBLE/LX 5.0L": {
-      "years": [
-        1989
-      ]
-    },
-    "MUSTANG LX/LX 5.0L 2DR COUPE": {
-      "years": [
+        1989,
         1990,
         1991,
         1992,
-        1993
-      ]
-    },
-    "MUSTANG LX/LX 5.0L/COBRA GT 2DR HTCHBACK": {
-      "years": [
-        1990
-      ]
-    },
-    "MUSTANG LX/LX 5.0L/COBRA GT CONVERTIBLE": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "MUSTANG LX/LX 5.0L/GT 2DR HTCHBACK": {
-      "years": [
-        1991,
-        1992
-      ]
-    },
-    "MUSTANG LX/LX 5.0L/COBRA GT 2DR HATCHBAC": {
-      "years": [
-        1993
-      ]
-    },
-    "MUSTANG 2DR CONVERTIBLE BASE/GT": {
-      "years": [
-        1994
-      ]
-    },
-    "MUSTANG 2DR COUPE BASE/GT": {
-      "years": [
-        1994
-      ]
-    },
-    "MUSTANG 2DR CONVERTIBLE BASE": {
-      "years": [
+        1993,
+        1994,
         1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "MUSTANG 2DR CONVERTIBLE GT": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "MUSTANG 2DR COUPE BASE": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "MUSTANG 2DR COUPE GT": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "MUSTANG COBRA": {
-      "years": [
         1996
       ]
     },
-    "MUSTANG 2DR COUPE COBRA": {
+    "E-150 ECONOLINE SUPER VAN LONG WB.": {
       "years": [
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "E-150 ECONOLINE VAN LONG WB.": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "E-150 ECONOLINE VAN SHORT WB.": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "E-150 ECONOLINE SUPER VAN": {
+      "years": [
+        1991
+      ]
+    },
+    "E-150 ECONOLINE VAN": {
+      "years": [
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
         1997,
         1998,
         1999,
         2000,
-        2001
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
       ]
     },
-    "MUSTANG 2DR CONVERTIBLE COBRA": {
+    "E-150 CLUB WAGON XL": {
       "years": [
-        1998,
+        1997,
+        1998
+      ]
+    },
+    "E-150 ECONOLINE WAGON XL/XLT": {
+      "years": [
         1999,
         2000,
-        2001
+        2001,
+        2002
       ]
     },
-    "MUSTANG 2DR COUPE GT/MACH 1": {
+    "E-150 ECONOLINE WAGON": {
       "years": [
-        2003
-      ]
-    },
-    "MUSTANG COBRA 2DR CONV RWD": {
-      "years": [
-        2003
-      ]
-    },
-    "MUSTANG COBRA 2DR COUPE RWD": {
-      "years": [
-        2003
-      ]
-    },
-    "MUSTANG 2DR COUPE RWD": {
-      "years": [
+        2003,
         2004,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "MUSTANG 2DR COUPE RWD /GT": {
-      "years": [
-        2004
-      ]
-    },
-    "MUSTANG 2DR COUPE RWD /MACH 1": {
-      "years": [
-        2004
-      ]
-    },
-    "MUSTANG SVT COBRA 2DR CONV RWD": {
-      "years": [
-        2004
-      ]
-    },
-    "MUSTANG SVT COBRA 2DR COUPE RWD": {
-      "years": [
-        2004
-      ]
-    },
-    "MUSTANG 2DR CONVERTIBLE": {
-      "years": [
-        2005
-      ]
-    },
-    "MUSTANG 2DR COUPE": {
-      "years": [
-        2005
-      ]
-    },
-    "MUSTANG GT 2DR COUPE": {
-      "years": [
         2005,
-        2018,
-        2019
-      ]
-    },
-    "MUSTANG 2DR CONVERTIBLE RWD": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "MUSTANG GT 2DR CONVERTIBLE RWD": {
-      "years": [
         2006,
         2007,
         2008,
@@ -600,500 +503,519 @@
         2011,
         2012,
         2013,
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "MUSTANG GT 2DR COUPE RWD": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "MUSTANG 2DR CONVERTIBLE RWD/V6 PREMIUM": {
-      "years": [
-        2012,
-        2013,
         2014
       ]
     },
-    "MUSTANG 2DR COUPE RWD/V6 PREMIUM": {
+    "E-150 ECONOLINE VAN EXTENDED": {
       "years": [
-        2012,
         2013,
         2014
-      ]
-    },
-    "MUSTANG GT 2DR COUPE RWD/BOSS 302": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "MUSTANG V6/ECOBOOST 2DR CONVERTIBLE RWD": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "MUSTANG V6/ECOBOOST 2DR COUPE RWD": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "MUSTANG GT350 2DR COUPE RWD": {
-      "years": [
-        2017
-      ]
-    },
-    "MUSTANG ECOBOOST 2DR CONVERTIBLE": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "MUSTANG ECOBOOST 2DR COUPE": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "MUSTANG GT 2DR CONVERTIBLE": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "MUSTANG GT350/350R 2DR COUPE": {
-      "years": [
-        2018,
-        2019
       ]
     }
   },
-  "Taurus": {
-    "TAURUS MT-5/GL/LX WAGON": {
+  "E-250": {
+    "E 250": {
       "years": [
-        1986
+        1981,
+        1981
       ]
     },
-    "TAURUS T/MT-5/GL/LX SEDAN (4-DR)": {
+    "E250": {
       "years": [
-        1986
+        1982,
+        1982
       ]
     },
-    "TAURUS L/GL/MT-5/LX 4 DR SEDAN": {
+    "E-250 CLUB WAGON": {
       "years": [
         1987,
-        1988
+        1988,
+        1989,
+        1990,
+        1991
       ]
     },
-    "TAURUS L/GL/MT-5/LX 4 DR WAGON": {
-      "years": [
-        1987
-      ]
-    },
-    "TAURUS L/GL/LX WAGON": {
+    "E-250 ECONOLINE SUPER VAN": {
       "years": [
         1988,
         1989,
         1990,
         1991,
         1992,
-        1993
-      ]
-    },
-    "TAURUS L/GL/LX 4 DR SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "TAURUS SHO SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "TAURUS L/GL/LX 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "TAURUS SHO 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "TAURUS 4DR SEDAN GL/LX": {
-      "years": [
+        1993,
         1994,
-        1997
+        1995,
+        1996,
+        1997,
+        1998
       ]
     },
-    "TAURUS 4DR SEDAN SHO": {
+    "E-250 ECONOLINE VAN": {
       "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993,
         1994,
         1995,
         1996,
         1997,
         1998,
-        1999
-      ]
-    },
-    "TAURUS 4DR WAGON GL/LX": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "TAURUS 4DR SEDAN GL/LX/SE": {
-      "years": [
-        1995,
-        1996
-      ]
-    },
-    "TAURUS 4DR SEDAN LX/SE": {
-      "years": [
-        1998,
-        1999
-      ]
-    },
-    "TAURUS 4DR WAGON SE": {
-      "years": [
-        1998,
-        1999
-      ]
-    },
-    "TAURUS 4DR SEDAN LX/SE/SEL": {
-      "years": [
+        1999,
         2000,
         2001,
-        2002,
-        2004
-      ]
-    },
-    "TAURUS 4DR WAGON SE/SEL": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2004
-      ]
-    },
-    "TAURUS 4DR SEDAN LX/SE/SEL/SEL PREMIUM": {
-      "years": [
-        2003
-      ]
-    },
-    "TAURUS 4DR WAGON SE/SEL/SEL PREMIUM": {
-      "years": [
-        2003
-      ]
-    },
-    "TAURUS 4DR SEDAN /SE/SEL": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "TAURUS 4DR WAGON /SE/SEL": {
-      "years": [
-        2005
-      ]
-    },
-    "TAURUS 4DR SEDAN FWD SEL/LIMITED": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "TAURUS SE/SEL 4DR SEDAN FWD": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "TAURUS SEL/LIMITED/SHO 4DR SEDAN AWD": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "TAURUS 4DR SEDAN AWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "TAURUS 4DR SEDAN FWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Thunderbird": {
-    "THUNDERBIRD (BASE)": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "THUNDERBIRD ELAN": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "THUNDERBIRD FILA": {
-      "years": [
-        1985
-      ]
-    },
-    "THUNDERBIRD TURBO COUPE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "THUNDERBIRD 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "THUNDERBIRD LX 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "THUNDERBIRD SPORT 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "THUNDERBIRD TURBO COUPE (2 DR)": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "THUNDERBIRD BASE/LX/SPORT 2 DR COUPE": {
-      "years": [
-        1988
-      ]
-    },
-    "THUNDERBIRD BASE/LX 2 DR COUPE": {
-      "years": [
-        1989
-      ]
-    },
-    "THUNDERBIRD SUPER 2 DR COUPE": {
-      "years": [
-        1989
-      ]
-    },
-    "THUNDERBIRD BASE/LX/SUPER COUPE": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "THUNDERBIRD BASE/SPORT/LX/SUPER COUPE": {
-      "years": [
-        1992
-      ]
-    },
-    "THUNDERBIRD LX/SUPER COUPE": {
-      "years": [
-        1993
-      ]
-    },
-    "THUNDERBIRD 2DR COUPE LX/SUPER COUPE": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "THUNDERBIRD 2DR COUPE LX": {
-      "years": [
-        1997
-      ]
-    },
-    "THUNDERBIRD 2DR CONVERTIBLE RWD": {
-      "years": [
         2002,
         2003,
         2004,
-        2005
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "E-250 HD ECONOLINE VAN": {
+      "years": [
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "E-250 HD ECONOLINE SUPER VAN": {
+      "years": [
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "E-250 HD CLUB WAGON": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "E-250 ECONOLINE VAN EXTENDED": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
       ]
     }
   },
-  "GT": {
-    "GT 2DR COUPE RWD": {
+  "E-350": {
+    "E 350": {
       "years": [
+        1981,
+        1981
+      ]
+    },
+    "E350": {
+      "years": [
+        1982,
+        1982
+      ]
+    },
+    "E-350 SUPER WAGON": {
+      "years": [
+        1987,
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "E-350 ECONOLINE SUPER VAN": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "E-350 ECONOLINE VAN": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "E-350 CLUB WAGON": {
+      "years": [
+        1992,
+        1993,
+        1994
+      ]
+    },
+    "E-350 SD ECONOLINE VAN": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "E-350 SD ECONOLINE VAN EXTENDED": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "E-350 SD ECONOLINE WAGON XL/XLT": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "E-350 SD ECONOLINE WAGON XL/XLT EXTENDED": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "E-350 SD ECONOLINE WAGON": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "E-350 SD ECONOLINE WAGON EXTENDED": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    }
+  },
+  "E-450": {},
+  "E-550": {},
+  "Ecosport": {
+    "ECOSPORT 4DR CUV": {
+      "years": [
+        2018
+      ]
+    },
+    "ECOSPORT 4DR CUV AWD": {
+      "years": [
+        2019
+      ]
+    },
+    "ECOSPORT 4DR CUV FWD": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "Edge": {
+    "EDGE 4DR SUV FWD SE/SEL": {
+      "years": [
+        2007
+      ]
+    },
+    "EDGE 4DR SUV FWD SEL/LIMITED": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "EDGE 4DR SUV AWD SEL/SPORT/LIMITED": {
+      "years": [
+        2010
+      ]
+    },
+    "EDGE 4DR SUV FWD SE/SEL/LIMITED": {
+      "years": [
+        2010,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "EDGE 4DR SUV AWD SEL/LIMITED/SPORT": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "EDGE 4DR SUV FWD SE/SEL/LIMITED/SPORT": {
+      "years": [
+        2011
+      ]
+    },
+    "EDGE 4DR SUV AWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "EDGE 4DR SUV FWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "EDGE 4DR SUV 2.0L AWD": {
+      "years": [
+        2019
+      ]
+    },
+    "EDGE 4DR SUV 2.0L FWD": {
+      "years": [
+        2019
+      ]
+    },
+    "EDGE 4DR SUV 2.7L AWD": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "Escape": {
+    "ESCAPE 4DR SUV 2WD XLS": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "ESCAPE 4DR SUV 4WD XLS": {
+      "years": [
+        2001
+      ]
+    },
+    "ESCAPE 4DR SUV 4WD XLT V6": {
+      "years": [
+        2001
+      ]
+    },
+    "ESCAPE 4DR SUV 4WD XLT": {
+      "years": [
+        2002
+      ]
+    },
+    "ESCAPE 4DR SUV 4WD XLT/LIMITED": {
+      "years": [
+        2003
+      ]
+    },
+    "ESCAPE 4DR SUV 4WD /LIMITED": {
+      "years": [
+        2004
+      ]
+    },
+    "ESCAPE 4DR SUV FWD /XLT": {
+      "years": [
+        2004
+      ]
+    },
+    "ESCAPE 4DR SUV FWD XLS": {
+      "years": [
+        2004,
+        2005,
         2006,
         2007,
         2008,
         2009
       ]
     },
-    "SHELBY GT500 4DR CONVERTIBLE RWD": {
-      "years": [
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "SHELBY GT500 4DR COUPE RWD": {
-      "years": [
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "GT 2DR COUPE": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Five Hundred": {
-    "FIVE HUNDRED 4DR SEDAN FWD /SE/SEL/LIMITED": {
+    "ESCAPE 4DR SUV AWD LIMITED": {
       "years": [
         2005,
-        2006
-      ]
-    },
-    "FIVE HUNDRED 4DR SEDAN AWD SEL/LIMITED": {
-      "years": [
         2006,
-        2007
+        2007,
+        2008,
+        2009
       ]
     },
-    "FIVE HUNDRED 4DR SEDAN FWD /SEL/LIMITED": {
+    "ESCAPE 4DR SUV FWD XLT": {
       "years": [
-        2007
-      ]
-    }
-  },
-  "Fiesta": {
-    "FIESTA 4DR HATCH SE/SES": {
-      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
         2011,
-        2012,
+        2012
+      ]
+    },
+    "ESCAPE HYBRID 4DR SUV FWD": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "ESCAPE 4DR SUV AWD XLT/LIMITED": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "ESCAPE HYBRID 4DR SUV AWD": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "ESCAPE HYBRID 4DR SUV AWD/HYBRID LIMITED": {
+      "years": [
+        2012
+      ]
+    },
+    "ESCAPE HYBRID 4DR SUV FWD/HYBRID LIMITED": {
+      "years": [
+        2012
+      ]
+    },
+    "ESCAPE 4DR SUV AWD SE/SEL/TITANIUM": {
+      "years": [
         2013
       ]
     },
-    "FIESTA 4DR SEDAN S/SE/SEL": {
+    "ESCAPE 4DR SUV FWD S/SE/SEL": {
       "years": [
-        2011,
-        2012,
         2013
       ]
     },
-    "FIESTA 4DR HATCH S/SE/TITANIUM": {
+    "ESCAPE 4DR SUV AWD SE/TITANIUM": {
       "years": [
         2014,
-        2015,
-        2016,
-        2017,
-        2018
+        2015
       ]
     },
-    "FIESTA 4DR SEDAN S/SE/TITANIUM": {
+    "ESCAPE 4DR SUV FWD S/SE/TITANIUM": {
       "years": [
         2014,
-        2015,
-        2016,
-        2017,
-        2018
+        2015
       ]
     },
-    "FIESTA ST 4DR HATCHBACK": {
+    "ESCAPE 4DR SUV AWD": {
       "years": [
-        2014,
-        2015,
         2016,
         2017,
         2018,
         2019
       ]
     },
-    "FIESTA 4DR HATCH": {
+    "ESCAPE 4DR SUV FWD": {
       "years": [
-        2019
-      ]
-    },
-    "FIESTA 4DR SEDAN": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "C-max": {
-    "C-MAX ENERGI 4DR HATCHBACK": {
-      "years": [
-        2013,
-        2014,
-        2015,
         2016,
         2017,
-        2018
-      ]
-    },
-    "C-MAX HYBRID 4DR HATCHBACK": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018
+        2018,
+        2019
       ]
     }
   },
@@ -1348,680 +1270,52 @@
       ]
     }
   },
-  "ZX2": {},
-  "Aspire": {
-    "ASPIRE 2DR HATCHBACK": {
+  "Excursion": {
+    "EXCURSION 4DR 4X4 XLT/LTD 6.8L": {
       "years": [
-        1994,
-        1995,
-        1996,
-        1997
+        2000
       ]
     },
-    "ASPIRE 4DR HATCHBACK": {
+    "EXCURSION 4DR 4X4 XLT/LTD 7.3L DIESEL": {
       "years": [
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    }
-  },
-  "Probe": {
-    "PROBE GT TURBO 2DR HATCHBACK": {
-      "years": [
-        1988
-      ]
-    },
-    "PROBE GT TURBO 2DR HATCHBACK GL/LX": {
-      "years": [
-        1989
-      ]
-    },
-    "PROBE GL 2DR HATCHBACK": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "PROBE GT 2DR HATCHBACK": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "PROBE LX 2DR HATCHBACK": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "PROBE 2DR COUPE": {
-      "years": [
-        1993,
-        1994,
-        1995
-      ]
-    },
-    "PROBE GT 2DR COUPE": {
-      "years": [
-        1993
-      ]
-    },
-    "PROBE 2DR COUPE GT": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "PROBE 2DR COUPE BASE/SE": {
-      "years": [
-        1996
-      ]
-    },
-    "PROBE 2DR COUPE BASE": {
-      "years": [
-        1997
-      ]
-    }
-  },
-  "Contour": {
-    "CONTOUR 4DR SEDAN GL/LX": {
-      "years": [
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "CONTOUR 4DR SEDAN SE": {
-      "years": [
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "CONTOUR 4DR SEDAN LX": {
-      "years": [
-        1998,
-        1999
-      ]
-    },
-    "CONTOUR 4DR SEDAN SE V6": {
-      "years": [
-        1998,
-        1999
-      ]
-    },
-    "CONTOUR 4DR SEDAN SVT": {
-      "years": [
-        1998,
-        1999
-      ]
-    }
-  },
-  "Festiva": {
-    "FESTIVA L/LX 2DR": {
-      "years": [
-        1989,
-        1990,
-        1991
-      ]
-    },
-    "FESTIVA L/LX/GL SPORT 2DR": {
-      "years": [
-        1992,
-        1993
-      ]
-    }
-  },
-  "Tempo": {
-    "TEMPO GL 2 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "TEMPO GL 4 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "TEMPO GLX 2 DR": {
-      "years": [
-        1985
-      ]
-    },
-    "TEMPO GLX 4 DR": {
-      "years": [
-        1985
-      ]
-    },
-    "TEMPO L 2 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "TEMPO L 4 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "TEMPO  LX 2 DR": {
-      "years": [
-        1986
-      ]
-    },
-    "TEMPO  LX 4 DR": {
-      "years": [
-        1986
-      ]
-    },
-    "TEMPO ALL-WHEEL DRIVE 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "TEMPO ALL-WHEEL DRIVE 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "TEMPO GL 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "TEMPO GL 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "TEMPO L 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "TEMPO L 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "TEMPO LX 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "TEMPO LX 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "TEMPO L/GL/LX/GLS/4 WD 2DR COUPE": {
-      "years": [
-        1988
-      ]
-    },
-    "TEMPO L/GL/LX/GLS/4 WD 4 DR SEDAN": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "TEMPO L/GL/GLS 2 DR": {
-      "years": [
-        1989
-      ]
-    },
-    "TEMPO L/GL/GLS 2DR SEDAN": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "TEMPO L/GL/LX/GLS/AWD 4DR SEDAN": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "TEMPO GL/GLS 2DR SEDAN": {
-      "years": [
-        1992
-      ]
-    },
-    "TEMPO GL/LX/GLS 4DR SEDAN": {
-      "years": [
-        1992
-      ]
-    },
-    "TEMPO GL 2DR SEDAN": {
-      "years": [
-        1993
-      ]
-    },
-    "TEMPO GL/LX 4DR SEDAN": {
-      "years": [
-        1993
-      ]
-    },
-    "TEMPO 2DR COUPE GL": {
-      "years": [
-        1994
-      ]
-    },
-    "TEMPO 4DR SEDAN GL/LX": {
-      "years": [
-        1994
-      ]
-    }
-  },
-  "Laser": {},
-  "LTD": {
-    "LTD 2 DR": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "LTD 4 DR": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "LTD WAGON": {
-      "years": [
-        1981,
-        1982,
-        1985,
-        1986
-      ]
-    },
-    "LTD (BASE) 4 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "LTD CROWN VICTORIA 2 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "LTD CROWN VICTORIA 4 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "LTD CROWN VICTORIA WAGON": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "LTD LX 4 DR": {
-      "years": [
-        1985
-      ]
-    },
-    "LTD CROWN VICTORIA 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "LTD CROWN VICTORIA 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "LTD CROWN VICTORIA BASE/COUNTRY SQ WAGON": {
-      "years": [
-        1988
-      ]
-    },
-    "LTD CROWN VICTORIA BASE/S/LX 4 DR SEDAN": {
-      "years": [
-        1988
-      ]
-    },
-    "LTD CR.VICTORIA BASE/LX/COUNTRY LXWAGON": {
-      "years": [
-        1989
-      ]
-    },
-    "LTD CR.VICTORIA BASE/S/LX 4DR SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "LTD CROWN VICTORIA S/BASE/LX 4DR SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "LTD CRWN VICTORIA CTRY SQR BASE/LX WAGON": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    }
-  },
-  "Fairmont": {
-    "FAIRMONT 4 DR": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "FAIRMONT FUTURA 2 DR CP": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "FAIRMONT WAGON": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "FAIRMONT 2 DR": {
-      "years": [
-        1982
-      ]
-    }
-  },
-  "Granada": {
-    "GRANADA 2 DR": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "GRANADA 4 DR": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "GRANADA WAGON": {
-      "years": [
-        1982
-      ]
-    }
-  },
-  "'34": {},
-  "E-150": {
-    "E 150": {
-      "years": [
-        1981,
-        1981
-      ]
-    },
-    "E150": {
-      "years": [
-        1982,
-        1982
-      ]
-    },
-    "E-150 CLUB WAGON": {
-      "years": [
-        1985,
-        1986,
-        1987,
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993,
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "E-150 ECONOLINE SUPER VAN LONG WB.": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "E-150 ECONOLINE VAN LONG WB.": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "E-150 ECONOLINE VAN SHORT WB.": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "E-150 ECONOLINE SUPER VAN": {
-      "years": [
-        1991
-      ]
-    },
-    "E-150 ECONOLINE VAN": {
-      "years": [
-        1991,
-        1992,
-        1993,
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "E-150 CLUB WAGON XL": {
-      "years": [
-        1997,
-        1998
-      ]
-    },
-    "E-150 ECONOLINE WAGON XL/XLT": {
-      "years": [
-        1999,
         2000,
         2001,
         2002
       ]
     },
-    "E-150 ECONOLINE WAGON": {
-      "years": [
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "E-150 ECONOLINE VAN EXTENDED": {
-      "years": [
-        2013,
-        2014
-      ]
-    }
-  },
-  "Escape": {
-    "ESCAPE 4DR SUV 2WD XLS": {
+    "EXCURSION 4DR 4X2 XLT/LTD 5.4L/6.8L": {
       "years": [
         2001,
-        2002,
-        2003
-      ]
-    },
-    "ESCAPE 4DR SUV 4WD XLS": {
-      "years": [
-        2001
-      ]
-    },
-    "ESCAPE 4DR SUV 4WD XLT V6": {
-      "years": [
-        2001
-      ]
-    },
-    "ESCAPE 4DR SUV 4WD XLT": {
-      "years": [
         2002
       ]
     },
-    "ESCAPE 4DR SUV 4WD XLT/LIMITED": {
+    "EXCURSION 4DR 4X2 XLT/LTD 7.3L DIESEL": {
+      "years": [
+        2001,
+        2002
+      ]
+    },
+    "EXCURSION 4DR 4X4 XLT/LTD 5.4L/6.8L": {
+      "years": [
+        2001,
+        2002
+      ]
+    },
+    "EXCURSION 4DR 4X4 XLT/Eddie Bauer/Limited": {
       "years": [
         2003
       ]
     },
-    "ESCAPE 4DR SUV 4WD /LIMITED": {
-      "years": [
-        2004
-      ]
-    },
-    "ESCAPE 4DR SUV FWD /XLT": {
-      "years": [
-        2004
-      ]
-    },
-    "ESCAPE 4DR SUV FWD XLS": {
+    "EXCURSION 4DR 4X4 /Eddie Bauer/Limited": {
       "years": [
         2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
+        2005
       ]
     },
-    "ESCAPE 4DR SUV AWD LIMITED": {
+    "EXCURSION 4DR 4X4 /XLT": {
       "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "ESCAPE 4DR SUV FWD XLT": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "ESCAPE HYBRID 4DR SUV FWD": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "ESCAPE 4DR SUV AWD XLT/LIMITED": {
-      "years": [
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "ESCAPE HYBRID 4DR SUV AWD": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "ESCAPE HYBRID 4DR SUV AWD/HYBRID LIMITED": {
-      "years": [
-        2012
-      ]
-    },
-    "ESCAPE HYBRID 4DR SUV FWD/HYBRID LIMITED": {
-      "years": [
-        2012
-      ]
-    },
-    "ESCAPE 4DR SUV AWD SE/SEL/TITANIUM": {
-      "years": [
-        2013
-      ]
-    },
-    "ESCAPE 4DR SUV FWD S/SE/SEL": {
-      "years": [
-        2013
-      ]
-    },
-    "ESCAPE 4DR SUV AWD SE/TITANIUM": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "ESCAPE 4DR SUV FWD S/SE/TITANIUM": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "ESCAPE 4DR SUV AWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "ESCAPE 4DR SUV FWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
+        2004,
+        2005
       ]
     }
   },
@@ -2110,6 +1404,33 @@
       ]
     },
     "EXPEDITION 4WD SUV": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Expedition EL": {},
+  "Expedition MAX": {
+    "EXPEDITION MAX 4WD SUV EDDIE BAUER/LIMITED/KI": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "EXPEDITION MAX 4WD SUV LIMITED": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "EXPEDITION MAX 4WD SUV": {
       "years": [
         2016,
         2017,
@@ -2343,6 +1664,60 @@
     "EXPLORER 4DR SUV": {
       "years": [
         2020
+      ]
+    }
+  },
+  "Explorer Sport": {},
+  "Explorer Sport Trac": {
+    "EXPLORER SPORT TRAC P/U 4DR 4X2": {
+      "years": [
+        2004,
+        2005,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "EXPLORER SPORT TRAC P/U 4DR 4X4": {
+      "years": [
+        2004,
+        2005,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    }
+  },
+  "F-100": {
+    "F 100 CUSTOM": {
+      "years": [
+        1981
+      ]
+    },
+    "F 100 FLARESIDE": {
+      "years": [
+        1981
+      ]
+    },
+    "F 100 LONG": {
+      "years": [
+        1981
+      ]
+    },
+    "F100 CUSTOM": {
+      "years": [
+        1982
+      ]
+    },
+    "F100 FLARESIDE": {
+      "years": [
+        1982
+      ]
+    },
+    "F100 LONG": {
+      "years": [
+        1982
       ]
     }
   },
@@ -3239,446 +2614,55 @@
       ]
     }
   },
-  "Ranger": {
-    "RANGER LONG": {
+  "F-150 Heritage": {
+    "F-150 HERITAGE P/U REG CAB L/BOX": {
       "years": [
-        1982
+        2004
       ]
     },
-    "RANGER SHORT": {
+    "F-150 HERITAGE P/U REG CAB L/BOX 4X4": {
       "years": [
-        1982
+        2004
       ]
     },
-    "RANGER LONG BED 4 X 4 PICK-UP": {
+    "F-150 HERITAGE P/U REG CAB S/BOX": {
       "years": [
-        1985,
-        1986,
-        1987
+        2004
       ]
     },
-    "RANGER LONG BED PICK-UP": {
+    "F-150 HERITAGE P/U REG CAB S/BOX 4X4": {
       "years": [
-        1985,
-        1986,
-        1987
+        2004
       ]
     },
-    "RANGER SHORT BED 4 X 4 PICK-UP": {
+    "F-150 HERITAGE P/U SUPER CAB L/BOX": {
       "years": [
-        1985,
-        1986,
-        1987
+        2004
       ]
     },
-    "RANGER SHORT BED PICK-UP": {
+    "F-150 HERITAGE P/U SUPER CAB L/BOX 4X4": {
       "years": [
-        1985,
-        1986,
-        1987
+        2004
       ]
     },
-    "RANGER SUPER CAB 4 X 4 PICK-UP": {
+    "F-150 HERITAGE P/U SUPER CAB S/BOX": {
       "years": [
-        1987
+        2004
       ]
     },
-    "RANGER SUPER CAB PICK-UP": {
+    "F-150 HERITAGE P/U SUPER CAB S/BOX 4X4": {
       "years": [
-        1987
+        2004
       ]
     },
-    "RANGER LONG WB": {
+    "F-150 HERITAGE P/U SUPER CREW S/BOX": {
       "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992
+        2004
       ]
     },
-    "RANGER LONG WB 4X4": {
+    "F-150 HERITAGE P/U SUPERCREW S/BOX 4X4": {
       "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "RANGER SHORT WB": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "RANGER SHORT WB 4X4": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "RANGER SUPERCAB": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "RANGER SUPERCAB 4X4": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "RANGER SPLASH": {
-      "years": [
-        1993
-      ]
-    },
-    "RANGER XL/XLT/STX LONG WB": {
-      "years": [
-        1993
-      ]
-    },
-    "RANGER XL/XLT/STX LONG WB 4X4": {
-      "years": [
-        1993
-      ]
-    },
-    "RANGER XL/XLT/STX SHORT WB": {
-      "years": [
-        1993
-      ]
-    },
-    "RANGER XL/XLT/STX SHORT WB 4X4": {
-      "years": [
-        1993
-      ]
-    },
-    "RANGER XL/XLT/STX SUPERCAB": {
-      "years": [
-        1993
-      ]
-    },
-    "RANGER XL/XLT/STX SUPERCAB 4X4": {
-      "years": [
-        1993
-      ]
-    },
-    "RANGER REG CAB LONG BOX": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "RANGER REG CAB LONG BOX 4X4": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "RANGER REG CAB SHORT BOX": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "RANGER REG CAB SHORT BOX 4X4": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "RANGER REG CAB SPLASH": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "RANGER REG CAB SPLASH 4X4": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "RANGER SUPER CAB SHORT BOX": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "RANGER SUPER CAB SHORT BOX 4X4": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "RANGER SUPER CAB SPLASH": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "RANGER SUPER CAB SPLASH 4X4": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "RANGER REG CAB FLARESIDE S/BOX": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "RANGER REG CAB FLARESIDE S/BOX 4X4": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "RANGER REG CAB STYLESIDE L/BOX": {
-      "years": [
-        1999,
-        2000,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "RANGER REG CAB STYLESIDE L/BOX 4X4": {
-      "years": [
-        1999,
-        2000,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "RANGER REG CAB STYLESIDE S/BOX": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "RANGER REG CAB STYLESIDE S/BOX 4X4": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "RANGER SUPER CAB FLARESIDE S/BOX": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "RANGER SUPER CAB FLARESIDE S/BOX 4X4": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "RANGER SUPER CAB STYLESIDE S/BOX": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "RANGER SUPER CAB STYLESIDE S/BOX4X4": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "RANGER REG CAB FLARESIDE S/BOX 4X4Edge/XL/XLT": {
-      "years": [
-        2002
-      ]
-    },
-    "RANGER REG CAB FLARESIDE S/BOX Edge/XL/XLT": {
-      "years": [
-        2002
-      ]
-    },
-    "RANGER REG CAB STYLESIDE S/BOX 4X4 XLT": {
-      "years": [
-        2002
-      ]
-    },
-    "RANGER REG CAB STYLESIDE S/BOX Edge/XL/XLT": {
-      "years": [
-        2002
-      ]
-    },
-    "RANGER SUPER CAB STYLESIDE S/BOX SPORT/XLT 4X": {
-      "years": [
-        2011
-      ]
-    },
-    "RANGER SUPER CAB STYLESIDE S/BOX XL/SPORT 4X2": {
-      "years": [
-        2011
-      ]
-    },
-    "RANGER SUPERCAB 4WD": {
-      "years": [
-        2019
-      ]
-    },
-    "RANGER SUPERCREW 4WD": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "Explorer Sport Trac": {
-    "EXPLORER SPORT TRAC P/U 4DR 4X2": {
-      "years": [
-        2004,
-        2005,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "EXPLORER SPORT TRAC P/U 4DR 4X4": {
-      "years": [
-        2004,
-        2005,
-        2007,
-        2008,
-        2009,
-        2010
+        2004
       ]
     }
   },
@@ -4890,376 +3874,358 @@
     }
   },
   "F-550": {},
+  "F-590": {},
+  "F-600": {},
   "F-650": {},
+  "F-700": {},
   "F-750": {},
-  "Transit Connect": {
-    "TRANSIT-CONNECT XLT/WAGON - CARGO": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "TRANSIT-CONNECT ELECTRIC": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "TRANSIT-CONNECT WAGON XLT/XLT PREMIUM": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "TRANSIT-CONNECT XLT CARGO": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "TRANSIT CONNECT VAN XL/XLT": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "TRANSIT CONNECT WAGON XL/XLT/TITANIUM": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "E-250": {
-    "E 250": {
+  "F-800": {},
+  "F-Super Duty": {},
+  "F6000": {},
+  "F7000": {},
+  "F8000": {},
+  "FT800": {},
+  "FT8000": {},
+  "FT900": {},
+  "Fairmont": {
+    "FAIRMONT 4 DR": {
       "years": [
         1981,
-        1981
-      ]
-    },
-    "E250": {
-      "years": [
-        1982,
         1982
       ]
     },
-    "E-250 CLUB WAGON": {
+    "FAIRMONT FUTURA 2 DR CP": {
       "years": [
-        1987,
-        1988,
+        1981,
+        1982
+      ]
+    },
+    "FAIRMONT WAGON": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "FAIRMONT 2 DR": {
+      "years": [
+        1982
+      ]
+    }
+  },
+  "Festiva": {
+    "FESTIVA L/LX 2DR": {
+      "years": [
         1989,
         1990,
         1991
       ]
     },
-    "E-250 ECONOLINE SUPER VAN": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993,
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "E-250 ECONOLINE VAN": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993,
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "E-250 HD ECONOLINE VAN": {
-      "years": [
-        1991,
-        1992,
-        1993,
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "E-250 HD ECONOLINE SUPER VAN": {
+    "FESTIVA L/LX/GL SPORT 2DR": {
       "years": [
         1992,
-        1993,
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "E-250 HD CLUB WAGON": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "E-250 ECONOLINE VAN EXTENDED": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
+        1993
       ]
     }
   },
-  "E-350": {
-    "E 350": {
+  "Fiesta": {
+    "FIESTA 4DR HATCH SE/SES": {
       "years": [
-        1981,
-        1981
-      ]
-    },
-    "E350": {
-      "years": [
-        1982,
-        1982
-      ]
-    },
-    "E-350 SUPER WAGON": {
-      "years": [
-        1987,
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993,
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "E-350 ECONOLINE SUPER VAN": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993,
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "E-350 ECONOLINE VAN": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993,
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "E-350 CLUB WAGON": {
-      "years": [
-        1992,
-        1993,
-        1994
-      ]
-    },
-    "E-350 SD ECONOLINE VAN": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
         2011,
         2012,
-        2013,
-        2014
+        2013
       ]
     },
-    "E-350 SD ECONOLINE VAN EXTENDED": {
+    "FIESTA 4DR SEDAN S/SE/SEL": {
       "years": [
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
         2011,
         2012,
-        2013,
-        2014
+        2013
       ]
     },
-    "E-350 SD ECONOLINE WAGON XL/XLT": {
+    "FIESTA 4DR HATCH S/SE/TITANIUM": {
       "years": [
-        1999,
-        2000,
-        2001,
-        2002
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
       ]
     },
-    "E-350 SD ECONOLINE WAGON XL/XLT EXTENDED": {
+    "FIESTA 4DR SEDAN S/SE/TITANIUM": {
       "years": [
-        1999,
-        2000,
-        2001,
-        2002
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
       ]
     },
-    "E-350 SD ECONOLINE WAGON": {
+    "FIESTA ST 4DR HATCHBACK": {
       "years": [
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
       ]
     },
-    "E-350 SD ECONOLINE WAGON EXTENDED": {
+    "FIESTA 4DR HATCH": {
       "years": [
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
+        2019
+      ]
+    },
+    "FIESTA 4DR SEDAN": {
+      "years": [
+        2019
       ]
     }
   },
-  "E-450": {},
-  "Excursion": {
-    "EXCURSION 4DR 4X4 XLT/LTD 6.8L": {
+  "Five Hundred": {
+    "FIVE HUNDRED 4DR SEDAN FWD /SE/SEL/LIMITED": {
       "years": [
-        2000
+        2005,
+        2006
       ]
     },
-    "EXCURSION 4DR 4X4 XLT/LTD 7.3L DIESEL": {
+    "FIVE HUNDRED 4DR SEDAN AWD SEL/LIMITED": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "FIVE HUNDRED 4DR SEDAN FWD /SEL/LIMITED": {
+      "years": [
+        2007
+      ]
+    }
+  },
+  "Flex": {
+    "FLEX 5DR CUV AWD SEL/LIMITED": {
+      "years": [
+        2009,
+        2010,
+        2014,
+        2015
+      ]
+    },
+    "FLEX 5DR CUV FWD SE/SEL/LIMITED": {
+      "years": [
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "FLEX 5DR CUV AWD SEL/LIMITED/TITANIUM": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "FLEX 5DR CUV AWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "FLEX 5DR CUV FWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Focus": {
+    "FOCUS 2DR HATCHBACK ZX3": {
       "years": [
         2000,
         2001,
         2002
       ]
     },
-    "EXCURSION 4DR 4X2 XLT/LTD 5.4L/6.8L": {
+    "FOCUS 4DR SEDAN LX/SE/ZTS": {
       "years": [
+        2000,
         2001,
         2002
       ]
     },
-    "EXCURSION 4DR 4X2 XLT/LTD 7.3L DIESEL": {
+    "FOCUS 4DR WAGON SE": {
       "years": [
+        2000,
         2001,
         2002
       ]
     },
-    "EXCURSION 4DR 4X4 XLT/LTD 5.4L/6.8L": {
+    "FOCUS ZX5 4DR HATCH FWD": {
       "years": [
-        2001,
-        2002
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
       ]
     },
-    "EXCURSION 4DR 4X4 XLT/Eddie Bauer/Limited": {
+    "FOCUS 4DR SEDAN LX/SE/SE SPORT/ZTS": {
       "years": [
-        2003
-      ]
-    },
-    "EXCURSION 4DR 4X4 /Eddie Bauer/Limited": {
-      "years": [
+        2003,
         2004,
         2005
       ]
     },
-    "EXCURSION 4DR 4X4 /XLT": {
+    "FOCUS 4DR WAGON SE/SE SPORT/ZTW": {
       "years": [
+        2003,
         2004,
         2005
+      ]
+    },
+    "FOCUS ZX3 2DR HATCH FWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "FOCUS ZX3 SVT 3DR HATCH FWD": {
+      "years": [
+        2003,
+        2004
+      ]
+    },
+    "FOCUS ZX5 SVT 5DR HATCH FWD": {
+      "years": [
+        2003,
+        2004
+      ]
+    },
+    "FOCUS ZX4 4DR SEDAN FWD": {
+      "years": [
+        2006
+      ]
+    },
+    "FOCUS ZXW 4DR WAGON FWD": {
+      "years": [
+        2006
+      ]
+    },
+    "FOCUS 2DR HATCH FWD S/SE": {
+      "years": [
+        2007
+      ]
+    },
+    "FOCUS 4DR HATCH FWD": {
+      "years": [
+        2007
+      ]
+    },
+    "FOCUS 4DR SEDAN FWD S/SE/SES/ST": {
+      "years": [
+        2007
+      ]
+    },
+    "FOCUS 4DR WAGON FWD SE/SES": {
+      "years": [
+        2007
+      ]
+    },
+    "FOCUS 2DR COUPE FWD S/SE/SES": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "FOCUS 4DR SEDAN FWD S/SE/SES": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "FOCUS 2DR COUPE FWD  SE/SES": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "FOCUS 4DR HATCHBACK SE/SEL/TITANIUM": {
+      "years": [
+        2012
+      ]
+    },
+    "FOCUS 4DR SEDAN S/SE/SEL/TITANIUM": {
+      "years": [
+        2012
+      ]
+    },
+    "FOCUS 4DR HATCHBACK SE/TITANIUM": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "FOCUS 4DR SEDAN S/SE/TITANIUM": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "FOCUS ELECTRIC 4D HATCHBACK": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "FOCUS ST 4DR HATCHBACK": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "FOCUS ST/RS 4DR HATCHBACK": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    }
+  },
+  "Freestar": {
+    "FREESTAR SE/SPORT/SEL/LIMITED": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "FREESTAR S/SE/SPORT": {
+      "years": [
+        2007,
+        2008
       ]
     }
   },
@@ -5282,27 +4248,1589 @@
       ]
     }
   },
-  "Freestar": {
-    "FREESTAR SE/SPORT/SEL/LIMITED": {
+  "Fusion": {
+    "FUSION I4 4DR SEDAN /SE/SEL": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "FUSION V6 4DR SEDAN /SE/SEL": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "FUSION SE/SEL 4DR SEDAN 2.3L V4": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "FUSION SEL V6 4DR SEDAN 3.0L V6": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "FUSION S/SE/SEL 4CYL 4DR SEDAN": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "FUSION SEL AWD / SPORT / HYBRID 4DR SEDAN": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "FUSION SEL V6 4DR SEDAN": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "FUSION 4DR SEDAN ENERGI SE/ENERGI TITANIUM": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "FUSION 4DR SEDAN HYBRID/TITANIUM/HYBRID TITAN": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "FUSION 4DR SEDAN S/SE": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "FUSION 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "FUSION 4DR SEDAN ENERGI PHEV": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "FUSION 4DR SEDAN HYBRID": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "GT": {
+    "GT 2DR COUPE RWD": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "SHELBY GT500 4DR CONVERTIBLE RWD": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "SHELBY GT500 4DR COUPE RWD": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "GT 2DR COUPE": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Granada": {
+    "GRANADA 2 DR": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "GRANADA 4 DR": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "GRANADA WAGON": {
+      "years": [
+        1982
+      ]
+    }
+  },
+  "L800": {},
+  "L8000": {},
+  "L8501": {},
+  "L8511": {},
+  "L8513": {},
+  "L9000": {},
+  "L9501": {},
+  "L9511": {},
+  "L9513": {},
+  "L9522": {},
+  "LA8000": {},
+  "LA9000": {},
+  "LL9000": {},
+  "LLA9000": {},
+  "LLS9000": {},
+  "LN600": {},
+  "LN700": {},
+  "LN7000": {},
+  "LN800": {},
+  "LN8000": {},
+  "LN9000": {},
+  "LNT800": {},
+  "LNT8000": {},
+  "LNT9000": {},
+  "LS8000": {},
+  "LS9000": {},
+  "LT800": {},
+  "LT8000": {},
+  "LT8501": {},
+  "LT8511": {},
+  "LT8513": {},
+  "LT9000": {},
+  "LT9501": {},
+  "LT9511": {},
+  "LT9513": {},
+  "LT9522": {},
+  "LTA9000": {},
+  "LTD": {
+    "LTD 2 DR": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "LTD 4 DR": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "LTD WAGON": {
+      "years": [
+        1981,
+        1982,
+        1985,
+        1986
+      ]
+    },
+    "LTD (BASE) 4 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "LTD CROWN VICTORIA 2 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "LTD CROWN VICTORIA 4 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "LTD CROWN VICTORIA WAGON": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "LTD LX 4 DR": {
+      "years": [
+        1985
+      ]
+    },
+    "LTD CROWN VICTORIA 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "LTD CROWN VICTORIA 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "LTD CROWN VICTORIA BASE/COUNTRY SQ WAGON": {
+      "years": [
+        1988
+      ]
+    },
+    "LTD CROWN VICTORIA BASE/S/LX 4 DR SEDAN": {
+      "years": [
+        1988
+      ]
+    },
+    "LTD CR.VICTORIA BASE/LX/COUNTRY LXWAGON": {
+      "years": [
+        1989
+      ]
+    },
+    "LTD CR.VICTORIA BASE/S/LX 4DR SEDAN": {
+      "years": [
+        1989
+      ]
+    },
+    "LTD CROWN VICTORIA S/BASE/LX 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "LTD CRWN VICTORIA CTRY SQR BASE/LX WAGON": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    }
+  },
+  "LTL9000": {},
+  "LTLA9000": {},
+  "LTLS9000": {},
+  "LTS8000": {},
+  "LTS9000": {},
+  "Laser": {},
+  "Motorhome Chassis": {},
+  "Mustang": {
+    "MUSTANG 2 DR HB": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "MUSTANG 2 DR SD": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "MUSTANG COBRA GT CONVERTIBLE": {
+      "years": [
+        1985,
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "MUSTANG COBRA GT HATCHBACK": {
+      "years": [
+        1985
+      ]
+    },
+    "MUSTANG LX 2 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "MUSTANG LX CONVERTIBLE": {
+      "years": [
+        1985,
+        1986,
+        1987,
+        1988
+      ]
+    },
+    "MUSTANG LX HATCHBACK": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "MUSTANG SVO": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "MUSTANG GT CONVERTIBLE": {
+      "years": [
+        1986
+      ]
+    },
+    "MUSTANG GT HATCHBACK": {
+      "years": [
+        1986
+      ]
+    },
+    "MUSTANG COBRA GT 2 DR HATCHBACK": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "MUSTANG LX 2 DR COUPE": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "MUSTANG LX 2 DR HATCHBACK": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "MUSTANG LX 2 DR HATCHBACK/LX 5.0L": {
+      "years": [
+        1989
+      ]
+    },
+    "MUSTANG LX CONVERTIBLE/LX 5.0L": {
+      "years": [
+        1989
+      ]
+    },
+    "MUSTANG LX/LX 5.0L 2DR COUPE": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "MUSTANG LX/LX 5.0L/COBRA GT 2DR HTCHBACK": {
+      "years": [
+        1990
+      ]
+    },
+    "MUSTANG LX/LX 5.0L/COBRA GT CONVERTIBLE": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "MUSTANG LX/LX 5.0L/GT 2DR HTCHBACK": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "MUSTANG LX/LX 5.0L/COBRA GT 2DR HATCHBAC": {
+      "years": [
+        1993
+      ]
+    },
+    "MUSTANG 2DR CONVERTIBLE BASE/GT": {
+      "years": [
+        1994
+      ]
+    },
+    "MUSTANG 2DR COUPE BASE/GT": {
+      "years": [
+        1994
+      ]
+    },
+    "MUSTANG 2DR CONVERTIBLE BASE": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "MUSTANG 2DR CONVERTIBLE GT": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "MUSTANG 2DR COUPE BASE": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "MUSTANG 2DR COUPE GT": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "MUSTANG COBRA": {
+      "years": [
+        1996
+      ]
+    },
+    "MUSTANG 2DR COUPE COBRA": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
+      ]
+    },
+    "MUSTANG 2DR CONVERTIBLE COBRA": {
+      "years": [
+        1998,
+        1999,
+        2000,
+        2001
+      ]
+    },
+    "MUSTANG 2DR COUPE GT/MACH 1": {
+      "years": [
+        2003
+      ]
+    },
+    "MUSTANG COBRA 2DR CONV RWD": {
+      "years": [
+        2003
+      ]
+    },
+    "MUSTANG COBRA 2DR COUPE RWD": {
+      "years": [
+        2003
+      ]
+    },
+    "MUSTANG 2DR COUPE RWD": {
       "years": [
         2004,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "MUSTANG 2DR COUPE RWD /GT": {
+      "years": [
+        2004
+      ]
+    },
+    "MUSTANG 2DR COUPE RWD /MACH 1": {
+      "years": [
+        2004
+      ]
+    },
+    "MUSTANG SVT COBRA 2DR CONV RWD": {
+      "years": [
+        2004
+      ]
+    },
+    "MUSTANG SVT COBRA 2DR COUPE RWD": {
+      "years": [
+        2004
+      ]
+    },
+    "MUSTANG 2DR CONVERTIBLE": {
+      "years": [
+        2005
+      ]
+    },
+    "MUSTANG 2DR COUPE": {
+      "years": [
+        2005
+      ]
+    },
+    "MUSTANG GT 2DR COUPE": {
+      "years": [
+        2005,
+        2018,
+        2019
+      ]
+    },
+    "MUSTANG 2DR CONVERTIBLE RWD": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "MUSTANG GT 2DR CONVERTIBLE RWD": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "MUSTANG GT 2DR COUPE RWD": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "MUSTANG 2DR CONVERTIBLE RWD/V6 PREMIUM": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "MUSTANG 2DR COUPE RWD/V6 PREMIUM": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "MUSTANG GT 2DR COUPE RWD/BOSS 302": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "MUSTANG V6/ECOBOOST 2DR CONVERTIBLE RWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "MUSTANG V6/ECOBOOST 2DR COUPE RWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "MUSTANG GT350 2DR COUPE RWD": {
+      "years": [
+        2017
+      ]
+    },
+    "MUSTANG ECOBOOST 2DR CONVERTIBLE": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "MUSTANG ECOBOOST 2DR COUPE": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "MUSTANG GT 2DR CONVERTIBLE": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "MUSTANG GT350/350R 2DR COUPE": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "Mustang Mach-E": {},
+  "P600": {},
+  "P700": {},
+  "P800": {},
+  "Probe": {
+    "PROBE GT TURBO 2DR HATCHBACK": {
+      "years": [
+        1988
+      ]
+    },
+    "PROBE GT TURBO 2DR HATCHBACK GL/LX": {
+      "years": [
+        1989
+      ]
+    },
+    "PROBE GL 2DR HATCHBACK": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "PROBE GT 2DR HATCHBACK": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "PROBE LX 2DR HATCHBACK": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "PROBE 2DR COUPE": {
+      "years": [
+        1993,
+        1994,
+        1995
+      ]
+    },
+    "PROBE GT 2DR COUPE": {
+      "years": [
+        1993
+      ]
+    },
+    "PROBE 2DR COUPE GT": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "PROBE 2DR COUPE BASE/SE": {
+      "years": [
+        1996
+      ]
+    },
+    "PROBE 2DR COUPE BASE": {
+      "years": [
+        1997
+      ]
+    }
+  },
+  "Ranger": {
+    "RANGER LONG": {
+      "years": [
+        1982
+      ]
+    },
+    "RANGER SHORT": {
+      "years": [
+        1982
+      ]
+    },
+    "RANGER LONG BED 4 X 4 PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "RANGER LONG BED PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "RANGER SHORT BED 4 X 4 PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "RANGER SHORT BED PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "RANGER SUPER CAB 4 X 4 PICK-UP": {
+      "years": [
+        1987
+      ]
+    },
+    "RANGER SUPER CAB PICK-UP": {
+      "years": [
+        1987
+      ]
+    },
+    "RANGER LONG WB": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "RANGER LONG WB 4X4": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "RANGER SHORT WB": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "RANGER SHORT WB 4X4": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "RANGER SUPERCAB": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "RANGER SUPERCAB 4X4": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "RANGER SPLASH": {
+      "years": [
+        1993
+      ]
+    },
+    "RANGER XL/XLT/STX LONG WB": {
+      "years": [
+        1993
+      ]
+    },
+    "RANGER XL/XLT/STX LONG WB 4X4": {
+      "years": [
+        1993
+      ]
+    },
+    "RANGER XL/XLT/STX SHORT WB": {
+      "years": [
+        1993
+      ]
+    },
+    "RANGER XL/XLT/STX SHORT WB 4X4": {
+      "years": [
+        1993
+      ]
+    },
+    "RANGER XL/XLT/STX SUPERCAB": {
+      "years": [
+        1993
+      ]
+    },
+    "RANGER XL/XLT/STX SUPERCAB 4X4": {
+      "years": [
+        1993
+      ]
+    },
+    "RANGER REG CAB LONG BOX": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "RANGER REG CAB LONG BOX 4X4": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "RANGER REG CAB SHORT BOX": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "RANGER REG CAB SHORT BOX 4X4": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "RANGER REG CAB SPLASH": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "RANGER REG CAB SPLASH 4X4": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "RANGER SUPER CAB SHORT BOX": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "RANGER SUPER CAB SHORT BOX 4X4": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "RANGER SUPER CAB SPLASH": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "RANGER SUPER CAB SPLASH 4X4": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "RANGER REG CAB FLARESIDE S/BOX": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "RANGER REG CAB FLARESIDE S/BOX 4X4": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "RANGER REG CAB STYLESIDE L/BOX": {
+      "years": [
+        1999,
+        2000,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "RANGER REG CAB STYLESIDE L/BOX 4X4": {
+      "years": [
+        1999,
+        2000,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "RANGER REG CAB STYLESIDE S/BOX": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "RANGER REG CAB STYLESIDE S/BOX 4X4": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "RANGER SUPER CAB FLARESIDE S/BOX": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "RANGER SUPER CAB FLARESIDE S/BOX 4X4": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "RANGER SUPER CAB STYLESIDE S/BOX": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "RANGER SUPER CAB STYLESIDE S/BOX4X4": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "RANGER REG CAB FLARESIDE S/BOX 4X4Edge/XL/XLT": {
+      "years": [
+        2002
+      ]
+    },
+    "RANGER REG CAB FLARESIDE S/BOX Edge/XL/XLT": {
+      "years": [
+        2002
+      ]
+    },
+    "RANGER REG CAB STYLESIDE S/BOX 4X4 XLT": {
+      "years": [
+        2002
+      ]
+    },
+    "RANGER REG CAB STYLESIDE S/BOX Edge/XL/XLT": {
+      "years": [
+        2002
+      ]
+    },
+    "RANGER SUPER CAB STYLESIDE S/BOX SPORT/XLT 4X": {
+      "years": [
+        2011
+      ]
+    },
+    "RANGER SUPER CAB STYLESIDE S/BOX XL/SPORT 4X2": {
+      "years": [
+        2011
+      ]
+    },
+    "RANGER SUPERCAB 4WD": {
+      "years": [
+        2019
+      ]
+    },
+    "RANGER SUPERCREW 4WD": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "Recreational Vehicle": {},
+  "Taurus": {
+    "TAURUS MT-5/GL/LX WAGON": {
+      "years": [
+        1986
+      ]
+    },
+    "TAURUS T/MT-5/GL/LX SEDAN (4-DR)": {
+      "years": [
+        1986
+      ]
+    },
+    "TAURUS L/GL/MT-5/LX 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "TAURUS L/GL/MT-5/LX 4 DR WAGON": {
+      "years": [
+        1987
+      ]
+    },
+    "TAURUS L/GL/LX WAGON": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "TAURUS L/GL/LX 4 DR SEDAN": {
+      "years": [
+        1989
+      ]
+    },
+    "TAURUS SHO SEDAN": {
+      "years": [
+        1989
+      ]
+    },
+    "TAURUS L/GL/LX 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "TAURUS SHO 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "TAURUS 4DR SEDAN GL/LX": {
+      "years": [
+        1994,
+        1997
+      ]
+    },
+    "TAURUS 4DR SEDAN SHO": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "TAURUS 4DR WAGON GL/LX": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "TAURUS 4DR SEDAN GL/LX/SE": {
+      "years": [
+        1995,
+        1996
+      ]
+    },
+    "TAURUS 4DR SEDAN LX/SE": {
+      "years": [
+        1998,
+        1999
+      ]
+    },
+    "TAURUS 4DR WAGON SE": {
+      "years": [
+        1998,
+        1999
+      ]
+    },
+    "TAURUS 4DR SEDAN LX/SE/SEL": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2004
+      ]
+    },
+    "TAURUS 4DR WAGON SE/SEL": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2004
+      ]
+    },
+    "TAURUS 4DR SEDAN LX/SE/SEL/SEL PREMIUM": {
+      "years": [
+        2003
+      ]
+    },
+    "TAURUS 4DR WAGON SE/SEL/SEL PREMIUM": {
+      "years": [
+        2003
+      ]
+    },
+    "TAURUS 4DR SEDAN /SE/SEL": {
+      "years": [
         2005,
         2006
       ]
     },
-    "FREESTAR S/SE/SPORT": {
+    "TAURUS 4DR WAGON /SE/SEL": {
       "years": [
-        2007,
-        2008
+        2005
+      ]
+    },
+    "TAURUS 4DR SEDAN FWD SEL/LIMITED": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "TAURUS SE/SEL 4DR SEDAN FWD": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "TAURUS SEL/LIMITED/SHO 4DR SEDAN AWD": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "TAURUS 4DR SEDAN AWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "TAURUS 4DR SEDAN FWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
       ]
     }
   },
-  "Motorhome Chassis": {},
   "Taurus X": {
     "TAURUS X 4DR CUV FWD SEL/LIMITED": {
       "years": [
         2008,
         2009
+      ]
+    }
+  },
+  "Tempo": {
+    "TEMPO GL 2 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "TEMPO GL 4 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "TEMPO GLX 2 DR": {
+      "years": [
+        1985
+      ]
+    },
+    "TEMPO GLX 4 DR": {
+      "years": [
+        1985
+      ]
+    },
+    "TEMPO L 2 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "TEMPO L 4 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "TEMPO  LX 2 DR": {
+      "years": [
+        1986
+      ]
+    },
+    "TEMPO  LX 4 DR": {
+      "years": [
+        1986
+      ]
+    },
+    "TEMPO ALL-WHEEL DRIVE 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "TEMPO ALL-WHEEL DRIVE 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "TEMPO GL 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "TEMPO GL 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "TEMPO L 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "TEMPO L 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "TEMPO LX 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "TEMPO LX 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "TEMPO L/GL/LX/GLS/4 WD 2DR COUPE": {
+      "years": [
+        1988
+      ]
+    },
+    "TEMPO L/GL/LX/GLS/4 WD 4 DR SEDAN": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "TEMPO L/GL/GLS 2 DR": {
+      "years": [
+        1989
+      ]
+    },
+    "TEMPO L/GL/GLS 2DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "TEMPO L/GL/LX/GLS/AWD 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "TEMPO GL/GLS 2DR SEDAN": {
+      "years": [
+        1992
+      ]
+    },
+    "TEMPO GL/LX/GLS 4DR SEDAN": {
+      "years": [
+        1992
+      ]
+    },
+    "TEMPO GL 2DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "TEMPO GL/LX 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "TEMPO 2DR COUPE GL": {
+      "years": [
+        1994
+      ]
+    },
+    "TEMPO 4DR SEDAN GL/LX": {
+      "years": [
+        1994
+      ]
+    }
+  },
+  "Thunderbird": {
+    "THUNDERBIRD (BASE)": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "THUNDERBIRD ELAN": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "THUNDERBIRD FILA": {
+      "years": [
+        1985
+      ]
+    },
+    "THUNDERBIRD TURBO COUPE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "THUNDERBIRD 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "THUNDERBIRD LX 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "THUNDERBIRD SPORT 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "THUNDERBIRD TURBO COUPE (2 DR)": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "THUNDERBIRD BASE/LX/SPORT 2 DR COUPE": {
+      "years": [
+        1988
+      ]
+    },
+    "THUNDERBIRD BASE/LX 2 DR COUPE": {
+      "years": [
+        1989
+      ]
+    },
+    "THUNDERBIRD SUPER 2 DR COUPE": {
+      "years": [
+        1989
+      ]
+    },
+    "THUNDERBIRD BASE/LX/SUPER COUPE": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "THUNDERBIRD BASE/SPORT/LX/SUPER COUPE": {
+      "years": [
+        1992
+      ]
+    },
+    "THUNDERBIRD LX/SUPER COUPE": {
+      "years": [
+        1993
+      ]
+    },
+    "THUNDERBIRD 2DR COUPE LX/SUPER COUPE": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "THUNDERBIRD 2DR COUPE LX": {
+      "years": [
+        1997
+      ]
+    },
+    "THUNDERBIRD 2DR CONVERTIBLE RWD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005
       ]
     }
   },
@@ -5497,6 +6025,52 @@
       ]
     }
   },
+  "Transit Connect": {
+    "TRANSIT-CONNECT XLT/WAGON - CARGO": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "TRANSIT-CONNECT ELECTRIC": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "TRANSIT-CONNECT WAGON XLT/XLT PREMIUM": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "TRANSIT-CONNECT XLT CARGO": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "TRANSIT CONNECT VAN XL/XLT": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "TRANSIT CONNECT WAGON XL/XLT/TITANIUM": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
   "Windstar": {
     "WINDSTAR GL/LX": {
       "years": [
@@ -5532,579 +6106,5 @@
       ]
     }
   },
-  "E-550": {},
-  "B-750": {},
-  "F-800": {},
-  "Bronco": {
-    "BRONCO": {
-      "years": [
-        1981,
-        1982,
-        1985,
-        1986
-      ]
-    },
-    "BRONCO 4X4": {
-      "years": [
-        1987,
-        1988,
-        1989,
-        1991
-      ]
-    },
-    "BRONCO 4x4": {
-      "years": [
-        1990,
-        1992
-      ]
-    },
-    "BRONCO CUSTOM/XLT/EDDIE BAUER 2DR 4x4": {
-      "years": [
-        1993
-      ]
-    },
-    "BRONCO 2DR 4X4 XL/XLT/EDDIE BAUER": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    }
-  },
-  "Aerostar": {
-    "AEROSTAR WAGON": {
-      "years": [
-        1985,
-        1986,
-        1989,
-        1990
-      ]
-    },
-    "AEROSTAR WAGON (VAN)": {
-      "years": [
-        1987
-      ]
-    },
-    "AEROSTAR VAN": {
-      "years": [
-        1988
-      ]
-    },
-    "AEROSTAR XL/XLT WAGON": {
-      "years": [
-        1988
-      ]
-    },
-    "AEROSTAR CARGO VAN": {
-      "years": [
-        1989,
-        1990,
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "AEROSTAR EXTENDED LENGTH CARGO VAN": {
-      "years": [
-        1989,
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "AEROSTAR EXTENDED LENTH WAGON": {
-      "years": [
-        1989
-      ]
-    },
-    "AEROSTAR EXTENDED LENGTH WAGON": {
-      "years": [
-        1990
-      ]
-    },
-    "AEROSTAR EXTENDED LENGTH WAGON 4x4": {
-      "years": [
-        1990
-      ]
-    },
-    "AEROSTAR WAGON 4x4": {
-      "years": [
-        1990
-      ]
-    },
-    "AEROSTAR CARGO VAN 2WD": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "AEROSTAR CARGO VAN 4WD": {
-      "years": [
-        1991,
-        1993
-      ]
-    },
-    "AEROSTAR EXTENDED LENGTH WAGON 2WD": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "AEROSTAR EXTENDED LENGTH WAGON 4WD": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "AEROSTAR WAGON 2WD": {
-      "years": [
-        1991,
-        1992,
-        1993,
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "AEROSTAR WAGON 4WD": {
-      "years": [
-        1991,
-        1992,
-        1993,
-        1994
-      ]
-    },
-    "AEROSTAR CARGO VAN AWD": {
-      "years": [
-        1992
-      ]
-    },
-    "AEROSTAR CARGO VAN EXTENDED LENGTH": {
-      "years": [
-        1994
-      ]
-    },
-    "AEROSTAR WAGON EXTENDED LENGTH 2WD": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "AEROSTAR WAGON EXTENDED LENGTH 4WD": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    }
-  },
-  "F-150 Heritage": {
-    "F-150 HERITAGE P/U REG CAB L/BOX": {
-      "years": [
-        2004
-      ]
-    },
-    "F-150 HERITAGE P/U REG CAB L/BOX 4X4": {
-      "years": [
-        2004
-      ]
-    },
-    "F-150 HERITAGE P/U REG CAB S/BOX": {
-      "years": [
-        2004
-      ]
-    },
-    "F-150 HERITAGE P/U REG CAB S/BOX 4X4": {
-      "years": [
-        2004
-      ]
-    },
-    "F-150 HERITAGE P/U SUPER CAB L/BOX": {
-      "years": [
-        2004
-      ]
-    },
-    "F-150 HERITAGE P/U SUPER CAB L/BOX 4X4": {
-      "years": [
-        2004
-      ]
-    },
-    "F-150 HERITAGE P/U SUPER CAB S/BOX": {
-      "years": [
-        2004
-      ]
-    },
-    "F-150 HERITAGE P/U SUPER CAB S/BOX 4X4": {
-      "years": [
-        2004
-      ]
-    },
-    "F-150 HERITAGE P/U SUPER CREW S/BOX": {
-      "years": [
-        2004
-      ]
-    },
-    "F-150 HERITAGE P/U SUPERCREW S/BOX 4X4": {
-      "years": [
-        2004
-      ]
-    }
-  },
-  "L8501": {},
-  "LT8501": {},
-  "L9501": {},
-  "LT9501": {},
-  "L8511": {},
-  "LT8511": {},
-  "L9511": {},
-  "LT9511": {},
-  "L8513": {},
-  "LT8513": {},
-  "L9513": {},
-  "LT9513": {},
-  "L9522": {},
-  "LT9522": {},
-  "A8513": {},
-  "AT8513": {},
-  "A9513": {},
-  "AT9513": {},
-  "A9522": {},
-  "AT9522": {},
-  "B800": {},
-  "F-Super Duty": {},
-  "F-700": {},
-  "P700": {},
-  "P800": {},
-  "FT900": {},
-  "L8000": {},
-  "L9000": {},
-  "LL9000": {},
-  "LLA9000": {},
-  "LLS9000": {},
-  "LS8000": {},
-  "LS9000": {},
-  "LT8000": {},
-  "LT9000": {},
-  "LTS8000": {},
-  "LTS9000": {},
-  "LTL9000": {},
-  "LTLA9000": {},
-  "LTLS9000": {},
-  "LA8000": {},
-  "LA9000": {},
-  "LTA9000": {},
-  "LN7000": {},
-  "LN8000": {},
-  "LN9000": {},
-  "LNT8000": {},
-  "LNT9000": {},
-  "CF8000": {},
-  "CFT8000": {},
-  "CF7000": {},
-  "B600": {},
-  "B700": {},
-  "F-600": {},
-  "Recreational Vehicle": {},
-  "F-590": {},
-  "P600": {},
-  "CL9000": {},
-  "CLT9000": {},
-  "Bronco II": {
-    "BRONCO II": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "BRONCO II 4 X 2": {
-      "years": [
-        1987
-      ]
-    },
-    "BRONCO II 4 X 4": {
-      "years": [
-        1987
-      ]
-    },
-    "BRONCO II 4X2": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "BRONCO II 4X4": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "BRONCO II 4x2": {
-      "years": [
-        1990
-      ]
-    },
-    "BRONCO II 4x4": {
-      "years": [
-        1990
-      ]
-    }
-  },
-  "FT800": {},
-  "CT8000": {},
-  "C800": {},
-  "C8000": {},
-  "CF6000": {},
-  "B7000": {},
-  "C7000": {},
-  "F7000": {},
-  "F8000": {},
-  "FT8000": {},
-  "Courier": {
-    "COURIER PICKUP": {
-      "years": [
-        1981
-      ]
-    },
-    "COURIER PICKUP LONG WB": {
-      "years": [
-        1981
-      ]
-    },
-    "COURIER LONG": {
-      "years": [
-        1982
-      ]
-    },
-    "COURIER SHORT": {
-      "years": [
-        1982
-      ]
-    }
-  },
-  "B6000": {},
-  "C600": {},
-  "C700": {},
-  "F6000": {},
-  "LN600": {},
-  "LN700": {},
-  "L800": {},
-  "LT800": {},
-  "LN800": {},
-  "LNT800": {},
-  "E-100": {
-    "E 100": {
-      "years": [
-        1981,
-        1981
-      ]
-    },
-    "E100": {
-      "years": [
-        1982
-      ]
-    }
-  },
-  "F-100": {
-    "F 100 CUSTOM": {
-      "years": [
-        1981
-      ]
-    },
-    "F 100 FLARESIDE": {
-      "years": [
-        1981
-      ]
-    },
-    "F 100 LONG": {
-      "years": [
-        1981
-      ]
-    },
-    "F100 CUSTOM": {
-      "years": [
-        1982
-      ]
-    },
-    "F100 FLARESIDE": {
-      "years": [
-        1982
-      ]
-    },
-    "F100 LONG": {
-      "years": [
-        1982
-      ]
-    }
-  },
-  "CT800": {},
-  "Edge": {
-    "EDGE 4DR SUV FWD SE/SEL": {
-      "years": [
-        2007
-      ]
-    },
-    "EDGE 4DR SUV FWD SEL/LIMITED": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "EDGE 4DR SUV AWD SEL/SPORT/LIMITED": {
-      "years": [
-        2010
-      ]
-    },
-    "EDGE 4DR SUV FWD SE/SEL/LIMITED": {
-      "years": [
-        2010,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "EDGE 4DR SUV AWD SEL/LIMITED/SPORT": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "EDGE 4DR SUV FWD SE/SEL/LIMITED/SPORT": {
-      "years": [
-        2011
-      ]
-    },
-    "EDGE 4DR SUV AWD": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "EDGE 4DR SUV FWD": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "EDGE 4DR SUV 2.0L AWD": {
-      "years": [
-        2019
-      ]
-    },
-    "EDGE 4DR SUV 2.0L FWD": {
-      "years": [
-        2019
-      ]
-    },
-    "EDGE 4DR SUV 2.7L AWD": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "Flex": {
-    "FLEX 5DR CUV AWD SEL/LIMITED": {
-      "years": [
-        2009,
-        2010,
-        2014,
-        2015
-      ]
-    },
-    "FLEX 5DR CUV FWD SE/SEL/LIMITED": {
-      "years": [
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "FLEX 5DR CUV AWD SEL/LIMITED/TITANIUM": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "FLEX 5DR CUV AWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "FLEX 5DR CUV FWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Expedition MAX": {
-    "EXPEDITION MAX 4WD SUV EDDIE BAUER/LIMITED/KI": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "EXPEDITION MAX 4WD SUV LIMITED": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "EXPEDITION MAX 4WD SUV": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Explorer Sport": {},
-  "Ecosport": {
-    "ECOSPORT 4DR CUV": {
-      "years": [
-        2018
-      ]
-    },
-    "ECOSPORT 4DR CUV AWD": {
-      "years": [
-        2019
-      ]
-    },
-    "ECOSPORT 4DR CUV FWD": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "Expedition EL": {},
-  "Bronco Sport": {},
-  "Mustang Mach-E": {}
+  "ZX2": {}
 }

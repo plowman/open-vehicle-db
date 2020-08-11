@@ -43,6 +43,409 @@
       ]
     }
   },
+  "1M": {},
+  "228i": {
+    "2 SERIES 228i 2DR COUPE RWD": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "2 SERIES 228i 2DR CABRIOLET RWD": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "2 SERIES 228i xDRIVE 2DR CABRIOLET": {
+      "years": [
+        2017
+      ]
+    },
+    "2 SERIES 228i xDRIVE 2DR COUPE": {
+      "years": [
+        2017
+      ]
+    }
+  },
+  "230i": {
+    "2 SERIES 230i 2DR COUPE RWD": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "2 SERIES 230i xDRIVE 2DR CABRIOLET": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "2 SERIES 230i xDRIVE 2DR COUPE": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "318i": {
+    "318 i 2 DR": {
+      "years": [
+        1985
+      ]
+    },
+    "318 i 4 DR": {
+      "years": [
+        1985
+      ]
+    },
+    "318i/325i 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "318i/325i 2DR COUPE": {
+      "years": [
+        1992
+      ]
+    },
+    "318i/325i CABRIOLET": {
+      "years": [
+        1992,
+        1993,
+        1994,
+        1995
+      ]
+    },
+    "318i/320i/325i 2DR COUPE": {
+      "years": [
+        1993
+      ]
+    },
+    "318i/320i/325i 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "318i 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    }
+  },
+  "318iC": {
+    "318i CABRIOLET": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    }
+  },
+  "318iS": {
+    "318is/325i 2DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "318is 2DR COUPE": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    }
+  },
+  "318ti": {
+    "318ti 2DR HATCHBACK": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    }
+  },
+  "320i": {
+    "320i SD": {
+      "years": [
+        1981
+      ]
+    },
+    "320 i": {
+      "years": [
+        1982
+      ]
+    },
+    "320i/325i 4DR SEDAN": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "320i 4DR SEDAN": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "320i 4DR SEDAN RWD": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "3 SERIES 320i 4DR SEDAN RWD": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016
+      ]
+    },
+    "3 SERIES 320i xDRIVE 4DR SEDAN AWD": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    }
+  },
+  "323i": {
+    "323i 4DR SEDAN": {
+      "years": [
+        1999,
+        2000
+      ]
+    },
+    "323i/325i 4DR SEDAN RWD": {
+      "years": [
+        2006
+      ]
+    },
+    "323i/328i 4DR SEDAN RWD": {
+      "years": [
+        2007
+      ]
+    }
+  },
+  "323iC": {
+    "323i CABRIOLET": {
+      "years": [
+        1998,
+        1999
+      ]
+    }
+  },
+  "323is": {
+    "323is 2DR COUPE": {
+      "years": [
+        1998,
+        1999
+      ]
+    }
+  },
+  "325/325e": {},
+  "325Ci": {
+    "325Ci 2DR CABRIOLET": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "325Ci 2DR COUPE": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "325Ci 2DR CABRIOLET RWD": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "325Ci 2DR COUPE RWD": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    }
+  },
+  "325Cic": {},
+  "325e": {
+    "325 e 2 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "325 e 4 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    }
+  },
+  "325i": {
+    "325 I 2 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "325 I 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "325i 2 DR COUPE": {
+      "years": [
+        1989
+      ]
+    },
+    "325i 4DR SEDAN": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "325i 4DR SEDAN RWD": {
+      "years": [
+        2004,
+        2005
+      ]
+    }
+  },
+  "325i/325is": {},
+  "325iC": {
+    "325 I CONVERTIBLE": {
+      "years": [
+        1987
+      ]
+    },
+    "325 I CABRIOLET": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "325i CABRIOLET": {
+      "years": [
+        1990,
+        1991
+      ]
+    }
+  },
+  "325iS": {
+    "325 IS 2 DR SEDAN": {
+      "years": [
+        1988
+      ]
+    }
+  },
+  "325iT": {
+    "325iT 4DR WAGON RWD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    }
+  },
+  "325ix": {
+    "325IX 4WD 4DR": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "325iX 4WD 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    }
+  },
+  "325xi": {
+    "325xi 4DR SEDAN AWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    }
+  },
+  "325xiT": {
+    "325xiT 4DR WAGON AWD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    },
+    "325xi TOURING 4DR WAGON AWD": {
+      "years": [
+        2006
+      ]
+    }
+  },
+  "328Ci": {
+    "328Ci 2DR COUPE": {
+      "years": [
+        2000
+      ]
+    }
+  },
+  "328d": {
+    "3 SERIES 328d xDRIVE 4DR SEDAN AWD": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "3 SERIES TOURING 328d xDRIVE 4DR WAGON": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "3 SERIES 328d xDRIVE 4DR SEDAN": {
+      "years": [
+        2018
+      ]
+    }
+  },
   "328i": {
     "328i 4DR SEDAN": {
       "years": [
@@ -149,26 +552,106 @@
       ]
     }
   },
-  "M3": {
-    "M3": {
+  "328iC": {
+    "328i CABRIOLET": {
       "years": [
-        1988,
-        1989
-      ]
-    },
-    "M3 2DR SEDAN": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "M3 2DR COUPE": {
-      "years": [
-        1994,
+        1996,
         1997,
         1998,
-        1999,
+        1999
+      ]
+    },
+    "328i CABRIOLET 2DR CONVERTIBLE RWD": {
+      "years": [
+        2007
+      ]
+    }
+  },
+  "328iS": {
+    "328is 2DR COUPE": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    }
+  },
+  "328xi": {
+    "328xi 2DR COUPE AWD": {
+      "years": [
+        2007
+      ]
+    },
+    "328xi 4DR SEDAN AWD": {
+      "years": [
+        2007
+      ]
+    },
+    "328xi TOURING 4DR WAGON AWD": {
+      "years": [
+        2007
+      ]
+    },
+    "3 SERIES TOURING 328xi 4DR WAGON AWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    }
+  },
+  "330Ci": {
+    "330Ci 2DR CABRIOLET": {
+      "years": [
         2001,
+        2002,
+        2003
+      ]
+    },
+    "330Ci 2DR COUPE": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "330Ci 2DR CABRIOLET RWD": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "330Ci 2DR COUPE RWD": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    }
+  },
+  "330Cic": {},
+  "330e": {
+    "3 SERIES 330e iPERFORMANCE SEDAN": {
+      "years": [
+        2017,
+        2018
+      ]
+    },
+    "3-SERIES 330e 4DR SEDAN": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "330i": {
+    "330i 4DR SEDAN": {
+      "years": [
+        2001
+      ]
+    },
+    "330i 4DR SEDAN RWD": {
+      "years": [
         2002,
         2003,
         2004,
@@ -176,15 +659,33 @@
         2006
       ]
     },
-    "M3 4DR SEDAN": {
+    "3 SERIES 330i xDRIVE Gran Turismo": {
       "years": [
-        1997,
-        1998,
+        2017,
         2018,
         2019
       ]
     },
-    "M3 2DR CABRIOLET": {
+    "3 SERIES TOURING 330i xDRIVE 4DR WAGON": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "3 SERIES 330i xDRIVE 4DR SEDAN": {
+      "years": [
+        2018
+      ]
+    },
+    "3-SERIES 330i xDRIVE 4DR SEDAN": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "330xi": {
+    "330xi 4DR SEDAN AWD": {
       "years": [
         2001,
         2002,
@@ -193,34 +694,14 @@
         2005,
         2006
       ]
-    },
-    "M3 2DR COUPE RWD": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "M3 4DR SEDAN RWD": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "M3 2DR CONV RWD": {
+    }
+  },
+  "335": {},
+  "335d": {
+    "3 SERIES 335D 4DR SEDAN RWD": {
       "years": [
         2010,
-        2011,
-        2012,
-        2013
+        2011
       ]
     }
   },
@@ -319,11 +800,254 @@
       ]
     }
   },
-  "335d": {
-    "3 SERIES 335D 4DR SEDAN RWD": {
+  "335xi": {},
+  "340i": {
+    "3 SERIES 340i 4DR SEDAN RWD": {
       "years": [
-        2010,
-        2011
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "3 SERIES 340i xDRIVE 4DR SEDAN AWD": {
+      "years": [
+        2016,
+        2017
+      ]
+    },
+    "3 SERIES 340i xDRIVE Gran Turismo": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "3 SERIES 340i xDRIVE 4DR SEDAN": {
+      "years": [
+        2018
+      ]
+    }
+  },
+  "428i": {
+    "4 SERIES  428i 2DR COUPE RWD": {
+      "years": [
+        2014,
+        2015,
+        2016
+      ]
+    },
+    "4 SERIES  428i xDrive 2DR COUPE AWD": {
+      "years": [
+        2014
+      ]
+    },
+    "4 SERIES GRAN COUPE 428i 4DR SEDAN RWD": {
+      "years": [
+        2014,
+        2015,
+        2016
+      ]
+    },
+    "4 SERIES GRAN COUPE 428i xDrive 4DR SEDAN AWD": {
+      "years": [
+        2014
+      ]
+    },
+    "4 SERIES  428i 2DR CABRIOLET RWD": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "4 SERIES  428i xDRIVE 2DR CABRIOLET AWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "4 SERIES  428i xDRIVE 2DR COUPE AWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "4 SERIES GRAN COUPE 428i xDRIVE 4DR SEDAN AWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ]
+    }
+  },
+  "430i": {
+    "4 SERIES  430i xDRIVE 2DR CABRIOLET": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "4 SERIES  430i xDRIVE 2DR COUPE": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "4 SERIES GRAN COUPE 430i xDRIVE 4DR SEDAN": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "435i": {
+    "4 SERIES  435i 2DR COUPE RWD": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "4 SERIES  435i xDrive 2DR COUPE AWD": {
+      "years": [
+        2014
+      ]
+    },
+    "4 SERIES GRAN COUPE 435i 4DR SEDAN RWD": {
+      "years": [
+        2014,
+        2015,
+        2016
+      ]
+    },
+    "4 SERIES  435i 2DR CABRIOLET RWD": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "4 SERIES  435i xDRIVE 2DR CABRIOLET AWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "4 SERIES  435i xDRIVE 2DR COUPE AWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "4 SERIES GRAN COUPE 435i xDRIVE 4DR SEDAN AWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ]
+    }
+  },
+  "440i": {
+    "4 SERIES  440i 2DR COUPE RWD": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "4 SERIES  440i xDRIVE 2DR CABRIOLET": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "4 SERIES  440i xDRIVE 2DR COUPE": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "4 SERIES GRAN COUPE 440i xDRIVE 4DR SEDAN": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "524td": {},
+  "525i": {
+    "525i": {
+      "years": [
+        1989
+      ]
+    },
+    "525i 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "525i 4DR SEDAN RWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "525ix 4DR SEDAN AWD": {
+      "years": [
+        2006
+      ]
+    }
+  },
+  "525iA": {},
+  "525iAT": {},
+  "525iT": {
+    "525i TOURING (WAGON)": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "525iT 4DR WAGON": {
+      "years": [
+        2001,
+        2002
+      ]
+    },
+    "525i TOURING 4DR WAGON": {
+      "years": [
+        2003
+      ]
+    }
+  },
+  "525xi": {
+    "525xi 4DR SEDAN AWD": {
+      "years": [
+        2007
+      ]
+    }
+  },
+  "528e": {
+    "528 e": {
+      "years": [
+        1982,
+        1985,
+        1986
+      ]
+    },
+    "528 E 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988
       ]
     }
   },
@@ -380,6 +1104,88 @@
       ]
     },
     "5 SERIES 528i xDRIVE 4DR SEDAN AWD": {
+      "years": [
+        2015,
+        2016
+      ]
+    }
+  },
+  "528xi": {},
+  "530e": {
+    "5 SERIES 530e 4DR SEDAN": {
+      "years": [
+        2017,
+        2018
+      ]
+    },
+    "5 SERIES 530e xDRIVE 4DR SEDAN": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "530i": {
+    "530i 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "530i 4DR WAGON TOURING": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "530i 4DR SEDAN RWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "5 SERIES 530i 4DR SEDAN": {
+      "years": [
+        2017
+      ]
+    },
+    "5 SERIES 530i xDRIVE 4DR SEDAN": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "530iA": {},
+  "530iT": {},
+  "530xi": {
+    "530xi 4DR SEDAN AWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "530xi 4DR TOURING/WAGON": {
+      "years": [
+        2006,
+        2007
+      ]
+    }
+  },
+  "530xiT": {},
+  "533i": {},
+  "535d": {
+    "5 SERIES 535d xDrive 4 DR SEDAN AWD": {
+      "years": [
+        2014
+      ]
+    },
+    "5 SERIES 535d xDRIVE 4DR SEDAN AWD": {
       "years": [
         2015,
         2016
@@ -462,6 +1268,1086 @@
     "5 SERIES 535i xDRIVE Gran Turismo 5DR SEDAN A": {
       "years": [
         2015
+      ]
+    }
+  },
+  "535i/535is": {},
+  "535xi": {
+    "5 SERIES TOURING 535xi 4DR WAGON AWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    }
+  },
+  "540d": {
+    "5 SERIES 540d xDRIVE 4DR SEDAN": {
+      "years": [
+        2018
+      ]
+    }
+  },
+  "540i": {
+    "540i 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "540iT 4DR WAGON": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "540i TOURING 4DR WAGON": {
+      "years": [
+        2003
+      ]
+    },
+    "5 SERIES 540i 4DR SEDAN": {
+      "years": [
+        2017
+      ]
+    },
+    "5 SERIES 540i xDRIVE 4DR SEDAN": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "540iA": {},
+  "540iAT": {
+    "540iAT4DR WAGON": {
+      "years": [
+        1999
+      ]
+    }
+  },
+  "545i": {
+    "545i 4DR SEDAN RWD": {
+      "years": [
+        2004,
+        2005
+      ]
+    }
+  },
+  "550i": {
+    "550i 4DR SEDAN RWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "5 SERIES 550i 4DR SEDAN RWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2015
+      ]
+    },
+    "5 SERIES 550i Gran Turismo 4DR SEDAN RWD": {
+      "years": [
+        2010
+      ]
+    },
+    "5 SERIES 550i 4 DR SEDAN RWD": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "5 SERIES 550i xDrive 4 DR SEDAN AWD": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "5 SERIES 550i xDrive Gran Turismo 5DR SEDAN A": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "5 SERIES 550i xDRIVE 4DR SEDAN AWD": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "5 SERIES 550i xDRIVE Gran Turismo 5DR SEDAN A": {
+      "years": [
+        2015
+      ]
+    }
+  },
+  "633 csi": {
+    "633 csi CP": {
+      "years": [
+        1981
+      ]
+    },
+    "633 csi": {
+      "years": [
+        1982
+      ]
+    }
+  },
+  "635CSi": {
+    "635 csi": {
+      "years": [
+        1985
+      ]
+    },
+    "635 CSI": {
+      "years": [
+        1986
+      ]
+    },
+    "635 CSI 2 DR COUPE": {
+      "years": [
+        1987,
+        1988
+      ]
+    }
+  },
+  "640i": {
+    "6 SERIES GRAN COUPE 640i xDRIVE 4DR SEDAN": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "6 SERIES GRAN TURISMO 640i xDRIVE 4DR SEDAN": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "640xi": {},
+  "645Ci": {
+    "645Ci 2DR CABRIOLET RWD": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "645Ci 2DR COUPE RWD": {
+      "years": [
+        2004,
+        2005
+      ]
+    }
+  },
+  "645Cic": {},
+  "645i": {},
+  "650i": {
+    "650i 2DR CABRIOLET RWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "650i 2DR COUPE RWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "6 SERIES 650i 2DR COUPE RWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "6 SERIES CABRIOLET 650i 2DR RWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "6 SERIES  650i xDrive 2DR COUPE AWD": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "6 SERIES CABRIOLET 650i 2DR CONV RWD": {
+      "years": [
+        2012
+      ]
+    },
+    "6 SERIES CABRIOLET 650i xDrive 2DR CONV AWD": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "6 SERIES GRAN COUPE 650i xDrive 4DR SEDAN": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "6 SERIES  650i xDRIVE 2DR COUPE AWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "6 SERIES CABRIOLET 650i xDRIVE 2DR CONV AWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "6 SERIES GRAN COUPE 650i xDRIVE 4DR SEDAN": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "6 SERIES 650i xDRIVE 2DR CABRIOLET": {
+      "years": [
+        2018
+      ]
+    },
+    "6 SERIES 650i xDRIVE 2DR COUPE": {
+      "years": [
+        2018
+      ]
+    },
+    "6 SERIES GRAN TURISMO 650i xDRIVE 4DR SEDAN": {
+      "years": [
+        2018
+      ]
+    }
+  },
+  "650i / ALPINA B6": {},
+  "650i / B6": {},
+  "650xi": {},
+  "730i": {},
+  "733i": {
+    "733i SD": {
+      "years": [
+        1981
+      ]
+    },
+    "733 i": {
+      "years": [
+        1982
+      ]
+    }
+  },
+  "735i": {
+    "735 i": {
+      "years": [
+        1985
+      ]
+    },
+    "735 I": {
+      "years": [
+        1986
+      ]
+    },
+    "735 I 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "735i 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    }
+  },
+  "735iL": {
+    "735IL 4DR SEDAN": {
+      "years": [
+        1989
+      ]
+    },
+    "735iL 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    }
+  },
+  "740Li": {
+    "7 SERIES 740Li xDRIVE 4DR SEDAN AWD": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    }
+  },
+  "740e": {},
+  "740i": {
+    "740iA 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "740iAL 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "740i 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
+      ]
+    }
+  },
+  "740iL": {
+    "740iL 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
+      ]
+    }
+  },
+  "745Li": {
+    "745Li 4DR SEDAN RWD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    }
+  },
+  "745e": {},
+  "745i": {
+    "745i 4DR SEDAN RWD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    }
+  },
+  "750Li": {
+    "750Li 4DR SEDAN RWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "7 SERIES 750Li 4DR SEDAN RWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2012
+      ]
+    },
+    "7 SERIES 750Li XDRIVE 4DR SEDAN AWD": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "7 SERIES 750Li xDRIVE 4DR SEDAN AWD": {
+      "years": [
+        2015
+      ]
+    },
+    "7 SERIES 750Li xDRIVE 4DR SEDAN LWB": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "750Li / ALPINA B7": {},
+  "750Lxi": {},
+  "750Lxi / ALPINA B7": {},
+  "750i": {
+    "750i 4DR SEDAN RWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "7 SERIES 750i 4DR SEDAN RWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2012
+      ]
+    },
+    "7 SERIES 750i XDRIVE 4DR SEDAN AWD": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "7 SERIES 750i xDRIVE 4DR SEDAN AWD": {
+      "years": [
+        2015
+      ]
+    },
+    "7 SERIES 750i xDRIVE 4DR SEDAN SWB": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "750i / ALPINA B7": {},
+  "750i / B7": {},
+  "750iL": {
+    "750IL": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "750iL 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
+      ]
+    }
+  },
+  "750xi": {},
+  "750xi / ALPINA B7": {},
+  "760Li": {
+    "760Li 4DR SEDAN RWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "7 SERIES 760Li 4DR SEDAN RWD": {
+      "years": [
+        2008,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "7 SERIES M760Li xDRIVE 4DR SEDAN LWB": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "760i": {},
+  "840Ci": {
+    "840Ci/850Ci 2DR COUPE": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "840 Ci 2DR COUPE": {
+      "years": [
+        1997
+      ]
+    }
+  },
+  "840i": {},
+  "850CSi": {},
+  "850Ci": {
+    "850ci 2DR COUPE": {
+      "years": [
+        1993
+      ]
+    },
+    "850 Ci 2DR COUPE": {
+      "years": [
+        1997
+      ]
+    }
+  },
+  "850i": {
+    "850i 2DR COUPE": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    }
+  },
+  "Active E": {},
+  "ActiveHybrid 3": {
+    "3 SERIES ACTIVEHYBRID 3 4DR SEDAN RWD": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    }
+  },
+  "ActiveHybrid 5": {
+    "5 SERIES ACTIVEHYBRID 5 4 DR SEDAN RWD": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "5 SERIES ACTIVEHYBRID 5 4DR SEDAN RWD": {
+      "years": [
+        2015
+      ]
+    }
+  },
+  "Alpina": {
+    "7 SERIES ALPINA B7 SEDAN RWD": {
+      "years": [
+        2008
+      ]
+    },
+    "6 SERIES GRAN COUPE ALPINA B6": {
+      "years": [
+        2017
+      ]
+    }
+  },
+  "B7": {},
+  "L7": {},
+  "M2": {
+    "M 2DR COUPE 3.2L": {
+      "years": [
+        1999
+      ]
+    },
+    "M2 2DR COUPE RWD": {
+      "years": [
+        2017
+      ]
+    },
+    "M2 2DR COUPE": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "M235i": {
+    "2 SERIES M235i 2DR COUPE RWD": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "2 SERIES M235i 2DR CABRIOLET  RWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "2 SERIES M235i xDRIVE 2DR COUPE AWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "2 SERIES M235i xDRIVE 2DR CABRIOLET": {
+      "years": [
+        2017
+      ]
+    }
+  },
+  "M240i": {
+    "2 SERIES M240i 2DR CABRIOLET  RWD": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "2 SERIES M240i 2DR COUPE RWD": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "2 SERIES M240i xDRIVE 2DR CABRIOLET": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "2 SERIES M240i xDRIVE 2DR COUPE": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "M3": {
+    "M3": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "M3 2DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "M3 2DR COUPE": {
+      "years": [
+        1994,
+        1997,
+        1998,
+        1999,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "M3 4DR SEDAN": {
+      "years": [
+        1997,
+        1998,
+        2018,
+        2019
+      ]
+    },
+    "M3 2DR CABRIOLET": {
+      "years": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "M3 2DR COUPE RWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "M3 4DR SEDAN RWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "M3 2DR CONV RWD": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    }
+  },
+  "M340i": {
+    "3-SERIES M340i xDRIVE 4DR SEDAN": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "M3Ci": {},
+  "M3Cic": {},
+  "M4": {
+    "M4 2DR CABRIOLET RWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "M4 2DR COUPE RWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "M4 2DR CABRIOLET": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "M4 2DR COUPE": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "M5": {
+    "M5": {
+      "years": [
+        1988
+      ]
+    },
+    "M5 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2018,
+        2019
+      ]
+    },
+    "M540i 4DR SEDAN": {
+      "years": [
+        1995
+      ]
+    },
+    "M5 4DR SEDAN RWD": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2015,
+        2016
+      ]
+    },
+    "M5 4 DR SEDAN RWD": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    }
+  },
+  "M550i": {
+    "5 SERIES M550i xDRIVE 4DR SEDAN": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "M6": {
+    "635 M6 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "M6 2 DR COUPE": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "M6 2DR COUPE RWD": {
+      "years": [
+        2006,
+        2007,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "M6 CABRIOLET 2DR CONVERTIBLE RWD": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "M6 COUPE 2DR RWD": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "M6 CABRIOLET 2DR CONV RWD": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "M6 GRAN COUPE 4DR SEDAN": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "M6 2DR CABRIOLET": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "M6 2DR COUPE": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "M760i": {},
+  "M8": {},
+  "M850i": {},
+  "X1": {
+    "X1 xDrive28i 4DR SUV": {
+      "years": [
+        2012
+      ]
+    },
+    "X1 xDRIVE28i 4DR SUV": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "X1 xDRIVE35i 4DR SUV": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    }
+  },
+  "X2": {
+    "X2 sDRIVE28i 4DR SUV FWD": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "X2 xDRIVE28i 4DR SUV AWD": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "X3": {
+    "X3 4DR SUV AWD /2.5i": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "X3 4DR SUV AWD /3.0i": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "X3 4DR SUV AWD 3.0i/3.0si": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "X3 4DR SUV AWD 28i/30i": {
+      "years": [
+        2010
+      ]
+    },
+    "X3 xDrive28i 4 DR SUV": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "X3 xDrive35i 4 DR SUV": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "X3 xDRIVE28i 4 DR SUV": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "X3 xDRIVE35i 4 DR SUV": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "X3 xDRIVE28d 4DR SUV": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "X3 xDRIVE28i 4DR SUV": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "X3 xDRIVE35i 4DR SUV": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "X3 M40i 4DR SUV": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "X3 xDRIVE30i 4DR SUV": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "X4": {
+    "X4 xDRIVE28i 4DR SUV": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "X4 xDRIVE35i 4DR SUV": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "X4 M40i 4DR SUV": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "X4 xDRIVE30i 4DR SUV": {
+      "years": [
+        2019
       ]
     }
   },
@@ -617,276 +2503,130 @@
       ]
     }
   },
-  "550i": {
-    "550i 4DR SEDAN RWD": {
+  "X6": {
+    "X6 4DR SUV": {
       "years": [
-        2006,
-        2007
+        2008
       ]
     },
-    "5 SERIES 550i 4DR SEDAN RWD": {
+    "X6 4DR SUV xDRIVE 350i": {
       "years": [
-        2008,
-        2009,
-        2010,
-        2015
-      ]
-    },
-    "5 SERIES 550i Gran Turismo 4DR SEDAN RWD": {
-      "years": [
-        2010
-      ]
-    },
-    "5 SERIES 550i 4 DR SEDAN RWD": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "5 SERIES 550i xDrive 4 DR SEDAN AWD": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "5 SERIES 550i xDrive Gran Turismo 5DR SEDAN A": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "5 SERIES 550i xDRIVE 4DR SEDAN AWD": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "5 SERIES 550i xDRIVE Gran Turismo 5DR SEDAN A": {
-      "years": [
-        2015
-      ]
-    }
-  },
-  "X3": {
-    "X3 4DR SUV AWD /2.5i": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "X3 4DR SUV AWD /3.0i": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "X3 4DR SUV AWD 3.0i/3.0si": {
-      "years": [
-        2007,
-        2008,
         2009
       ]
     },
-    "X3 4DR SUV AWD 28i/30i": {
+    "X6 4DR SUV xDRIVE 35i": {
       "years": [
         2010
       ]
     },
-    "X3 xDrive28i 4 DR SUV": {
+    "X6 4DR SUV xDRIVE 50i": {
       "years": [
+        2010
+      ]
+    },
+    "X6M 4DR SUV AWD": {
+      "years": [
+        2010,
         2011,
-        2012
-      ]
-    },
-    "X3 xDrive35i 4 DR SUV": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "X3 xDRIVE28i 4 DR SUV": {
-      "years": [
+        2012,
         2013,
-        2014
-      ]
-    },
-    "X3 xDRIVE35i 4 DR SUV": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "X3 xDRIVE28d 4DR SUV": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "X3 xDRIVE28i 4DR SUV": {
-      "years": [
+        2014,
         2015,
         2016,
-        2017
-      ]
-    },
-    "X3 xDRIVE35i 4DR SUV": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "X3 M40i 4DR SUV": {
-      "years": [
+        2017,
         2018,
         2019
       ]
     },
-    "X3 xDRIVE30i 4DR SUV": {
+    "X6 ActiveHybrid 4DR SUV": {
       "years": [
+        2011,
+        2012
+      ]
+    },
+    "X6 xDRIVE 35i 4DR SUV": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "X6 xDRIVE 50i 4DR SUV": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
         2018,
         2019
       ]
     }
   },
-  "740i": {
-    "740iA 4DR SEDAN": {
+  "X7": {
+    "X7 xDRIVE40i 4DR SUV": {
       "years": [
-        1993
+        2019
       ]
     },
-    "740iAL 4DR SEDAN": {
+    "X7 xDRIVE50i 4DR SUV": {
       "years": [
-        1993
+        2019
+      ]
+    }
+  },
+  "Z3": {
+    "Z3 2DR ROADSTER": {
+      "years": [
+        1996
       ]
     },
-    "740i 4DR SEDAN": {
+    "Z3 1.9 ROADSTER": {
       "years": [
-        1994,
-        1995,
+        1997,
+        1998
+      ]
+    },
+    "Z3 2.8 ROADSTER": {
+      "years": [
         1997,
         1998,
-        1999,
-        2000,
-        2001
-      ]
-    }
-  },
-  "740Li": {
-    "7 SERIES 740Li xDRIVE 4DR SEDAN AWD": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    }
-  },
-  "750i": {
-    "750i 4DR SEDAN RWD": {
-      "years": [
-        2006,
-        2007
+        1999
       ]
     },
-    "7 SERIES 750i 4DR SEDAN RWD": {
+    "Z3 2.3 ROADSTER": {
       "years": [
-        2008,
-        2009,
-        2010,
-        2012
+        1999
       ]
     },
-    "7 SERIES 750i XDRIVE 4DR SEDAN AWD": {
+    "Z3 ROADSTER 2.3": {
       "years": [
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
+        2000
       ]
     },
-    "7 SERIES 750i xDRIVE 4DR SEDAN AWD": {
+    "Z3 ROADSTER 2.8": {
       "years": [
-        2015
+        2000
       ]
     },
-    "7 SERIES 750i xDRIVE 4DR SEDAN SWB": {
+    "Z3 ROADSTER 2.5": {
       "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "750Li": {
-    "750Li 4DR SEDAN RWD": {
-      "years": [
-        2006,
-        2007
+        2001,
+        2002
       ]
     },
-    "7 SERIES 750Li 4DR SEDAN RWD": {
+    "Z3 ROADSTER 3.0": {
       "years": [
-        2008,
-        2009,
-        2010,
-        2012
-      ]
-    },
-    "7 SERIES 750Li XDRIVE 4DR SEDAN AWD": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "7 SERIES 750Li xDRIVE 4DR SEDAN AWD": {
-      "years": [
-        2015
-      ]
-    },
-    "7 SERIES 750Li xDRIVE 4DR SEDAN LWB": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "760Li": {
-    "760Li 4DR SEDAN RWD": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "7 SERIES 760Li 4DR SEDAN RWD": {
-      "years": [
-        2008,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "7 SERIES M760Li xDRIVE 4DR SEDAN LWB": {
-      "years": [
-        2018,
-        2019
+        2001,
+        2002
       ]
     }
   },
@@ -967,360 +2707,14 @@
       ]
     }
   },
-  "750xi": {},
-  "750Lxi": {},
-  "M6": {
-    "635 M6 2 DR COUPE": {
+  "Z8": {
+    "Z8 ROADSTER 5.0": {
       "years": [
-        1987
-      ]
-    },
-    "M6 2 DR COUPE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "M6 2DR COUPE RWD": {
-      "years": [
-        2006,
-        2007,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "M6 CABRIOLET 2DR CONVERTIBLE RWD": {
-      "years": [
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "M6 COUPE 2DR RWD": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "M6 CABRIOLET 2DR CONV RWD": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "M6 GRAN COUPE 4DR SEDAN": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "M6 2DR CABRIOLET": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "M6 2DR COUPE": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "528xi": {},
-  "640i": {
-    "6 SERIES GRAN COUPE 640i xDRIVE 4DR SEDAN": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "6 SERIES GRAN TURISMO 640i xDRIVE 4DR SEDAN": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "650i": {
-    "650i 2DR CABRIOLET RWD": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "650i 2DR COUPE RWD": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "6 SERIES 650i 2DR COUPE RWD": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "6 SERIES CABRIOLET 650i 2DR RWD": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "6 SERIES  650i xDrive 2DR COUPE AWD": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "6 SERIES CABRIOLET 650i 2DR CONV RWD": {
-      "years": [
-        2012
-      ]
-    },
-    "6 SERIES CABRIOLET 650i xDrive 2DR CONV AWD": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "6 SERIES GRAN COUPE 650i xDrive 4DR SEDAN": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "6 SERIES  650i xDRIVE 2DR COUPE AWD": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "6 SERIES CABRIOLET 650i xDRIVE 2DR CONV AWD": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "6 SERIES GRAN COUPE 650i xDRIVE 4DR SEDAN": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "6 SERIES 650i xDRIVE 2DR CABRIOLET": {
-      "years": [
-        2018
-      ]
-    },
-    "6 SERIES 650i xDRIVE 2DR COUPE": {
-      "years": [
-        2018
-      ]
-    },
-    "6 SERIES GRAN TURISMO 650i xDRIVE 4DR SEDAN": {
-      "years": [
-        2018
-      ]
-    }
-  },
-  "650xi": {},
-  "1M": {},
-  "Active E": {},
-  "M5": {
-    "M5": {
-      "years": [
-        1988
-      ]
-    },
-    "M5 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993,
-        1999,
-        2000,
         2001,
         2002,
         2003,
-        2018,
-        2019
-      ]
-    },
-    "M540i 4DR SEDAN": {
-      "years": [
-        1995
-      ]
-    },
-    "M5 4DR SEDAN RWD": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2015,
-        2016
-      ]
-    },
-    "M5 4 DR SEDAN RWD": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    }
-  },
-  "228i": {
-    "2 SERIES 228i 2DR COUPE RWD": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "2 SERIES 228i 2DR CABRIOLET RWD": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "2 SERIES 228i xDRIVE 2DR CABRIOLET": {
-      "years": [
-        2017
-      ]
-    },
-    "2 SERIES 228i xDRIVE 2DR COUPE": {
-      "years": [
-        2017
-      ]
-    }
-  },
-  "M235i": {
-    "2 SERIES M235i 2DR COUPE RWD": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "2 SERIES M235i 2DR CABRIOLET  RWD": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "2 SERIES M235i xDRIVE 2DR COUPE AWD": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "2 SERIES M235i xDRIVE 2DR CABRIOLET": {
-      "years": [
-        2017
-      ]
-    }
-  },
-  "320i": {
-    "320i SD": {
-      "years": [
-        1981
-      ]
-    },
-    "320 i": {
-      "years": [
-        1982
-      ]
-    },
-    "320i/325i 4DR SEDAN": {
-      "years": [
-        1994,
-        1995
-      ]
-    },
-    "320i 4DR SEDAN": {
-      "years": [
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "320i 4DR SEDAN RWD": {
-      "years": [
         2004,
         2005
-      ]
-    },
-    "3 SERIES 320i 4DR SEDAN RWD": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "3 SERIES 320i xDRIVE 4DR SEDAN AWD": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    }
-  },
-  "328d": {
-    "3 SERIES 328d xDRIVE 4DR SEDAN AWD": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "3 SERIES TOURING 328d xDRIVE 4DR WAGON": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "3 SERIES 328d xDRIVE 4DR SEDAN": {
-      "years": [
-        2018
       ]
     }
   },
@@ -1360,1400 +2754,6 @@
     "i SERIES i8 ROADSTER": {
       "years": [
         2018,
-        2019
-      ]
-    }
-  },
-  "ActiveHybrid 3": {
-    "3 SERIES ACTIVEHYBRID 3 4DR SEDAN RWD": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    }
-  },
-  "428i": {
-    "4 SERIES  428i 2DR COUPE RWD": {
-      "years": [
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "4 SERIES  428i xDrive 2DR COUPE AWD": {
-      "years": [
-        2014
-      ]
-    },
-    "4 SERIES GRAN COUPE 428i 4DR SEDAN RWD": {
-      "years": [
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "4 SERIES GRAN COUPE 428i xDrive 4DR SEDAN AWD": {
-      "years": [
-        2014
-      ]
-    },
-    "4 SERIES  428i 2DR CABRIOLET RWD": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "4 SERIES  428i xDRIVE 2DR CABRIOLET AWD": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "4 SERIES  428i xDRIVE 2DR COUPE AWD": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "4 SERIES GRAN COUPE 428i xDRIVE 4DR SEDAN AWD": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    }
-  },
-  "435i": {
-    "4 SERIES  435i 2DR COUPE RWD": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "4 SERIES  435i xDrive 2DR COUPE AWD": {
-      "years": [
-        2014
-      ]
-    },
-    "4 SERIES GRAN COUPE 435i 4DR SEDAN RWD": {
-      "years": [
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "4 SERIES  435i 2DR CABRIOLET RWD": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "4 SERIES  435i xDRIVE 2DR CABRIOLET AWD": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "4 SERIES  435i xDRIVE 2DR COUPE AWD": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "4 SERIES GRAN COUPE 435i xDRIVE 4DR SEDAN AWD": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    }
-  },
-  "535d": {
-    "5 SERIES 535d xDrive 4 DR SEDAN AWD": {
-      "years": [
-        2014
-      ]
-    },
-    "5 SERIES 535d xDRIVE 4DR SEDAN AWD": {
-      "years": [
-        2015,
-        2016
-      ]
-    }
-  },
-  "ActiveHybrid 5": {
-    "5 SERIES ACTIVEHYBRID 5 4 DR SEDAN RWD": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "5 SERIES ACTIVEHYBRID 5 4DR SEDAN RWD": {
-      "years": [
-        2015
-      ]
-    }
-  },
-  "X1": {
-    "X1 xDrive28i 4DR SUV": {
-      "years": [
-        2012
-      ]
-    },
-    "X1 xDRIVE28i 4DR SUV": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "X1 xDRIVE35i 4DR SUV": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    }
-  },
-  "535xi": {
-    "5 SERIES TOURING 535xi 4DR WAGON AWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    }
-  },
-  "328xi": {
-    "328xi 2DR COUPE AWD": {
-      "years": [
-        2007
-      ]
-    },
-    "328xi 4DR SEDAN AWD": {
-      "years": [
-        2007
-      ]
-    },
-    "328xi TOURING 4DR WAGON AWD": {
-      "years": [
-        2007
-      ]
-    },
-    "3 SERIES TOURING 328xi 4DR WAGON AWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    }
-  },
-  "335xi": {},
-  "525i": {
-    "525i": {
-      "years": [
-        1989
-      ]
-    },
-    "525i 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993,
-        1994,
-        1995,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "525i 4DR SEDAN RWD": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "525ix 4DR SEDAN AWD": {
-      "years": [
-        2006
-      ]
-    }
-  },
-  "530i": {
-    "530i 4DR SEDAN": {
-      "years": [
-        1994,
-        1995,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "530i 4DR WAGON TOURING": {
-      "years": [
-        1994,
-        1995
-      ]
-    },
-    "530i 4DR SEDAN RWD": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "5 SERIES 530i 4DR SEDAN": {
-      "years": [
-        2017
-      ]
-    },
-    "5 SERIES 530i xDRIVE 4DR SEDAN": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "530xi": {
-    "530xi 4DR SEDAN AWD": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "530xi 4DR TOURING/WAGON": {
-      "years": [
-        2006,
-        2007
-      ]
-    }
-  },
-  "525xi": {
-    "525xi 4DR SEDAN AWD": {
-      "years": [
-        2007
-      ]
-    }
-  },
-  "325Cic": {},
-  "330Cic": {},
-  "M3Cic": {},
-  "325Ci": {
-    "325Ci 2DR CABRIOLET": {
-      "years": [
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "325Ci 2DR COUPE": {
-      "years": [
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "325Ci 2DR CABRIOLET RWD": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "325Ci 2DR COUPE RWD": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    }
-  },
-  "330Ci": {
-    "330Ci 2DR CABRIOLET": {
-      "years": [
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "330Ci 2DR COUPE": {
-      "years": [
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "330Ci 2DR CABRIOLET RWD": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "330Ci 2DR COUPE RWD": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    }
-  },
-  "325i": {
-    "325 I 2 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "325 I 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "325i 2 DR COUPE": {
-      "years": [
-        1989
-      ]
-    },
-    "325i 4DR SEDAN": {
-      "years": [
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "325i 4DR SEDAN RWD": {
-      "years": [
-        2004,
-        2005
-      ]
-    }
-  },
-  "325xi": {
-    "325xi 4DR SEDAN AWD": {
-      "years": [
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    }
-  },
-  "325xiT": {
-    "325xiT 4DR WAGON AWD": {
-      "years": [
-        2002,
-        2003,
-        2004,
-        2005
-      ]
-    },
-    "325xi TOURING 4DR WAGON AWD": {
-      "years": [
-        2006
-      ]
-    }
-  },
-  "530xiT": {},
-  "330i": {
-    "330i 4DR SEDAN": {
-      "years": [
-        2001
-      ]
-    },
-    "330i 4DR SEDAN RWD": {
-      "years": [
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "3 SERIES 330i xDRIVE Gran Turismo": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "3 SERIES TOURING 330i xDRIVE 4DR WAGON": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "3 SERIES 330i xDRIVE 4DR SEDAN": {
-      "years": [
-        2018
-      ]
-    },
-    "3-SERIES 330i xDRIVE 4DR SEDAN": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "330xi": {
-    "330xi 4DR SEDAN AWD": {
-      "years": [
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    }
-  },
-  "760i": {},
-  "325iT": {
-    "325iT 4DR WAGON RWD": {
-      "years": [
-        2002,
-        2003,
-        2004,
-        2005
-      ]
-    }
-  },
-  "545i": {
-    "545i 4DR SEDAN RWD": {
-      "years": [
-        2004,
-        2005
-      ]
-    }
-  },
-  "645Ci": {
-    "645Ci 2DR CABRIOLET RWD": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "645Ci 2DR COUPE RWD": {
-      "years": [
-        2004,
-        2005
-      ]
-    }
-  },
-  "645Cic": {},
-  "745i": {
-    "745i 4DR SEDAN RWD": {
-      "years": [
-        2002,
-        2003,
-        2004,
-        2005
-      ]
-    }
-  },
-  "745Li": {
-    "745Li 4DR SEDAN RWD": {
-      "years": [
-        2002,
-        2003,
-        2004,
-        2005
-      ]
-    }
-  },
-  "318i": {
-    "318 i 2 DR": {
-      "years": [
-        1985
-      ]
-    },
-    "318 i 4 DR": {
-      "years": [
-        1985
-      ]
-    },
-    "318i/325i 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "318i/325i 2DR COUPE": {
-      "years": [
-        1992
-      ]
-    },
-    "318i/325i CABRIOLET": {
-      "years": [
-        1992,
-        1993,
-        1994,
-        1995
-      ]
-    },
-    "318i/320i/325i 2DR COUPE": {
-      "years": [
-        1993
-      ]
-    },
-    "318i/320i/325i 4DR SEDAN": {
-      "years": [
-        1993
-      ]
-    },
-    "318i 4DR SEDAN": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    }
-  },
-  "318iS": {
-    "318is/325i 2DR SEDAN": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "318is 2DR COUPE": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    }
-  },
-  "318iC": {
-    "318i CABRIOLET": {
-      "years": [
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    }
-  },
-  "325iS": {
-    "325 IS 2 DR SEDAN": {
-      "years": [
-        1988
-      ]
-    }
-  },
-  "325iC": {
-    "325 I CONVERTIBLE": {
-      "years": [
-        1987
-      ]
-    },
-    "325 I CABRIOLET": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "325i CABRIOLET": {
-      "years": [
-        1990,
-        1991
-      ]
-    }
-  },
-  "525iT": {
-    "525i TOURING (WAGON)": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "525iT 4DR WAGON": {
-      "years": [
-        2001,
-        2002
-      ]
-    },
-    "525i TOURING 4DR WAGON": {
-      "years": [
-        2003
-      ]
-    }
-  },
-  "530iT": {},
-  "540i": {
-    "540i 4DR SEDAN": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "540iT 4DR WAGON": {
-      "years": [
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "540i TOURING 4DR WAGON": {
-      "years": [
-        2003
-      ]
-    },
-    "5 SERIES 540i 4DR SEDAN": {
-      "years": [
-        2017
-      ]
-    },
-    "5 SERIES 540i xDRIVE 4DR SEDAN": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "840Ci": {
-    "840Ci/850Ci 2DR COUPE": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "840 Ci 2DR COUPE": {
-      "years": [
-        1997
-      ]
-    }
-  },
-  "850Ci": {
-    "850ci 2DR COUPE": {
-      "years": [
-        1993
-      ]
-    },
-    "850 Ci 2DR COUPE": {
-      "years": [
-        1997
-      ]
-    }
-  },
-  "850CSi": {},
-  "318ti": {
-    "318ti 2DR HATCHBACK": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    }
-  },
-  "328iC": {
-    "328i CABRIOLET": {
-      "years": [
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "328i CABRIOLET 2DR CONVERTIBLE RWD": {
-      "years": [
-        2007
-      ]
-    }
-  },
-  "328iS": {
-    "328is 2DR COUPE": {
-      "years": [
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    }
-  },
-  "Z3": {
-    "Z3 2DR ROADSTER": {
-      "years": [
-        1996
-      ]
-    },
-    "Z3 1.9 ROADSTER": {
-      "years": [
-        1997,
-        1998
-      ]
-    },
-    "Z3 2.8 ROADSTER": {
-      "years": [
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "Z3 2.3 ROADSTER": {
-      "years": [
-        1999
-      ]
-    },
-    "Z3 ROADSTER 2.3": {
-      "years": [
-        2000
-      ]
-    },
-    "Z3 ROADSTER 2.8": {
-      "years": [
-        2000
-      ]
-    },
-    "Z3 ROADSTER 2.5": {
-      "years": [
-        2001,
-        2002
-      ]
-    },
-    "Z3 ROADSTER 3.0": {
-      "years": [
-        2001,
-        2002
-      ]
-    }
-  },
-  "323i": {
-    "323i 4DR SEDAN": {
-      "years": [
-        1999,
-        2000
-      ]
-    },
-    "323i/325i 4DR SEDAN RWD": {
-      "years": [
-        2006
-      ]
-    },
-    "323i/328i 4DR SEDAN RWD": {
-      "years": [
-        2007
-      ]
-    }
-  },
-  "323is": {
-    "323is 2DR COUPE": {
-      "years": [
-        1998,
-        1999
-      ]
-    }
-  },
-  "323iC": {
-    "323i CABRIOLET": {
-      "years": [
-        1998,
-        1999
-      ]
-    }
-  },
-  "Z8": {
-    "Z8 ROADSTER 5.0": {
-      "years": [
-        2001,
-        2002,
-        2003,
-        2004,
-        2005
-      ]
-    }
-  },
-  "525iA": {},
-  "530iA": {},
-  "540iA": {},
-  "525iAT": {},
-  "540iAT": {
-    "540iAT4DR WAGON": {
-      "years": [
-        1999
-      ]
-    }
-  },
-  "Alpina": {
-    "7 SERIES ALPINA B7 SEDAN RWD": {
-      "years": [
-        2008
-      ]
-    },
-    "6 SERIES GRAN COUPE ALPINA B6": {
-      "years": [
-        2017
-      ]
-    }
-  },
-  "645i": {},
-  "335": {},
-  "740iL": {
-    "740iL 4DR SEDAN": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001
-      ]
-    }
-  },
-  "750iL": {
-    "750IL": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "750iL 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993,
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001
-      ]
-    }
-  },
-  "M3Ci": {},
-  "M2": {
-    "M 2DR COUPE 3.2L": {
-      "years": [
-        1999
-      ]
-    },
-    "M2 2DR COUPE RWD": {
-      "years": [
-        2017
-      ]
-    },
-    "M2 2DR COUPE": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "340i": {
-    "3 SERIES 340i 4DR SEDAN RWD": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "3 SERIES 340i xDRIVE 4DR SEDAN AWD": {
-      "years": [
-        2016,
-        2017
-      ]
-    },
-    "3 SERIES 340i xDRIVE Gran Turismo": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "3 SERIES 340i xDRIVE 4DR SEDAN": {
-      "years": [
-        2018
-      ]
-    }
-  },
-  "330e": {
-    "3 SERIES 330e iPERFORMANCE SEDAN": {
-      "years": [
-        2017,
-        2018
-      ]
-    },
-    "3-SERIES 330e 4DR SEDAN": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "M4": {
-    "M4 2DR CABRIOLET RWD": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "M4 2DR COUPE RWD": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "M4 2DR CABRIOLET": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "M4 2DR COUPE": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "328Ci": {
-    "328Ci 2DR COUPE": {
-      "years": [
-        2000
-      ]
-    }
-  },
-  "735i": {
-    "735 i": {
-      "years": [
-        1985
-      ]
-    },
-    "735 I": {
-      "years": [
-        1986
-      ]
-    },
-    "735 I 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "735i 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    }
-  },
-  "735iL": {
-    "735IL 4DR SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "735iL 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    }
-  },
-  "850i": {
-    "850i 2DR COUPE": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    }
-  },
-  "325ix": {
-    "325IX 4WD 4DR": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "325iX 4WD 4DR SEDAN": {
-      "years": [
-        1990,
-        1991
-      ]
-    }
-  },
-  "325/325e": {},
-  "635CSi": {
-    "635 csi": {
-      "years": [
-        1985
-      ]
-    },
-    "635 CSI": {
-      "years": [
-        1986
-      ]
-    },
-    "635 CSI 2 DR COUPE": {
-      "years": [
-        1987,
-        1988
-      ]
-    }
-  },
-  "535i/535is": {},
-  "L7": {},
-  "524td": {},
-  "528e": {
-    "528 e": {
-      "years": [
-        1982,
-        1985,
-        1986
-      ]
-    },
-    "528 E 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988
-      ]
-    }
-  },
-  "325e": {
-    "325 e 2 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "325 e 4 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    }
-  },
-  "325i/325is": {},
-  "230i": {
-    "2 SERIES 230i 2DR COUPE RWD": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "2 SERIES 230i xDRIVE 2DR CABRIOLET": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "2 SERIES 230i xDRIVE 2DR COUPE": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "M240i": {
-    "2 SERIES M240i 2DR CABRIOLET  RWD": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "2 SERIES M240i 2DR COUPE RWD": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "2 SERIES M240i xDRIVE 2DR CABRIOLET": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "2 SERIES M240i xDRIVE 2DR COUPE": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "430i": {
-    "4 SERIES  430i xDRIVE 2DR CABRIOLET": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "4 SERIES  430i xDRIVE 2DR COUPE": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "4 SERIES GRAN COUPE 430i xDRIVE 4DR SEDAN": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "440i": {
-    "4 SERIES  440i 2DR COUPE RWD": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "4 SERIES  440i xDRIVE 2DR CABRIOLET": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "4 SERIES  440i xDRIVE 2DR COUPE": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "4 SERIES GRAN COUPE 440i xDRIVE 4DR SEDAN": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "B7": {},
-  "740e": {},
-  "750i / ALPINA B7": {},
-  "533i": {},
-  "633 csi": {
-    "633 csi CP": {
-      "years": [
-        1981
-      ]
-    },
-    "633 csi": {
-      "years": [
-        1982
-      ]
-    }
-  },
-  "733i": {
-    "733i SD": {
-      "years": [
-        1981
-      ]
-    },
-    "733 i": {
-      "years": [
-        1982
-      ]
-    }
-  },
-  "730i": {},
-  "540d": {
-    "5 SERIES 540d xDRIVE 4DR SEDAN": {
-      "years": [
-        2018
-      ]
-    }
-  },
-  "530e": {
-    "5 SERIES 530e 4DR SEDAN": {
-      "years": [
-        2017,
-        2018
-      ]
-    },
-    "5 SERIES 530e xDRIVE 4DR SEDAN": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "M550i": {
-    "5 SERIES M550i xDRIVE 4DR SEDAN": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "M760i": {},
-  "650i / ALPINA B6": {},
-  "750Li / ALPINA B7": {},
-  "750Lxi / ALPINA B7": {},
-  "750xi / ALPINA B7": {},
-  "750i / B7": {},
-  "650i / B6": {},
-  "640xi": {},
-  "M340i": {
-    "3-SERIES M340i xDRIVE 4DR SEDAN": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "745e": {},
-  "840i": {},
-  "M850i": {},
-  "M8": {},
-  "X6": {
-    "X6 4DR SUV": {
-      "years": [
-        2008
-      ]
-    },
-    "X6 4DR SUV xDRIVE 350i": {
-      "years": [
-        2009
-      ]
-    },
-    "X6 4DR SUV xDRIVE 35i": {
-      "years": [
-        2010
-      ]
-    },
-    "X6 4DR SUV xDRIVE 50i": {
-      "years": [
-        2010
-      ]
-    },
-    "X6M 4DR SUV AWD": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "X6 ActiveHybrid 4DR SUV": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "X6 xDRIVE 35i 4DR SUV": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "X6 xDRIVE 50i 4DR SUV": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "X4": {
-    "X4 xDRIVE28i 4DR SUV": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "X4 xDRIVE35i 4DR SUV": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "X4 M40i 4DR SUV": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "X4 xDRIVE30i 4DR SUV": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "X2": {
-    "X2 sDRIVE28i 4DR SUV FWD": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "X2 xDRIVE28i 4DR SUV AWD": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "X7": {
-    "X7 xDRIVE40i 4DR SUV": {
-      "years": [
-        2019
-      ]
-    },
-    "X7 xDRIVE50i 4DR SUV": {
-      "years": [
         2019
       ]
     }

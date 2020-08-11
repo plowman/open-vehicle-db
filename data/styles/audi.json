@@ -1,167 +1,379 @@
 {
-  "TT": {
-    "QUATTRO": {
+  "100": {
+    "100 AVANT/200TURBO QUATRO AVANT WAGON": {
+      "years": [
+        1989
+      ]
+    },
+    "100 QUATRO SEDAN": {
+      "years": [
+        1989,
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "100 SEDAN FWD": {
+      "years": [
+        1989,
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "100 AVANT WAGON": {
+      "years": [
+        1991
+      ]
+    },
+    "100S 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "100S/100CS QUATTRO 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "100 4DR SEDAN QUATTRO S/CS": {
+      "years": [
+        1994
+      ]
+    },
+    "100 4DR SEDAN QUATTRO S4": {
+      "years": [
+        1994
+      ]
+    },
+    "100 4DR SEDAN S": {
+      "years": [
+        1994
+      ]
+    },
+    "100 4DR WAGON QUATTRO CS": {
+      "years": [
+        1994
+      ]
+    }
+  },
+  "200": {
+    "200 TURBO/200 TURBO QUATRO SEDAN": {
+      "years": [
+        1989
+      ]
+    },
+    "200 TURBO 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "200 TURBO QUATTRO 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    }
+  },
+  "4000": {
+    "4000 5+5 CP": {
+      "years": [
+        1981
+      ]
+    },
+    "4000 E": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "4000 COUPE": {
+      "years": [
+        1982
+      ]
+    },
+    "4000 S": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "4000 S 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "4000 S QUATTRO 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    }
+  },
+  "5000": {
+    "5000": {
+      "years": [
+        1981
+      ]
+    },
+    "5000 TURBO": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "5000 4 DR": {
+      "years": [
+        1982
+      ]
+    },
+    "5000 CD TURBO": {
       "years": [
         1985
       ]
     },
-    "TT 2DR HATCHBACK": {
+    "5000 S AVANT": {
       "years": [
-        1999
+        1985,
+        1986
       ]
     },
-    "TT 2DR QUATTRO CONVERTIBLE": {
+    "5000 S TURBO": {
       "years": [
-        2000
+        1985,
+        1986
       ]
     },
-    "TT 2DR QUATTRO HATCHBACK": {
+    "5000 S TURBO DIESEL": {
       "years": [
-        2000
+        1985
       ]
     },
-    "TT 2DR CONVERTIBLE FWD": {
+    "5000 CD TURBO QUATTRO": {
       "years": [
-        2001,
-        2002,
-        2003,
-        2004
+        1986
       ]
     },
-    "TT 2DR CONVERTIBLE QUATTRO": {
+    "5000 CD TURBO QUATTRO AVANT": {
       "years": [
-        2001,
-        2002,
-        2003
+        1986
       ]
     },
-    "TT 2DR COUPE QUATTRO": {
+    "5000 CD TURBO 4 DR SEDAN": {
       "years": [
-        2001,
-        2002,
-        2003
+        1987,
+        1988
       ]
     },
-    "TT 2DR CONVERTIBLE AWD QUATTRO/3.2 QUATTRO": {
+    "5000 CD TURBO QUATTRO 4 DR SEDAN": {
       "years": [
-        2004
+        1987
       ]
     },
-    "TT 2DR COUPE AWD QUATTRO/3.2 QUATTRO": {
+    "5000 CD TURBO QUATTRO AVANT (WAGON)": {
       "years": [
-        2004
+        1987
       ]
     },
-    "TT 2DR COUPE FWD": {
+    "5000 S 4 DR SEDAN": {
       "years": [
-        2004
+        1987,
+        1988
       ]
     },
-    "TT 1.8T 2DR COUPE FWD": {
+    "5000 S AVANT (WAGON)": {
       "years": [
-        2005
+        1987
       ]
     },
-    "TT 3.2 2DR COUPE AWD": {
+    "5000 S QUATTRO /CD TURBO QUATTRO  SEDAN": {
       "years": [
-        2005,
-        2006
+        1988
       ]
     },
-    "TT ROADSTER 1.8T 2DR CONVERTIBLE FWD": {
+    "5000 S/ CD TURBO QUATTRO, AVANT WAGON": {
       "years": [
-        2005
+        1988
+      ]
+    }
+  },
+  "80": {
+    "80 4DR SEDAN": {
+      "years": [
+        1992
+      ]
+    }
+  },
+  "90": {
+    "90": {
+      "years": [
+        1988,
+        1989
       ]
     },
-    "TT ROADSTER 3.2  2DR CONVERTIBLE AWD": {
+    "90 QUATTRO": {
       "years": [
-        2005,
-        2006
+        1988,
+        1989
       ]
     },
-    "TT 1.8T 2DR COUPE AWD": {
+    "90 COUPE QUATTRO 20V": {
       "years": [
-        2006
+        1990,
+        1991
       ]
     },
-    "TT ROADSTER 1.8T 2DR CONVERTIBLE AWD": {
+    "90 QUATTRO 20V SEDAN": {
       "years": [
-        2006
+        1990,
+        1991,
+        1992
       ]
     },
-    "TT 2DR COUPE 2.0T": {
+    "90 SEDAN": {
       "years": [
+        1990,
+        1991
+      ]
+    },
+    "90S QUATTRO 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "90S/90CS 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "90 2DR CABRIOLET": {
+      "years": [
+        1994
+      ]
+    },
+    "90 4DR SEDAN QUATTRO S": {
+      "years": [
+        1994
+      ]
+    },
+    "90 4DR SEDAN S/CS": {
+      "years": [
+        1994
+      ]
+    },
+    "SPORT 90 4DR SEDAN": {
+      "years": [
+        1995
+      ]
+    },
+    "SPORT 90 QUATTRO 4DR SEDAN": {
+      "years": [
+        1995
+      ]
+    }
+  },
+  "A3": {
+    "A3 4DR HATCH AWD": {
+      "years": [
+        2006,
+        2007,
         2008
       ]
     },
-    "TT 2DR COUPE 3.2": {
+    "A3 4DR HATCH FWD": {
       "years": [
+        2006,
+        2007,
         2008
       ]
     },
-    "TT ROADSTER 2DR CONVERTIBLE 2.0T": {
-      "years": [
-        2008
-      ]
-    },
-    "TT ROADSTER 2DR CONVERTIBLE 3.2": {
-      "years": [
-        2008
-      ]
-    },
-    "TT 2DR COUPE 2.0 TFSI": {
-      "years": [
-        2009,
-        2010
-      ]
-    },
-    "TT 2DR COUPE 3.2 /TTS": {
+    "A3 4DR HATCH 2.0 TFSI FWD": {
       "years": [
         2009
       ]
     },
-    "TT ROADSTER 2DR CONVERTIBLE 2.0 TFSI": {
-      "years": [
-        2009,
-        2010
-      ]
-    },
-    "TT ROADSTER 2DR CONVERTIBLE 3.2 /TTS": {
+    "A3 4DR HATCH 3.2 FSI FWD": {
       "years": [
         2009
       ]
     },
-    "TT 2DR COUPE 2.0 TFSI QUATTRO/S-LINE": {
+    "A3 4DR HATCH 3.2 S-LINE AWD": {
       "years": [
-        2011,
-        2012,
-        2013,
-        2014,
-        2015
+        2009
       ]
     },
-    "TT ROADSTER 2DR CONVERTIBLE 2.0 TFSI QUATTRO/": {
+    "A3 4DR HATCH 2.0 T FWD/2.0T QUATTRO/2.0 TDI": {
       "years": [
-        2011,
-        2012,
-        2015
+        2010
       ]
     },
-    "TT ROADSTER 2DR CONVERTIBLE 2.0 TFSI QUATTRO": {
+    "A3 4DR HATCH 2.0 T FWD/2.0 TDI": {
       "years": [
+        2011
+      ]
+    },
+    "A3 4DR HATCH 2.0T QUATTRO": {
+      "years": [
+        2011
+      ]
+    },
+    "A3 4DR HATCH 2.0 TFSI FWD PROGRESSIV/2.0 TDI": {
+      "years": [
+        2012,
         2013,
         2014
       ]
     },
-    "TT 2DR COUPE": {
+    "A3 4DR HATCH 2.0 TFSI QUATTRO PROGRESSIV": {
       "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "A3 CABRIOLET": {
+      "years": [
+        2015,
         2016,
         2017,
         2018,
         2019
       ]
     },
-    "TT ROADSTER 2DR CONVERTIBLE": {
+    "A3 SEDAN 1.8 TFSI/2.0TDI": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "A3 SEDAN 2.0 TFSI": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "A3 SEDAN 2.0 TFSI QUATTRO": {
+      "years": [
+        2018
+      ]
+    },
+    "A3 4DR SEDAN": {
+      "years": [
+        2019
+      ]
+    },
+    "A3 4DR SEDAN QUATTRO": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "A3 Sportback e-tron": {
+    "A3 SPORTBACK e-tron": {
       "years": [
         2016,
         2017,
@@ -459,67 +671,103 @@
       ]
     }
   },
-  "S4": {
-    "S4 4DR SEDAN": {
+  "A4 allroad": {
+    "A4 ALLROAD 2.0 TFSI QUATTRO/PREMIUM/PREMIUM P": {
       "years": [
-        1993,
+        2013
+      ]
+    },
+    "A4 ALLROAD 2.0 TFSI QUATTRO": {
+      "years": [
+        2014,
+        2015,
+        2016
+      ]
+    },
+    "A4 ALLROAD": {
+      "years": [
+        2017,
         2018,
         2019
       ]
-    },
-    "S4 4DR SEDAN QUATTRO 2.7T": {
+    }
+  },
+  "A5": {
+    "A5 2DR COUOPE AWD": {
       "years": [
-        2000,
-        2001,
-        2002
+        2008
       ]
     },
-    "S4 AVANT 4DR WAGON AWD": {
+    "A5 2DR COUPE AWD": {
       "years": [
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
         2009
       ]
     },
-    "S4 SEDAN 4DR SEDAN AWD": {
+    "A5 2DR CABRIOLET 2.0T AWD": {
       "years": [
-        2004,
-        2005
-      ]
-    },
-    "S4 CABRIOLET 4DR CONV AWD": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "S4 4DR SEDAN AWD": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009,
         2010,
         2011
       ]
     },
-    "S4 4DR SEDAN 3.0 TFSI QUTTRO/PREMIUM": {
+    "A5 2DR CABRIOLET 3.2T AWD": {
+      "years": [
+        2010
+      ]
+    },
+    "A5 2DR COUPE 2.0T AWD": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "A5 2DR COUPE 3.2 AWD": {
+      "years": [
+        2010
+      ]
+    },
+    "A5 2DR CABRIOLET 2.0 TFSI QUATTRO PREMIUM/PRE": {
       "years": [
         2012,
         2013
       ]
     },
-    "S4 4DR SEDAN 3.0 TFSI QUATTRO/PREMIUM": {
+    "A5 2DR COUPE 2.0 TFSI QUATTRO PREMIUM/PREMIUM": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "A5 2DR CABRIOLET 2.0 TFSI QUATTRO": {
       "years": [
         2014,
         2015,
         2016
+      ]
+    },
+    "A5 2DR COUPE 2.0 TFSI QUATTRO": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "A5 2DR CONVERTIBLE": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "A5 2DR COUPE": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "A5 SPORTBACK": {
+      "years": [
+        2018,
+        2019
       ]
     }
   },
@@ -728,15 +976,30 @@
       ]
     }
   },
-  "RS6": {},
-  "allroad": {
-    "ALLROAD 4DR WAGON QUATTRO 2.7T": {
+  "A6 allroad": {},
+  "A7": {
+    "A7 4DR HATCHBACK 3.0 TFSI QUATTRO PREMIUM/PRE": {
       "years": [
-        2001,
-        2002,
-        2003,
-        2004,
-        2005
+        2012,
+        2013
+      ]
+    },
+    "A7 4DR HATCHBACK 3.0 TFSI QUATTRO/TDI QUATTRO": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "A7 4DR SPORTBACK 3.0 TFSI QUATTRO/TDI QUATTRO": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "A7 SPORTBACK 4DR SEDAN": {
+      "years": [
+        2019
       ]
     }
   },
@@ -887,181 +1150,136 @@
       ]
     }
   },
-  "RS4": {
-    "RS 4 4DR SEDAN AWD": {
+  "A8 e": {},
+  "Cabriolet": {
+    "SPORT 90 2DR CABRIOLET": {
       "years": [
-        2007
+        1995
       ]
     }
   },
-  "A3": {
-    "A3 4DR HATCH AWD": {
+  "Coupe": {
+    "COUPE GT": {
       "years": [
-        2006,
-        2007,
-        2008
+        1985,
+        1986
       ]
     },
-    "A3 4DR HATCH FWD": {
+    "QUATTRO COUPE": {
       "years": [
-        2006,
-        2007,
-        2008
+        1986
       ]
     },
-    "A3 4DR HATCH 2.0 TFSI FWD": {
+    "COUPE GT 2 DR COUPE": {
       "years": [
-        2009
+        1987
       ]
     },
-    "A3 4DR HATCH 3.2 FSI FWD": {
+    "TTS 2DR COUPE": {
       "years": [
-        2009
-      ]
-    },
-    "A3 4DR HATCH 3.2 S-LINE AWD": {
-      "years": [
-        2009
-      ]
-    },
-    "A3 4DR HATCH 2.0 T FWD/2.0T QUATTRO/2.0 TDI": {
-      "years": [
-        2010
-      ]
-    },
-    "A3 4DR HATCH 2.0 T FWD/2.0 TDI": {
-      "years": [
-        2011
-      ]
-    },
-    "A3 4DR HATCH 2.0T QUATTRO": {
-      "years": [
-        2011
-      ]
-    },
-    "A3 4DR HATCH 2.0 TFSI FWD PROGRESSIV/2.0 TDI": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "A3 4DR HATCH 2.0 TFSI QUATTRO PROGRESSIV": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "A3 CABRIOLET": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "A3 SEDAN 1.8 TFSI/2.0TDI": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "A3 SEDAN 2.0 TFSI": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "A3 SEDAN 2.0 TFSI QUATTRO": {
-      "years": [
-        2018
-      ]
-    },
-    "A3 4DR SEDAN": {
-      "years": [
-        2019
-      ]
-    },
-    "A3 4DR SEDAN QUATTRO": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "S6": {
-    "S6 4DR SEDAN QUATTRO": {
-      "years": [
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "S6 AVANT": {
-      "years": [
-        2003
-      ]
-    },
-    "S6 4DR SEDAN AWD": {
-      "years": [
-        2007,
-        2008,
-        2009,
         2010,
-        2011
-      ]
-    },
-    "S6 4DR SEDAN": {
-      "years": [
-        2012
-      ]
-    },
-    "S6 4DR SEDAN 4.0 TFSI QUATTRO": {
-      "years": [
-        2013,
-        2014,
-        2015,
+        2011,
         2016,
         2017,
         2018,
         2019
       ]
-    }
-  },
-  "S8": {
-    "S8 4DR SEDAN QUATTRO 4.2": {
-      "years": [
-        2001,
-        2002,
-        2003
-      ]
     },
-    "S8 4DR SEDAN AWD": {
+    "TTS 2DR COUPE 2.0 TFSI QUATTRO": {
       "years": [
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "S8 4DR SEDAN 4.0 TFSI QUATTRO": {
-      "years": [
+        2012,
         2013,
         2014,
         2015
       ]
-    },
-    "S8 PLUS 4DR SEDAN 4.0 TFSI QUATTRO": {
+    }
+  },
+  "Q3": {
+    "Q3 5DR SUV 2.0 TFSI FWD": {
       "years": [
+        2015,
         2016,
         2017,
+        2018
+      ]
+    },
+    "Q3 5DR SUV 2.0 TFSI QUATTRO": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "Q3 4DR SUV": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "Q5": {
+    "Q5 5DR SUV AWD 3.2 FSI QUATTRO": {
+      "years": [
+        2009
+      ]
+    },
+    "Q5 5DR SUV AWD 3.2/3.2 PREMIUM": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "Q5 5DR SUV 2.0 TFSI QUATTRO PREMIUM/PREMIUM P": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "Q5 5DR SUV 3.2 FSI QUATTRO/PREMIUM": {
+      "years": [
+        2012
+      ]
+    },
+    "Q5 5DR SUV 3.0 TFSI QUATTRO PREMIUM/PREMIUM P": {
+      "years": [
+        2013
+      ]
+    },
+    "Q5 5DR SUV HYBRID QUATTRO": {
+      "years": [
+        2013
+      ]
+    },
+    "Q5 5DR SUV 2.0 TFSI QUATTRO": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "Q5 5DR SUV 3.0 TFSI QUATTRO": {
+      "years": [
+        2014,
+        2015,
+        2017
+      ]
+    },
+    "Q5 5DR SUV HYBRID QUATTRO/TDI QUATTRO": {
+      "years": [
+        2014,
+        2015,
+        2016
+      ]
+    },
+    "Q5 4DR SUV": {
+      "years": [
         2018,
         2019
       ]
     }
   },
+  "Q5 e": {},
   "Q7": {
     "Q7 4DR SUV AWD 3.6L": {
       "years": [
@@ -1151,139 +1369,9 @@
       ]
     }
   },
-  "A5": {
-    "A5 2DR COUOPE AWD": {
+  "Q8": {
+    "Q8 4DR SUV": {
       "years": [
-        2008
-      ]
-    },
-    "A5 2DR COUPE AWD": {
-      "years": [
-        2009
-      ]
-    },
-    "A5 2DR CABRIOLET 2.0T AWD": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "A5 2DR CABRIOLET 3.2T AWD": {
-      "years": [
-        2010
-      ]
-    },
-    "A5 2DR COUPE 2.0T AWD": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "A5 2DR COUPE 3.2 AWD": {
-      "years": [
-        2010
-      ]
-    },
-    "A5 2DR CABRIOLET 2.0 TFSI QUATTRO PREMIUM/PRE": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "A5 2DR COUPE 2.0 TFSI QUATTRO PREMIUM/PREMIUM": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "A5 2DR CABRIOLET 2.0 TFSI QUATTRO": {
-      "years": [
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "A5 2DR COUPE 2.0 TFSI QUATTRO": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "A5 2DR CONVERTIBLE": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "A5 2DR COUPE": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "A5 SPORTBACK": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "S5": {
-    "S5 2DR COUPE AWD": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "S5 2DR CABRIOLET AWD": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "S5 2DR CABRIOLET 3.0 TFSI QUATTRO/PREMIUM": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "S5 2DR COUPE 4.2 FSI QUATTRO/QUATTRO PREMIUM": {
-      "years": [
-        2012
-      ]
-    },
-    "S5 2DR COUPE 3.0 TFSI QUATTRO/QUATTRO PREMIUM": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "S5 2DR CONVERTIBLE": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "S5 2DR COUPE": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "S5 SPORTBACK": {
-      "years": [
-        2018,
         2019
       ]
     }
@@ -1399,19 +1487,19 @@
       ]
     }
   },
-  "TTS": {
-    "TTS ROADSTER 2DR CONVERTIBLE": {
+  "RS3": {
+    "RS3 SEDAN TFSI QUATTRO": {
       "years": [
-        2010,
-        2011
+        2017,
+        2018,
+        2019
       ]
-    },
-    "TTS ROADSTER 2DR CONVERTIBLE 2.0 TFSI QUATTRO": {
+    }
+  },
+  "RS4": {
+    "RS 4 4DR SEDAN AWD": {
       "years": [
-        2012,
-        2013,
-        2014,
-        2015
+        2007
       ]
     }
   },
@@ -1440,195 +1528,187 @@
       ]
     }
   },
-  "A7": {
-    "A7 4DR HATCHBACK 3.0 TFSI QUATTRO PREMIUM/PRE": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "A7 4DR HATCHBACK 3.0 TFSI QUATTRO/TDI QUATTRO": {
+  "RS6": {},
+  "RS7": {
+    "RS7 4DR HATCHBACK 4.0 TFSI QUATTRO": {
       "years": [
         2014,
         2015
       ]
     },
-    "A7 4DR SPORTBACK 3.0 TFSI QUATTRO/TDI QUATTRO": {
+    "RS7 4DR SPORTBACK 4.0 TFSI QUATTRO": {
       "years": [
         2016,
         2017,
-        2018
-      ]
-    },
-    "A7 SPORTBACK 4DR SEDAN": {
-      "years": [
+        2018,
         2019
-      ]
-    }
-  },
-  "TT RS": {
-    "TT RS 2DR COUPE 2.5 TFSI QUATTRO": {
-      "years": [
-        2012,
-        2013
-      ]
-    }
-  },
-  "90": {
-    "90": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "90 QUATTRO": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "90 COUPE QUATTRO 20V": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "90 QUATTRO 20V SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "90 SEDAN": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "90S QUATTRO 4DR SEDAN": {
-      "years": [
-        1993
-      ]
-    },
-    "90S/90CS 4DR SEDAN": {
-      "years": [
-        1993
-      ]
-    },
-    "90 2DR CABRIOLET": {
-      "years": [
-        1994
-      ]
-    },
-    "90 4DR SEDAN QUATTRO S": {
-      "years": [
-        1994
-      ]
-    },
-    "90 4DR SEDAN S/CS": {
-      "years": [
-        1994
-      ]
-    },
-    "SPORT 90 4DR SEDAN": {
-      "years": [
-        1995
-      ]
-    },
-    "SPORT 90 QUATTRO 4DR SEDAN": {
-      "years": [
-        1995
-      ]
-    }
-  },
-  "100": {
-    "100 AVANT/200TURBO QUATRO AVANT WAGON": {
-      "years": [
-        1989
-      ]
-    },
-    "100 QUATRO SEDAN": {
-      "years": [
-        1989,
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "100 SEDAN FWD": {
-      "years": [
-        1989,
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "100 AVANT WAGON": {
-      "years": [
-        1991
-      ]
-    },
-    "100S 4DR SEDAN": {
-      "years": [
-        1993
-      ]
-    },
-    "100S/100CS QUATTRO 4DR SEDAN": {
-      "years": [
-        1993
-      ]
-    },
-    "100 4DR SEDAN QUATTRO S/CS": {
-      "years": [
-        1994
-      ]
-    },
-    "100 4DR SEDAN QUATTRO S4": {
-      "years": [
-        1994
-      ]
-    },
-    "100 4DR SEDAN S": {
-      "years": [
-        1994
-      ]
-    },
-    "100 4DR WAGON QUATTRO CS": {
-      "years": [
-        1994
-      ]
-    }
-  },
-  "V8": {
-    "V8 4DR SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "V8 QUATTRO 4DR SEDAN": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "V8 4DR SEDAN QUATTRO": {
-      "years": [
-        1994
-      ]
-    }
-  },
-  "Cabriolet": {
-    "SPORT 90 2DR CABRIOLET": {
-      "years": [
-        1995
       ]
     }
   },
   "S3": {
     "S3 SEDAN TFSI QUATTRO": {
       "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "S4": {
+    "S4 4DR SEDAN": {
+      "years": [
+        1993,
+        2018,
+        2019
+      ]
+    },
+    "S4 4DR SEDAN QUATTRO 2.7T": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "S4 AVANT 4DR WAGON AWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "S4 SEDAN 4DR SEDAN AWD": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "S4 CABRIOLET 4DR CONV AWD": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "S4 4DR SEDAN AWD": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "S4 4DR SEDAN 3.0 TFSI QUTTRO/PREMIUM": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "S4 4DR SEDAN 3.0 TFSI QUATTRO/PREMIUM": {
+      "years": [
+        2014,
+        2015,
+        2016
+      ]
+    }
+  },
+  "S5": {
+    "S5 2DR COUPE AWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "S5 2DR CABRIOLET AWD": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "S5 2DR CABRIOLET 3.0 TFSI QUATTRO/PREMIUM": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "S5 2DR COUPE 4.2 FSI QUATTRO/QUATTRO PREMIUM": {
+      "years": [
+        2012
+      ]
+    },
+    "S5 2DR COUPE 3.0 TFSI QUATTRO/QUATTRO PREMIUM": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "S5 2DR CONVERTIBLE": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "S5 2DR COUPE": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "S5 SPORTBACK": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "S6": {
+    "S6 4DR SEDAN QUATTRO": {
+      "years": [
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "S6 AVANT": {
+      "years": [
+        2003
+      ]
+    },
+    "S6 4DR SEDAN AWD": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "S6 4DR SEDAN": {
+      "years": [
+        2012
+      ]
+    },
+    "S6 4DR SEDAN 4.0 TFSI QUATTRO": {
+      "years": [
+        2013,
+        2014,
         2015,
         2016,
         2017,
@@ -1659,309 +1739,33 @@
       ]
     }
   },
-  "RS7": {
-    "RS7 4DR HATCHBACK 4.0 TFSI QUATTRO": {
+  "S8": {
+    "S8 4DR SEDAN QUATTRO 4.2": {
       "years": [
-        2014,
-        2015
+        2001,
+        2002,
+        2003
       ]
     },
-    "RS7 4DR SPORTBACK 4.0 TFSI QUATTRO": {
+    "S8 4DR SEDAN AWD": {
       "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "A3 Sportback e-tron": {
-    "A3 SPORTBACK e-tron": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "5000": {
-    "5000": {
-      "years": [
-        1981
+        2007,
+        2008,
+        2009
       ]
     },
-    "5000 TURBO": {
+    "S8 4DR SEDAN 4.0 TFSI QUATTRO": {
       "years": [
-        1981,
-        1982
-      ]
-    },
-    "5000 4 DR": {
-      "years": [
-        1982
-      ]
-    },
-    "5000 CD TURBO": {
-      "years": [
-        1985
-      ]
-    },
-    "5000 S AVANT": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "5000 S TURBO": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "5000 S TURBO DIESEL": {
-      "years": [
-        1985
-      ]
-    },
-    "5000 CD TURBO QUATTRO": {
-      "years": [
-        1986
-      ]
-    },
-    "5000 CD TURBO QUATTRO AVANT": {
-      "years": [
-        1986
-      ]
-    },
-    "5000 CD TURBO 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "5000 CD TURBO QUATTRO 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "5000 CD TURBO QUATTRO AVANT (WAGON)": {
-      "years": [
-        1987
-      ]
-    },
-    "5000 S 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "5000 S AVANT (WAGON)": {
-      "years": [
-        1987
-      ]
-    },
-    "5000 S QUATTRO /CD TURBO QUATTRO  SEDAN": {
-      "years": [
-        1988
-      ]
-    },
-    "5000 S/ CD TURBO QUATTRO, AVANT WAGON": {
-      "years": [
-        1988
-      ]
-    }
-  },
-  "4000": {
-    "4000 5+5 CP": {
-      "years": [
-        1981
-      ]
-    },
-    "4000 E": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "4000 COUPE": {
-      "years": [
-        1982
-      ]
-    },
-    "4000 S": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "4000 S 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "4000 S QUATTRO 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    }
-  },
-  "80": {
-    "80 4DR SEDAN": {
-      "years": [
-        1992
-      ]
-    }
-  },
-  "200": {
-    "200 TURBO/200 TURBO QUATRO SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "200 TURBO 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "200 TURBO QUATTRO 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    }
-  },
-  "Coupe": {
-    "COUPE GT": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "QUATTRO COUPE": {
-      "years": [
-        1986
-      ]
-    },
-    "COUPE GT 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "TTS 2DR COUPE": {
-      "years": [
-        2010,
-        2011,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "TTS 2DR COUPE 2.0 TFSI QUATTRO": {
-      "years": [
-        2012,
         2013,
         2014,
         2015
       ]
-    }
-  },
-  "RS3": {
-    "RS3 SEDAN TFSI QUATTRO": {
+    },
+    "S8 PLUS 4DR SEDAN 4.0 TFSI QUATTRO": {
       "years": [
+        2016,
         2017,
         2018,
-        2019
-      ]
-    }
-  },
-  "A6 allroad": {},
-  "A8 e": {},
-  "Q5": {
-    "Q5 5DR SUV AWD 3.2 FSI QUATTRO": {
-      "years": [
-        2009
-      ]
-    },
-    "Q5 5DR SUV AWD 3.2/3.2 PREMIUM": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "Q5 5DR SUV 2.0 TFSI QUATTRO PREMIUM/PREMIUM P": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "Q5 5DR SUV 3.2 FSI QUATTRO/PREMIUM": {
-      "years": [
-        2012
-      ]
-    },
-    "Q5 5DR SUV 3.0 TFSI QUATTRO PREMIUM/PREMIUM P": {
-      "years": [
-        2013
-      ]
-    },
-    "Q5 5DR SUV HYBRID QUATTRO": {
-      "years": [
-        2013
-      ]
-    },
-    "Q5 5DR SUV 2.0 TFSI QUATTRO": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "Q5 5DR SUV 3.0 TFSI QUATTRO": {
-      "years": [
-        2014,
-        2015,
-        2017
-      ]
-    },
-    "Q5 5DR SUV HYBRID QUATTRO/TDI QUATTRO": {
-      "years": [
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "Q5 4DR SUV": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "Q3": {
-    "Q3 5DR SUV 2.0 TFSI FWD": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "Q3 5DR SUV 2.0 TFSI QUATTRO": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "Q3 4DR SUV": {
-      "years": [
         2019
       ]
     }
@@ -1982,31 +1786,228 @@
       ]
     }
   },
-  "A4 allroad": {
-    "A4 ALLROAD 2.0 TFSI QUATTRO/PREMIUM/PREMIUM P": {
+  "TT": {
+    "QUATTRO": {
       "years": [
-        2013
+        1985
       ]
     },
-    "A4 ALLROAD 2.0 TFSI QUATTRO": {
+    "TT 2DR HATCHBACK": {
       "years": [
+        1999
+      ]
+    },
+    "TT 2DR QUATTRO CONVERTIBLE": {
+      "years": [
+        2000
+      ]
+    },
+    "TT 2DR QUATTRO HATCHBACK": {
+      "years": [
+        2000
+      ]
+    },
+    "TT 2DR CONVERTIBLE FWD": {
+      "years": [
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "TT 2DR CONVERTIBLE QUATTRO": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "TT 2DR COUPE QUATTRO": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "TT 2DR CONVERTIBLE AWD QUATTRO/3.2 QUATTRO": {
+      "years": [
+        2004
+      ]
+    },
+    "TT 2DR COUPE AWD QUATTRO/3.2 QUATTRO": {
+      "years": [
+        2004
+      ]
+    },
+    "TT 2DR COUPE FWD": {
+      "years": [
+        2004
+      ]
+    },
+    "TT 1.8T 2DR COUPE FWD": {
+      "years": [
+        2005
+      ]
+    },
+    "TT 3.2 2DR COUPE AWD": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "TT ROADSTER 1.8T 2DR CONVERTIBLE FWD": {
+      "years": [
+        2005
+      ]
+    },
+    "TT ROADSTER 3.2  2DR CONVERTIBLE AWD": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "TT 1.8T 2DR COUPE AWD": {
+      "years": [
+        2006
+      ]
+    },
+    "TT ROADSTER 1.8T 2DR CONVERTIBLE AWD": {
+      "years": [
+        2006
+      ]
+    },
+    "TT 2DR COUPE 2.0T": {
+      "years": [
+        2008
+      ]
+    },
+    "TT 2DR COUPE 3.2": {
+      "years": [
+        2008
+      ]
+    },
+    "TT ROADSTER 2DR CONVERTIBLE 2.0T": {
+      "years": [
+        2008
+      ]
+    },
+    "TT ROADSTER 2DR CONVERTIBLE 3.2": {
+      "years": [
+        2008
+      ]
+    },
+    "TT 2DR COUPE 2.0 TFSI": {
+      "years": [
+        2009,
+        2010
+      ]
+    },
+    "TT 2DR COUPE 3.2 /TTS": {
+      "years": [
+        2009
+      ]
+    },
+    "TT ROADSTER 2DR CONVERTIBLE 2.0 TFSI": {
+      "years": [
+        2009,
+        2010
+      ]
+    },
+    "TT ROADSTER 2DR CONVERTIBLE 3.2 /TTS": {
+      "years": [
+        2009
+      ]
+    },
+    "TT 2DR COUPE 2.0 TFSI QUATTRO/S-LINE": {
+      "years": [
+        2011,
+        2012,
+        2013,
         2014,
-        2015,
-        2016
+        2015
       ]
     },
-    "A4 ALLROAD": {
+    "TT ROADSTER 2DR CONVERTIBLE 2.0 TFSI QUATTRO/": {
       "years": [
+        2011,
+        2012,
+        2015
+      ]
+    },
+    "TT ROADSTER 2DR CONVERTIBLE 2.0 TFSI QUATTRO": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "TT 2DR COUPE": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "TT ROADSTER 2DR CONVERTIBLE": {
+      "years": [
+        2016,
         2017,
         2018,
         2019
       ]
     }
   },
-  "Q8": {
-    "Q8 4DR SUV": {
+  "TT RS": {
+    "TT RS 2DR COUPE 2.5 TFSI QUATTRO": {
       "years": [
-        2019
+        2012,
+        2013
+      ]
+    }
+  },
+  "TTS": {
+    "TTS ROADSTER 2DR CONVERTIBLE": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "TTS ROADSTER 2DR CONVERTIBLE 2.0 TFSI QUATTRO": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    }
+  },
+  "V8": {
+    "V8 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "V8 QUATTRO 4DR SEDAN": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "V8 4DR SEDAN QUATTRO": {
+      "years": [
+        1994
+      ]
+    }
+  },
+  "allroad": {
+    "ALLROAD 4DR WAGON QUATTRO 2.7T": {
+      "years": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2005
       ]
     }
   },
@@ -2016,6 +2017,5 @@
         2019
       ]
     }
-  },
-  "Q5 e": {}
+  }
 }

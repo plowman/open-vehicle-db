@@ -1,52 +1,4 @@
 {
-  "Neon": {
-    "NEON 4DR SEDAN": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "NEON 2DR COUPE": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "NEON 2DR COUPE BASE/EX/EXPRESSO": {
-      "years": [
-        1999
-      ]
-    },
-    "NEON 4DR SEDAN BASE/EX/EXPRESSO/STYLE": {
-      "years": [
-        1999
-      ]
-    }
-  },
-  "Breeze": {
-    "BREEZE 4DR SEDAN": {
-      "years": [
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    }
-  },
-  "Prowler": {
-    "PROWLER 2DR CONVERTIBLE": {
-      "years": [
-        1997,
-        1998,
-        1999
-      ]
-    }
-  },
   "Acclaim": {
     "ACCLAIME BASE/LE/LX 4 DR": {
       "years": [
@@ -64,6 +16,68 @@
       ]
     }
   },
+  "Arrow": {},
+  "Breeze": {
+    "BREEZE 4DR SEDAN": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    }
+  },
+  "CARAVELLE": {
+    "CARAVELLE": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "CARAVELLE 2 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "CARAVELLE 4 DR": {
+      "years": [
+        1985
+      ]
+    },
+    "CARAVELLE SALON": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "CARAVELLE BASE/SE (4-DR)": {
+      "years": [
+        1986
+      ]
+    },
+    "CARAVELLE 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "CARAVELLE SALON 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "CARAVELLE SE 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988
+      ]
+    }
+  },
+  "CONQUEST": {},
+  "Champ": {},
   "Colt": {
     "COLT 2 DR HB": {
       "years": [
@@ -78,94 +92,69 @@
       ]
     }
   },
-  "Sundance": {
-    "SUNDANCE 2 DR HATCHBACK": {
+  "GRAN FURY": {},
+  "Grand Voyager": {
+    "GRAND VOYAGER LE": {
       "years": [
-        1987,
-        1988
-      ]
-    },
-    "SUNDANCE 4 DR HATCHBACK": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "SUNDANCE 2 DR": {
-      "years": [
+        1988,
         1989
       ]
     },
-    "SUNDANCE 4 DR": {
+    "GRAND VOYAGER SE": {
       "years": [
+        1988,
         1989
       ]
     },
-    "SUNDANCE 2DR HATCHBACK": {
+    "GRAND VOYAGER SE/LE WAGON": {
       "years": [
-        1990
-      ]
-    },
-    "SUNDANCE 4DR HATCHBACK": {
-      "years": [
-        1990
-      ]
-    },
-    "SUNDANCE 3DR HATCHBACK": {
-      "years": [
+        1990,
         1991,
-        1992
-      ]
-    },
-    "SUNDANCE 5DR HATCHBACK": {
-      "years": [
-        1991,
-        1992
-      ]
-    },
-    "SUNDANCE/DUSTER 3DR HATCHBACK": {
-      "years": [
-        1993,
-        1994
-      ]
-    },
-    "SUNDANCE/DUSTER 5DR HATCHBACK": {
-      "years": [
-        1993,
-        1994
-      ]
-    }
-  },
-  "Laser": {
-    "LASER BASE/RS 2DR HATCHBACK": {
-      "years": [
-        1990
-      ]
-    },
-    "LASER SPORTS COUPE/RS/RS TURBO": {
-      "years": [
-        1991
-      ]
-    },
-    "LASER SPORTS COUPE/RS/RS TURBO/RS AWD": {
-      "years": [
         1992,
         1993
       ]
     },
-    "LASER 2DR HATCHBACK": {
+    "GRAND VOYAGER SE/LE AWD WAGON": {
       "years": [
-        1994
+        1991,
+        1992,
+        1993
       ]
     },
-    "LASER 2DR HATCHBACK RS": {
+    "GRAND VOYAGER 3DR WAGON AWD SE/LE": {
       "years": [
-        1994
+        1994,
+        1996
       ]
     },
-    "LASER 2DR HATCHBACK RS TURBO AWD": {
+    "GRAND VOYAGER 3DR WAGON BASE/SE/LE": {
       "years": [
-        1994
+        1994,
+        1996
+      ]
+    },
+    "GRAND VOYAGER 3DR WAGON AWD SE/LE/ES": {
+      "years": [
+        1995
+      ]
+    },
+    "GRAND VOYAGER 3DR WAGON BASE/SE/LE/ES": {
+      "years": [
+        1995
+      ]
+    },
+    "GRAND VOYAGER AWD SE/LE": {
+      "years": [
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "GRAND VOYAGER BASE/SE/LE": {
+      "years": [
+        1997,
+        1998,
+        1999
       ]
     }
   },
@@ -209,27 +198,74 @@
       ]
     }
   },
-  "TURISMO": {
-    "TURISMO": {
+  "Laser": {
+    "LASER BASE/RS 2DR HATCHBACK": {
       "years": [
-        1982
+        1990
       ]
     },
-    "TURISMO (BASE)": {
+    "LASER SPORTS COUPE/RS/RS TURBO": {
       "years": [
-        1985,
-        1986
+        1991
       ]
     },
-    "TURISMO 2.2": {
+    "LASER SPORTS COUPE/RS/RS TURBO/RS AWD": {
       "years": [
-        1985,
-        1986
+        1992,
+        1993
       ]
     },
-    "TURISMO 2 DR HATCHBACK": {
+    "LASER 2DR HATCHBACK": {
       "years": [
-        1987
+        1994
+      ]
+    },
+    "LASER 2DR HATCHBACK RS": {
+      "years": [
+        1994
+      ]
+    },
+    "LASER 2DR HATCHBACK RS TURBO AWD": {
+      "years": [
+        1994
+      ]
+    }
+  },
+  "Neon": {
+    "NEON 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "NEON 2DR COUPE": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "NEON 2DR COUPE BASE/EX/EXPRESSO": {
+      "years": [
+        1999
+      ]
+    },
+    "NEON 4DR SEDAN BASE/EX/EXPRESSO/STYLE": {
+      "years": [
+        1999
+      ]
+    }
+  },
+  "Prowler": {
+    "PROWLER 2DR CONVERTIBLE": {
+      "years": [
+        1997,
+        1998,
+        1999
       ]
     }
   },
@@ -329,57 +365,6 @@
       ]
     }
   },
-  "CARAVELLE": {
-    "CARAVELLE": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "CARAVELLE 2 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CARAVELLE 4 DR": {
-      "years": [
-        1985
-      ]
-    },
-    "CARAVELLE SALON": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CARAVELLE BASE/SE (4-DR)": {
-      "years": [
-        1986
-      ]
-    },
-    "CARAVELLE 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "CARAVELLE SALON 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "CARAVELLE SE 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988
-      ]
-    }
-  },
-  "GRAN FURY": {},
-  "CONQUEST": {},
   "SAPPORO": {
     "SAPPORO": {
       "years": [
@@ -388,7 +373,90 @@
       ]
     }
   },
-  "Champ": {},
+  "Scamp": {},
+  "Sundance": {
+    "SUNDANCE 2 DR HATCHBACK": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "SUNDANCE 4 DR HATCHBACK": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "SUNDANCE 2 DR": {
+      "years": [
+        1989
+      ]
+    },
+    "SUNDANCE 4 DR": {
+      "years": [
+        1989
+      ]
+    },
+    "SUNDANCE 2DR HATCHBACK": {
+      "years": [
+        1990
+      ]
+    },
+    "SUNDANCE 4DR HATCHBACK": {
+      "years": [
+        1990
+      ]
+    },
+    "SUNDANCE 3DR HATCHBACK": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "SUNDANCE 5DR HATCHBACK": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "SUNDANCE/DUSTER 3DR HATCHBACK": {
+      "years": [
+        1993,
+        1994
+      ]
+    },
+    "SUNDANCE/DUSTER 5DR HATCHBACK": {
+      "years": [
+        1993,
+        1994
+      ]
+    }
+  },
+  "TURISMO": {
+    "TURISMO": {
+      "years": [
+        1982
+      ]
+    },
+    "TURISMO (BASE)": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "TURISMO 2.2": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "TURISMO 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    }
+  },
+  "Trailduster": {},
   "Voyager": {
     "VOYAGER": {
       "years": [
@@ -494,73 +562,5 @@
         1996
       ]
     }
-  },
-  "Grand Voyager": {
-    "GRAND VOYAGER LE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "GRAND VOYAGER SE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "GRAND VOYAGER SE/LE WAGON": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "GRAND VOYAGER SE/LE AWD WAGON": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "GRAND VOYAGER 3DR WAGON AWD SE/LE": {
-      "years": [
-        1994,
-        1996
-      ]
-    },
-    "GRAND VOYAGER 3DR WAGON BASE/SE/LE": {
-      "years": [
-        1994,
-        1996
-      ]
-    },
-    "GRAND VOYAGER 3DR WAGON AWD SE/LE/ES": {
-      "years": [
-        1995
-      ]
-    },
-    "GRAND VOYAGER 3DR WAGON BASE/SE/LE/ES": {
-      "years": [
-        1995
-      ]
-    },
-    "GRAND VOYAGER AWD SE/LE": {
-      "years": [
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "GRAND VOYAGER BASE/SE/LE": {
-      "years": [
-        1997,
-        1998,
-        1999
-      ]
-    }
-  },
-  "Scamp": {},
-  "Arrow": {},
-  "Trailduster": {}
+  }
 }

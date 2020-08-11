@@ -1,44 +1,61 @@
 {
-  "Quattroporte": {
-    "QUATTROPORTE 4DR SEDAN RWD": {
+  "228": {
+    "228 Si 2DR COUPE": {
       "years": [
-        2004,
-        2005,
+        1990
+      ]
+    }
+  },
+  "430": {},
+  "Biturbo": {
+    "BITURBO 430 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    }
+  },
+  "Coupe": {
+    "MASERATI COUPE GT/Cambiocorsa 2D RWD": {
+      "years": [
+        2003
+      ]
+    },
+    "COUPE GT/CAMBIOCORSA 2DR COUPE RWD": {
+      "years": [
+        2004
+      ]
+    },
+    "COUPE GT 2DR COUPE RWD /CAMBIOCORSA/GRANSPORT": {
+      "years": [
+        2005
+      ]
+    },
+    "COUPE 2DR COUPE RWD GT/GRANSPORT": {
+      "years": [
         2006,
-        2007
-      ]
-    },
-    "QUATTROPORTE AUTOMATIC/EXECUTIVE GT/SPORT GT": {
-      "years": [
+        2007,
         2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013
+        2009
       ]
-    },
-    "QUATTROPORTE S/Q4/GTS": {
+    }
+  },
+  "Ghibli": {
+    "GHIBLI S Q4": {
       "years": [
-        2014
-      ]
-    },
-    "QUATTROPORTE S Q4/GTS": {
-      "years": [
+        2014,
         2015,
         2016
       ]
     },
-    "QUATTROPORTE GTS 4DR SEDAN": {
+    "GHIBLI 4DR SEDAN": {
       "years": [
         2017,
         2018,
         2019
       ]
     },
-    "QUATTROPORTE S Q4 4DR SEDAN": {
+    "GHIBLI S Q4 4DR SEDAN": {
       "years": [
-        2017,
         2018,
         2019
       ]
@@ -88,28 +105,73 @@
       ]
     }
   },
-  "Coupe": {
-    "MASERATI COUPE GT/Cambiocorsa 2D RWD": {
+  "Levante": {
+    "LEVANTE 4DR SUV": {
       "years": [
-        2003
+        2017,
+        2018
       ]
     },
-    "COUPE GT/CAMBIOCORSA 2DR COUPE RWD": {
+    "LEVANTE V6 4DR SUV": {
       "years": [
-        2004
+        2019
       ]
     },
-    "COUPE GT 2DR COUPE RWD /CAMBIOCORSA/GRANSPORT": {
+    "LEVANTE V8 4DR SUV": {
       "years": [
-        2005
+        2019
       ]
-    },
-    "COUPE 2DR COUPE RWD GT/GRANSPORT": {
+    }
+  },
+  "Merak": {
+    "MERAK SS": {
       "years": [
+        1981
+      ]
+    }
+  },
+  "Quattroporte": {
+    "QUATTROPORTE 4DR SEDAN RWD": {
+      "years": [
+        2004,
+        2005,
         2006,
-        2007,
+        2007
+      ]
+    },
+    "QUATTROPORTE AUTOMATIC/EXECUTIVE GT/SPORT GT": {
+      "years": [
         2008,
-        2009
+        2009,
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "QUATTROPORTE S/Q4/GTS": {
+      "years": [
+        2014
+      ]
+    },
+    "QUATTROPORTE S Q4/GTS": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "QUATTROPORTE GTS 4DR SEDAN": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "QUATTROPORTE S Q4 4DR SEDAN": {
+      "years": [
+        2017,
+        2018,
+        2019
       ]
     }
   },
@@ -145,67 +207,5 @@
       ]
     }
   },
-  "Ghibli": {
-    "GHIBLI S Q4": {
-      "years": [
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "GHIBLI 4DR SEDAN": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "GHIBLI S Q4 4DR SEDAN": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "Levante": {
-    "LEVANTE 4DR SUV": {
-      "years": [
-        2017,
-        2018
-      ]
-    },
-    "LEVANTE V6 4DR SUV": {
-      "years": [
-        2019
-      ]
-    },
-    "LEVANTE V8 4DR SUV": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "Merak": {
-    "MERAK SS": {
-      "years": [
-        1981
-      ]
-    }
-  },
-  "Biturbo": {
-    "BITURBO 430 4DR SEDAN": {
-      "years": [
-        1990
-      ]
-    }
-  },
-  "TC": {},
-  "430": {},
-  "228": {
-    "228 Si 2DR COUPE": {
-      "years": [
-        1990
-      ]
-    }
-  }
+  "TC": {}
 }

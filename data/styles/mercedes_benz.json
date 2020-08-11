@@ -1,17 +1,975 @@
 {
-  "SL-Class": {
-    "SL CLASS SL55 AMG 2DR CONVERTIBLE": {
+  "190": {
+    "190D 2.2 SEDAN": {
       "years": [
-        2008
+        1985
       ]
     },
-    "SL CLASS SL550 2DR CONVERTIBLE": {
+    "190E 2.3 SEDAN": {
+      "years": [
+        1985,
+        1986,
+        1987,
+        1988
+      ]
+    },
+    "190D 2.5 SEDAN": {
+      "years": [
+        1986,
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "190E 2.3-16 SEDAN": {
+      "years": [
+        1986,
+        1987
+      ]
+    },
+    "190 D 2.5 TURBO SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "190 E 2.6 SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "190E 2.6 SEDAN": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "190 E 2.6 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "190 E 2.3 4DR SEDAN": {
+      "years": [
+        1991
+      ]
+    },
+    "190E 2.3 4DR SEDAN": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "190E 2.6 4DR SEDAN": {
+      "years": [
+        1992,
+        1993
+      ]
+    }
+  },
+  "240": {
+    "240 SD": {
+      "years": [
+        1981
+      ]
+    },
+    "240 D": {
+      "years": [
+        1982
+      ]
+    },
+    "C240 4DR SEDAN": {
+      "years": [
+        2001,
+        2002
+      ]
+    },
+    "C240 4DR SEDAN 4MATIC": {
+      "years": [
+        2003
+      ]
+    },
+    "C240 4DR SEDAN CLASSIC/ELEGANCE": {
+      "years": [
+        2003,
+        2004
+      ]
+    },
+    "C240 4DR SPORT WAGON 4MATIC": {
+      "years": [
+        2003
+      ]
+    },
+    "C240 4DR SPORT WAGON CLASSIC/ELEGANCE": {
+      "years": [
+        2003,
+        2004
+      ]
+    },
+    "C240 4DR SEDAN /ELEGANCE": {
+      "years": [
+        2005
+      ]
+    },
+    "C240 4DR SPORT WAGON /ELEGANCE": {
+      "years": [
+        2005
+      ]
+    }
+  },
+  "260": {
+    "260 E SEDAN": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    }
+  },
+  "280": {
+    "280 CE CP": {
+      "years": [
+        1981
+      ]
+    },
+    "280 E SD": {
+      "years": [
+        1981
+      ]
+    },
+    "C280 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "C230/C280 4DR SEDAN": {
+      "years": [
+        1997
+      ]
+    },
+    "C280 4DR SEDAN SPORT": {
+      "years": [
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "C280 4DR SEDAN RWD /ELEGANCE": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "SLK280 2DR COVERTIBLE RWD": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "E280 4DR SEDAN AWD": {
+      "years": [
+        2007
+      ]
+    }
+  },
+  "300": {
+    "300 CD CP": {
+      "years": [
+        1981
+      ]
+    },
+    "300 CD SD": {
+      "years": [
+        1981
+      ]
+    },
+    "300 SD": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "300 TD WAGON": {
+      "years": [
+        1981,
+        1982,
+        1985
+      ]
+    },
+    "300 CD": {
+      "years": [
+        1982
+      ]
+    },
+    "300 DT": {
+      "years": [
+        1982
+      ]
+    },
+    "300 CD COUPE": {
+      "years": [
+        1985
+      ]
+    },
+    "300 D SEDAN": {
+      "years": [
+        1985
+      ]
+    },
+    "300 SD SEDAN": {
+      "years": [
+        1985
+      ]
+    },
+    "300 E SEDAN": {
+      "years": [
+        1986,
+        1988,
+        1989
+      ]
+    },
+    "300D TURBO SEDAN": {
+      "years": [
+        1986,
+        1987
+      ]
+    },
+    "300SDL SEDAN": {
+      "years": [
+        1986
+      ]
+    },
+    "300 TD TURBO WAGON": {
+      "years": [
+        1987
+      ]
+    },
+    "300E SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "300SDL TURBO SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "300 CE COUPE": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "300 SEL SEDAN": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "300 TE WAGON": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991
+      ]
+    },
+    "300 SE SEDAN": {
+      "years": [
+        1989
+      ]
+    },
+    "300 CE 2DR COUPE": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "300 E 2.6/300E 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "300 E 4MATIC 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "300 SE 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "300 SEL 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "300 SL/500SL 2DR COUPE-ROADSTER": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "300 TE 4MATIC WAGON": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "300 E 2.6/300E/300D 2.5 TURBO 4DR SEDAN": {
+      "years": [
+        1991
+      ]
+    },
+    "300 SE/350 SD TURBO 4DR SEDAN": {
+      "years": [
+        1991
+      ]
+    },
+    "300 SEL/350 SDL TURBO 4DR SEDAN": {
+      "years": [
+        1991
+      ]
+    },
+    "300 TE/300 TE 4MATIC WAGON": {
+      "years": [
+        1992
+      ]
+    },
+    "300CE 2DR COUPE": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "300E 2.6/300D 2.5 4DR SEDAN": {
+      "years": [
+        1992
+      ]
+    },
+    "300E/300E 4MATIC 4DR SEDAN": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "300SE/300SD/400SE 4DR SEDAN": {
+      "years": [
+        1992
+      ]
+    },
+    "300/300TE 4MATIC WAGON": {
+      "years": [
+        1993
+      ]
+    },
+    "300CE CABRIOLET 2DR": {
+      "years": [
+        1993
+      ]
+    },
+    "300E 2.8/300D 2.5 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "300SE/300SD 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "300SL/500SL 2DR COUPE-ROADSTER": {
+      "years": [
+        1993
+      ]
+    },
+    "E300 4DR SEDAN DIESEL": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "E300 4DR SEDAN TURBO DIESEL": {
+      "years": [
+        1999
+      ]
+    },
+    "SLK300/350 2DR COVERTIBLE RWD": {
+      "years": [
+        2010,
+        2011
+      ]
+    }
+  },
+  "350": {
+    "S350 4DR SEDAN TURBO DIESEL": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "ML350 4DR SUV 4WD CLASSIC/ELEGANCE": {
+      "years": [
+        2003,
+        2004,
+        2005
+      ]
+    },
+    "SLK350 2DR COVERTIBLE RWD": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "C350 4DR SEDAN RWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "C350 SPORT 4DR SEDAN RWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "CLK350 2DR CONV RWD": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "CLK350 2DR COUPE RWD": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "E350 4DR SEDAN RWD": {
+      "years": [
+        2006
+      ]
+    },
+    "E350 4MATIC WAGON AWD": {
+      "years": [
+        2006
+      ]
+    },
+    "ML350 4DR SUV AWD": {
+      "years": [
+        2006
+      ]
+    },
+    "R350 4DR WAGON 4WD": {
+      "years": [
+        2006
+      ]
+    },
+    "E350 4DR SEDAN AWD": {
+      "years": [
+        2007
+      ]
+    },
+    "E350 4DR WAGON AWD": {
+      "years": [
+        2007
+      ]
+    },
+    "ML350 4DR SUV 4WD": {
+      "years": [
+        2007
+      ]
+    },
+    "R350 4DR WAGON AWD": {
+      "years": [
+        2007
+      ]
+    },
+    "GLE COUPE 350D / 450AMG 4MATIC": {
+      "years": [
+        2016
+      ]
+    }
+  },
+  "380": {
+    "380 SEL SD": {
+      "years": [
+        1981
+      ]
+    },
+    "380 SL CP": {
+      "years": [
+        1981
+      ]
+    },
+    "380 SLC CP": {
+      "years": [
+        1981
+      ]
+    },
+    "380 SEC": {
+      "years": [
+        1982
+      ]
+    },
+    "380 SEL": {
+      "years": [
+        1982
+      ]
+    },
+    "380 SL": {
+      "years": [
+        1982
+      ]
+    },
+    "380 SE SEDAN": {
+      "years": [
+        1985
+      ]
+    },
+    "380 SL COUPE": {
+      "years": [
+        1985
+      ]
+    }
+  },
+  "400": {
+    "400/500E 4DR SEDAN": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "400SEL/500SEL SEDAN": {
+      "years": [
+        1993
+      ]
+    }
+  },
+  "420": {
+    "420SEL SEDAN": {
+      "years": [
+        1986,
+        1987
+      ]
+    },
+    "420 SEL SEDAN": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "420 SEL 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "E420 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "S420 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1998
+      ]
+    },
+    "S420 4DR SEDAN LWB": {
+      "years": [
+        1997,
+        1999
+      ]
+    }
+  },
+  "500": {
+    "500 SEC COUPE": {
+      "years": [
+        1985,
+        1993
+      ]
+    },
+    "500 SEL SEDAN": {
+      "years": [
+        1985
+      ]
+    },
+    "500SEL/600SEL SEDAN": {
+      "years": [
+        1992
+      ]
+    },
+    "E500 4DR SEDAN": {
+      "years": [
+        1994,
+        2003
+      ]
+    },
+    "S500 2DR COUPE": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "S500 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1998
+      ]
+    },
+    "SL500 2DR CONVERTIBLE": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "S500 4DR SEDAN LWB": {
+      "years": [
+        1997,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "CL500 2DR COUPE": {
+      "years": [
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "G500 4DR SUV 4WD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005,
+        2007
+      ]
+    },
+    "ML500 4DR SUV 4WD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005,
+        2007
+      ]
+    },
+    "CLK320/CLK500 2DR COUPE": {
+      "years": [
+        2003
+      ]
+    },
+    "S430/S500 4MATIC 4DR SEDAN AWD": {
+      "years": [
+        2003
+      ]
+    },
+    "CLK500/CLK55 AMG 2DR CONV RWD": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "CLK500/CLK55 AMG 2DR COUPE RWD": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "E500 4DR SEDAN RWD": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "E500 4MATIC WAGON AWD": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "S500 4DR SEDAN RWD": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "CL500 2DR COUPE RWD": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "CLK500 2DR COUPE RWD": {
+      "years": [
+        2006
+      ]
+    },
+    "CLS500 4DR COUPE RWD": {
+      "years": [
+        2006
+      ]
+    },
+    "ML500 4DR SUV AWD": {
+      "years": [
+        2006
+      ]
+    },
+    "R500 4DR WAGON 4WD": {
+      "years": [
+        2006
+      ]
+    },
+    "R500 4DR WAGON AWD": {
+      "years": [
+        2007
+      ]
+    }
+  },
+  "560": {
+    "560 SEC COUPE": {
+      "years": [
+        1986,
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "560 SEL SEDAN": {
+      "years": [
+        1986,
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "560 SL COUPE/ROADSTER": {
+      "years": [
+        1986,
+        1987,
+        1988
+      ]
+    },
+    "560 SL COUPE/": {
+      "years": [
+        1989
+      ]
+    },
+    "560 SEC 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "560 SEL 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "560 SEC 2DR COUPE": {
+      "years": [
+        1991
+      ]
+    },
+    "MAYBACH S 560 4MATIC SEDAN": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "600": {
+    "600 SEC COUPE": {
+      "years": [
+        1993
+      ]
+    },
+    "600 SEL 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "600SL 2DR COUPE-ROADSTER": {
+      "years": [
+        1993
+      ]
+    },
+    "S600 2DR COUPE": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "S600 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "SL600 2DR CONVERTIBLE": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "CL600 2DR COUPE": {
+      "years": [
+        1998,
+        1999,
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "S600 4DR SEDAN LWB": {
+      "years": [
+        1999,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "S600 4DR SEDAN RWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "SL600 AMG 2DR CONVERTIBLE": {
+      "years": [
+        2004
+      ]
+    },
+    "CL600 2DR COUPE RWD": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "SL600 2DR CONVERTIBLE RWD": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "S600 MAYBACH": {
+      "years": [
+        2016,
+        2017
+      ]
+    }
+  },
+  "A-Class": {
+    "A-CLASS 4DR SEDAN": {
+      "years": [
+        2019
+      ]
+    },
+    "A-CLASS 4MATIC 5DR HATCH": {
+      "years": [
+        2019
+      ]
+    },
+    "A-CLASS 5DR HATCH": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "AMG GT": {
+    "AMG GT 2DR COUPE": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "AMG GT 2DR ROADSTER": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "B-Class": {
+    "B CLASS B200/B200 TURBO 4DR WAGON FWD": {
       "years": [
         2008,
         2009,
         2010,
         2011,
-        2012,
+        2012
+      ]
+    },
+    "B CLASS B 250 4DR HATCHBACK FWD": {
+      "years": [
         2013,
         2014,
         2015,
@@ -21,30 +979,324 @@
         2019
       ]
     },
-    "SL CLASS SL600 2DR CONVERTIBLE RWD": {
+    "B CLASS B 250 4MATIC 4DR HATCHBACK AWD": {
       "years": [
-        2008
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
       ]
-    },
-    "SL CLASS SL65 AMG 2DR CONVERTIBLE RWD": {
+    }
+  },
+  "C-Class": {
+    "C-CLASS C300 / C350 4DR SEDAN RWD": {
       "years": [
-        2008
-      ]
-    },
-    "SL CLASS SL600 2DR CONVERTIBLE": {
-      "years": [
-        2009,
+        2008,
         2010,
         2011
       ]
     },
-    "SL CLASS SL63 AMG 2DR CONVERTIBLE": {
+    "C-CLASS C230 / C300 / C350 4DR SEDAN RWD": {
       "years": [
-        2009,
+        2009
+      ]
+    },
+    "C-CLASS C250 4DR SEDAN AWD": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "C-CLASS C250 4DR SEDAN RWD": {
+      "years": [
         2010,
         2011,
         2012,
         2013,
+        2014
+      ]
+    },
+    "C-CLASS C300 / C350 4DR SEDAN AWD": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "C-CLASS C63 AMG 4DR SEDAN AWD": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "C-CLASS C250 COUPE 2DR": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "C-CLASS C350 4DR SEDAN RWD": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "C-CLASS C350 COUPE 2DR": {
+      "years": [
+        2012
+      ]
+    },
+    "C-CLASS C63 AMG COUPE 2DR/BLACK SERIES": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "C-CLASS C300 / C350 4MATIC 4DR SEDAN AWD": {
+      "years": [
+        2013
+      ]
+    },
+    "C-CLASS C350 4MATIC COUPE 2DR AWD": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "C-CLASS C350 COUPE 2DR RWD": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "C-CLASS C63 AMG 4DR SEDAN RWD": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "C-CLASS C300 4MATIC/ C350 4MATIC 4DR SEDAN AW": {
+      "years": [
+        2014
+      ]
+    },
+    "C CLASS C 300 4MATIC 4DR SEDAN AWD": {
+      "years": [
+        2015
+      ]
+    },
+    "C CLASS C 400 4MATIC 4DR SEDAN AWD": {
+      "years": [
+        2015
+      ]
+    },
+    "C CLASS C250 COUPE 2DR": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "C CLASS C350 4MATIC COUPE 2DR AWD": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "C CLASS C350 COUPE 2DR RWD": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "C CLASS C63 COUPE 2DR EDITION 507": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "C CLASS C 300 4MATIC 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "C CLASS C 450 AMG 4MATIC 4DR SEDAN": {
+      "years": [
+        2016
+      ]
+    },
+    "C CLASS C 63 AMG 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "C-CLASS C300d 4DR WAGON": {
+      "years": [
+        2016
+      ]
+    },
+    "C CLASS AMG C63/C63S 2DR CONVERTIBLE": {
+      "years": [
+        2017,
+        2018
+      ]
+    },
+    "C CLASS AMG C63/C63S 2DR COUPE": {
+      "years": [
+        2017,
+        2018
+      ]
+    },
+    "C CLASS C 43 AMG 4MATIC 4DR SEDAN": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "C CLASS C300 4MATIC 2DR CONVERTIBLE": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "C CLASS C300 4MATIC 2DR COUPE": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "C CLASS C43 4MATIC 2DR CONVERTIBLE": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "C CLASS C43 4MATIC 2DR COUPE": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "C CLASS C 300 4MATIC 4DR WAGON": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "C CLASS AMG C 63 S 2DR CONVERTIBLE": {
+      "years": [
+        2019
+      ]
+    },
+    "C CLASS AMG C 63 S 2DR COUPE": {
+      "years": [
+        2019
+      ]
+    },
+    "C CLASS C 43 AMG 4MATIC 4DR WAGON": {
+      "years": [
+        2019
+      ]
+    },
+    "C CLASS C 63 / C 63 S AMG 4DR SEDAN": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "CL-Class": {
+    "CL CLASS CL550 2DR COUPE RWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "CL CLASS CL600 2DR COUPE RWD": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "CL CLASS CL63 AMG 2DR COUPE RWD": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "CL CLASS CL65 AAMG 2DR COUPE RWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "CL CLASS CL550 2DR COUPE AWD": {
+      "years": [
+        2010
+      ]
+    },
+    "CL CLASS CL65 AMG 2DR COUPE RWD": {
+      "years": [
+        2010
+      ]
+    },
+    "CL CLASS CL 550 4MATIC 2 DR COUPE AWD": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "CL CLASS CL 600 2 DR COUPE RWD": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "CL CLASS CL 63 AMG 2 DR COUPE": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "CL CLASS CL 65 AMG 2 DR COUPE": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    }
+  },
+  "CLA-Class": {
+    "CLA CLASS CLA250": {
+      "years": [
+        2014
+      ]
+    },
+    "CLA CLASS CLA45 AMG": {
+      "years": [
         2014,
         2015,
         2016,
@@ -53,11 +1305,54 @@
         2019
       ]
     },
-    "SL CLASS SL65 AMG 2DR CONVERTIBLE": {
+    "CLA CLASS CLA250 4DR COUPE FWD": {
       "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "CLA CLASS CLA250 4MATIC 4DR COUPE AWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "CLK-Class": {},
+  "CLS-Class": {
+    "CLS-CLASS CLS550 4DR COUPE RWD": {
+      "years": [
+        2008,
         2009,
-        2010,
-        2011,
+        2010
+      ]
+    },
+    "CLS-CLASS CLS63 AMG 4DR COUPE RWD": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "CLS-CLASS CLS 550 4DR COUPE RWD": {
+      "years": [
+        2011
+      ]
+    },
+    "CLS-CLASS CLS 63 AMG 4DR COUPE RWD": {
+      "years": [
+        2011
+      ]
+    },
+    "CLS CLASS CLS 63 AMG 4DR SEDAN": {
+      "years": [
+        2012,
         2013,
         2014,
         2015,
@@ -66,40 +1361,23 @@
         2018
       ]
     },
-    "SL CLASS SL450 2DR CONVERTIBLE": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "SLK-Class": {
-    "SLK CLASS SLK 350 CONVERTIBLE": {
+    "CLS CLASS CLS550 4MATIC 4DR SEDAN": {
       "years": [
         2012
       ]
     },
-    "SLK CLASS SLK 250 2DR CONVERTIBLE": {
+    "CLS CLASS CLS 550 4MATIC 4DR SEDAN": {
       "years": [
         2013,
         2014,
         2015,
-        2016
+        2016,
+        2017,
+        2018
       ]
     },
-    "SLK CLASS SLK 350 2DR CONVERTIBLE": {
+    "CLS CLASS CLS 400 4MATIC 4DR SEDAN": {
       "years": [
-        2013,
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "SLK CLASS SLK 55 AMG 2DR CONVERTIBLE": {
-      "years": [
-        2013,
-        2014,
         2015,
         2016
       ]
@@ -395,96 +1673,114 @@
       ]
     }
   },
-  "CLS-Class": {
-    "CLS-CLASS CLS550 4DR COUPE RWD": {
+  "EQC-Class": {},
+  "G-Class": {
+    "G CLASS G500 4DR SUV 4WD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "G CLASS G55 AMG 4DR SUV 4WD": {
       "years": [
         2008,
         2009,
-        2010
-      ]
-    },
-    "CLS-CLASS CLS63 AMG 4DR COUPE RWD": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "CLS-CLASS CLS 550 4DR COUPE RWD": {
-      "years": [
+        2010,
         2011
       ]
     },
-    "CLS-CLASS CLS 63 AMG 4DR COUPE RWD": {
+    "G CLASS G550 4DR SUV 4WD": {
       "years": [
-        2011
-      ]
-    },
-    "CLS CLASS CLS 63 AMG 4DR SEDAN": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "CLS CLASS CLS550 4MATIC 4DR SEDAN": {
-      "years": [
+        2010,
+        2011,
         2012
       ]
     },
-    "CLS CLASS CLS 550 4MATIC 4DR SEDAN": {
+    "G CLASS G 550/G 63 AMG 4DR SUV 4WD": {
       "years": [
         2013,
         2014,
         2015,
-        2016,
+        2016
+      ]
+    },
+    "G CLASS 4DR SUV 4WD": {
+      "years": [
         2017,
         2018
       ]
     },
-    "CLS CLASS CLS 400 4MATIC 4DR SEDAN": {
+    "G-CLASS 550 4DR SUV": {
+      "years": [
+        2019
+      ]
+    },
+    "G-CLASS 63 AMG 4DR SUV": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "GL-Class": {
+    "GL CLASS GL320 CDI 4DR SUV AWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "GL CLASS GL450 4DR SUV AWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "GL CLASS GL550 4DR SUV AWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "GL CLASS GL350 4MATIC 4DR SUV AWD": {
+      "years": [
+        2010
+      ]
+    },
+    "GL CLASS GL350 BLUETECH 4MATIC 4DR SUV AWD": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "GL CLASS GL350 BLUETEC 4MATIC 4DR SUV": {
+      "years": [
+        2013
+      ]
+    },
+    "GL CLASS GL450/GL550 4MATIC 4DR SUV AWD": {
+      "years": [
+        2013
+      ]
+    },
+    "GL CLASS GL350 BLUETEC/GL450/GL550 4MATIC 4DR": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "GL CLASS GL 63 AMG 4DR SUV AWD": {
       "years": [
         2015,
         2016
       ]
-    }
-  },
-  "CLA-Class": {
-    "CLA CLASS CLA250": {
-      "years": [
-        2014
-      ]
     },
-    "CLA CLASS CLA45 AMG": {
+    "GL CLASS GL350 BLUETEC/GL450/GL550 4MATIC 4DR SUV": {
       "years": [
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "CLA CLASS CLA250 4DR COUPE FWD": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "CLA CLASS CLA250 4MATIC 4DR COUPE AWD": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
+        2016
       ]
     }
   },
@@ -508,233 +1804,349 @@
       ]
     }
   },
-  "C-Class": {
-    "C-CLASS C300 / C350 4DR SEDAN RWD": {
+  "GLB-Class": {},
+  "GLC-Class": {
+    "GLC CLASS 300 4MATIC 4DR SUV": {
       "years": [
-        2008,
-        2010,
-        2011
+        2016,
+        2017,
+        2018,
+        2019
       ]
     },
-    "C-CLASS C230 / C300 / C350 4DR SEDAN RWD": {
+    "GLC CLASS 300 4MATIC COUPE": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "GLC CLASS 43 4MATIC 4DR SUV": {
+      "years": [
+        2017,
+        2018
+      ]
+    },
+    "GLC CLASS 350e 4MATIC 4DR SUV": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "GLC CLASS 43 4MATIC COUPE": {
+      "years": [
+        2018
+      ]
+    },
+    "GLC CLASS 43 AMG 4MATIC 4DR SUV": {
+      "years": [
+        2019
+      ]
+    },
+    "GLC CLASS 43 AMG 4MATIC COUPE": {
+      "years": [
+        2019
+      ]
+    },
+    "GLC CLASS 63 S AMG 4MATIC 4DR SUV": {
+      "years": [
+        2019
+      ]
+    },
+    "GLC CLASS 63 S AMG 4MATIC COUPE": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "GLE-Class": {
+    "GLE CLASS 350D 4MATIC": {
+      "years": [
+        2016
+      ]
+    },
+    "GLE CLASS 400 4MATIC": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "GLE CLASS 450 4MATIC": {
+      "years": [
+        2016
+      ]
+    },
+    "GLE CLASS 550 4MATIC": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "GLE CLASS AMG 63 S 4MATIC": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "GLE CLASS 43 4MATIC": {
+      "years": [
+        2017,
+        2018
+      ]
+    },
+    "GLE CLASS 550e 4MATIC": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "GLE CLASS 43 AMG 4MATIC": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "GLK-Class": {
+    "GLK CLASS GLK 350 5DR SUV 4WD": {
+      "years": [
+        2009,
+        2010
+      ]
+    },
+    "GLK CLASS GLK 350 4MATIC 5DR SUV 4WD": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "GLK CLASS GLK 350 5DR SUV RWD": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "GLK CLASS GLK 250 BLUETEC 4DR SUV AWD": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "GLK CLASS GLK 350 4MATIC 4DR SUV AWD": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    }
+  },
+  "GLS-Class": {
+    "GLS CLASS AMG GLS 63 4DR SUV AWD": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "GLS CLASS GLS 450 4MATIC 4DR SUV": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "GLS CLASS GLS 550 4MATIC 4DR SUV": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "L1013": {},
+  "L1113": {},
+  "L1116": {},
+  "L1117": {},
+  "L1316": {},
+  "L1317": {},
+  "L1319": {},
+  "L1418": {},
+  "L1419": {},
+  "LP1219": {},
+  "LP1419": {},
+  "LPS1525": {},
+  "M-Class": {
+    "M CLASS ML320 CDI 4DR SUV 4WD": {
+      "years": [
+        2008
+      ]
+    },
+    "M CLASS ML350 4DR SUV 4WD": {
+      "years": [
+        2008
+      ]
+    },
+    "M CLASS ML500 4DR SUV 4WD": {
+      "years": [
+        2008
+      ]
+    },
+    "M CLASS ML63 AMG 4DR SUV 4WD": {
+      "years": [
+        2008
+      ]
+    },
+    "M CLASS ML320 5DR SUV 4WD": {
       "years": [
         2009
       ]
     },
-    "C-CLASS C250 4DR SEDAN AWD": {
+    "M CLASS ML350 5DR SUV 4WD": {
+      "years": [
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "M CLASS ML550 5DR SUV 4WD": {
+      "years": [
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "M CLASS ML63 AMG 5DR SUV 4WD": {
+      "years": [
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "M CLASS ML350 BLUETEC 5DR SUV 4WD": {
       "years": [
         2010,
-        2011,
-        2012
+        2011
       ]
     },
-    "C-CLASS C250 4DR SEDAN RWD": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "C-CLASS C300 / C350 4DR SEDAN AWD": {
-      "years": [
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "C-CLASS C63 AMG 4DR SEDAN AWD": {
-      "years": [
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "C-CLASS C250 COUPE 2DR": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "C-CLASS C350 4DR SEDAN RWD": {
+    "M CLASS ML 350 4MATIC": {
       "years": [
         2012,
         2013,
         2014
       ]
     },
-    "C-CLASS C350 COUPE 2DR": {
-      "years": [
-        2012
-      ]
-    },
-    "C-CLASS C63 AMG COUPE 2DR/BLACK SERIES": {
+    "M CLASS ML 350 BLUETEC 4MATIC": {
       "years": [
         2012,
         2013,
-        2014
+        2014,
+        2015
       ]
     },
-    "C-CLASS C300 / C350 4MATIC 4DR SEDAN AWD": {
+    "M CLASS ML 550 4MATIC": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "M CLASS ML 63 AMG": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "M CLASS ML 400 4MATIC": {
+      "years": [
+        2015
+      ]
+    }
+  },
+  "METRIS": {
+    "METRIS CARGO VAN": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "METRIS PASSENGER VAN": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "ML-Class": {},
+  "R-Class": {
+    "C230 KOMPRESSOR CLASSIC 4DR SEDAN RWD": {
+      "years": [
+        2004
+      ]
+    },
+    "R CLASS R320 CDI 4DR WAGON AWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "R CLASS R350 4DR WAGON AWD": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "R CLASS R550 4DR WAGON AWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "R CLASS R63 AMG 4DR WAGON AWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "R CLASS R350 BLUETEC 4DR WAGON AWD": {
+      "years": [
+        2010
+      ]
+    },
+    "R CLASS R350 4MATIC4 DR SUV": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "R CLASS R350 BLUETEC 4MATIC4 DR SUV": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "R CLASS R350 4MATIC 4 DR SUV": {
       "years": [
         2013
       ]
     },
-    "C-CLASS C350 4MATIC COUPE 2DR AWD": {
+    "R CLASS R350 BLUETEC 4MATIC 4 DR SUV": {
       "years": [
-        2013,
-        2014
-      ]
-    },
-    "C-CLASS C350 COUPE 2DR RWD": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "C-CLASS C63 AMG 4DR SEDAN RWD": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "C-CLASS C300 4MATIC/ C350 4MATIC 4DR SEDAN AW": {
-      "years": [
-        2014
-      ]
-    },
-    "C CLASS C 300 4MATIC 4DR SEDAN AWD": {
-      "years": [
-        2015
-      ]
-    },
-    "C CLASS C 400 4MATIC 4DR SEDAN AWD": {
-      "years": [
-        2015
-      ]
-    },
-    "C CLASS C250 COUPE 2DR": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "C CLASS C350 4MATIC COUPE 2DR AWD": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "C CLASS C350 COUPE 2DR RWD": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "C CLASS C63 COUPE 2DR EDITION 507": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "C CLASS C 300 4MATIC 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "C CLASS C 450 AMG 4MATIC 4DR SEDAN": {
-      "years": [
-        2016
-      ]
-    },
-    "C CLASS C 63 AMG 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "C-CLASS C300d 4DR WAGON": {
-      "years": [
-        2016
-      ]
-    },
-    "C CLASS AMG C63/C63S 2DR CONVERTIBLE": {
-      "years": [
-        2017,
-        2018
-      ]
-    },
-    "C CLASS AMG C63/C63S 2DR COUPE": {
-      "years": [
-        2017,
-        2018
-      ]
-    },
-    "C CLASS C 43 AMG 4MATIC 4DR SEDAN": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "C CLASS C300 4MATIC 2DR CONVERTIBLE": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "C CLASS C300 4MATIC 2DR COUPE": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "C CLASS C43 4MATIC 2DR CONVERTIBLE": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "C CLASS C43 4MATIC 2DR COUPE": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "C CLASS C 300 4MATIC 4DR WAGON": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "C CLASS AMG C 63 S 2DR CONVERTIBLE": {
-      "years": [
-        2019
-      ]
-    },
-    "C CLASS AMG C 63 S 2DR COUPE": {
-      "years": [
-        2019
-      ]
-    },
-    "C CLASS C 43 AMG 4MATIC 4DR WAGON": {
-      "years": [
-        2019
-      ]
-    },
-    "C CLASS C 63 / C 63 S AMG 4DR SEDAN": {
-      "years": [
-        2019
+        2013
       ]
     }
   },
@@ -989,19 +2401,19 @@
       ]
     }
   },
-  "SLS-Class": {},
-  "B-Class": {
-    "B CLASS B200/B200 TURBO 4DR WAGON FWD": {
+  "SL-Class": {
+    "SL CLASS SL55 AMG 2DR CONVERTIBLE": {
+      "years": [
+        2008
+      ]
+    },
+    "SL CLASS SL550 2DR CONVERTIBLE": {
       "years": [
         2008,
         2009,
         2010,
         2011,
-        2012
-      ]
-    },
-    "B CLASS B 250 4DR HATCHBACK FWD": {
-      "years": [
+        2012,
         2013,
         2014,
         2015,
@@ -1011,159 +2423,54 @@
         2019
       ]
     },
-    "B CLASS B 250 4MATIC 4DR HATCHBACK AWD": {
+    "SL CLASS SL600 2DR CONVERTIBLE RWD": {
       "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "G-Class": {
-    "G CLASS G500 4DR SUV 4WD": {
-      "years": [
-        2008,
-        2009
+        2008
       ]
     },
-    "G CLASS G55 AMG 4DR SUV 4WD": {
+    "SL CLASS SL65 AMG 2DR CONVERTIBLE RWD": {
       "years": [
-        2008,
+        2008
+      ]
+    },
+    "SL CLASS SL600 2DR CONVERTIBLE": {
+      "years": [
         2009,
         2010,
         2011
       ]
     },
-    "G CLASS G550 4DR SUV 4WD": {
+    "SL CLASS SL63 AMG 2DR CONVERTIBLE": {
       "years": [
+        2009,
         2010,
         2011,
-        2012
-      ]
-    },
-    "G CLASS G 550/G 63 AMG 4DR SUV 4WD": {
-      "years": [
+        2012,
         2013,
         2014,
         2015,
-        2016
-      ]
-    },
-    "G CLASS 4DR SUV 4WD": {
-      "years": [
+        2016,
         2017,
-        2018
-      ]
-    },
-    "G-CLASS 550 4DR SUV": {
-      "years": [
-        2019
-      ]
-    },
-    "G-CLASS 63 AMG 4DR SUV": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "CL-Class": {
-    "CL CLASS CL550 2DR COUPE RWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "CL CLASS CL600 2DR COUPE RWD": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "CL CLASS CL63 AMG 2DR COUPE RWD": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "CL CLASS CL65 AAMG 2DR COUPE RWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "CL CLASS CL550 2DR COUPE AWD": {
-      "years": [
-        2010
-      ]
-    },
-    "CL CLASS CL65 AMG 2DR COUPE RWD": {
-      "years": [
-        2010
-      ]
-    },
-    "CL CLASS CL 550 4MATIC 2 DR COUPE AWD": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "CL CLASS CL 600 2 DR COUPE RWD": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "CL CLASS CL 63 AMG 2 DR COUPE": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "CL CLASS CL 65 AMG 2 DR COUPE": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    }
-  },
-  "CLK-Class": {},
-  "SLR McLaren": {
-    "SLR McLAREN 2DR COUPE RWD": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "SLR McLAREN ROADSTER 2DR CONV": {
-      "years": [
-        2008,
-        2009
-      ]
-    }
-  },
-  "AMG GT": {
-    "AMG GT 2DR COUPE": {
-      "years": [
         2018,
         2019
       ]
     },
-    "AMG GT 2DR ROADSTER": {
+    "SL CLASS SL65 AMG 2DR CONVERTIBLE": {
       "years": [
+        2009,
+        2010,
+        2011,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "SL CLASS SL450 2DR CONVERTIBLE": {
+      "years": [
+        2017,
         2018,
         2019
       ]
@@ -1185,952 +2492,54 @@
       ]
     }
   },
-  "190": {
-    "190D 2.2 SEDAN": {
+  "SLK-Class": {
+    "SLK CLASS SLK 350 CONVERTIBLE": {
       "years": [
-        1985
+        2012
       ]
     },
-    "190E 2.3 SEDAN": {
+    "SLK CLASS SLK 250 2DR CONVERTIBLE": {
       "years": [
-        1985,
-        1986,
-        1987,
-        1988
+        2013,
+        2014,
+        2015,
+        2016
       ]
     },
-    "190D 2.5 SEDAN": {
+    "SLK CLASS SLK 350 2DR CONVERTIBLE": {
       "years": [
-        1986,
-        1987,
-        1988,
-        1989
+        2013,
+        2014,
+        2015,
+        2016
       ]
     },
-    "190E 2.3-16 SEDAN": {
+    "SLK CLASS SLK 55 AMG 2DR CONVERTIBLE": {
       "years": [
-        1986,
-        1987
-      ]
-    },
-    "190 D 2.5 TURBO SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "190 E 2.6 SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "190E 2.6 SEDAN": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "190 E 2.6 4DR SEDAN": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "190 E 2.3 4DR SEDAN": {
-      "years": [
-        1991
-      ]
-    },
-    "190E 2.3 4DR SEDAN": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "190E 2.6 4DR SEDAN": {
-      "years": [
-        1992,
-        1993
-      ]
-    }
-  },
-  "300": {
-    "300 CD CP": {
-      "years": [
-        1981
-      ]
-    },
-    "300 CD SD": {
-      "years": [
-        1981
-      ]
-    },
-    "300 SD": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "300 TD WAGON": {
-      "years": [
-        1981,
-        1982,
-        1985
-      ]
-    },
-    "300 CD": {
-      "years": [
-        1982
-      ]
-    },
-    "300 DT": {
-      "years": [
-        1982
-      ]
-    },
-    "300 CD COUPE": {
-      "years": [
-        1985
-      ]
-    },
-    "300 D SEDAN": {
-      "years": [
-        1985
-      ]
-    },
-    "300 SD SEDAN": {
-      "years": [
-        1985
-      ]
-    },
-    "300 E SEDAN": {
-      "years": [
-        1986,
-        1988,
-        1989
-      ]
-    },
-    "300D TURBO SEDAN": {
-      "years": [
-        1986,
-        1987
-      ]
-    },
-    "300SDL SEDAN": {
-      "years": [
-        1986
-      ]
-    },
-    "300 TD TURBO WAGON": {
-      "years": [
-        1987
-      ]
-    },
-    "300E SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "300SDL TURBO SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "300 CE COUPE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "300 SEL SEDAN": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "300 TE WAGON": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991
-      ]
-    },
-    "300 SE SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "300 CE 2DR COUPE": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "300 E 2.6/300E 4DR SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "300 E 4MATIC 4DR SEDAN": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "300 SE 4DR SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "300 SEL 4DR SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "300 SL/500SL 2DR COUPE-ROADSTER": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "300 TE 4MATIC WAGON": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "300 E 2.6/300E/300D 2.5 TURBO 4DR SEDAN": {
-      "years": [
-        1991
-      ]
-    },
-    "300 SE/350 SD TURBO 4DR SEDAN": {
-      "years": [
-        1991
-      ]
-    },
-    "300 SEL/350 SDL TURBO 4DR SEDAN": {
-      "years": [
-        1991
-      ]
-    },
-    "300 TE/300 TE 4MATIC WAGON": {
-      "years": [
-        1992
-      ]
-    },
-    "300CE 2DR COUPE": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "300E 2.6/300D 2.5 4DR SEDAN": {
-      "years": [
-        1992
-      ]
-    },
-    "300E/300E 4MATIC 4DR SEDAN": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "300SE/300SD/400SE 4DR SEDAN": {
-      "years": [
-        1992
-      ]
-    },
-    "300/300TE 4MATIC WAGON": {
-      "years": [
-        1993
-      ]
-    },
-    "300CE CABRIOLET 2DR": {
-      "years": [
-        1993
-      ]
-    },
-    "300E 2.8/300D 2.5 4DR SEDAN": {
-      "years": [
-        1993
-      ]
-    },
-    "300SE/300SD 4DR SEDAN": {
-      "years": [
-        1993
-      ]
-    },
-    "300SL/500SL 2DR COUPE-ROADSTER": {
-      "years": [
-        1993
-      ]
-    },
-    "E300 4DR SEDAN DIESEL": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "E300 4DR SEDAN TURBO DIESEL": {
-      "years": [
-        1999
-      ]
-    }
-  },
-  "500": {
-    "500 SEC COUPE": {
-      "years": [
-        1985,
-        1993
-      ]
-    },
-    "500 SEL SEDAN": {
-      "years": [
-        1985
-      ]
-    },
-    "500SEL/600SEL SEDAN": {
-      "years": [
-        1992
-      ]
-    },
-    "E500 4DR SEDAN": {
-      "years": [
-        1994,
-        2003
-      ]
-    },
-    "S500 2DR COUPE": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "S500 4DR SEDAN": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1998
-      ]
-    },
-    "SL500 2DR CONVERTIBLE": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "S500 4DR SEDAN LWB": {
-      "years": [
-        1997,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "CL500 2DR COUPE": {
-      "years": [
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "G500 4DR SUV 4WD": {
-      "years": [
-        2002,
-        2003,
-        2004,
-        2005,
-        2007
-      ]
-    },
-    "ML500 4DR SUV 4WD": {
-      "years": [
-        2002,
-        2003,
-        2004,
-        2005,
-        2007
-      ]
-    },
-    "CLK320/CLK500 2DR COUPE": {
-      "years": [
-        2003
-      ]
-    },
-    "S430/S500 4MATIC 4DR SEDAN AWD": {
-      "years": [
-        2003
-      ]
-    },
-    "CLK500/CLK55 AMG 2DR CONV RWD": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "CLK500/CLK55 AMG 2DR COUPE RWD": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "E500 4DR SEDAN RWD": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "E500 4MATIC WAGON AWD": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "S500 4DR SEDAN RWD": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "CL500 2DR COUPE RWD": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "CLK500 2DR COUPE RWD": {
-      "years": [
-        2006
-      ]
-    },
-    "CLS500 4DR COUPE RWD": {
-      "years": [
-        2006
-      ]
-    },
-    "ML500 4DR SUV AWD": {
-      "years": [
-        2006
-      ]
-    },
-    "R500 4DR WAGON 4WD": {
-      "years": [
-        2006
-      ]
-    },
-    "R500 4DR WAGON AWD": {
-      "years": [
-        2007
-      ]
-    }
-  },
-  "280": {
-    "280 CE CP": {
-      "years": [
-        1981
-      ]
-    },
-    "280 E SD": {
-      "years": [
-        1981
-      ]
-    },
-    "C280 4DR SEDAN": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "C230/C280 4DR SEDAN": {
-      "years": [
-        1997
-      ]
-    },
-    "C280 4DR SEDAN SPORT": {
-      "years": [
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "C280 4DR SEDAN RWD /ELEGANCE": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "SLK280 2DR COVERTIBLE RWD": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "E280 4DR SEDAN AWD": {
-      "years": [
-        2007
-      ]
-    }
-  },
-  "240": {
-    "240 SD": {
-      "years": [
-        1981
-      ]
-    },
-    "240 D": {
-      "years": [
-        1982
-      ]
-    },
-    "C240 4DR SEDAN": {
-      "years": [
-        2001,
-        2002
-      ]
-    },
-    "C240 4DR SEDAN 4MATIC": {
-      "years": [
-        2003
-      ]
-    },
-    "C240 4DR SEDAN CLASSIC/ELEGANCE": {
-      "years": [
-        2003,
-        2004
-      ]
-    },
-    "C240 4DR SPORT WAGON 4MATIC": {
-      "years": [
-        2003
-      ]
-    },
-    "C240 4DR SPORT WAGON CLASSIC/ELEGANCE": {
-      "years": [
-        2003,
-        2004
-      ]
-    },
-    "C240 4DR SEDAN /ELEGANCE": {
-      "years": [
-        2005
-      ]
-    },
-    "C240 4DR SPORT WAGON /ELEGANCE": {
-      "years": [
-        2005
-      ]
-    }
-  },
-  "380": {
-    "380 SEL SD": {
-      "years": [
-        1981
-      ]
-    },
-    "380 SL CP": {
-      "years": [
-        1981
-      ]
-    },
-    "380 SLC CP": {
-      "years": [
-        1981
-      ]
-    },
-    "380 SEC": {
-      "years": [
-        1982
-      ]
-    },
-    "380 SEL": {
-      "years": [
-        1982
-      ]
-    },
-    "380 SL": {
-      "years": [
-        1982
-      ]
-    },
-    "380 SE SEDAN": {
-      "years": [
-        1985
-      ]
-    },
-    "380 SL COUPE": {
-      "years": [
-        1985
-      ]
-    }
-  },
-  "400": {
-    "400/500E 4DR SEDAN": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "400SEL/500SEL SEDAN": {
-      "years": [
-        1993
-      ]
-    }
-  },
-  "600": {
-    "600 SEC COUPE": {
-      "years": [
-        1993
-      ]
-    },
-    "600 SEL 4DR SEDAN": {
-      "years": [
-        1993
-      ]
-    },
-    "600SL 2DR COUPE-ROADSTER": {
-      "years": [
-        1993
-      ]
-    },
-    "S600 2DR COUPE": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "S600 4DR SEDAN": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "SL600 2DR CONVERTIBLE": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "CL600 2DR COUPE": {
-      "years": [
-        1998,
-        1999,
-        2001,
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "S600 4DR SEDAN LWB": {
-      "years": [
-        1999,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "S600 4DR SEDAN RWD": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "SL600 AMG 2DR CONVERTIBLE": {
-      "years": [
-        2004
-      ]
-    },
-    "CL600 2DR COUPE RWD": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "SL600 2DR CONVERTIBLE RWD": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "S600 MAYBACH": {
-      "years": [
-        2016,
-        2017
-      ]
-    }
-  },
-  "350": {
-    "S350 4DR SEDAN TURBO DIESEL": {
-      "years": [
-        1994,
-        1995
-      ]
-    },
-    "ML350 4DR SUV 4WD CLASSIC/ELEGANCE": {
-      "years": [
-        2003,
-        2004,
-        2005
-      ]
-    },
-    "SLK350 2DR COVERTIBLE RWD": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "C350 4DR SEDAN RWD": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "C350 SPORT 4DR SEDAN RWD": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "CLK350 2DR CONV RWD": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "CLK350 2DR COUPE RWD": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "E350 4DR SEDAN RWD": {
-      "years": [
-        2006
-      ]
-    },
-    "E350 4MATIC WAGON AWD": {
-      "years": [
-        2006
-      ]
-    },
-    "ML350 4DR SUV AWD": {
-      "years": [
-        2006
-      ]
-    },
-    "R350 4DR WAGON 4WD": {
-      "years": [
-        2006
-      ]
-    },
-    "E350 4DR SEDAN AWD": {
-      "years": [
-        2007
-      ]
-    },
-    "E350 4DR WAGON AWD": {
-      "years": [
-        2007
-      ]
-    },
-    "ML350 4DR SUV 4WD": {
-      "years": [
-        2007
-      ]
-    },
-    "R350 4DR WAGON AWD": {
-      "years": [
-        2007
-      ]
-    },
-    "SLK300/350 2DR COVERTIBLE RWD": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "GLE COUPE 350D / 450AMG 4MATIC": {
-      "years": [
+        2013,
+        2014,
+        2015,
         2016
       ]
     }
   },
-  "420": {
-    "420SEL SEDAN": {
+  "SLR McLaren": {
+    "SLR McLAREN 2DR COUPE RWD": {
       "years": [
-        1986,
-        1987
+        2004,
+        2005,
+        2006,
+        2007
       ]
     },
-    "420 SEL SEDAN": {
+    "SLR McLAREN ROADSTER 2DR CONV": {
       "years": [
-        1988,
-        1989
-      ]
-    },
-    "420 SEL 4DR SEDAN": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "E420 4DR SEDAN": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "S420 4DR SEDAN": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1998
-      ]
-    },
-    "S420 4DR SEDAN LWB": {
-      "years": [
-        1997,
-        1999
+        2008,
+        2009
       ]
     }
   },
-  "560": {
-    "560 SEC COUPE": {
-      "years": [
-        1986,
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "560 SEL SEDAN": {
-      "years": [
-        1986,
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "560 SL COUPE/ROADSTER": {
-      "years": [
-        1986,
-        1987,
-        1988
-      ]
-    },
-    "560 SL COUPE/": {
-      "years": [
-        1989
-      ]
-    },
-    "560 SEC 4DR SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "560 SEL 4DR SEDAN": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "560 SEC 2DR COUPE": {
-      "years": [
-        1991
-      ]
-    },
-    "MAYBACH S 560 4MATIC SEDAN": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "260": {
-    "260 E SEDAN": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    }
-  },
-  "A-Class": {
-    "A-CLASS 4DR SEDAN": {
-      "years": [
-        2019
-      ]
-    },
-    "A-CLASS 4MATIC 5DR HATCH": {
-      "years": [
-        2019
-      ]
-    },
-    "A-CLASS 5DR HATCH": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "EQC-Class": {},
+  "SLS-Class": {},
   "Sprinter": {
     "SPRINTER 2500 CARGO VAN 144-IN WB HIGH RO": {
       "years": [
@@ -2610,414 +3019,5 @@
         2019
       ]
     }
-  },
-  "METRIS": {
-    "METRIS CARGO VAN": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "METRIS PASSENGER VAN": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "L1013": {},
-  "L1113": {},
-  "L1116": {},
-  "L1316": {},
-  "L1418": {},
-  "L1117": {},
-  "L1317": {},
-  "L1419": {},
-  "LP1419": {},
-  "LPS1525": {},
-  "LP1219": {},
-  "L1319": {},
-  "M-Class": {
-    "M CLASS ML320 CDI 4DR SUV 4WD": {
-      "years": [
-        2008
-      ]
-    },
-    "M CLASS ML350 4DR SUV 4WD": {
-      "years": [
-        2008
-      ]
-    },
-    "M CLASS ML500 4DR SUV 4WD": {
-      "years": [
-        2008
-      ]
-    },
-    "M CLASS ML63 AMG 4DR SUV 4WD": {
-      "years": [
-        2008
-      ]
-    },
-    "M CLASS ML320 5DR SUV 4WD": {
-      "years": [
-        2009
-      ]
-    },
-    "M CLASS ML350 5DR SUV 4WD": {
-      "years": [
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "M CLASS ML550 5DR SUV 4WD": {
-      "years": [
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "M CLASS ML63 AMG 5DR SUV 4WD": {
-      "years": [
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "M CLASS ML350 BLUETEC 5DR SUV 4WD": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "M CLASS ML 350 4MATIC": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "M CLASS ML 350 BLUETEC 4MATIC": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "M CLASS ML 550 4MATIC": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "M CLASS ML 63 AMG": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "M CLASS ML 400 4MATIC": {
-      "years": [
-        2015
-      ]
-    }
-  },
-  "GL-Class": {
-    "GL CLASS GL320 CDI 4DR SUV AWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "GL CLASS GL450 4DR SUV AWD": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "GL CLASS GL550 4DR SUV AWD": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "GL CLASS GL350 4MATIC 4DR SUV AWD": {
-      "years": [
-        2010
-      ]
-    },
-    "GL CLASS GL350 BLUETECH 4MATIC 4DR SUV AWD": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "GL CLASS GL350 BLUETEC 4MATIC 4DR SUV": {
-      "years": [
-        2013
-      ]
-    },
-    "GL CLASS GL450/GL550 4MATIC 4DR SUV AWD": {
-      "years": [
-        2013
-      ]
-    },
-    "GL CLASS GL350 BLUETEC/GL450/GL550 4MATIC 4DR": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "GL CLASS GL 63 AMG 4DR SUV AWD": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "GL CLASS GL350 BLUETEC/GL450/GL550 4MATIC 4DR SUV": {
-      "years": [
-        2016
-      ]
-    }
-  },
-  "GLK-Class": {
-    "GLK CLASS GLK 350 5DR SUV 4WD": {
-      "years": [
-        2009,
-        2010
-      ]
-    },
-    "GLK CLASS GLK 350 4MATIC 5DR SUV 4WD": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "GLK CLASS GLK 350 5DR SUV RWD": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "GLK CLASS GLK 250 BLUETEC 4DR SUV AWD": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "GLK CLASS GLK 350 4MATIC 4DR SUV AWD": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    }
-  },
-  "R-Class": {
-    "C230 KOMPRESSOR CLASSIC 4DR SEDAN RWD": {
-      "years": [
-        2004
-      ]
-    },
-    "R CLASS R320 CDI 4DR WAGON AWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "R CLASS R350 4DR WAGON AWD": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "R CLASS R550 4DR WAGON AWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "R CLASS R63 AMG 4DR WAGON AWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "R CLASS R350 BLUETEC 4DR WAGON AWD": {
-      "years": [
-        2010
-      ]
-    },
-    "R CLASS R350 4MATIC4 DR SUV": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "R CLASS R350 BLUETEC 4MATIC4 DR SUV": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "R CLASS R350 4MATIC 4 DR SUV": {
-      "years": [
-        2013
-      ]
-    },
-    "R CLASS R350 BLUETEC 4MATIC 4 DR SUV": {
-      "years": [
-        2013
-      ]
-    }
-  },
-  "GLC-Class": {
-    "GLC CLASS 300 4MATIC 4DR SUV": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "GLC CLASS 300 4MATIC COUPE": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "GLC CLASS 43 4MATIC 4DR SUV": {
-      "years": [
-        2017,
-        2018
-      ]
-    },
-    "GLC CLASS 350e 4MATIC 4DR SUV": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "GLC CLASS 43 4MATIC COUPE": {
-      "years": [
-        2018
-      ]
-    },
-    "GLC CLASS 43 AMG 4MATIC 4DR SUV": {
-      "years": [
-        2019
-      ]
-    },
-    "GLC CLASS 43 AMG 4MATIC COUPE": {
-      "years": [
-        2019
-      ]
-    },
-    "GLC CLASS 63 S AMG 4MATIC 4DR SUV": {
-      "years": [
-        2019
-      ]
-    },
-    "GLC CLASS 63 S AMG 4MATIC COUPE": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "GLE-Class": {
-    "GLE CLASS 350D 4MATIC": {
-      "years": [
-        2016
-      ]
-    },
-    "GLE CLASS 400 4MATIC": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "GLE CLASS 450 4MATIC": {
-      "years": [
-        2016
-      ]
-    },
-    "GLE CLASS 550 4MATIC": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "GLE CLASS AMG 63 S 4MATIC": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "GLE CLASS 43 4MATIC": {
-      "years": [
-        2017,
-        2018
-      ]
-    },
-    "GLE CLASS 550e 4MATIC": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "GLE CLASS 43 AMG 4MATIC": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "ML-Class": {},
-  "GLS-Class": {
-    "GLS CLASS AMG GLS 63 4DR SUV AWD": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "GLS CLASS GLS 450 4MATIC 4DR SUV": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "GLS CLASS GLS 550 4MATIC 4DR SUV": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "GLB-Class": {}
+  }
 }

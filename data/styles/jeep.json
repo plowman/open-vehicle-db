@@ -1,193 +1,28 @@
 {
-  "Wrangler": {
-    "WRANGLER 2DR SUV 4WD RUBICON": {
+  "CJ-5": {
+    "CJ-5": {
       "years": [
-        2007,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "WRANGLER 2DR SUV 4WD SAHARA": {
-      "years": [
-        2007,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "WRANGLER 2DR SUV 4WD X": {
-      "years": [
-        2007
-      ]
-    },
-    "WRANGLER UNLIMITED 4DR SUV 4WD SAHARA/RUBICON": {
-      "years": [
-        2007
-      ]
-    },
-    "WRANGLER UNLIMITED 4DR SUV 4WD X": {
-      "years": [
-        2007
-      ]
-    },
-    "WRANGLER 2DR SUV 4WD X/SAHARA/RUBICON": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "WRANGLER UNLIMITED X/SAHARA/RUBICON 4DR SUV 4": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "WRANGLER 2DR SUV 4WD SPORT": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "WRANGLER UNLIMITED 4DR SUV 4WD RUBICON": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "WRANGLER UNLIMITED 4DR SUV 4WD SAHARA": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "WRANGLER UNLIMITED 4DR SUV 4WD SPORT": {
-      "years": [
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "WRANGLER 2DR SUV 4WD SPORT/SPORT S": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "WRANGLER UNLIMITED 4DR SUV 4WD SPORT S": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "WRANGLER 2DR SUV 4WD SPORT/WILLYS WHEELER": {
-      "years": [
-        2016,
-        2017
-      ]
-    },
-    "WRANGLER UNLIMITED 4DR SUV 4WD SPORT/WILLYS WHEELER": {
-      "years": [
-        2016,
-        2017
-      ]
-    },
-    "WRANGLER JL 3.6L RUBICON 2DR SUV": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "WRANGLER JL 3.6L RUBICON 4DR SUV": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "WRANGLER JL 3.6L SAHARA 4DR SUV": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "WRANGLER JL 3.6L SPORT 2DR SUV": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "WRANGLER JL 3.6L SPORT 4DR SUV": {
-      "years": [
-        2018,
-        2019
+        1981,
+        1982
       ]
     }
   },
-  "Liberty": {
-    "LIBERTY 4DR/RWD SPORT/LIMITED": {
+  "CJ-6": {},
+  "CJ-7": {
+    "CJ-7": {
       "years": [
-        2002
+        1981,
+        1982,
+        1985
       ]
     },
-    "LIBERTY LIMITED/RENEGADE 4DR SUV 4WD": {
+    "CJ-7 4X4": {
       "years": [
-        2003,
-        2004,
-        2005
-      ]
-    },
-    "LIBERTY SPORT 4DR SUV 4WD": {
-      "years": [
-        2003,
-        2004,
-        2005
-      ]
-    },
-    "LIBERTY SPORT/LIMITED/RENEGADE 4DR SUV 4WD": {
-      "years": [
-        2006
-      ]
-    },
-    "LIBERTY 4DR SUV 4WD SPORT/LIMITED": {
-      "years": [
-        2007
-      ]
-    },
-    "LIBERTY 4DR SUV 4WD SPORT/NORTH EDITION/LIMIT": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
+        1986
       ]
     }
   },
+  "CJ-8 Scrambler": {},
   "Cherokee": {
     "CHEROKEE 2 DR": {
       "years": [
@@ -509,6 +344,74 @@
       ]
     }
   },
+  "Comanche": {
+    "COMANCHE 4X2": {
+      "years": [
+        1986
+      ]
+    },
+    "COMANCHE 4X4": {
+      "years": [
+        1986
+      ]
+    },
+    "COMANCHE PICK UP 4X2": {
+      "years": [
+        1987
+      ]
+    },
+    "COMANCHE PICK-UP 4X4": {
+      "years": [
+        1987
+      ]
+    },
+    "COMANCHE PICK UP 2WD LONG BED": {
+      "years": [
+        1988
+      ]
+    },
+    "COMANCHE PICK-UP 2WD SHORT BED": {
+      "years": [
+        1988
+      ]
+    },
+    "COMANCHE PICK-UP 4WD LONG BED": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "COMANCHE PICK-UP 4WD SHORT BED": {
+      "years": [
+        1988,
+        1989
+      ]
+    }
+  },
+  "Commander": {
+    "COMMANDER 4DR SUV 4WD": {
+      "years": [
+        2006
+      ]
+    },
+    "COMMANDER 4DR SUV 4WD LIMITED": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "COMMANDER 4DR SUV 4WD SPORT": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    }
+  },
   "Compass": {
     "COMPASS 4DR SUV FWD SPORT/NORTH/LIMITED": {
       "years": [
@@ -560,72 +463,10 @@
       ]
     }
   },
-  "Patriot": {
-    "PATRIOT 4DR SUV FWD SPORT/LIMITED": {
+  "Gladiator": {
+    "GLADIATOR 4DR PICKUP": {
       "years": [
-        2007
-      ]
-    },
-    "PATRIOT 4DR SUV FWD SPORT/NORTH/LIMITED": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "PATRIOT 4DR SUV AWD SPORT/NORTH/LIMITED": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "PATRIOT 4DR SUV FWD SPORT/NORTH/LIMITED/ HIGH": {
-      "years": [
-        2015
-      ]
-    },
-    "PATRIOT 4DR SUV AWD": {
-      "years": [
-        2016,
-        2017
-      ]
-    },
-    "PATRIOT 4DR SUV FWD": {
-      "years": [
-        2016,
-        2017
-      ]
-    }
-  },
-  "Commander": {
-    "COMMANDER 4DR SUV 4WD": {
-      "years": [
-        2006
-      ]
-    },
-    "COMMANDER 4DR SUV 4WD LIMITED": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "COMMANDER 4DR SUV 4WD SPORT": {
-      "years": [
-        2007,
-        2008,
-        2009,
-        2010
+        2020
       ]
     }
   },
@@ -884,47 +725,34 @@
       ]
     }
   },
-  "Comanche": {
-    "COMANCHE 4X2": {
+  "Grand Wagoneer": {
+    "GRAND WAGONEER": {
       "years": [
-        1986
+        1985
       ]
     },
-    "COMANCHE 4X4": {
+    "GRAND WAGONEER 4X4": {
       "years": [
-        1986
-      ]
-    },
-    "COMANCHE PICK UP 4X2": {
-      "years": [
+        1986,
         1987
       ]
     },
-    "COMANCHE PICK-UP 4X4": {
-      "years": [
-        1987
-      ]
-    },
-    "COMANCHE PICK UP 2WD LONG BED": {
-      "years": [
-        1988
-      ]
-    },
-    "COMANCHE PICK-UP 2WD SHORT BED": {
-      "years": [
-        1988
-      ]
-    },
-    "COMANCHE PICK-UP 4WD LONG BED": {
+    "GRAND WAGONEER 4X4 4DR": {
       "years": [
         1988,
         1989
       ]
     },
-    "COMANCHE PICK-UP 4WD SHORT BED": {
+    "GRAND WAGONEER 4DR 4x4": {
       "years": [
-        1988,
-        1989
+        1990,
+        1991,
+        1993
+      ]
+    },
+    "GRAND WAGONEER 4DR SUV 4WD": {
+      "years": [
+        1994
       ]
     }
   },
@@ -969,42 +797,88 @@
       ]
     }
   },
-  "Wrangler JK": {
-    "WRANGLER JK 2DR SUV 4WD RUBICON": {
+  "Liberty": {
+    "LIBERTY 4DR/RWD SPORT/LIMITED": {
       "years": [
-        2018
+        2002
       ]
     },
-    "WRANGLER JK 2DR SUV 4WD SAHARA": {
+    "LIBERTY LIMITED/RENEGADE 4DR SUV 4WD": {
       "years": [
-        2018
+        2003,
+        2004,
+        2005
       ]
     },
-    "WRANGLER JK 2DR SUV 4WD SPORT/WILLYS WHEELER": {
+    "LIBERTY SPORT 4DR SUV 4WD": {
       "years": [
-        2018
+        2003,
+        2004,
+        2005
       ]
     },
-    "WRANGLER JK UNLIMITED 4DR SUV 4WD RUBICON": {
+    "LIBERTY SPORT/LIMITED/RENEGADE 4DR SUV 4WD": {
       "years": [
-        2018
+        2006
       ]
     },
-    "WRANGLER JK UNLIMITED 4DR SUV 4WD SAHARA": {
+    "LIBERTY 4DR SUV 4WD SPORT/LIMITED": {
       "years": [
-        2018
+        2007
       ]
     },
-    "WRANGLER JK UNLIMITED 4DR SUV 4WD SPORT/WILLYS WHEELER": {
+    "LIBERTY 4DR SUV 4WD SPORT/NORTH EDITION/LIMIT": {
       "years": [
-        2018
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
       ]
     }
   },
-  "Gladiator": {
-    "GLADIATOR 4DR PICKUP": {
+  "Patriot": {
+    "PATRIOT 4DR SUV FWD SPORT/LIMITED": {
       "years": [
-        2020
+        2007
+      ]
+    },
+    "PATRIOT 4DR SUV FWD SPORT/NORTH/LIMITED": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "PATRIOT 4DR SUV AWD SPORT/NORTH/LIMITED": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "PATRIOT 4DR SUV FWD SPORT/NORTH/LIMITED/ HIGH": {
+      "years": [
+        2015
+      ]
+    },
+    "PATRIOT 4DR SUV AWD": {
+      "years": [
+        2016,
+        2017
+      ]
+    },
+    "PATRIOT 4DR SUV FWD": {
+      "years": [
+        2016,
+        2017
       ]
     }
   },
@@ -1050,37 +924,6 @@
       ]
     }
   },
-  "Grand Wagoneer": {
-    "GRAND WAGONEER": {
-      "years": [
-        1985
-      ]
-    },
-    "GRAND WAGONEER 4X4": {
-      "years": [
-        1986,
-        1987
-      ]
-    },
-    "GRAND WAGONEER 4X4 4DR": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "GRAND WAGONEER 4DR 4x4": {
-      "years": [
-        1990,
-        1991,
-        1993
-      ]
-    },
-    "GRAND WAGONEER 4DR SUV 4WD": {
-      "years": [
-        1994
-      ]
-    }
-  },
   "Wagoneer": {
     "WAGONEER": {
       "years": [
@@ -1116,28 +959,185 @@
       ]
     }
   },
-  "CJ-7": {
-    "CJ-7": {
+  "Wrangler": {
+    "WRANGLER 2DR SUV 4WD RUBICON": {
       "years": [
-        1981,
-        1982,
-        1985
+        2007,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017
       ]
     },
-    "CJ-7 4X4": {
+    "WRANGLER 2DR SUV 4WD SAHARA": {
       "years": [
-        1986
+        2007,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "WRANGLER 2DR SUV 4WD X": {
+      "years": [
+        2007
+      ]
+    },
+    "WRANGLER UNLIMITED 4DR SUV 4WD SAHARA/RUBICON": {
+      "years": [
+        2007
+      ]
+    },
+    "WRANGLER UNLIMITED 4DR SUV 4WD X": {
+      "years": [
+        2007
+      ]
+    },
+    "WRANGLER 2DR SUV 4WD X/SAHARA/RUBICON": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "WRANGLER UNLIMITED X/SAHARA/RUBICON 4DR SUV 4": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "WRANGLER 2DR SUV 4WD SPORT": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "WRANGLER UNLIMITED 4DR SUV 4WD RUBICON": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "WRANGLER UNLIMITED 4DR SUV 4WD SAHARA": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "WRANGLER UNLIMITED 4DR SUV 4WD SPORT": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "WRANGLER 2DR SUV 4WD SPORT/SPORT S": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "WRANGLER UNLIMITED 4DR SUV 4WD SPORT S": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "WRANGLER 2DR SUV 4WD SPORT/WILLYS WHEELER": {
+      "years": [
+        2016,
+        2017
+      ]
+    },
+    "WRANGLER UNLIMITED 4DR SUV 4WD SPORT/WILLYS WHEELER": {
+      "years": [
+        2016,
+        2017
+      ]
+    },
+    "WRANGLER JL 3.6L RUBICON 2DR SUV": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "WRANGLER JL 3.6L RUBICON 4DR SUV": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "WRANGLER JL 3.6L SAHARA 4DR SUV": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "WRANGLER JL 3.6L SPORT 2DR SUV": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "WRANGLER JL 3.6L SPORT 4DR SUV": {
+      "years": [
+        2018,
+        2019
       ]
     }
   },
-  "CJ-8 Scrambler": {},
-  "CJ-5": {
-    "CJ-5": {
+  "Wrangler JK": {
+    "WRANGLER JK 2DR SUV 4WD RUBICON": {
       "years": [
-        1981,
-        1982
+        2018
+      ]
+    },
+    "WRANGLER JK 2DR SUV 4WD SAHARA": {
+      "years": [
+        2018
+      ]
+    },
+    "WRANGLER JK 2DR SUV 4WD SPORT/WILLYS WHEELER": {
+      "years": [
+        2018
+      ]
+    },
+    "WRANGLER JK UNLIMITED 4DR SUV 4WD RUBICON": {
+      "years": [
+        2018
+      ]
+    },
+    "WRANGLER JK UNLIMITED 4DR SUV 4WD SAHARA": {
+      "years": [
+        2018
+      ]
+    },
+    "WRANGLER JK UNLIMITED 4DR SUV 4WD SPORT/WILLYS WHEELER": {
+      "years": [
+        2018
       ]
     }
-  },
-  "CJ-6": {}
+  }
 }

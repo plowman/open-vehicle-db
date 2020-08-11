@@ -1,4 +1,396 @@
 {
+  "Allure": {
+    "ALLURE CX/CXL/CXS 4DR SEDAN FWD": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "ALLURE SUPER 4DR SEDAN FWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    }
+  },
+  "Cascada": {
+    "CASCADA": {
+      "years": [
+        2016,
+        2017
+      ]
+    }
+  },
+  "Century": {
+    "CENTURY 2 DR CP": {
+      "years": [
+        1981
+      ]
+    },
+    "CENTURY 4 DR SD": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "CENTURY LTD. 2 DR CP": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "CENTURY LTD. 4 DR SD": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "CENTURY WAGON": {
+      "years": [
+        1981
+      ]
+    },
+    "CENTURY CUST. 2 DR CP": {
+      "years": [
+        1982
+      ]
+    },
+    "CENTURY CUSTOM COUPE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "CENTURY CUSTOM SEDAN": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "CENTURY CUSTOM WAGON": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "CENTURY ESTATE WAGON": {
+      "years": [
+        1985,
+        1986,
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "CENTURY LIMITED COUPE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "CENTURY LIMITED SEDAN": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "CENTURY T-TYPE COUPE": {
+      "years": [
+        1985
+      ]
+    },
+    "CENTURY T-TYPE SEDAN": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "CENTURY CUSTOM 2 DR COUPE": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "CENTURY CUSTOM 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "CENTURY LIMITED 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "CENTURY LIMITED 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "CENTURY CUSTOM/LIMITED 4DR SEDAN": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "CENTURY CUSTOM ESTATE WAGON": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "CENTURY CUSTOM/LIMITED WAGON": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "CENTURY 4DR SEDAN CUSTOM/SPECIAL": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "CENTURY 4DR WAGON SPECIAL": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "CENTURY 4DR SEDAN CUSTOM/LIMITED": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "CENTURY 4DR SEDAN FWD": {
+      "years": [
+        2004,
+        2005
+      ]
+    }
+  },
+  "Coachbuilder": {},
+  "Electra": {
+    "ELECTRA LTD. 2 DR CP": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "ELECTRA LTD. 4 DR SD": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "ELECTRA PARKAVE 2 DR CP": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "ELECTRA PARKAVE 4 DR": {
+      "years": [
+        1981
+      ]
+    },
+    "ELECTRA WAGON": {
+      "years": [
+        1981
+      ]
+    },
+    "ELECTRA EST. WAGON 4 DR": {
+      "years": [
+        1982
+      ]
+    },
+    "ELECTRA PARKAVE 4 DR SD": {
+      "years": [
+        1982
+      ]
+    },
+    "ELECTRA COUPE (BASE)": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "ELECTRA ESTATE WAGON": {
+      "years": [
+        1985,
+        1986,
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "ELECTRA PARK AVENUE COUPE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "ELECTRA PARK AVENUE SEDAN": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "ELECTRA SEDAN (BASE)": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "ELECTRA T-TYPE COUPE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "ELECTRA T-TYPE SEDAN": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "ELECTRA 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "ELECTRA PARK AVENUE 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "ELECTRA PARK AVENUE 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "ELECTRA T-TYPE 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "ELECTRA PARK AVENUE ULTRA SEDAN": {
+      "years": [
+        1989
+      ]
+    },
+    "ELECTRA PARK AVENUE BASE/ULTRA 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    }
+  },
+  "Enclave": {
+    "ENCLAVE 4DR SUV FWD CX/CXL": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "ENCLAVE 4DR SUV AWD CX/CXL": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "ENCLAVE 4DR SUV AWD BASE/LEATHER/PREMIUM": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "ENCLAVE 4DR SUV FWD BASE/LEATHER/PREMIUM": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "ENCLAVE 4DR SUV AWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "ENCLAVE 4DR SUV FWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Encore": {
+    "ENCORE 4DR SUV AWD": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "ENCORE 4DR SUV FWD": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Encore GX": {},
+  "Envision": {
+    "ENVISION 4DR SUV": {
+      "years": [
+        2016
+      ]
+    },
+    "ENVISION 4DR SUV AWD": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Incomplete": {},
   "LaCrosse": {
     "LACROSSE 4DR SEDAN CX/CXL/CXS FWD": {
       "years": [
@@ -64,6 +456,246 @@
       "years": [
         2015,
         2016
+      ]
+    }
+  },
+  "LeSabre": {
+    "LE SABRE 2 DR CP": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "LE SABRE 4 DR SD": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "LE SABRE LTD. 2 DR CP": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "LE SABRE LTD. 4 DR SD": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "LE SABRE WAGON": {
+      "years": [
+        1981
+      ]
+    },
+    "LE SABRE EST. WAGON": {
+      "years": [
+        1982
+      ]
+    },
+    "LESABRE CUSTOM COUPE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "LESABRE CUSTOM SEDAN": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "LESABRE ESTATE WAGON": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "LESABRE LIMITED COUPE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "LESABRE LIMITED SEDAN": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "LESABRE CUSTOM 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "LESABRE CUSTOM 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "LESABRE LIMITED 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "LESABRE LIMITED 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "LESABRE T-TYPE 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "LESABRE CUSTOM/LIMITED 4 DR SEDAN": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "LESABRE LIMITED/T-TYPE COUPE": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "LESABRE CUSTOM/LIMITED 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "LESABRE 4DR SEDAN CUSTOM/LIMITED": {
+      "years": [
+        1994,
+        1995,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    }
+  },
+  "Lucerne": {
+    "LUCERNE CX 4DR SEDAN FWD": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "LUCERNE CXL/CXS 4DR SEDAN FWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "LUCERNE CXL/CXS/SUPER 4DR SEDAN FWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "LUCERNE CXL/SUPER 4DR SEDAN FWD": {
+      "years": [
+        2010
+      ]
+    },
+    "LUCERNE 4DR SEDAN FWD CX/CXL": {
+      "years": [
+        2011
+      ]
+    },
+    "LUCERNE 4DR SEDAN FWD SUPER": {
+      "years": [
+        2011
+      ]
+    }
+  },
+  "Park Avenue": {
+    "PARK AVENUE BASE/ULTRA 4DR SEDAN": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "PARK AVENUE 4DR SEDAN BASE/ULTRA": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "PARK AVENUE 4DR SEDAN BASE": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    },
+    "PARK AVENUE 4DR SEDAN ULTRA": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    }
+  },
+  "Rainier": {
+    "RAINIER CXL 4DR SUV AWD": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "RAINIER  4DR SUV AWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    }
+  },
+  "Reatta": {
+    "REATTA 2 DR COUPE": {
+      "years": [
+        1989
+      ]
+    },
+    "REATTA 2DR COUPE": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "REATTA CONVERTIBLE": {
+      "years": [
+        1990,
+        1991
       ]
     }
   },
@@ -249,404 +881,36 @@
       ]
     }
   },
-  "Verano": {
-    "VERANO 4DR SEDAN": {
+  "Regal TourX": {
+    "REGAL TOUR X WAGON": {
       "years": [
-        2012
-      ]
-    },
-    "VERANO 4DR SEDAN BASE/TURBO": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016,
-        2017
+        2018,
+        2019
       ]
     }
   },
-  "Lucerne": {
-    "LUCERNE CX 4DR SEDAN FWD": {
+  "Rendezvous": {
+    "RENDEZVOUS 4DR SUV CX AWD/CXL AWD": {
       "years": [
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
+        2002
       ]
     },
-    "LUCERNE CXL/CXS 4DR SEDAN FWD": {
+    "RENDEZVOUS 4DR SUV FWD CX": {
       "years": [
-        2006,
-        2007
+        2002
       ]
     },
-    "LUCERNE CXL/CXS/SUPER 4DR SEDAN FWD": {
+    "RENDEZVOUS CX/CX Plus/CXL/CXL Plus 4DR SUV FW": {
       "years": [
-        2008,
-        2009
-      ]
-    },
-    "LUCERNE CXL/SUPER 4DR SEDAN FWD": {
-      "years": [
-        2010
-      ]
-    },
-    "LUCERNE 4DR SEDAN FWD CX/CXL": {
-      "years": [
-        2011
-      ]
-    },
-    "LUCERNE 4DR SEDAN FWD SUPER": {
-      "years": [
-        2011
-      ]
-    }
-  },
-  "Allure": {
-    "ALLURE CX/CXL/CXS 4DR SEDAN FWD": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "ALLURE SUPER 4DR SEDAN FWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    }
-  },
-  "Park Avenue": {
-    "PARK AVENUE BASE/ULTRA 4DR SEDAN": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "PARK AVENUE 4DR SEDAN BASE/ULTRA": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "PARK AVENUE 4DR SEDAN BASE": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005
-      ]
-    },
-    "PARK AVENUE 4DR SEDAN ULTRA": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005
-      ]
-    }
-  },
-  "LeSabre": {
-    "LE SABRE 2 DR CP": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "LE SABRE 4 DR SD": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "LE SABRE LTD. 2 DR CP": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "LE SABRE LTD. 4 DR SD": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "LE SABRE WAGON": {
-      "years": [
-        1981
-      ]
-    },
-    "LE SABRE EST. WAGON": {
-      "years": [
-        1982
-      ]
-    },
-    "LESABRE CUSTOM COUPE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "LESABRE CUSTOM SEDAN": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "LESABRE ESTATE WAGON": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "LESABRE LIMITED COUPE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "LESABRE LIMITED SEDAN": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "LESABRE CUSTOM 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "LESABRE CUSTOM 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "LESABRE LIMITED 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "LESABRE LIMITED 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "LESABRE T-TYPE 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "LESABRE CUSTOM/LIMITED 4 DR SEDAN": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "LESABRE LIMITED/T-TYPE COUPE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "LESABRE CUSTOM/LIMITED 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "LESABRE 4DR SEDAN CUSTOM/LIMITED": {
-      "years": [
-        1994,
-        1995,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005
-      ]
-    }
-  },
-  "Century": {
-    "CENTURY 2 DR CP": {
-      "years": [
-        1981
-      ]
-    },
-    "CENTURY 4 DR SD": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "CENTURY LTD. 2 DR CP": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "CENTURY LTD. 4 DR SD": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "CENTURY WAGON": {
-      "years": [
-        1981
-      ]
-    },
-    "CENTURY CUST. 2 DR CP": {
-      "years": [
-        1982
-      ]
-    },
-    "CENTURY CUSTOM COUPE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CENTURY CUSTOM SEDAN": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CENTURY CUSTOM WAGON": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "CENTURY ESTATE WAGON": {
-      "years": [
-        1985,
-        1986,
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "CENTURY LIMITED COUPE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CENTURY LIMITED SEDAN": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CENTURY T-TYPE COUPE": {
-      "years": [
-        1985
-      ]
-    },
-    "CENTURY T-TYPE SEDAN": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CENTURY CUSTOM 2 DR COUPE": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "CENTURY CUSTOM 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "CENTURY LIMITED 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "CENTURY LIMITED 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "CENTURY CUSTOM/LIMITED 4DR SEDAN": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "CENTURY CUSTOM ESTATE WAGON": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "CENTURY CUSTOM/LIMITED WAGON": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "CENTURY 4DR SEDAN CUSTOM/SPECIAL": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "CENTURY 4DR WAGON SPECIAL": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "CENTURY 4DR SEDAN CUSTOM/LIMITED": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
         2003
       ]
     },
-    "CENTURY 4DR SEDAN FWD": {
+    "RENDEZVOUS CX/CX Plus/CXL/CXL Plus/Ultra 4DR": {
       "years": [
         2004,
-        2005
+        2005,
+        2006,
+        2007
       ]
     }
   },
@@ -699,129 +963,6 @@
       ]
     }
   },
-  "Skylark": {
-    "SKYLARK 2 DR CP": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "SKYLARK 4 DR SD": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "SKYLARK LTD. 2 DR CP": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "SKYLARK LTD. 4 DR SD": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "SKYLARK SPT 2 DR CP": {
-      "years": [
-        1981
-      ]
-    },
-    "SKYLARK SPT. 2 DR CP": {
-      "years": [
-        1982
-      ]
-    },
-    "SKYLARK SPT. 4 DR SD": {
-      "years": [
-        1982
-      ]
-    },
-    "SKYLARK CUSTOM": {
-      "years": [
-        1985
-      ]
-    },
-    "SKYLARK LIMITED SEDAN": {
-      "years": [
-        1985
-      ]
-    },
-    "SKYLARK CUSTOM 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "SKYLARK LIMITED 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "SKYLARK CUSTOM/ LIMITED 4DR SEDAN": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "SKYLARK CUSTOM/ LIMITED COUPE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "SKYLARK CUSTOM/GRAN SPORT 2DR COUPE": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "SKYLARK CUSTOM/LIMITED 4DR SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "SKYLARK CUSTOM/LUXURY EDITION 4DR SEDAN": {
-      "years": [
-        1991
-      ]
-    },
-    "SKYLARK /GRAN SPORT 2DR COUPE": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "SKYLARK /GRAN SPORT 4DR SEDAN": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "SKYLARK 2DR COUPE CUSTOM/GRAN SPORT": {
-      "years": [
-        1994
-      ]
-    },
-    "SKYLARK 4DR SEDAN CUSTOM/LTD/GRAN SPORT": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "SKYLARK 2DR COUPE CUSTOM/LTD/GRAN SPORT": {
-      "years": [
-        1995,
-        1996,
-        1997
-      ]
-    }
-  },
-  "Coachbuilder": {},
   "Roadmaster": {
     "ROADMASTER BASE/LIMITED 4DR SEDAN": {
       "years": [
@@ -849,149 +990,6 @@
         1994,
         1995,
         1996
-      ]
-    }
-  },
-  "Cascada": {
-    "CASCADA": {
-      "years": [
-        2016,
-        2017
-      ]
-    }
-  },
-  "Reatta": {
-    "REATTA 2 DR COUPE": {
-      "years": [
-        1989
-      ]
-    },
-    "REATTA 2DR COUPE": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "REATTA CONVERTIBLE": {
-      "years": [
-        1990,
-        1991
-      ]
-    }
-  },
-  "Electra": {
-    "ELECTRA LTD. 2 DR CP": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "ELECTRA LTD. 4 DR SD": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "ELECTRA PARKAVE 2 DR CP": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "ELECTRA PARKAVE 4 DR": {
-      "years": [
-        1981
-      ]
-    },
-    "ELECTRA WAGON": {
-      "years": [
-        1981
-      ]
-    },
-    "ELECTRA EST. WAGON 4 DR": {
-      "years": [
-        1982
-      ]
-    },
-    "ELECTRA PARKAVE 4 DR SD": {
-      "years": [
-        1982
-      ]
-    },
-    "ELECTRA COUPE (BASE)": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "ELECTRA ESTATE WAGON": {
-      "years": [
-        1985,
-        1986,
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "ELECTRA PARK AVENUE COUPE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "ELECTRA PARK AVENUE SEDAN": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "ELECTRA SEDAN (BASE)": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "ELECTRA T-TYPE COUPE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "ELECTRA T-TYPE SEDAN": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "ELECTRA 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "ELECTRA PARK AVENUE 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "ELECTRA PARK AVENUE 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "ELECTRA T-TYPE 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "ELECTRA PARK AVENUE ULTRA SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "ELECTRA PARK AVENUE BASE/ULTRA 4DR SEDAN": {
-      "years": [
-        1990
       ]
     }
   },
@@ -1127,6 +1125,128 @@
       ]
     }
   },
+  "Skylark": {
+    "SKYLARK 2 DR CP": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "SKYLARK 4 DR SD": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "SKYLARK LTD. 2 DR CP": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "SKYLARK LTD. 4 DR SD": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "SKYLARK SPT 2 DR CP": {
+      "years": [
+        1981
+      ]
+    },
+    "SKYLARK SPT. 2 DR CP": {
+      "years": [
+        1982
+      ]
+    },
+    "SKYLARK SPT. 4 DR SD": {
+      "years": [
+        1982
+      ]
+    },
+    "SKYLARK CUSTOM": {
+      "years": [
+        1985
+      ]
+    },
+    "SKYLARK LIMITED SEDAN": {
+      "years": [
+        1985
+      ]
+    },
+    "SKYLARK CUSTOM 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "SKYLARK LIMITED 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "SKYLARK CUSTOM/ LIMITED 4DR SEDAN": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "SKYLARK CUSTOM/ LIMITED COUPE": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "SKYLARK CUSTOM/GRAN SPORT 2DR COUPE": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "SKYLARK CUSTOM/LIMITED 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "SKYLARK CUSTOM/LUXURY EDITION 4DR SEDAN": {
+      "years": [
+        1991
+      ]
+    },
+    "SKYLARK /GRAN SPORT 2DR COUPE": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "SKYLARK /GRAN SPORT 4DR SEDAN": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "SKYLARK 2DR COUPE CUSTOM/GRAN SPORT": {
+      "years": [
+        1994
+      ]
+    },
+    "SKYLARK 4DR SEDAN CUSTOM/LTD/GRAN SPORT": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "SKYLARK 2DR COUPE CUSTOM/LTD/GRAN SPORT": {
+      "years": [
+        1995,
+        1996,
+        1997
+      ]
+    }
+  },
   "Somerset": {
     "SOMERSET REGAL (BASE)": {
       "years": [
@@ -1164,87 +1284,6 @@
       ]
     }
   },
-  "Regal TourX": {
-    "REGAL TOUR X WAGON": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "Enclave": {
-    "ENCLAVE 4DR SUV FWD CX/CXL": {
-      "years": [
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "ENCLAVE 4DR SUV AWD CX/CXL": {
-      "years": [
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "ENCLAVE 4DR SUV AWD BASE/LEATHER/PREMIUM": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "ENCLAVE 4DR SUV FWD BASE/LEATHER/PREMIUM": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "ENCLAVE 4DR SUV AWD": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "ENCLAVE 4DR SUV FWD": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Encore": {
-    "ENCORE 4DR SUV AWD": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "ENCORE 4DR SUV FWD": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
   "Terraza": {
     "TERRAZA CX/CXL 4DR VAN FWD": {
       "years": [
@@ -1254,59 +1293,20 @@
       ]
     }
   },
-  "Rainier": {
-    "RAINIER CXL 4DR SUV AWD": {
+  "Verano": {
+    "VERANO 4DR SEDAN": {
       "years": [
-        2004,
-        2005
+        2012
       ]
     },
-    "RAINIER  4DR SUV AWD": {
+    "VERANO 4DR SEDAN BASE/TURBO": {
       "years": [
-        2006,
-        2007
+        2013,
+        2014,
+        2015,
+        2016,
+        2017
       ]
     }
-  },
-  "Rendezvous": {
-    "RENDEZVOUS 4DR SUV CX AWD/CXL AWD": {
-      "years": [
-        2002
-      ]
-    },
-    "RENDEZVOUS 4DR SUV FWD CX": {
-      "years": [
-        2002
-      ]
-    },
-    "RENDEZVOUS CX/CX Plus/CXL/CXL Plus 4DR SUV FW": {
-      "years": [
-        2003
-      ]
-    },
-    "RENDEZVOUS CX/CX Plus/CXL/CXL Plus/Ultra 4DR": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007
-      ]
-    }
-  },
-  "Incomplete": {},
-  "Envision": {
-    "ENVISION 4DR SUV": {
-      "years": [
-        2016
-      ]
-    },
-    "ENVISION 4DR SUV AWD": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Encore GX": {}
+  }
 }

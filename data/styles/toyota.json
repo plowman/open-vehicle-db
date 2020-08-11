@@ -1,429 +1,120 @@
 {
-  "SCION xA": {},
-  "SCION tC": {},
-  "Corolla": {
-    "COROLLA 2 & 4 DR SD": {
-      "years": [
-        1981
-      ]
-    },
-    "COROLLA LIFTBACK": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "COROLLA SPIRIT CP": {
-      "years": [
-        1981
-      ]
-    },
-    "COROLLA WAGON": {
-      "years": [
-        1981,
-        1993,
-        1994
-      ]
-    },
-    "COROLLA 2 DR": {
-      "years": [
-        1982
-      ]
-    },
-    "COROLLA 4 DR": {
-      "years": [
-        1982
-      ]
-    },
-    "COROLLA DELUXE WAGON": {
-      "years": [
-        1982,
-        1988
-      ]
-    },
-    "COROLLA SR5": {
-      "years": [
-        1982
-      ]
-    },
-    "COROLLA SR5 SPT. CP": {
-      "years": [
-        1982
-      ]
-    },
-    "COROLLA COUPE GT-S": {
+  "4-Runner": {
+    "4 RUNNER SR5 PICK-UP": {
       "years": [
         1985,
-        1986
-      ]
-    },
-    "COROLLA COUPE SR5": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "COROLLA LIFTBACK DELUXE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "COROLLA LIFTBACK GT-S": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "COROLLA LIFTBACK LE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "COROLLA LIFTBACK SR5": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "COROLLA SEDAN DELUXE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "COROLLA SEDAN LE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "COROLLA DELUXE 4 DR HATCHBACK": {
-      "years": [
         1987
       ]
     },
-    "COROLLA DELUXE 4 DR SEDAN": {
+    "4 RUNNER SR5": {
       "years": [
-        1987
+        1986
       ]
     },
-    "COROLLA GTS 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "COROLLA GTS 2 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "COROLLA LE 4 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "COROLLA LE 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "COROLLA SR5 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "COROLLA SR5 2 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "COROLLA GTS/SR5 2 DR COUPE": {
+    "4 RUNNER DELUXE/SR5": {
       "years": [
         1988
       ]
     },
-    "COROLLA LE/ DELUXE 4 DR SEDAN": {
-      "years": [
-        1988
-      ]
-    },
-    "COROLLA 4WD SR5 WAGON": {
-      "years": [
-        1989,
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "COROLLA BASE/4WD/WAGON": {
+    "4 RUNNER BASE SR5 V6 4X4": {
       "years": [
         1989
       ]
     },
-    "COROLLA BASE/LE/4WD SEDAN": {
+    "4 RUNNER BASE/SR5 4X4": {
       "years": [
         1989
       ]
     },
-    "COROLLA SPORT SR5/GTS COUPE": {
+    "4RUNNER SR5 2DR 4x4": {
       "years": [
-        1989
+        1990
       ]
     },
-    "COROLLA 4WD WAGON": {
+    "4RUNNER SR5 4DR 4x4": {
       "years": [
-        1990,
+        1990
+      ]
+    },
+    "4RUNNER SR5 V6 4X4": {
+      "years": [
+        1990
+      ]
+    },
+    "4 RUNNER SR5 2DR/4DR 4WD": {
+      "years": [
         1991,
         1992,
         1993
       ]
     },
-    "COROLLA BASE 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "COROLLA BASE WAGON": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "COROLLA LE/4WD 4DR SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "COROLLA SPORT SR5/GT-S 2DR COUPE": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "COROLLA LE 4DR SEDAN": {
+    "4 RUNNER SR5 4DR 2WD": {
       "years": [
         1991,
-        1992
+        1992,
+        1993
       ]
     },
-    "COROLLA 4DR SEDAN BASE/DX/LE": {
+    "4 RUNNER SR5 V6 2DR/4DR 4WD": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "4RUNNER 4DR SUV SR5 4WD": {
       "years": [
         1994,
         1995,
-        1996
-      ]
-    },
-    "COROLLA 4DR WAGON": {
-      "years": [
-        1995,
-        1996
-      ]
-    },
-    "COROLLA 4DR SEDAN SD/DX": {
-      "years": [
+        1996,
         1997
       ]
     },
-    "COROLLA 4DR SEDAN LE": {
+    "4RUNNER 4DR SUV SR5 V6 4WD": {
       "years": [
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
+        1994,
+        1995,
+        1996,
+        1997
       ]
     },
-    "COROLLA 4DR SEDAN VE/CE": {
+    "4RUNNER 4DR SUV SR5 V6 4WD W/TIRE PACKAGE": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "4RUNNER 4DR SUV SR5 V6 4WD LTD": {
+      "years": [
+        1996,
+        1997
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD LTD V6": {
       "years": [
         1998,
         1999,
         2000
       ]
     },
-    "COROLLA 4DR SEDAN CE/SPORT": {
+    "4RUNNER 4DR SUV 4WD SR5": {
       "years": [
+        1998,
+        1999,
         2001,
         2002
       ]
     },
-    "COROLLA CE/SPORT/LE 4DR SEDAN FWD": {
+    "4RUNNER 4DR SUV 4WD SR5 V6": {
       "years": [
-        2003
-      ]
-    },
-    "COROLLA 4DR SEDAN FWD CE/SPORT/LE": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007,
-        2008
-      ]
-    },
-    "COROLLA 4DR SEDAN FWD /XRS": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "COROLLA 4DR SEDAN FWD CE/LE/S/XRS": {
-      "years": [
-        2009,
-        2010
-      ]
-    },
-    "COROLLA 4DR SEDAN FWD CE/LE/S": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "COROLLA 4DR SEDAN FWD XRS": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "COROLLA 4DR SEDAN CE/LE/S": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "COROLLA 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019,
-        2020
-      ]
-    },
-    "COROLLA 5DR HATCH": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "PRIUS": {
-    "PRIUS 4DR SEDAN": {
-      "years": [
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "PRIUS 4DR HATCH FWD": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "PRIUS 4DR HATCH PREMIUM/TOURING/NAV": {
-      "years": [
+        1998,
+        1999,
+        2000,
         2010,
-        2011
-      ]
-    },
-    "PRIUS 4DR LIFTBACK PREMIUM/TOURING/NAV": {
-      "years": [
-        2012
-      ]
-    },
-    "PRIUS 4DR LIFTBACK": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "PRIUS 5DR LIFTBACK": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Scion FR-S": {},
-  "Yaris": {
-    "YARIS 2DR HATCH FWD CE RS": {
-      "years": [
-        2006
-      ]
-    },
-    "YARIS 4DR HATCH FWD LE/RS": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "YARIS 2DR HATCH FWD CE/RS": {
-      "years": [
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "YARIS 4DR SEDAN FWD": {
-      "years": [
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "YARIS 2DR HATCH FWD CE": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "YARIS 4DR SEDAN FWD CE/LE/RS": {
-      "years": [
         2011,
-        2012
-      ]
-    },
-    "YARIS 3DR HATCHBACK CE": {
-      "years": [
         2012,
         2013,
         2014,
-        2015
-      ]
-    },
-    "YARIS 5DR HATCHBACK LE": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "YARIS 5DR HATCHBACK SE": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "YARIS 5DR HATCHBACK LE/SE": {
-      "years": [
         2015,
         2016,
         2017,
@@ -431,17 +122,112 @@
         2019
       ]
     },
-    "YARIS 3DR HATCHBACK": {
+    "4RUNNER 4DR SUV 4WD BASE": {
       "years": [
+        2001
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD LTD": {
+      "years": [
+        2001,
+        2002
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD BADLANDS": {
+      "years": [
+        2002
+      ]
+    },
+    "4RUNNER Limited V6 4DR SUV 4WD": {
+      "years": [
+        2003
+      ]
+    },
+    "4RUNNER Limited V8 4DR SUV 4WD": {
+      "years": [
+        2003
+      ]
+    },
+    "4RUNNER SR5 V6 4DR SUV 4WD": {
+      "years": [
+        2003
+      ]
+    },
+    "4RUNNER SR5 V8 4DR SUV 4WD": {
+      "years": [
+        2003
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD /Limited V6": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD /Limited V8": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD /SR5 V6": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD /SR5 V8": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "4RUNNER 4DR SUV 4WD LIMITED V6": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
         2016,
         2017,
         2018,
         2019
       ]
     },
-    "YARIS 4DR SEDAN": {
+    "4RUNNER 4DR SUV 4WD TRAIL EDITION V6": {
       "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
         2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "86": {
+    "86 2DR COUPE": {
+      "years": [
         2017,
         2018,
         2019
@@ -491,7 +277,22 @@
       ]
     }
   },
-  "Corolla Matrix": {},
+  "C-HR": {
+    "C-HR 4DR SUV": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "COROLLA iM": {
+    "COROLLA iM 5DR HATCHBACK": {
+      "years": [
+        2017,
+        2018
+      ]
+    }
+  },
   "Camry": {
     "CAMRY LIFTBACK LE": {
       "years": [
@@ -856,170 +657,7 @@
       ]
     }
   },
-  "SCION xD": {},
-  "FCHV-adv": {},
-  "Tercel": {
-    "TERCEL LIFTBACK": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "TERCEL SD 2 DR": {
-      "years": [
-        1981
-      ]
-    },
-    "TERCEL SD 4 DR": {
-      "years": [
-        1981
-      ]
-    },
-    "TERCEL 2 DR SD": {
-      "years": [
-        1982
-      ]
-    },
-    "TERCEL 4 DR SD": {
-      "years": [
-        1982
-      ]
-    },
-    "TERCEL LIFTBACK DELUXE 4 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "TERCEL SPECIAL": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "TERCEL SR5": {
-      "years": [
-        1985
-      ]
-    },
-    "TERCEL STANDARD": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "TERCEL WAGON 4 WD DELUXE": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "TERCEL WAGON 4 WD SR5": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "TERCEL WAGON FWD DELUXE": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "TERCEL DELUXE 4 DR HATCHBACK": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "TERCEL STANDARD 2 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "TERCEL DELUXE 2DR COUPE": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "TERCEL DELUXE/SR5 WAGON 4WD": {
-      "years": [
-        1988
-      ]
-    },
-    "TERCEL S/STANDARD/DELUXE 2 DR HATCHBACK": {
-      "years": [
-        1988
-      ]
-    },
-    "TERCEL DELUXE 4 DR LIFTBACK": {
-      "years": [
-        1989,
-        1990
-      ]
-    },
-    "TERCEL S/STANDARD/DELUXE 2 DR LIFTBACK": {
-      "years": [
-        1989,
-        1990
-      ]
-    },
-    "TERCEL DX/LE 4 DR SEDAN": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "TERCEL S/DX/LE 2DR COUPE": {
-      "years": [
-        1991
-      ]
-    },
-    "TERCEL S/DX 2DR COUPE": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "TERCEL 2DR COUPE S/DX": {
-      "years": [
-        1994,
-        1995
-      ]
-    },
-    "TERCEL 4DR SEDAN DX": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "TERCEL 2DR COUPE SD/DX": {
-      "years": [
-        1996
-      ]
-    },
-    "TERCEL 2DR COUPE CE": {
-      "years": [
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "TERCEL 4DR SEDAN CE": {
-      "years": [
-        1997,
-        1998,
-        1999
-      ]
-    }
-  },
+  "Cargo Van": {},
   "Celica": {
     "CELICA GT LIIFTBACK": {
       "years": [
@@ -1179,6 +817,1274 @@
       ]
     }
   },
+  "Corolla": {
+    "COROLLA 2 & 4 DR SD": {
+      "years": [
+        1981
+      ]
+    },
+    "COROLLA LIFTBACK": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "COROLLA SPIRIT CP": {
+      "years": [
+        1981
+      ]
+    },
+    "COROLLA WAGON": {
+      "years": [
+        1981,
+        1993,
+        1994
+      ]
+    },
+    "COROLLA 2 DR": {
+      "years": [
+        1982
+      ]
+    },
+    "COROLLA 4 DR": {
+      "years": [
+        1982
+      ]
+    },
+    "COROLLA DELUXE WAGON": {
+      "years": [
+        1982,
+        1988
+      ]
+    },
+    "COROLLA SR5": {
+      "years": [
+        1982
+      ]
+    },
+    "COROLLA SR5 SPT. CP": {
+      "years": [
+        1982
+      ]
+    },
+    "COROLLA COUPE GT-S": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "COROLLA COUPE SR5": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "COROLLA LIFTBACK DELUXE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "COROLLA LIFTBACK GT-S": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "COROLLA LIFTBACK LE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "COROLLA LIFTBACK SR5": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "COROLLA SEDAN DELUXE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "COROLLA SEDAN LE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "COROLLA DELUXE 4 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "COROLLA DELUXE 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "COROLLA GTS 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "COROLLA GTS 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "COROLLA LE 4 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "COROLLA LE 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "COROLLA SR5 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "COROLLA SR5 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "COROLLA GTS/SR5 2 DR COUPE": {
+      "years": [
+        1988
+      ]
+    },
+    "COROLLA LE/ DELUXE 4 DR SEDAN": {
+      "years": [
+        1988
+      ]
+    },
+    "COROLLA 4WD SR5 WAGON": {
+      "years": [
+        1989,
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "COROLLA BASE/4WD/WAGON": {
+      "years": [
+        1989
+      ]
+    },
+    "COROLLA BASE/LE/4WD SEDAN": {
+      "years": [
+        1989
+      ]
+    },
+    "COROLLA SPORT SR5/GTS COUPE": {
+      "years": [
+        1989
+      ]
+    },
+    "COROLLA 4WD WAGON": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "COROLLA BASE 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "COROLLA BASE WAGON": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "COROLLA LE/4WD 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "COROLLA SPORT SR5/GT-S 2DR COUPE": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "COROLLA LE 4DR SEDAN": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "COROLLA 4DR SEDAN BASE/DX/LE": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "COROLLA 4DR WAGON": {
+      "years": [
+        1995,
+        1996
+      ]
+    },
+    "COROLLA 4DR SEDAN SD/DX": {
+      "years": [
+        1997
+      ]
+    },
+    "COROLLA 4DR SEDAN LE": {
+      "years": [
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "COROLLA 4DR SEDAN VE/CE": {
+      "years": [
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "COROLLA 4DR SEDAN CE/SPORT": {
+      "years": [
+        2001,
+        2002
+      ]
+    },
+    "COROLLA CE/SPORT/LE 4DR SEDAN FWD": {
+      "years": [
+        2003
+      ]
+    },
+    "COROLLA 4DR SEDAN FWD CE/SPORT/LE": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008
+      ]
+    },
+    "COROLLA 4DR SEDAN FWD /XRS": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "COROLLA 4DR SEDAN FWD CE/LE/S/XRS": {
+      "years": [
+        2009,
+        2010
+      ]
+    },
+    "COROLLA 4DR SEDAN FWD CE/LE/S": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "COROLLA 4DR SEDAN FWD XRS": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "COROLLA 4DR SEDAN CE/LE/S": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "COROLLA 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020
+      ]
+    },
+    "COROLLA 5DR HATCH": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "Corolla Matrix": {},
+  "Corona": {
+    "CORONA LIFTBACK": {
+      "years": [
+        1981
+      ]
+    },
+    "CORONA SD": {
+      "years": [
+        1981
+      ]
+    },
+    "CORONA WAGON": {
+      "years": [
+        1981
+      ]
+    },
+    "CORONA 5 DR": {
+      "years": [
+        1982
+      ]
+    }
+  },
+  "Cressida": {
+    "CRESSIDA SD": {
+      "years": [
+        1981
+      ]
+    },
+    "CRESSIDA WAGON": {
+      "years": [
+        1981,
+        1982,
+        1985,
+        1986
+      ]
+    },
+    "CRESSIDA 4 DR SD": {
+      "years": [
+        1982
+      ]
+    },
+    "CRESSIDA SEDAN": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "CRESSIDA 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "CRESSIDA 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    }
+  },
+  "Echo": {
+    "ECHO 2DR COUPE": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "ECHO 4DR SEDAN": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "ECHO 4DR SEDAN FWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "ECHO HATCH FWD 3-DR": {
+      "years": [
+        2004
+      ]
+    },
+    "ECHO HATCH FWD 5-DR": {
+      "years": [
+        2004
+      ]
+    },
+    "ECHO 2DR HATCH FWD /CE": {
+      "years": [
+        2005
+      ]
+    },
+    "ECHO 4DR HATCH FWD /LE/RS": {
+      "years": [
+        2005
+      ]
+    }
+  },
+  "FCHV-adv": {},
+  "FJ Cruiser": {
+    "FJ CRUISER 2DR SUV 4WD": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "FJ CRUISER 2DR SUV 4WD /OFFROAD/ADVENTURE": {
+      "years": [
+        2011
+      ]
+    },
+    "FJ CRUISER 2DR SUV 4WD /OFFROAD/URBAN/TRAIL T": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    }
+  },
+  "Highlander": {
+    "HIGHLANDER 4DR SUV AWD": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "HIGHLANDER 4DR SUV FWD": {
+      "years": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    },
+    "HIGHLANDER 4DR SUV 4WD/4WD V6": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "HIGHLANDER HYBRID 4DR SUV FWD": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "HIGHLANDER 4DR SUV 4WD V6": {
+      "years": [
+        2006,
+        2007,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "HIGHLANDER 4DR SUV 4WD /SR5/SPORT": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "HIGHLANDER 4DR SUV 4WD LIMITED": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "HIGHLANDER HYBRID 4DR SUV FWD BASE": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "HIGHLANDER HYBRID 4DR SUV FWD LIMITED": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "HIGHLANDER 4DR SUV 4WD": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "HIGHLANDER HYBRID 4DR SUV 4WD BASE/LIMITED": {
+      "years": [
+        2011
+      ]
+    },
+    "HIGHLANDER HYBRID 4DR SUV 4WD-i/LIMITED 4WD-i": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "HIGHLANDER HYBRID LE/XLE/LIMITED": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "HIGHLANDER LE FWD": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "HIGHLANDER LE/XLE/LIMITED AWD": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "HIGHLANDER AWD 4DR SUV": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "HIGHLANDER FWD 4DR SUV": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "HIGHLANDER HYBRID 4DR SUV": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "LAND CRUISER": {
+    "LAND CRUISER HARDTOP": {
+      "years": [
+        1981
+      ]
+    },
+    "LAND CRUISER 4 DR": {
+      "years": [
+        1982
+      ]
+    },
+    "LANDCRUISER HARDTOP 2 DR": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "LANDCRUISER WAGON 4 DR": {
+      "years": [
+        1985,
+        1986,
+        1987,
+        1988
+      ]
+    },
+    "LANDCRUISER WAGON 4 DR 4X4": {
+      "years": [
+        1989
+      ]
+    }
+  },
+  "MR2": {
+    "MR2": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "MR2 (2 DR COUPE)": {
+      "years": [
+        1987
+      ]
+    },
+    "MR2 BASE/SUPERCHARGED 2 DR COUPE": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "MR2/MR2 TURBO COUPE": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    }
+  },
+  "Mirai": {},
+  "PRIUS": {
+    "PRIUS 4DR SEDAN": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "PRIUS 4DR HATCH FWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "PRIUS 4DR HATCH PREMIUM/TOURING/NAV": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "PRIUS 4DR LIFTBACK PREMIUM/TOURING/NAV": {
+      "years": [
+        2012
+      ]
+    },
+    "PRIUS 4DR LIFTBACK": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "PRIUS 5DR LIFTBACK": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Paseo": {
+    "PASEO SPORT COUPE": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "PASEO 2DR COUPE": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    }
+  },
+  "Pick-Up": {
+    "PICKUP": {
+      "years": [
+        1981
+      ]
+    },
+    "PICKUP LONGBED": {
+      "years": [
+        1981
+      ]
+    },
+    "LONG BED DIESEL DELUXE 4 X 4 PICK-UP": {
+      "years": [
+        1985
+      ]
+    },
+    "LONG BED DIESEL PICK-UP": {
+      "years": [
+        1985
+      ]
+    },
+    "LONG BED SR5 4 X 4 PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "LONG BED SR5 PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "STANDARD BED 4 X 4 PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "STANDARD BED PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "XTRACAB DELUXE/SR5 PICK-UP": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "XTRACAB SR5 4 X 4 PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "LONG BED DELUXE 4 X 4 PICK-UP": {
+      "years": [
+        1986,
+        1987
+      ]
+    },
+    "LONG BED PICK-UP": {
+      "years": [
+        1986,
+        1987
+      ]
+    },
+    "XTRACAB SR5 PICK-UP": {
+      "years": [
+        1987
+      ]
+    }
+  },
+  "Previa": {
+    "PREVIA BASE 2WD/LE 2WD WAGON": {
+      "years": [
+        1990
+      ]
+    },
+    "PREVIA BASE 4WD/LE 4WD WAGON": {
+      "years": [
+        1990
+      ]
+    },
+    "PREVIA BASE/LE 2WD WAGON": {
+      "years": [
+        1991,
+        1992,
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "PREVIA BASE/LE 4WD WAGON": {
+      "years": [
+        1991,
+        1992,
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "PREVIA BASE 2WD WAGON": {
+      "years": [
+        1993
+      ]
+    },
+    "PREVIA BASE 4WD WAGON": {
+      "years": [
+        1993
+      ]
+    },
+    "PREVIA LE 2WD WAGON": {
+      "years": [
+        1993
+      ]
+    },
+    "PREVIA LE 4WD WAGON": {
+      "years": [
+        1993
+      ]
+    }
+  },
+  "Prius C": {
+    "PRIUS C 4DR HATCHBACK/TECHNOLOGY": {
+      "years": [
+        2012
+      ]
+    },
+    "PRIUS C /TECHNOLOGY 4DR HATCHBACK": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "PRIUS C 5DR HATCHBACK": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Prius Plug-in": {
+    "PRIUS PLUG-IN HYBRID 4DR LIFTBACK": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    }
+  },
+  "Prius Prime": {
+    "PRIUS PRIME 5DR LIFTBACK": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "Prius V": {
+    "PRIUS V 4DR HATCHBACK": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "PRIUS V 5DR HATCHBACK": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "RAV4": {
+    "RAV4 2DR SUV FWD": {
+      "years": [
+        1997,
+        1998
+      ]
+    },
+    "RAV4 4DR SUV AWD": {
+      "years": [
+        1997,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    },
+    "RAV4 4DR SUV FWD": {
+      "years": [
+        1997,
+        1998
+      ]
+    },
+    "RAV4 2DR SUV 4WD": {
+      "years": [
+        1998
+      ]
+    },
+    "RAV4 4DR SUV 4WD": {
+      "years": [
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "RAV4 2DR SUV 4WD HARDTOP": {
+      "years": [
+        1999,
+        2000
+      ]
+    },
+    "RAV4 2DR SUV FWD SOFTTOP": {
+      "years": [
+        1999
+      ]
+    },
+    "RAV4 4DR SUV AWD /LIMITED": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "RAV4 4DR SUV AWD V6 SPORT": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "RAV4 4DR SUV AWD V6/V6 LIMITED": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "RAV4 4DR SUV 4WD BASE/SPORT/LIMITED": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "RAV4 4DR SUV 4WD V6/SPORT V6/LIMITED V6": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "RAV4 4DR SUV 4WD L4 BASE/SPORT/LIMITED": {
+      "years": [
+        2010
+      ]
+    },
+    "RAV4 4DR SUV BASE 2WD": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "RAV4 4DR SUV BASE 4WD": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "RAV4 4DR SUV BASE V-6 4WD": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "RAV4 4DR SUV SPORT 2WD/LIMITED 2WD": {
+      "years": [
+        2011
+      ]
+    },
+    "RAV4 4DR SUV SPORT 4WD/LIMITED 4WD": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "RAV4 4DR SUV SPORT V6 4WD/LIMITED V6 4WD": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "RAV4 LE AWD 4DR SUV": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016
+      ]
+    },
+    "RAV4 LE FWD 4DR SUV": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016
+      ]
+    },
+    "RAV4 XLE FWD 4DR SUV": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016
+      ]
+    },
+    "RAV4 XLE/LIMITED AWD 4DR SUV": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "RAV4 HYBRID": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "RAV4 XLE/SE/LIMITED AWD 4DR SUV": {
+      "years": [
+        2016
+      ]
+    },
+    "RAV4 AWD 4DR SUV": {
+      "years": [
+        2017,
+        2018
+      ]
+    },
+    "RAV4 FWD 4DR SUV": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "RAV4 AWD LE / XLE 4DR SUV": {
+      "years": [
+        2019
+      ]
+    },
+    "RAV4 AWD TRAIL / LIMITED 4DR SUV": {
+      "years": [
+        2019
+      ]
+    },
+    "RAV4 HYBRID 4DR SUV": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "SCION tC": {},
+  "SCION xA": {},
+  "SCION xB": {},
+  "SCION xD": {},
+  "Scion FR-S": {},
+  "Scion iA": {},
+  "Scion iM": {},
+  "Scion iQ": {},
+  "Sequoia": {
+    "SEQUOIA 4DR SUV 4WD SR5/LTD": {
+      "years": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "SEQUOIA 4DR SUV 4WD SR5/LIMITED/PLATINUM": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "SEQUOIA 4DR SUV 4WD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Sienna": {
+    "SIENNA CARGO VAN": {
+      "years": [
+        1998,
+        1999
+      ]
+    },
+    "SIENNA CE/LE": {
+      "years": [
+        1998
+      ]
+    },
+    "SIENNA 3DR CE": {
+      "years": [
+        1999,
+        2000
+      ]
+    },
+    "SIENNA 4DR CE/LE": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "SIENNA CE/LE/XLE LIMITED 4DR VAN FWD": {
+      "years": [
+        2003
+      ]
+    },
+    "SIENNA AWD /LE/XLE": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "SIENNA FWD  /CE/LE": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "SIENNA AWD XLE AWD LIMITED": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "SIENNA FWD CE/LE": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "SIENNA BASE/LE FWD V6": {
+      "years": [
+        2011
+      ]
+    },
+    "SIENNA LE AWD": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016
+      ]
+    },
+    "SIENNA LE FWD 4CYL": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "SIENNA LIMITED AWD": {
+      "years": [
+        2011
+      ]
+    },
+    "SIENNA SE/XLE FWD V6": {
+      "years": [
+        2011
+      ]
+    },
+    "SIENNA V6/LE V6/SE V6 FWD": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "SIENNA XLE AWD V6": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016
+      ]
+    },
+    "SIENNA XLE FWD V6": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "SIENNA LE/SE V6/XLE FWD": {
+      "years": [
+        2014
+      ]
+    },
+    "SIENNA LE/SE/LIMITED FWD": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "SIENNA AWD V6": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "SIENNA BASE/LE FWD": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "SIENNA SE/LIMITED FWD": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Starlet": {
+    "STARLET": {
+      "years": [
+        1981,
+        1982
+      ]
+    }
+  },
   "Supra": {
     "SUPRA": {
       "years": [
@@ -1234,507 +2140,48 @@
       ]
     }
   },
-  "MR2": {
-    "MR2": {
+  "T100": {
+    "T100/SR5 2WD": {
       "years": [
-        1985,
-        1986
-      ]
-    },
-    "MR2 (2 DR COUPE)": {
-      "years": [
-        1987
-      ]
-    },
-    "MR2 BASE/SUPERCHARGED 2 DR COUPE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "MR2/MR2 TURBO COUPE": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    }
-  },
-  "Paseo": {
-    "PASEO SPORT COUPE": {
-      "years": [
-        1992,
         1993
       ]
     },
-    "PASEO 2DR COUPE": {
+    "T100/SR5 4WD": {
       "years": [
-        1994,
+        1993
+      ]
+    },
+    "T100 P/U REG CAB 2WD": {
+      "years": [
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "T100 P/U XTRACAB 2WD": {
+      "years": [
         1995,
         1996,
         1997,
-        1998,
-        1999
-      ]
-    }
-  },
-  "Echo": {
-    "ECHO 2DR COUPE": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003
+        1998
       ]
     },
-    "ECHO 4DR SEDAN": {
+    "T100 P/U XTRACAB SR5 4WD": {
       "years": [
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "ECHO 4DR SEDAN FWD": {
-      "years": [
-        2003,
-        2004,
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "ECHO HATCH FWD 3-DR": {
-      "years": [
-        2004
-      ]
-    },
-    "ECHO HATCH FWD 5-DR": {
-      "years": [
-        2004
-      ]
-    },
-    "ECHO 2DR HATCH FWD /CE": {
-      "years": [
-        2005
-      ]
-    },
-    "ECHO 4DR HATCH FWD /LE/RS": {
-      "years": [
-        2005
-      ]
-    }
-  },
-  "Cressida": {
-    "CRESSIDA SD": {
-      "years": [
-        1981
-      ]
-    },
-    "CRESSIDA WAGON": {
-      "years": [
-        1981,
-        1982,
-        1985,
-        1986
-      ]
-    },
-    "CRESSIDA 4 DR SD": {
-      "years": [
-        1982
-      ]
-    },
-    "CRESSIDA SEDAN": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CRESSIDA 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "CRESSIDA 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    }
-  },
-  "Mirai": {},
-  "Scion iQ": {},
-  "Scion iM": {},
-  "86": {
-    "86 2DR COUPE": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Scion iA": {},
-  "Prius V": {
-    "PRIUS V 4DR HATCHBACK": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "PRIUS V 5DR HATCHBACK": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Prius C": {
-    "PRIUS C 4DR HATCHBACK/TECHNOLOGY": {
-      "years": [
-        2012
-      ]
-    },
-    "PRIUS C /TECHNOLOGY 4DR HATCHBACK": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "PRIUS C 5DR HATCHBACK": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Prius Plug-in": {
-    "PRIUS PLUG-IN HYBRID 4DR LIFTBACK": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    }
-  },
-  "Starlet": {
-    "STARLET": {
-      "years": [
-        1981,
-        1982
-      ]
-    }
-  },
-  "Corona": {
-    "CORONA LIFTBACK": {
-      "years": [
-        1981
-      ]
-    },
-    "CORONA SD": {
-      "years": [
-        1981
-      ]
-    },
-    "CORONA WAGON": {
-      "years": [
-        1981
-      ]
-    },
-    "CORONA 5 DR": {
-      "years": [
-        1982
-      ]
-    }
-  },
-  "COROLLA iM": {
-    "COROLLA iM 5DR HATCHBACK": {
-      "years": [
-        2017,
-        2018
-      ]
-    }
-  },
-  "C-HR": {
-    "C-HR 4DR SUV": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "Prius Prime": {
-    "PRIUS PRIME 5DR LIFTBACK": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "Yaris iA": {},
-  "LAND CRUISER": {
-    "LAND CRUISER HARDTOP": {
-      "years": [
-        1981
-      ]
-    },
-    "LAND CRUISER 4 DR": {
-      "years": [
-        1982
-      ]
-    },
-    "LANDCRUISER HARDTOP 2 DR": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "LANDCRUISER WAGON 4 DR": {
-      "years": [
-        1985,
-        1986,
-        1987,
-        1988
-      ]
-    },
-    "LANDCRUISER WAGON 4 DR 4X4": {
-      "years": [
-        1989
-      ]
-    }
-  },
-  "4-Runner": {
-    "4 RUNNER SR5 PICK-UP": {
-      "years": [
-        1985,
-        1987
-      ]
-    },
-    "4 RUNNER SR5": {
-      "years": [
-        1986
-      ]
-    },
-    "4 RUNNER DELUXE/SR5": {
-      "years": [
-        1988
-      ]
-    },
-    "4 RUNNER BASE SR5 V6 4X4": {
-      "years": [
-        1989
-      ]
-    },
-    "4 RUNNER BASE/SR5 4X4": {
-      "years": [
-        1989
-      ]
-    },
-    "4RUNNER SR5 2DR 4x4": {
-      "years": [
-        1990
-      ]
-    },
-    "4RUNNER SR5 4DR 4x4": {
-      "years": [
-        1990
-      ]
-    },
-    "4RUNNER SR5 V6 4X4": {
-      "years": [
-        1990
-      ]
-    },
-    "4 RUNNER SR5 2DR/4DR 4WD": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "4 RUNNER SR5 4DR 2WD": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "4 RUNNER SR5 V6 2DR/4DR 4WD": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "4RUNNER 4DR SUV SR5 4WD": {
-      "years": [
-        1994,
         1995,
-        1996,
-        1997
+        1996
       ]
     },
-    "4RUNNER 4DR SUV SR5 V6 4WD": {
+    "T100 P/U XTRACAB 4WD": {
       "years": [
-        1994,
-        1995,
-        1996,
-        1997
+        1997,
+        1998
       ]
     },
-    "4RUNNER 4DR SUV SR5 V6 4WD W/TIRE PACKAGE": {
+    "T100 P/U XTRACAB 4WD SR5": {
       "years": [
-        1994,
-        1995
-      ]
-    },
-    "4RUNNER 4DR SUV SR5 V6 4WD LTD": {
-      "years": [
-        1996,
-        1997
-      ]
-    },
-    "4RUNNER 4DR SUV 4WD LTD V6": {
-      "years": [
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "4RUNNER 4DR SUV 4WD SR5": {
-      "years": [
-        1998,
-        1999,
-        2001,
-        2002
-      ]
-    },
-    "4RUNNER 4DR SUV 4WD SR5 V6": {
-      "years": [
-        1998,
-        1999,
-        2000,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "4RUNNER 4DR SUV 4WD BASE": {
-      "years": [
-        2001
-      ]
-    },
-    "4RUNNER 4DR SUV 4WD LTD": {
-      "years": [
-        2001,
-        2002
-      ]
-    },
-    "4RUNNER 4DR SUV 4WD BADLANDS": {
-      "years": [
-        2002
-      ]
-    },
-    "4RUNNER Limited V6 4DR SUV 4WD": {
-      "years": [
-        2003
-      ]
-    },
-    "4RUNNER Limited V8 4DR SUV 4WD": {
-      "years": [
-        2003
-      ]
-    },
-    "4RUNNER SR5 V6 4DR SUV 4WD": {
-      "years": [
-        2003
-      ]
-    },
-    "4RUNNER SR5 V8 4DR SUV 4WD": {
-      "years": [
-        2003
-      ]
-    },
-    "4RUNNER 4DR SUV 4WD /Limited V6": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "4RUNNER 4DR SUV 4WD /Limited V8": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "4RUNNER 4DR SUV 4WD /SR5 V6": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "4RUNNER 4DR SUV 4WD /SR5 V8": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "4RUNNER 4DR SUV 4WD LIMITED V6": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "4RUNNER 4DR SUV 4WD TRAIL EDITION V6": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
+        1997,
+        1998
       ]
     }
   },
@@ -2010,6 +2457,168 @@
         2017,
         2018,
         2019
+      ]
+    }
+  },
+  "Tercel": {
+    "TERCEL LIFTBACK": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "TERCEL SD 2 DR": {
+      "years": [
+        1981
+      ]
+    },
+    "TERCEL SD 4 DR": {
+      "years": [
+        1981
+      ]
+    },
+    "TERCEL 2 DR SD": {
+      "years": [
+        1982
+      ]
+    },
+    "TERCEL 4 DR SD": {
+      "years": [
+        1982
+      ]
+    },
+    "TERCEL LIFTBACK DELUXE 4 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "TERCEL SPECIAL": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "TERCEL SR5": {
+      "years": [
+        1985
+      ]
+    },
+    "TERCEL STANDARD": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "TERCEL WAGON 4 WD DELUXE": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "TERCEL WAGON 4 WD SR5": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "TERCEL WAGON FWD DELUXE": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "TERCEL DELUXE 4 DR HATCHBACK": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "TERCEL STANDARD 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "TERCEL DELUXE 2DR COUPE": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "TERCEL DELUXE/SR5 WAGON 4WD": {
+      "years": [
+        1988
+      ]
+    },
+    "TERCEL S/STANDARD/DELUXE 2 DR HATCHBACK": {
+      "years": [
+        1988
+      ]
+    },
+    "TERCEL DELUXE 4 DR LIFTBACK": {
+      "years": [
+        1989,
+        1990
+      ]
+    },
+    "TERCEL S/STANDARD/DELUXE 2 DR LIFTBACK": {
+      "years": [
+        1989,
+        1990
+      ]
+    },
+    "TERCEL DX/LE 4 DR SEDAN": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "TERCEL S/DX/LE 2DR COUPE": {
+      "years": [
+        1991
+      ]
+    },
+    "TERCEL S/DX 2DR COUPE": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "TERCEL 2DR COUPE S/DX": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "TERCEL 4DR SEDAN DX": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "TERCEL 2DR COUPE SD/DX": {
+      "years": [
+        1996
+      ]
+    },
+    "TERCEL 2DR COUPE CE": {
+      "years": [
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "TERCEL 4DR SEDAN CE": {
+      "years": [
+        1997,
+        1998,
+        1999
       ]
     }
   },
@@ -2346,132 +2955,6 @@
       ]
     }
   },
-  "Cargo Van": {},
-  "T100": {
-    "T100/SR5 2WD": {
-      "years": [
-        1993
-      ]
-    },
-    "T100/SR5 4WD": {
-      "years": [
-        1993
-      ]
-    },
-    "T100 P/U REG CAB 2WD": {
-      "years": [
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "T100 P/U XTRACAB 2WD": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "T100 P/U XTRACAB SR5 4WD": {
-      "years": [
-        1995,
-        1996
-      ]
-    },
-    "T100 P/U XTRACAB 4WD": {
-      "years": [
-        1997,
-        1998
-      ]
-    },
-    "T100 P/U XTRACAB 4WD SR5": {
-      "years": [
-        1997,
-        1998
-      ]
-    }
-  },
-  "Pick-Up": {
-    "PICKUP": {
-      "years": [
-        1981
-      ]
-    },
-    "PICKUP LONGBED": {
-      "years": [
-        1981
-      ]
-    },
-    "LONG BED DIESEL DELUXE 4 X 4 PICK-UP": {
-      "years": [
-        1985
-      ]
-    },
-    "LONG BED DIESEL PICK-UP": {
-      "years": [
-        1985
-      ]
-    },
-    "LONG BED SR5 4 X 4 PICK-UP": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "LONG BED SR5 PICK-UP": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "STANDARD BED 4 X 4 PICK-UP": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "STANDARD BED PICK-UP": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "XTRACAB DELUXE/SR5 PICK-UP": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "XTRACAB SR5 4 X 4 PICK-UP": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "LONG BED DELUXE 4 X 4 PICK-UP": {
-      "years": [
-        1986,
-        1987
-      ]
-    },
-    "LONG BED PICK-UP": {
-      "years": [
-        1986,
-        1987
-      ]
-    },
-    "XTRACAB SR5 PICK-UP": {
-      "years": [
-        1987
-      ]
-    }
-  },
   "Van": {
     "VAN LE": {
       "years": [
@@ -2488,529 +2971,6 @@
     "VAN LE 4X4": {
       "years": [
         1987
-      ]
-    }
-  },
-  "SCION xB": {},
-  "Highlander": {
-    "HIGHLANDER 4DR SUV AWD": {
-      "years": [
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "HIGHLANDER 4DR SUV FWD": {
-      "years": [
-        2001,
-        2002,
-        2003,
-        2004,
-        2005
-      ]
-    },
-    "HIGHLANDER 4DR SUV 4WD/4WD V6": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "HIGHLANDER HYBRID 4DR SUV FWD": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "HIGHLANDER 4DR SUV 4WD V6": {
-      "years": [
-        2006,
-        2007,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "HIGHLANDER 4DR SUV 4WD /SR5/SPORT": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "HIGHLANDER 4DR SUV 4WD LIMITED": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "HIGHLANDER HYBRID 4DR SUV FWD BASE": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "HIGHLANDER HYBRID 4DR SUV FWD LIMITED": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "HIGHLANDER 4DR SUV 4WD": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "HIGHLANDER HYBRID 4DR SUV 4WD BASE/LIMITED": {
-      "years": [
-        2011
-      ]
-    },
-    "HIGHLANDER HYBRID 4DR SUV 4WD-i/LIMITED 4WD-i": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "HIGHLANDER HYBRID LE/XLE/LIMITED": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "HIGHLANDER LE FWD": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "HIGHLANDER LE/XLE/LIMITED AWD": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "HIGHLANDER AWD 4DR SUV": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "HIGHLANDER FWD 4DR SUV": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "HIGHLANDER HYBRID 4DR SUV": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "RAV4": {
-    "RAV4 2DR SUV FWD": {
-      "years": [
-        1997,
-        1998
-      ]
-    },
-    "RAV4 4DR SUV AWD": {
-      "years": [
-        1997,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005
-      ]
-    },
-    "RAV4 4DR SUV FWD": {
-      "years": [
-        1997,
-        1998
-      ]
-    },
-    "RAV4 2DR SUV 4WD": {
-      "years": [
-        1998
-      ]
-    },
-    "RAV4 4DR SUV 4WD": {
-      "years": [
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "RAV4 2DR SUV 4WD HARDTOP": {
-      "years": [
-        1999,
-        2000
-      ]
-    },
-    "RAV4 2DR SUV FWD SOFTTOP": {
-      "years": [
-        1999
-      ]
-    },
-    "RAV4 4DR SUV AWD /LIMITED": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "RAV4 4DR SUV AWD V6 SPORT": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "RAV4 4DR SUV AWD V6/V6 LIMITED": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "RAV4 4DR SUV 4WD BASE/SPORT/LIMITED": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "RAV4 4DR SUV 4WD V6/SPORT V6/LIMITED V6": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "RAV4 4DR SUV 4WD L4 BASE/SPORT/LIMITED": {
-      "years": [
-        2010
-      ]
-    },
-    "RAV4 4DR SUV BASE 2WD": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "RAV4 4DR SUV BASE 4WD": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "RAV4 4DR SUV BASE V-6 4WD": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "RAV4 4DR SUV SPORT 2WD/LIMITED 2WD": {
-      "years": [
-        2011
-      ]
-    },
-    "RAV4 4DR SUV SPORT 4WD/LIMITED 4WD": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "RAV4 4DR SUV SPORT V6 4WD/LIMITED V6 4WD": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "RAV4 LE AWD 4DR SUV": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "RAV4 LE FWD 4DR SUV": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "RAV4 XLE FWD 4DR SUV": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "RAV4 XLE/LIMITED AWD 4DR SUV": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "RAV4 HYBRID": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "RAV4 XLE/SE/LIMITED AWD 4DR SUV": {
-      "years": [
-        2016
-      ]
-    },
-    "RAV4 AWD 4DR SUV": {
-      "years": [
-        2017,
-        2018
-      ]
-    },
-    "RAV4 FWD 4DR SUV": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "RAV4 AWD LE / XLE 4DR SUV": {
-      "years": [
-        2019
-      ]
-    },
-    "RAV4 AWD TRAIL / LIMITED 4DR SUV": {
-      "years": [
-        2019
-      ]
-    },
-    "RAV4 HYBRID 4DR SUV": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "FJ Cruiser": {
-    "FJ CRUISER 2DR SUV 4WD": {
-      "years": [
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "FJ CRUISER 2DR SUV 4WD /OFFROAD/ADVENTURE": {
-      "years": [
-        2011
-      ]
-    },
-    "FJ CRUISER 2DR SUV 4WD /OFFROAD/URBAN/TRAIL T": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    }
-  },
-  "Sienna": {
-    "SIENNA CARGO VAN": {
-      "years": [
-        1998,
-        1999
-      ]
-    },
-    "SIENNA CE/LE": {
-      "years": [
-        1998
-      ]
-    },
-    "SIENNA 3DR CE": {
-      "years": [
-        1999,
-        2000
-      ]
-    },
-    "SIENNA 4DR CE/LE": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "SIENNA CE/LE/XLE LIMITED 4DR VAN FWD": {
-      "years": [
-        2003
-      ]
-    },
-    "SIENNA AWD /LE/XLE": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "SIENNA FWD  /CE/LE": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "SIENNA AWD XLE AWD LIMITED": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "SIENNA FWD CE/LE": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "SIENNA BASE/LE FWD V6": {
-      "years": [
-        2011
-      ]
-    },
-    "SIENNA LE AWD": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "SIENNA LE FWD 4CYL": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "SIENNA LIMITED AWD": {
-      "years": [
-        2011
-      ]
-    },
-    "SIENNA SE/XLE FWD V6": {
-      "years": [
-        2011
-      ]
-    },
-    "SIENNA V6/LE V6/SE V6 FWD": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "SIENNA XLE AWD V6": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "SIENNA XLE FWD V6": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "SIENNA LE/SE V6/XLE FWD": {
-      "years": [
-        2014
-      ]
-    },
-    "SIENNA LE/SE/LIMITED FWD": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "SIENNA AWD V6": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "SIENNA BASE/LE FWD": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "SIENNA SE/LIMITED FWD": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Sequoia": {
-    "SEQUOIA 4DR SUV 4WD SR5/LTD": {
-      "years": [
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "SEQUOIA 4DR SUV 4WD SR5/LIMITED/PLATINUM": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "SEQUOIA 4DR SUV 4WD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
       ]
     }
   },
@@ -3072,56 +3032,96 @@
       ]
     }
   },
-  "Previa": {
-    "PREVIA BASE 2WD/LE 2WD WAGON": {
+  "Yaris": {
+    "YARIS 2DR HATCH FWD CE RS": {
       "years": [
-        1990
+        2006
       ]
     },
-    "PREVIA BASE 4WD/LE 4WD WAGON": {
+    "YARIS 4DR HATCH FWD LE/RS": {
       "years": [
-        1990
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011
       ]
     },
-    "PREVIA BASE/LE 2WD WAGON": {
+    "YARIS 2DR HATCH FWD CE/RS": {
       "years": [
-        1991,
-        1992,
-        1994,
-        1995,
-        1996,
-        1997
+        2007,
+        2008,
+        2009
       ]
     },
-    "PREVIA BASE/LE 4WD WAGON": {
+    "YARIS 4DR SEDAN FWD": {
       "years": [
-        1991,
-        1992,
-        1994,
-        1995,
-        1996,
-        1997
+        2007,
+        2008,
+        2009,
+        2010
       ]
     },
-    "PREVIA BASE 2WD WAGON": {
+    "YARIS 2DR HATCH FWD CE": {
       "years": [
-        1993
+        2010,
+        2011
       ]
     },
-    "PREVIA BASE 4WD WAGON": {
+    "YARIS 4DR SEDAN FWD CE/LE/RS": {
       "years": [
-        1993
+        2011,
+        2012
       ]
     },
-    "PREVIA LE 2WD WAGON": {
+    "YARIS 3DR HATCHBACK CE": {
       "years": [
-        1993
+        2012,
+        2013,
+        2014,
+        2015
       ]
     },
-    "PREVIA LE 4WD WAGON": {
+    "YARIS 5DR HATCHBACK LE": {
       "years": [
-        1993
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "YARIS 5DR HATCHBACK SE": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "YARIS 5DR HATCHBACK LE/SE": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "YARIS 3DR HATCHBACK": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "YARIS 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
       ]
     }
-  }
+  },
+  "Yaris iA": {}
 }

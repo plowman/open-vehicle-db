@@ -1,4 +1,53 @@
 {
+  "Amigo": {},
+  "Ascender": {
+    "ASCENDER S/LS/LIMITED 4DR SUV RWD": {
+      "years": [
+        2003
+      ]
+    }
+  },
+  "Axiom": {},
+  "F6": {},
+  "F7": {},
+  "FRR": {},
+  "FSR": {},
+  "FTR/FVR": {},
+  "FTR/FVR/EVR": {},
+  "H-Series": {},
+  "Hombre": {
+    "HOMBRE P/U 2DR EXTENDED CAB S/BOX": {
+      "years": [
+        1997
+      ]
+    },
+    "HOMBRE P/U 2DR REG CAB S/BOX": {
+      "years": [
+        1997,
+        2000
+      ]
+    },
+    "HOMBRE P/U 2DR SPACECAB S/BOX": {
+      "years": [
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "HOMBRE P/U 2DR STD CAB S/BOX": {
+      "years": [
+        1998,
+        1999
+      ]
+    },
+    "HOMBRE P/U 2DR SPACECAB S/BOX V6 4X4": {
+      "years": [
+        1999,
+        2000
+      ]
+    }
+  },
+  "I-Mark": {},
   "IMPULSE": {
     "IMPULSE XS 2DR HATCHBACK": {
       "years": [
@@ -11,37 +60,24 @@
       ]
     }
   },
-  "I-Mark": {},
-  "Stylus": {
-    "STYLUS S/XS 4DR SEDAN": {
+  "NPR": {},
+  "NPR/NPR-HD": {},
+  "NQR": {},
+  "NQR/NRR": {},
+  "NRR": {},
+  "Oasis": {},
+  "Pickup": {
+    "PICKUP XS LONGBED 4X2": {
       "years": [
-        1991
-      ]
-    }
-  },
-  "Trooper": {
-    "TROOPER LS 4x4": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "TROOPER XS 4x4": {
-      "years": [
-        1990,
-        1991
+        1991,
+        1992,
+        1993
       ]
     },
-    "TROOPER 4DR SUV S/LS/LTD 4X4": {
+    "PICKUP S SHORTBED 4X2": {
       "years": [
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005
+        1992,
+        1993
       ]
     }
   },
@@ -96,68 +132,43 @@
       ]
     }
   },
-  "NPR/NPR-HD": {},
-  "NQR/NRR": {},
-  "Pickup": {
-    "PICKUP XS LONGBED 4X2": {
+  "Rodeo/Amigo": {},
+  "Stylus": {
+    "STYLUS S/XS 4DR SEDAN": {
       "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "PICKUP S SHORTBED 4X2": {
-      "years": [
-        1992,
-        1993
-      ]
-    }
-  },
-  "i-280": {},
-  "Hombre": {
-    "HOMBRE P/U 2DR EXTENDED CAB S/BOX": {
-      "years": [
-        1997
-      ]
-    },
-    "HOMBRE P/U 2DR REG CAB S/BOX": {
-      "years": [
-        1997,
-        2000
-      ]
-    },
-    "HOMBRE P/U 2DR SPACECAB S/BOX": {
-      "years": [
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "HOMBRE P/U 2DR STD CAB S/BOX": {
-      "years": [
-        1998,
-        1999
-      ]
-    },
-    "HOMBRE P/U 2DR SPACECAB S/BOX V6 4X4": {
-      "years": [
-        1999,
-        2000
+        1991
       ]
     }
   },
   "T6F": {},
   "T7F": {},
   "T8F": {},
-  "FRR": {},
-  "NQR": {},
-  "NPR": {},
-  "H-Series": {},
-  "F6": {},
-  "F7": {},
-  "FSR": {},
-  "FTR/FVR": {},
-  "FTR/FVR/EVR": {},
+  "Trooper": {
+    "TROOPER LS 4x4": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "TROOPER XS 4x4": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "TROOPER 4DR SUV S/LS/LTD 4X4": {
+      "years": [
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    }
+  },
   "Trooper II": {
     "TROOPER II 4x4": {
       "years": [
@@ -178,20 +189,9 @@
       ]
     }
   },
-  "Amigo": {},
-  "NRR": {},
-  "i-350": {},
-  "i-290": {},
-  "i-370": {},
   "VehiCross": {},
-  "Ascender": {
-    "ASCENDER S/LS/LIMITED 4DR SUV RWD": {
-      "years": [
-        2003
-      ]
-    }
-  },
-  "Oasis": {},
-  "Axiom": {},
-  "Rodeo/Amigo": {}
+  "i-280": {},
+  "i-290": {},
+  "i-350": {},
+  "i-370": {}
 }

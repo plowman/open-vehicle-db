@@ -1,69 +1,73 @@
 {
-  "612 Scaglietti": {
-    "612 SCAGLIETTI 2DR COUPE RWD": {
+  "3.2 Mondial": {},
+  "308 Convertible": {},
+  "308GTB": {},
+  "308GTB Quattrovalvole": {},
+  "308GTBi": {
+    "308 GTBi": {
       "years": [
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011
+        1981,
+        1982
       ]
     }
   },
-  "F430 Coupe": {},
-  "599 GTB": {},
-  "F430 Spider": {
-    "F430 SPIDER 2DR CONV RWD": {
+  "308GTS": {},
+  "308GTS Quattrovalvole": {},
+  "308GTSi": {
+    "308 GTSi": {
       "years": [
-        2006,
-        2007,
-        2008,
-        2009
+        1981,
+        1982
       ]
     }
   },
-  "599 GTB Fiorano": {
-    "599 GTB FIORANO 2DR COUPE RWD": {
+  "328": {},
+  "328 GTB": {},
+  "328 GTS": {},
+  "348 Spider": {
+    "348 SPIDER 2DR CONVERTIBLE": {
       "years": [
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
+        1994
       ]
     }
   },
-  "430 Scuderia": {},
-  "F430": {
-    "F430 2DR COUPE RWD": {
+  "348 tb": {
+    "348tb/348ts CABRIOLET": {
       "years": [
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "F430 CHALLENGE 2DR COUPE RWD": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "F430 SCUDERIA 2DR COUPE RWD": {
-      "years": [
-        2008,
-        2009
+        1991
       ]
     }
   },
-  "430 Scuderia Spider": {},
+  "348 ts": {
+    "348ts CABRIOLET": {
+      "years": [
+        1990,
+        1992,
+        1993
+      ]
+    }
+  },
+  "355 Berlinetta": {},
+  "355 GTS": {},
+  "355 Spider": {},
   "360 Modena/360 Modena F1": {},
   "360 Spider/360 Spider F1": {},
-  "575 M Maranello/575 M Maranello F1": {},
+  "430 Scuderia": {},
+  "430 Scuderia Spider": {},
+  "456 GT": {
+    "456GT 2DR COUPE": {
+      "years": [
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "456GT/GTA 2DR COUPE": {
+      "years": [
+        1998
+      ]
+    }
+  },
   "456 MGT": {
     "456M GT/GTA 2DR COUPE": {
       "years": [
@@ -80,103 +84,6 @@
     }
   },
   "456 MGTA": {},
-  "Enzo": {
-    "ENZO 2DR COUPE RWD": {
-      "years": [
-        2003
-      ]
-    }
-  },
-  "F355": {
-    "F355 2DR COUPE": {
-      "years": [
-        1995
-      ]
-    },
-    "F355 SPYDER 2DR COUPE": {
-      "years": [
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "F355 TB/TS 2DR COUPE": {
-      "years": [
-        1996,
-        1997
-      ]
-    },
-    "F355 B/TS 2DR COUPE": {
-      "years": [
-        1998
-      ]
-    },
-    "F355 SPYDER 2DR COUPE BASE/F1": {
-      "years": [
-        1999
-      ]
-    }
-  },
-  "550 Maranello": {
-    "F550 MARANELLO 2DR COUPE": {
-      "years": [
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    }
-  },
-  "F12 Berlinetta": {
-    "F12BERLINETTA 2DR COUPE RWD": {
-      "years": [
-        2013
-      ]
-    },
-    "F12 BERLINETTA 2DR COUPE RWD": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    }
-  },
-  "California T": {
-    "CALIFORNIA T 2DR CONVERTIBLE RWD": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    }
-  },
-  "FF": {
-    "FF 2DR COUPE AWD": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015,
-        2016
-      ]
-    }
-  },
-  "La Ferrari": {
-    "LAFERRARI": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "LAFERRARI APERTA": {
-      "years": [
-        2018
-      ]
-    }
-  },
   "458 Italia": {
     "458 ITALIA 2DR COUPE RWD": {
       "years": [
@@ -216,6 +123,77 @@
       ]
     }
   },
+  "488 GTB": {
+    "488 GTB": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "488 GTS": {},
+  "488 Pista": {},
+  "488 Spider": {
+    "488 SPIDER": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "512 TR": {},
+  "550 Maranello": {
+    "F550 MARANELLO 2DR COUPE": {
+      "years": [
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    }
+  },
+  "575 M Maranello/575 M Maranello F1": {},
+  "599 GTB": {},
+  "599 GTB Fiorano": {
+    "599 GTB FIORANO 2DR COUPE RWD": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    }
+  },
+  "599 GTO": {},
+  "612 Scaglietti": {
+    "612 SCAGLIETTI 2DR COUPE RWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    }
+  },
+  "812 Superfast": {
+    "812 SUPERFAST": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
   "California": {
     "CALIFORNIA 2DR COUPE RWD": {
       "years": [
@@ -228,50 +206,69 @@
       ]
     }
   },
-  "599 GTO": {},
-  "348 tb": {
-    "348tb/348ts CABRIOLET": {
+  "California T": {
+    "CALIFORNIA T 2DR CONVERTIBLE RWD": {
       "years": [
-        1991
+        2015,
+        2016,
+        2017
       ]
     }
   },
-  "348 ts": {
-    "348ts CABRIOLET": {
+  "Enzo": {
+    "ENZO 2DR COUPE RWD": {
       "years": [
-        1990,
-        1992,
-        1993
+        2003
       ]
     }
   },
-  "512 TR": {},
-  "355 Berlinetta": {},
-  "355 GTS": {},
-  "348 Spider": {
-    "348 SPIDER 2DR CONVERTIBLE": {
+  "F12 Berlinetta": {
+    "F12BERLINETTA 2DR COUPE RWD": {
       "years": [
-        1994
+        2013
+      ]
+    },
+    "F12 BERLINETTA 2DR COUPE RWD": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017
       ]
     }
   },
-  "456 GT": {
-    "456GT 2DR COUPE": {
+  "F12 Special Series": {},
+  "F12 tdf (Tour de France)": {},
+  "F355": {
+    "F355 2DR COUPE": {
       "years": [
-        1995,
+        1995
+      ]
+    },
+    "F355 SPYDER 2DR COUPE": {
+      "years": [
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "F355 TB/TS 2DR COUPE": {
+      "years": [
         1996,
         1997
       ]
     },
-    "456GT/GTA 2DR COUPE": {
+    "F355 B/TS 2DR COUPE": {
       "years": [
         1998
       ]
+    },
+    "F355 SPYDER 2DR COUPE BASE/F1": {
+      "years": [
+        1999
+      ]
     }
   },
-  "355 Spider": {},
-  "Mondial T": {},
-  "Testarossa": {},
   "F40": {
     "F-40": {
       "years": [
@@ -286,52 +283,52 @@
       ]
     }
   },
-  "328 GTB": {},
-  "328 GTS": {},
-  "3.2 Mondial": {},
-  "328": {},
-  "308GTB Quattrovalvole": {},
-  "308GTS Quattrovalvole": {},
-  "Mondial 8": {
-    "MONDIAL 8": {
+  "F430": {
+    "F430 2DR COUPE RWD": {
       "years": [
-        1982
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "F430 CHALLENGE 2DR COUPE RWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "F430 SCUDERIA 2DR COUPE RWD": {
+      "years": [
+        2008,
+        2009
       ]
     }
   },
-  "308 Convertible": {},
-  "488 GTB": {
-    "488 GTB": {
+  "F430 Coupe": {},
+  "F430 Spider": {
+    "F430 SPIDER 2DR CONV RWD": {
       "years": [
-        2016,
-        2017,
-        2018,
-        2019
+        2006,
+        2007,
+        2008,
+        2009
       ]
     }
   },
-  "488 GTS": {},
-  "F12 Special Series": {},
   "F60 America": {},
-  "308GTBi": {
-    "308 GTBi": {
+  "F8 Tributo": {},
+  "FF": {
+    "FF 2DR COUPE AWD": {
       "years": [
-        1981,
-        1982
+        2012,
+        2013,
+        2014,
+        2015,
+        2016
       ]
     }
   },
-  "308GTSi": {
-    "308 GTSi": {
-      "years": [
-        1981,
-        1982
-      ]
-    }
-  },
-  "308GTB": {},
-  "308GTS": {},
-  "F12 tdf (Tour de France)": {},
   "GTC4Lusso": {
     "GTC4 LUSSO": {
       "years": [
@@ -345,24 +342,28 @@
       ]
     }
   },
-  "488 Spider": {
-    "488 SPIDER": {
+  "La Ferrari": {
+    "LAFERRARI": {
       "years": [
+        2015,
         2016,
-        2017,
-        2018,
-        2019
+        2017
       ]
-    }
-  },
-  "812 Superfast": {
-    "812 SUPERFAST": {
+    },
+    "LAFERRARI APERTA": {
       "years": [
-        2018,
-        2019
+        2018
       ]
     }
   },
+  "Mondial 8": {
+    "MONDIAL 8": {
+      "years": [
+        1982
+      ]
+    }
+  },
+  "Mondial T": {},
   "Portofino": {
     "PORTOFINO": {
       "years": [
@@ -371,6 +372,5 @@
       ]
     }
   },
-  "488 Pista": {},
-  "F8 Tributo": {}
+  "Testarossa": {}
 }

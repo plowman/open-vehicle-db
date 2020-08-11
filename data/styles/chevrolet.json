@@ -1,4 +1,109 @@
 {
+  "3 ton": {},
+  "Alero": {},
+  "Aluminum Tilt": {},
+  "Astro Van": {
+    "ASTRO VAN AWD": {
+      "years": [
+        1994,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "ASTRO VAN AWD EXTENDED BODY": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "ASTRO VAN RWD": {
+      "years": [
+        1994,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "ASTRO VAN RWD EXTENDED BODY": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    }
+  },
+  "Avalanche": {
+    "AVALANCHE 1500 P/U CREWCAB S/BOX 2WD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "AVALANCHE 1500 P/U CREWCAB S/BOX 4WD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "AVALANCHE 2500 P/UCREWCAB S/BOX 2WD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2009,
+        2010
+      ]
+    },
+    "AVALANCHE 2500 P/UCREWCAB S/BOX 4WD": {
+      "years": [
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2009,
+        2010
+      ]
+    }
+  },
   "Aveo": {
     "AVEO 4DR HATCH FWD /LS": {
       "years": [
@@ -37,6 +142,265 @@
       ]
     }
   },
+  "B7": {},
+  "Beretta": {
+    "BERETTA 2 DR COUPE": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "BERETTA GT COUPE": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "BERETTA BASE/GT/GTZ 2 DR COUPE": {
+      "years": [
+        1990
+      ]
+    },
+    "BERETTA CONVERTIBLE": {
+      "years": [
+        1990
+      ]
+    },
+    "BERETTA COUPE/GT/GTZ 2 DR COUPE": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "BERETTA 2DR COUPE BASE/Z26": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    }
+  },
+  "Blazer": {
+    "BLAZER C10": {
+      "years": [
+        1981
+      ]
+    },
+    "BLAZER K10": {
+      "years": [
+        1981
+      ]
+    },
+    "C10 BLAZER": {
+      "years": [
+        1982,
+        1982
+      ]
+    },
+    "K10 BLAZER": {
+      "years": [
+        1982,
+        1982
+      ]
+    },
+    "K-BLAZER 4DR 4 X 2": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "K-BLAZER 4DR 4 X 4": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "K-BLAZER 4DR 2 X 4": {
+      "years": [
+        1987
+      ]
+    },
+    "V-BLAZER 4DR 2X4": {
+      "years": [
+        1988
+      ]
+    },
+    "V-BLAZER 4DR 4X4": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "T-10 BLAZER 2DR 4X4": {
+      "years": [
+        1989
+      ]
+    },
+    "V-BLAZER 4DR 4X2": {
+      "years": [
+        1989
+      ]
+    },
+    "V-BLAZER 4DR 4 X 2": {
+      "years": [
+        1990
+      ]
+    },
+    "V-BLAZER 4DR 4 X 4": {
+      "years": [
+        1990
+      ]
+    },
+    "V-BLAZER 4 X 4": {
+      "years": [
+        1991
+      ]
+    },
+    "K1500 BLAZER 4X4": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "BLAZER K1500 2DR SUV 4X4": {
+      "years": [
+        1994
+      ]
+    },
+    "BLAZER S-10 2DR SUV 4X2": {
+      "years": [
+        1994
+      ]
+    },
+    "BLAZER S-10 2DR SUV 4X4": {
+      "years": [
+        1994
+      ]
+    },
+    "BLAZER S-10 4DR SUV 4X2": {
+      "years": [
+        1994
+      ]
+    },
+    "BLAZER S-10 4DR SUV 4X4": {
+      "years": [
+        1994
+      ]
+    },
+    "BLAZER 2DR SUV 4X2 BASE/LS": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "BLAZER 2DR SUV 4X4 BASE/LS": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "BLAZER 4DR SUV 4X2 BASE/LS/LT": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "BLAZER 4DR SUV 4X4 BASE/LS/LT": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "BLAZER 2DR SUV 4X4 ZR2": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "BLAZER 2DR SUV 4X4 LS": {
+      "years": [
+        2001,
+        2002
+      ]
+    },
+    "BLAZER 4DR SUV 4X4 LS/LT": {
+      "years": [
+        2001,
+        2002
+      ]
+    },
+    "BLAZER  2DR SUV 4WD": {
+      "years": [
+        2003
+      ]
+    },
+    "BLAZER LS 2DR SUV 4WD": {
+      "years": [
+        2003
+      ]
+    },
+    "BLAZER LS 4DR SUV 4WD": {
+      "years": [
+        2003,
+        2004
+      ]
+    },
+    "BLAZER 2DR SUV 4WD /LS": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "BLAZER 2.0L FWD 4DR SUV": {
+      "years": [
+        2019
+      ]
+    },
+    "BLAZER 3.6L AWD 4DR SUV": {
+      "years": [
+        2019
+      ]
+    },
+    "BLAZER 3.6L FWD 4DR SUV": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "Bolt EV": {},
+  "Bus Chassis": {},
+  "C/K Pickup": {},
+  "C5": {},
+  "C6": {
+    "G30/C6P SPORTVAN": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    }
+  },
+  "C7": {},
   "Camaro": {
     "CAMARO": {
       "years": [
@@ -295,69 +659,95 @@
       ]
     }
   },
-  "Caprice Police Vehicle": {},
-  "Corvette": {
-    "CORVETTE": {
+  "Caprice": {
+    "CAPRICE 4 DR SD": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "CAPRICE CLASSIC 2 DR": {
       "years": [
         1981,
         1982,
+        1985,
+        1986
+      ]
+    },
+    "CAPRICE ESTATE WAGON": {
+      "years": [
+        1981
+      ]
+    },
+    "CAPRICE EST. 4 DR WAGON": {
+      "years": [
+        1982
+      ]
+    },
+    "CAPRICE CLASSIC 4 DR": {
+      "years": [
         1985
       ]
     },
-    "CORVETTE COUPE": {
+    "CAPRICE CLASSIC WAGON": {
       "years": [
-        1986
-      ]
-    },
-    "CORVETTE ROADSTER": {
-      "years": [
-        1986
-      ]
-    },
-    "CORVETTE 2 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "CORVETTE ROADSTER (CONVERTIBLE)": {
-      "years": [
-        1987
-      ]
-    },
-    "CORVETTE 2 DR COUPE": {
-      "years": [
+        1985,
+        1986,
+        1987,
         1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "CAPRICE BASE (4-DR)": {
+      "years": [
+        1986
+      ]
+    },
+    "CAPRICE CLASSIC BROUGHAM (4-DR)": {
+      "years": [
+        1986
+      ]
+    },
+    "CAPRICE 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "CAPRICE CLASSIC 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "CAPRICE CLASSIC 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "CAPRICE CLASSIC BROUGHAM 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "CAPRICE WAGON": {
+      "years": [
+        1987
+      ]
+    },
+    "CAPRICE STD/CLASSIC/CLASSIC BROUGHAM 4DR": {
+      "years": [
+        1988
+      ]
+    },
+    "CAPRICE STD/CLASSIC/CLASSIC BROUGHAM": {
+      "years": [
         1989
       ]
     },
-    "CORVETTE CONVERTIBLE": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "CORVETTE 2DR COUPE": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993,
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "CORVETTE ZR1 2DR COUPE": {
+    "CAPRICE BASE/CLASSIC 4DR SEDAN": {
       "years": [
         1990,
         1991,
@@ -365,1250 +755,23 @@
         1993
       ]
     },
-    "CORVETTE 2DR CONVERTIBLE": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "CORVETTE 2DR COUPE ZR1": {
-      "years": [
-        1994,
-        1995
-      ]
-    },
-    "CORVETTE 2DR HARDTOP": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "CORVETTE 2DR CONVERTIBLE RWD": {
-      "years": [
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "CORVETTE COUPE / Z06  2DR RWD": {
-      "years": [
-        2003,
-        2004
-      ]
-    },
-    "CORVETTE COUPE 2DR RWD": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "CORVETTE Z06 COUPE 2DR RWD": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "CORVETTE GRANDSPORT CONV 2DR RWD": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "CORVETTE Z06 / GRANDSPORT COUPE 2DR RWD": {
-      "years": [
-        2010
-      ]
-    },
-    "CORVETTE ZR1 COUPE 2DR RWD": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "CORVETTE GRANDSPORT COUPE 2DR RWD": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "CORVETTE 427 CONVERTIBLE CONV 2DR RWD": {
-      "years": [
-        2013
-      ]
-    },
-    "CORVETTE CONVERTIBLE STINGRAY/Z51": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "CORVETTE COUPE STINGRAY/Z51": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "CORVETTE CONVERTIBLE Z06": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "CORVETTE COUPE Z06": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Cruze": {
-    "CRUZE 4DR SEDAN LS/LT/LTZ/ECO": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "CRUZE 4DR SEDAN DIESEL": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "CRUZE 4DR SEDAN NEW GENERATION": {
-      "years": [
-        2016
-      ]
-    },
-    "CRUZE LIMITED 4DR SEDAN LS/LT/LTZ/ECO": {
-      "years": [
-        2016
-      ]
-    },
-    "CRUZE 4DR SEDAN": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "CRUZE 5DR HATCH": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Impala": {
-    "IMPALA 4 DR": {
-      "years": [
-        1981,
-        1982,
-        1985
-      ]
-    },
-    "IMPALA WAGON": {
-      "years": [
-        1981
-      ]
-    },
-    "IMPALA 4 DR  WAGON": {
-      "years": [
-        1982
-      ]
-    },
-    "IMPALA SS 4DR SEDAN": {
-      "years": [
-        1995,
-        1996
-      ]
-    },
-    "IMPALA 4DR SEDAN BASE/LS": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "IMPALA 4DR SEDAN FWD /SS": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "IMPALA 4DR SEDAN FWD BASE/LS": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "IMPALA 4DR SEDAN FWD LS/LT": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "IMPALA 4DR SEDAN FWD LTZ/SS": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "IMPALA 4DR SEDAN FWD LTZ": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "IMPALA 4DR SEDAN FWD LS/LT/LTZ": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "IMPALA 4DR SEDAN 2.5L LS/LT/LTZ/2.4ECO": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "IMPALA 4DR SEDAN 3.6L LT/LTZ": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Malibu": {
-    "MALIBU 2 DR": {
-      "years": [
-        1981
-      ]
-    },
-    "MALIBU 4 DR": {
-      "years": [
-        1981
-      ]
-    },
-    "MALIBU WAGON": {
-      "years": [
-        1981
-      ]
-    },
-    "MALIBU 4DR SEDAN BASE/LS": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "MALIBU 4DR SEDAN FWD BASE": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "MALIBU 4DR SEDAN FWD LS/LT": {
-      "years": [
-        2004,
-        2005,
-        2007
-      ]
-    },
-    "MALIBU MAXX 4DR WAGON FWD LS/LT": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "MALIBU 4DR SEDAN FWD LS": {
-      "years": [
-        2006
-      ]
-    },
-    "MALIBU 4DR SEDAN FWD LT/LTZ": {
-      "years": [
-        2006
-      ]
-    },
-    "MALIBU 4DR SEDAN FWD SS": {
-      "years": [
-        2006
-      ]
-    },
-    "MALIBU MAXX 4DR WAGON FWD LT/LTZ": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "MALIBU MAXX 4DR WAGON FWD SS": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "MALIBU 4DR SEDAN FWD LTZ/SS": {
-      "years": [
-        2007
-      ]
-    },
-    "MALIBU HYBRID 4DR SEDAN FWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "MALIBU LS/1LT/2LT/LTZ 4DR SEDAN FWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "MALIBU LS/LT 4DR SEDAN FWD": {
-      "years": [
-        2010
-      ]
-    },
-    "MALIBU LTZ 4DR SEDAN FWD": {
-      "years": [
-        2010
-      ]
-    },
-    "MALIBU 4DR SEDAN FWD I-4 LS/LT/LTZ": {
-      "years": [
-        2011
-      ]
-    },
-    "MALIBU 4DR SEDAN FWD V6 LT/LTZ": {
-      "years": [
-        2011
-      ]
-    },
-    "MALIBU 4DR SEDAN FWD LS/LT/LT PLATINUM/LTZ": {
-      "years": [
-        2012
-      ]
-    },
-    "MALIBU 4DR SEDAN LS": {
-      "years": [
-        2013
-      ]
-    },
-    "MALIBU 4DR SEDAN LT TURBO/LTZ TURBO/ECO": {
-      "years": [
-        2013
-      ]
-    },
-    "MALIBU 4DR SEDAN LT/LTZ": {
-      "years": [
-        2013
-      ]
-    },
-    "MALIBU 4DR SEDAN LS/LT/LTZ": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "MALIBU 4DR SEDAN TURBO LT/LTZ": {
-      "years": [
-        2015
-      ]
-    },
-    "MALIBU L/LS/LT 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "MALIBU LIMITED 4DR SEDAN LS/LT/LTZ": {
-      "years": [
-        2016
-      ]
-    },
-    "MALIBU PREMIER/HYBRID 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Sonic": {
-    "SONIC 4DR SEDAN LS/LT/LTZ": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "SONIC 5DR HATCHBACK LS/LT/LTZ": {
-      "years": [
-        2012
-      ]
-    },
-    "SONIC 5DR HATCHBACK LS/LT/LTZ/RS": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "SONIC 4DR SEDAN LS/LT/LTZ/RS": {
-      "years": [
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "SONIC 4DR SEDAN": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "SONIC 5DR HATCHBACK": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Spark": {
-    "SPARK 4DR HATCHBACK LS/LT": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "SPARK EV 4DR HATCHBACK LS/LT": {
-      "years": [
-        2016
-      ]
-    },
-    "SPARK 4DR HATCHBACK": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "SPARK EV 4DR HATCHBACK": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "SS": {
-    "CAB & CHASSIS C2500 OR C20": {
-      "years": [
-        1981
-      ]
-    },
-    "CAB & CHASSIS C3500 or C30": {
-      "years": [
-        1981
-      ]
-    },
-    "CAB & CHASSIS C3500 OR C30": {
-      "years": [
-        1981,
-        1981,
-        1981
-      ]
-    },
-    "CAB CHASSIS K3500 OR K30": {
-      "years": [
-        1981,
-        1981,
-        1981
-      ]
-    },
-    "CAB & CHASSIS-C2500 OR C20": {
-      "years": [
-        1982
-      ]
-    },
-    "CAB & CHASSIS-C3500 OR C30": {
-      "years": [
-        1982,
-        1982,
-        1982,
-        1982
-      ]
-    },
-    "CAB CHASSIS-K3500 OR K30": {
-      "years": [
-        1982,
-        1982,
-        1982
-      ]
-    },
-    "ASTRO AWD PASSENGER VAN": {
-      "years": [
-        1991,
-        1992
-      ]
-    },
-    "ASTRO EXTENDED LENGTH AWD PASSENGER VAN": {
-      "years": [
-        1991,
-        1992
-      ]
-    },
-    "ASTRO EXTENDED LENGTH RWD PASSENGER VAN": {
-      "years": [
-        1991,
-        1992
-      ]
-    },
-    "ASTRO RWD PASSENGER VAN": {
-      "years": [
-        1991,
-        1992
-      ]
-    },
-    "C1500 P/U EXT CAB S/BOX S/SIDE": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "C1500 P/U REG CAB S/BOX S/SIDE": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "K1500 P/U EXT CAB S/BOX S/SIDE 4X4": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "K1500 P/U REG CAB S/BOX S/SIDE 4X4": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    }
-  },
-  "Volt": {
-    "VOLT 4DR HATCHBACK": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Suburban": {
-    "GMC SUBURBAN C1500": {
-      "years": [
-        1982
-      ]
-    },
-    "GMC SUBURBAN C2500": {
-      "years": [
-        1982
-      ]
-    },
-    "GMC SUBURBAN K1500": {
-      "years": [
-        1982
-      ]
-    },
-    "GMC SUBURBAN K2500": {
-      "years": [
-        1982
-      ]
-    },
-    "SUBURBAN 4 X 2": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "SUBURBAN 4 X 4": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "R10 SUBURBAN": {
-      "years": [
-        1988
-      ]
-    },
-    "R20 SUBURBAN": {
-      "years": [
-        1988
-      ]
-    },
-    "V10 SUBURBAN": {
-      "years": [
-        1988
-      ]
-    },
-    "V20 SUBURBAN 4X4": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "R10 SUBURBAN  2WD": {
-      "years": [
-        1989,
-        1990
-      ]
-    },
-    "R20 SUBURBAN 2WD": {
-      "years": [
-        1989,
-        1990
-      ]
-    },
-    "V10 SUBURBAN 4X4": {
-      "years": [
-        1989,
-        1990
-      ]
-    },
-    "R1500 SUBURBAN  2WD": {
-      "years": [
-        1991
-      ]
-    },
-    "R2500 SUBURBAN  2WD": {
-      "years": [
-        1991
-      ]
-    },
-    "V1500 SUBURBAN 4X4": {
-      "years": [
-        1991
-      ]
-    },
-    "V2500 SUBURBAN 4X4": {
-      "years": [
-        1991
-      ]
-    },
-    "C1500 SUBURBAN  4X2": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "C2500 SUBURBAN 4X2": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "K1500 SUBURBAN 4X4": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "K2500 SUBURBAN 4X4": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "SUBURBAN C1500 4DR 4X2": {
-      "years": [
-        1994,
-        2000,
-        2001,
-        2003
-      ]
-    },
-    "SUBURBAN C2500 4DR 4X2": {
-      "years": [
-        1994,
-        2000,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "SUBURBAN K1500 4DR 4X4": {
-      "years": [
-        1994,
-        2000,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "SUBURBAN K2500 4DR 4X4": {
-      "years": [
-        1994,
-        2000,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "SUBURBAN C1500 4DR 4X2 BASE/LS/LT": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "SUBURBAN C2500 4DR 4X2 BASE/LS/LT": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "SUBURBAN K1500 4DR 4X4 BASE/LS/LT": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "SUBURBAN K2500 4DR 4X4 BASE/LS/LT": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "SUBURBAN 4DR SUV LS/LT": {
-      "years": [
-        2002
-      ]
-    },
-    "SUBURBAN 4DR RWD /LS/LT": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "SUBURBAN 4DR 4WD /LS/LT": {
-      "years": [
-        2006
-      ]
-    },
-    "SUBURBAN 4DR SUV 4WD LTZ": {
-      "years": [
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "SUBURBAN 4DR SUV RWD LS/LT": {
-      "years": [
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "SUBURBAN 1500 4DR SUV 4WD": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "SUBURBAN 1500 4DR SUV RWD": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "SUBURBAN 2500 4DR SUV 4WD": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "SUBURBAN 2500 4DR SUV RWD": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "SUBURBAN 4DR SUV AWD": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "SUBURBAN 4DR SUV RWD": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Tracker": {
-    "CHEVY (GEO) TRACKER   CONVERTIBLE": {
-      "years": [
-        1989,
-        1991
-      ]
-    },
-    "CHEVY (GEO) TRACKER   HARD TOP": {
-      "years": [
-        1989,
-        1991
-      ]
-    },
-    "CHEVY TRACKER   CONVERTIBLE": {
-      "years": [
-        1990
-      ]
-    },
-    "CHEVY TRACKER   HARD TOP": {
-      "years": [
-        1990
-      ]
-    },
-    "GEO TRACKER 4x4  CONVERTIBLE": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "GEO TRACKER 4x4  HARD TOP": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "GEO TRACKER 2DR CONVERTIBLE 2WD": {
-      "years": [
-        1994,
-        1994,
-        1995,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "GEO TRACKER 2DR CONVERTIBLE 4WD BASE/LSi": {
+    "CAPRICE CLASSIC 4DR SEDAN BASE/LS": {
       "years": [
         1994,
         1995,
         1996
       ]
     },
-    "GEO TRACKER 2DR HARD TOP 4WD BASE/LSi": {
+    "CAPRICE CLASSIC 4DR WAGON": {
       "years": [
         1994,
-        1995
-      ]
-    },
-    "GEO TRACKER 2DR CONVERTIBLE 4WD": {
-      "years": [
-        1997
-      ]
-    },
-    "GEO TRACKER 4DR HARDTOP BASE/LSi": {
-      "years": [
-        1997
-      ]
-    },
-    "TRACKER 2DR CONVERTIBLE 4WD": {
-      "years": [
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "TRACKER 4DR HARDTOP BASE/LSi": {
-      "years": [
-        1998
-      ]
-    },
-    "TRACKER 4DR HARDTOP 4WD": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "TRACKER /LS 2DR CONVERTIBLE SUV 4WD": {
-      "years": [
-        2003
-      ]
-    },
-    "TRACKER /LX 4DR HARDTOP SUV 4WD": {
-      "years": [
-        2003,
-        2004
-      ]
-    }
-  },
-  "Geo Prizm": {},
-  "Matiz": {},
-  "Cobalt": {
-    "COBALT LS 4DR SEDAN FWD": {
-      "years": [
-        2005
-      ]
-    },
-    "COBALT LS/SS Supercharged 2DR COUPE FWD": {
-      "years": [
-        2005
-      ]
-    },
-    "COBALT LT 4DR SEDAN FWD": {
-      "years": [
-        2005
-      ]
-    },
-    "COBALT LS / LT 4DR SEDAN FWD": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "COBALT LS/LT 2DR COUPE FWD": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "COBALT LTZ / SS 4DR SEDAN FWD": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "COBALT SS 2DR COUPE FWD": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "COBALT SS Supercharged 2DR COUPE FWD": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "COBALT LS/LT 4DR SEDAN FWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "COBALT SPORT 2DR COUPE FWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "COBALT SPORT 4DR SEDAN FWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "COBALT SS 2DR COUPE FWD TURBOCHARGED": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "COBALT SS 4DR SEDAN FWD TURBOCHARGED": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "COBALT LS/LT/XFE 2DR COUPE FWD": {
-      "years": [
-        2010
-      ]
-    },
-    "COBALT LS/LT/XFE 4DR SEDAN FWD": {
-      "years": [
-        2010
-      ]
-    }
-  },
-  "Optra": {
-    "OPTRA / LS 4DR SEDAN FWD": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "OPTRA 5/LS 4DR HATCH FWD": {
-      "years": [
-        2005
-      ]
-    },
-    "OPTRA WAGON/LS 4DR WAGON FWD": {
-      "years": [
-        2005
-      ]
-    },
-    "OPTRA 5LS/LT 4DR HATCH FWD": {
-      "years": [
-        2006
-      ]
-    },
-    "OPTRA WAGON LS/LT 4DR WAGON FWD": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "OPTRA5 LS/LT 4DR HATCH FWD": {
-      "years": [
-        2007
-      ]
-    }
-  },
-  "Kalos": {},
-  "Monte Carlo": {
-    "MONTE CARLO": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "MONTE CARLO SPORT COUPE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "MONTE CARLO SS": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "MONTE CARLO LS 2 DR COUPE": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "MONTE CARLO SS 2 DR COUPE": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "MONTE CARLO 2DR COUPE LS": {
-      "years": [
         1995,
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "MONTE CARLO 2DR COUPE Z34": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "MONTE CARLO 2DR COUPE LS/SS": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "MONTE CARLO 2DR COUPE FWD /LS": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "MONTE CARLO 2DR COUPE FWD /SS": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "MONTE CARLO 2DR COUPE FWD /SS SUPERCHARGED": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "MONTE CARLO 2DR COUPE FWD LS/LT": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "MONTE CARLO 2DR COUPE FWD LTZ/SS": {
-      "years": [
-        2006
-      ]
-    },
-    "MONTE CARLO 2DR COUPE FWD SS": {
-      "years": [
-        2007
+        1996
       ]
     }
   },
-  "Epica": {
-    "EPICA  4DR SEDAN LS / LT": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "EPICA  4DR SEDAN LTZ": {
-      "years": [
-        2006
-      ]
-    }
-  },
+  "Caprice Police Vehicle": {},
+  "Captiva Sport": {},
   "Cavalier": {
     "CAVALIER 2 DR": {
       "years": [
@@ -1890,656 +1053,6 @@
       ]
     }
   },
-  "U100": {},
-  "Astro Van": {
-    "ASTRO VAN AWD": {
-      "years": [
-        1994,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "ASTRO VAN AWD EXTENDED BODY": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "ASTRO VAN RWD": {
-      "years": [
-        1994,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "ASTRO VAN RWD EXTENDED BODY": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    }
-  },
-  "Lumina": {
-    "LUMINA BASE/EUROSPORT 4 DR SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "LUMINA BASE/EURO 2DR COUPE": {
-      "years": [
-        1990
-      ]
-    },
-    "LUMINA BASE/EURO 4DR SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "LUMINA COUPE/EURO 2DR COUPE": {
-      "years": [
-        1991
-      ]
-    },
-    "LUMINA SEDAN/EURO 4DR SEDAN": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "LUMINA Z34 COUPE": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "LUMINA COUPE/EURO/3.4 EURO 2DR COUPE": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "LUMINA 2DR COUPE EURO": {
-      "years": [
-        1994
-      ]
-    },
-    "LUMINA 2DR COUPE Z34": {
-      "years": [
-        1994
-      ]
-    },
-    "LUMINA 3DR VAN BASE/LS": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "LUMINA 3DR VAN CARGO": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "LUMINA 4DR SEDAN BASE/EURO/EURO 3.4": {
-      "years": [
-        1994
-      ]
-    },
-    "LUMINA 4DR SEDAN BASE/LS": {
-      "years": [
-        1995,
-        1996
-      ]
-    },
-    "LUMINA 4DR SEDAN BASE/LS/LTZ": {
-      "years": [
-        1997,
-        1998,
-        1999
-      ]
-    }
-  },
-  "Alero": {},
-  "Caprice": {
-    "CAPRICE 4 DR SD": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "CAPRICE CLASSIC 2 DR": {
-      "years": [
-        1981,
-        1982,
-        1985,
-        1986
-      ]
-    },
-    "CAPRICE ESTATE WAGON": {
-      "years": [
-        1981
-      ]
-    },
-    "CAPRICE EST. 4 DR WAGON": {
-      "years": [
-        1982
-      ]
-    },
-    "CAPRICE CLASSIC 4 DR": {
-      "years": [
-        1985
-      ]
-    },
-    "CAPRICE CLASSIC WAGON": {
-      "years": [
-        1985,
-        1986,
-        1987,
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "CAPRICE BASE (4-DR)": {
-      "years": [
-        1986
-      ]
-    },
-    "CAPRICE CLASSIC BROUGHAM (4-DR)": {
-      "years": [
-        1986
-      ]
-    },
-    "CAPRICE 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "CAPRICE CLASSIC 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "CAPRICE CLASSIC 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "CAPRICE CLASSIC BROUGHAM 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "CAPRICE WAGON": {
-      "years": [
-        1987
-      ]
-    },
-    "CAPRICE STD/CLASSIC/CLASSIC BROUGHAM 4DR": {
-      "years": [
-        1988
-      ]
-    },
-    "CAPRICE STD/CLASSIC/CLASSIC BROUGHAM": {
-      "years": [
-        1989
-      ]
-    },
-    "CAPRICE BASE/CLASSIC 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "CAPRICE CLASSIC 4DR SEDAN BASE/LS": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "CAPRICE CLASSIC 4DR WAGON": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    }
-  },
-  "Corsica": {
-    "CORSICA 4 DR SEDAN": {
-      "years": [
-        1988
-      ]
-    },
-    "CORSICA BASE/LTZ SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "CORSICA HATCHBACK": {
-      "years": [
-        1989
-      ]
-    },
-    "CORSICA LT 4DR HATCHBACK": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "CORSICA LT/LTZ 4DR SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "CORSICA LT 4DR SEDAN": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "CORSICA 4DR SEDAN": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    }
-  },
-  "Beretta": {
-    "BERETTA 2 DR COUPE": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "BERETTA GT COUPE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "BERETTA BASE/GT/GTZ 2 DR COUPE": {
-      "years": [
-        1990
-      ]
-    },
-    "BERETTA CONVERTIBLE": {
-      "years": [
-        1990
-      ]
-    },
-    "BERETTA COUPE/GT/GTZ 2 DR COUPE": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "BERETTA 2DR COUPE BASE/Z26": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    }
-  },
-  "Hearse/Limo": {},
-  "Metro": {
-    "GEO METRO 2DR HATCHBACK": {
-      "years": [
-        1992,
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "GEO METRO 4DR HATCHBACK": {
-      "years": [
-        1992,
-        1993,
-        1994
-      ]
-    },
-    "GEO METRO 4DR SEDAN": {
-      "years": [
-        1992,
-        1993,
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "GEO METRO CONVERTIBLE": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "GEO METRO 2DR HATCHBACK GSi": {
-      "years": [
-        1994
-      ]
-    },
-    "GEO METRO 2DR HATCHBACK LSi": {
-      "years": [
-        1995,
-        1996
-      ]
-    },
-    "GEO METRO 4DR SEDAN LSi": {
-      "years": [
-        1995,
-        1996
-      ]
-    },
-    "METRO 2DR HATCHBACK": {
-      "years": [
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "METRO 4DR SEDAN": {
-      "years": [
-        1998,
-        1999,
-        2000
-      ]
-    }
-  },
-  "Military Truck": {},
-  "Trax": {
-    "TRAX 4 LS/LT/LTZ DR SUV": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "TRAX LT/LTZ AWD 4 DR SUV": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "TRAX LT/LTZ AWD 4DR SUV": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "TRAX LS/LT/LTZ FWD 4DR SUV": {
-      "years": [
-        2016
-      ]
-    },
-    "TRAX AWD 4DR SUV": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "TRAX FWD 4DR SUV": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "S-10 Pickup": {},
-  "C/K Pickup": {},
-  "P - Series": {},
-  "Blazer": {
-    "BLAZER C10": {
-      "years": [
-        1981
-      ]
-    },
-    "BLAZER K10": {
-      "years": [
-        1981
-      ]
-    },
-    "C10 BLAZER": {
-      "years": [
-        1982,
-        1982
-      ]
-    },
-    "K10 BLAZER": {
-      "years": [
-        1982,
-        1982
-      ]
-    },
-    "K-BLAZER 4DR 4 X 2": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "K-BLAZER 4DR 4 X 4": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "K-BLAZER 4DR 2 X 4": {
-      "years": [
-        1987
-      ]
-    },
-    "V-BLAZER 4DR 2X4": {
-      "years": [
-        1988
-      ]
-    },
-    "V-BLAZER 4DR 4X4": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "T-10 BLAZER 2DR 4X4": {
-      "years": [
-        1989
-      ]
-    },
-    "V-BLAZER 4DR 4X2": {
-      "years": [
-        1989
-      ]
-    },
-    "V-BLAZER 4DR 4 X 2": {
-      "years": [
-        1990
-      ]
-    },
-    "V-BLAZER 4DR 4 X 4": {
-      "years": [
-        1990
-      ]
-    },
-    "V-BLAZER 4 X 4": {
-      "years": [
-        1991
-      ]
-    },
-    "K1500 BLAZER 4X4": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "BLAZER K1500 2DR SUV 4X4": {
-      "years": [
-        1994
-      ]
-    },
-    "BLAZER S-10 2DR SUV 4X2": {
-      "years": [
-        1994
-      ]
-    },
-    "BLAZER S-10 2DR SUV 4X4": {
-      "years": [
-        1994
-      ]
-    },
-    "BLAZER S-10 4DR SUV 4X2": {
-      "years": [
-        1994
-      ]
-    },
-    "BLAZER S-10 4DR SUV 4X4": {
-      "years": [
-        1994
-      ]
-    },
-    "BLAZER 2DR SUV 4X2 BASE/LS": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "BLAZER 2DR SUV 4X4 BASE/LS": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "BLAZER 4DR SUV 4X2 BASE/LS/LT": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "BLAZER 4DR SUV 4X4 BASE/LS/LT": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "BLAZER 2DR SUV 4X4 ZR2": {
-      "years": [
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "BLAZER 2DR SUV 4X4 LS": {
-      "years": [
-        2001,
-        2002
-      ]
-    },
-    "BLAZER 4DR SUV 4X4 LS/LT": {
-      "years": [
-        2001,
-        2002
-      ]
-    },
-    "BLAZER  2DR SUV 4WD": {
-      "years": [
-        2003
-      ]
-    },
-    "BLAZER LS 2DR SUV 4WD": {
-      "years": [
-        2003
-      ]
-    },
-    "BLAZER LS 4DR SUV 4WD": {
-      "years": [
-        2003,
-        2004
-      ]
-    },
-    "BLAZER 2DR SUV 4WD /LS": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "BLAZER 2.0L FWD 4DR SUV": {
-      "years": [
-        2019
-      ]
-    },
-    "BLAZER 3.6L AWD 4DR SUV": {
-      "years": [
-        2019
-      ]
-    },
-    "BLAZER 3.6L FWD 4DR SUV": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "Impala Limited": {
-    "IMPALA LIMITED 4DR SEDAN FWD": {
-      "years": [
-        2014,
-        2015,
-        2016
-      ]
-    }
-  },
-  "Bolt EV": {},
-  "Hearse/Limo Commercial Chassis": {},
   "Celebrity": {
     "CELEBRITY 2 DR CP": {
       "years": [
@@ -2613,8 +1126,6 @@
       ]
     }
   },
-  "Geo Spectrum": {},
-  "G-Series": {},
   "Chevette": {
     "CHEVETTE 2 DR HB": {
       "years": [
@@ -2665,31 +1176,6 @@
       ]
     }
   },
-  "Geo Sprint": {},
-  "Nova": {
-    "NOVA HATCHBACK": {
-      "years": [
-        1986
-      ]
-    },
-    "NOVA SEDAN": {
-      "years": [
-        1986
-      ]
-    },
-    "NOVA 4 DR HATCHBACK": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "NOVA 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988
-      ]
-    }
-  },
   "Citation": {
     "CITATION 2 DR HB": {
       "years": [
@@ -2730,19 +1216,561 @@
       ]
     }
   },
-  "Malibu Classic": {
-    "MALIBU CLASSIC 4 DR": {
+  "City Express": {
+    "CITY EXPRESS VAN": {
       "years": [
-        1982
-      ]
-    },
-    "MALIBU CLASSIC 4 DR WAGON": {
-      "years": [
-        1982
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
       ]
     }
   },
-  "Onix": {},
+  "Cobalt": {
+    "COBALT LS 4DR SEDAN FWD": {
+      "years": [
+        2005
+      ]
+    },
+    "COBALT LS/SS Supercharged 2DR COUPE FWD": {
+      "years": [
+        2005
+      ]
+    },
+    "COBALT LT 4DR SEDAN FWD": {
+      "years": [
+        2005
+      ]
+    },
+    "COBALT LS / LT 4DR SEDAN FWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "COBALT LS/LT 2DR COUPE FWD": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "COBALT LTZ / SS 4DR SEDAN FWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "COBALT SS 2DR COUPE FWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "COBALT SS Supercharged 2DR COUPE FWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "COBALT LS/LT 4DR SEDAN FWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "COBALT SPORT 2DR COUPE FWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "COBALT SPORT 4DR SEDAN FWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "COBALT SS 2DR COUPE FWD TURBOCHARGED": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "COBALT SS 4DR SEDAN FWD TURBOCHARGED": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "COBALT LS/LT/XFE 2DR COUPE FWD": {
+      "years": [
+        2010
+      ]
+    },
+    "COBALT LS/LT/XFE 4DR SEDAN FWD": {
+      "years": [
+        2010
+      ]
+    }
+  },
+  "Colorado": {
+    "COLORADO CREW CAB S/BOX 2WD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "COLORADO CREW CAB S/BOX 4X4": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "COLORADO EXT CAB S/BOX 2WD": {
+      "years": [
+        2004,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "COLORADO EXT CAB S/BOX 4X4": {
+      "years": [
+        2004,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "COLORADO REG CAB S/BOX 2WD": {
+      "years": [
+        2004,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "COLORADO REG CAB S/BOX 4X4": {
+      "years": [
+        2004,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "COLORADO EXT CAB S/BOX 2WD /LS": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "COLORADO EXT CAB S/BOX 4X4 /LS": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "COLORADO REG CAB S/BOX 2WD /LS": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "COLORADO REG CAB S/BOX 4X4 /LS": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "COLORADO CREW CAB L/BOX 2WD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "COLORADO CREW CAB L/BOX 4X4": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "COLORADO EXTENDED CAB L/BOX 2WD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "COLORADO EXTENDED CAB L/BOX 4X4": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Corsica": {
+    "CORSICA 4 DR SEDAN": {
+      "years": [
+        1988
+      ]
+    },
+    "CORSICA BASE/LTZ SEDAN": {
+      "years": [
+        1989
+      ]
+    },
+    "CORSICA HATCHBACK": {
+      "years": [
+        1989
+      ]
+    },
+    "CORSICA LT 4DR HATCHBACK": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "CORSICA LT/LTZ 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "CORSICA LT 4DR SEDAN": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "CORSICA 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    }
+  },
+  "Corvette": {
+    "CORVETTE": {
+      "years": [
+        1981,
+        1982,
+        1985
+      ]
+    },
+    "CORVETTE COUPE": {
+      "years": [
+        1986
+      ]
+    },
+    "CORVETTE ROADSTER": {
+      "years": [
+        1986
+      ]
+    },
+    "CORVETTE 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "CORVETTE ROADSTER (CONVERTIBLE)": {
+      "years": [
+        1987
+      ]
+    },
+    "CORVETTE 2 DR COUPE": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "CORVETTE CONVERTIBLE": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "CORVETTE 2DR COUPE": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "CORVETTE ZR1 2DR COUPE": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "CORVETTE 2DR CONVERTIBLE": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "CORVETTE 2DR COUPE ZR1": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "CORVETTE 2DR HARDTOP": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "CORVETTE 2DR CONVERTIBLE RWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "CORVETTE COUPE / Z06  2DR RWD": {
+      "years": [
+        2003,
+        2004
+      ]
+    },
+    "CORVETTE COUPE 2DR RWD": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "CORVETTE Z06 COUPE 2DR RWD": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "CORVETTE GRANDSPORT CONV 2DR RWD": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "CORVETTE Z06 / GRANDSPORT COUPE 2DR RWD": {
+      "years": [
+        2010
+      ]
+    },
+    "CORVETTE ZR1 COUPE 2DR RWD": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "CORVETTE GRANDSPORT COUPE 2DR RWD": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "CORVETTE 427 CONVERTIBLE CONV 2DR RWD": {
+      "years": [
+        2013
+      ]
+    },
+    "CORVETTE CONVERTIBLE STINGRAY/Z51": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "CORVETTE COUPE STINGRAY/Z51": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "CORVETTE CONVERTIBLE Z06": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "CORVETTE COUPE Z06": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Cruze": {
+    "CRUZE 4DR SEDAN LS/LT/LTZ/ECO": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "CRUZE 4DR SEDAN DIESEL": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "CRUZE 4DR SEDAN NEW GENERATION": {
+      "years": [
+        2016
+      ]
+    },
+    "CRUZE LIMITED 4DR SEDAN LS/LT/LTZ/ECO": {
+      "years": [
+        2016
+      ]
+    },
+    "CRUZE 4DR SEDAN": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "CRUZE 5DR HATCH": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Cutaway Chassis": {},
+  "El Camino": {},
+  "Epica": {
+    "EPICA  4DR SEDAN LS / LT": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "EPICA  4DR SEDAN LTZ": {
+      "years": [
+        2006
+      ]
+    }
+  },
   "Equinox": {
     "EQUINOX 4DR SUV AWD /LS/LT": {
       "years": [
@@ -3178,6 +2206,1189 @@
         2017,
         2018,
         2019
+      ]
+    }
+  },
+  "Forward Control": {},
+  "G-Series": {},
+  "GMT-400": {},
+  "Geo Prizm": {},
+  "Geo Spectrum": {},
+  "Geo Sprint": {},
+  "HHR": {
+    "HHR LS/LT 4DR WAGON": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "HHR SS 4DR WAGON": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    }
+  },
+  "Hearse/Limo": {},
+  "Hearse/Limo Commercial Chassis": {},
+  "Heavy Conventional": {},
+  "Hi-Cube": {},
+  "Impala": {
+    "IMPALA 4 DR": {
+      "years": [
+        1981,
+        1982,
+        1985
+      ]
+    },
+    "IMPALA WAGON": {
+      "years": [
+        1981
+      ]
+    },
+    "IMPALA 4 DR  WAGON": {
+      "years": [
+        1982
+      ]
+    },
+    "IMPALA SS 4DR SEDAN": {
+      "years": [
+        1995,
+        1996
+      ]
+    },
+    "IMPALA 4DR SEDAN BASE/LS": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "IMPALA 4DR SEDAN FWD /SS": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "IMPALA 4DR SEDAN FWD BASE/LS": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "IMPALA 4DR SEDAN FWD LS/LT": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "IMPALA 4DR SEDAN FWD LTZ/SS": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "IMPALA 4DR SEDAN FWD LTZ": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "IMPALA 4DR SEDAN FWD LS/LT/LTZ": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "IMPALA 4DR SEDAN 2.5L LS/LT/LTZ/2.4ECO": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "IMPALA 4DR SEDAN 3.6L LT/LTZ": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Impala Limited": {
+    "IMPALA LIMITED 4DR SEDAN FWD": {
+      "years": [
+        2014,
+        2015,
+        2016
+      ]
+    }
+  },
+  "Kalos": {},
+  "LUV": {},
+  "Lumina": {
+    "LUMINA BASE/EUROSPORT 4 DR SEDAN": {
+      "years": [
+        1989
+      ]
+    },
+    "LUMINA BASE/EURO 2DR COUPE": {
+      "years": [
+        1990
+      ]
+    },
+    "LUMINA BASE/EURO 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "LUMINA COUPE/EURO 2DR COUPE": {
+      "years": [
+        1991
+      ]
+    },
+    "LUMINA SEDAN/EURO 4DR SEDAN": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "LUMINA Z34 COUPE": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "LUMINA COUPE/EURO/3.4 EURO 2DR COUPE": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "LUMINA 2DR COUPE EURO": {
+      "years": [
+        1994
+      ]
+    },
+    "LUMINA 2DR COUPE Z34": {
+      "years": [
+        1994
+      ]
+    },
+    "LUMINA 3DR VAN BASE/LS": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "LUMINA 3DR VAN CARGO": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "LUMINA 4DR SEDAN BASE/EURO/EURO 3.4": {
+      "years": [
+        1994
+      ]
+    },
+    "LUMINA 4DR SEDAN BASE/LS": {
+      "years": [
+        1995,
+        1996
+      ]
+    },
+    "LUMINA 4DR SEDAN BASE/LS/LTZ": {
+      "years": [
+        1997,
+        1998,
+        1999
+      ]
+    }
+  },
+  "Lumina APV": {
+    "LUMINA APV BASE/LE WAGON": {
+      "years": [
+        1990
+      ]
+    },
+    "LUMINA APV BASE/CL WAGON": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    }
+  },
+  "Malibu": {
+    "MALIBU 2 DR": {
+      "years": [
+        1981
+      ]
+    },
+    "MALIBU 4 DR": {
+      "years": [
+        1981
+      ]
+    },
+    "MALIBU WAGON": {
+      "years": [
+        1981
+      ]
+    },
+    "MALIBU 4DR SEDAN BASE/LS": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "MALIBU 4DR SEDAN FWD BASE": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "MALIBU 4DR SEDAN FWD LS/LT": {
+      "years": [
+        2004,
+        2005,
+        2007
+      ]
+    },
+    "MALIBU MAXX 4DR WAGON FWD LS/LT": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "MALIBU 4DR SEDAN FWD LS": {
+      "years": [
+        2006
+      ]
+    },
+    "MALIBU 4DR SEDAN FWD LT/LTZ": {
+      "years": [
+        2006
+      ]
+    },
+    "MALIBU 4DR SEDAN FWD SS": {
+      "years": [
+        2006
+      ]
+    },
+    "MALIBU MAXX 4DR WAGON FWD LT/LTZ": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "MALIBU MAXX 4DR WAGON FWD SS": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "MALIBU 4DR SEDAN FWD LTZ/SS": {
+      "years": [
+        2007
+      ]
+    },
+    "MALIBU HYBRID 4DR SEDAN FWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "MALIBU LS/1LT/2LT/LTZ 4DR SEDAN FWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "MALIBU LS/LT 4DR SEDAN FWD": {
+      "years": [
+        2010
+      ]
+    },
+    "MALIBU LTZ 4DR SEDAN FWD": {
+      "years": [
+        2010
+      ]
+    },
+    "MALIBU 4DR SEDAN FWD I-4 LS/LT/LTZ": {
+      "years": [
+        2011
+      ]
+    },
+    "MALIBU 4DR SEDAN FWD V6 LT/LTZ": {
+      "years": [
+        2011
+      ]
+    },
+    "MALIBU 4DR SEDAN FWD LS/LT/LT PLATINUM/LTZ": {
+      "years": [
+        2012
+      ]
+    },
+    "MALIBU 4DR SEDAN LS": {
+      "years": [
+        2013
+      ]
+    },
+    "MALIBU 4DR SEDAN LT TURBO/LTZ TURBO/ECO": {
+      "years": [
+        2013
+      ]
+    },
+    "MALIBU 4DR SEDAN LT/LTZ": {
+      "years": [
+        2013
+      ]
+    },
+    "MALIBU 4DR SEDAN LS/LT/LTZ": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "MALIBU 4DR SEDAN TURBO LT/LTZ": {
+      "years": [
+        2015
+      ]
+    },
+    "MALIBU L/LS/LT 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "MALIBU LIMITED 4DR SEDAN LS/LT/LTZ": {
+      "years": [
+        2016
+      ]
+    },
+    "MALIBU PREMIER/HYBRID 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Malibu Classic": {
+    "MALIBU CLASSIC 4 DR": {
+      "years": [
+        1982
+      ]
+    },
+    "MALIBU CLASSIC 4 DR WAGON": {
+      "years": [
+        1982
+      ]
+    }
+  },
+  "Matiz": {},
+  "Metro": {
+    "GEO METRO 2DR HATCHBACK": {
+      "years": [
+        1992,
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "GEO METRO 4DR HATCHBACK": {
+      "years": [
+        1992,
+        1993,
+        1994
+      ]
+    },
+    "GEO METRO 4DR SEDAN": {
+      "years": [
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "GEO METRO CONVERTIBLE": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "GEO METRO 2DR HATCHBACK GSi": {
+      "years": [
+        1994
+      ]
+    },
+    "GEO METRO 2DR HATCHBACK LSi": {
+      "years": [
+        1995,
+        1996
+      ]
+    },
+    "GEO METRO 4DR SEDAN LSi": {
+      "years": [
+        1995,
+        1996
+      ]
+    },
+    "METRO 2DR HATCHBACK": {
+      "years": [
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "METRO 4DR SEDAN": {
+      "years": [
+        1998,
+        1999,
+        2000
+      ]
+    }
+  },
+  "Military Truck": {},
+  "Monte Carlo": {
+    "MONTE CARLO": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "MONTE CARLO SPORT COUPE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "MONTE CARLO SS": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "MONTE CARLO LS 2 DR COUPE": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "MONTE CARLO SS 2 DR COUPE": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "MONTE CARLO 2DR COUPE LS": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "MONTE CARLO 2DR COUPE Z34": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "MONTE CARLO 2DR COUPE LS/SS": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "MONTE CARLO 2DR COUPE FWD /LS": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "MONTE CARLO 2DR COUPE FWD /SS": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "MONTE CARLO 2DR COUPE FWD /SS SUPERCHARGED": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "MONTE CARLO 2DR COUPE FWD LS/LT": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "MONTE CARLO 2DR COUPE FWD LTZ/SS": {
+      "years": [
+        2006
+      ]
+    },
+    "MONTE CARLO 2DR COUPE FWD SS": {
+      "years": [
+        2007
+      ]
+    }
+  },
+  "Motorhome Chassis": {},
+  "Nova": {
+    "NOVA HATCHBACK": {
+      "years": [
+        1986
+      ]
+    },
+    "NOVA SEDAN": {
+      "years": [
+        1986
+      ]
+    },
+    "NOVA 4 DR HATCHBACK": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "NOVA 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988
+      ]
+    }
+  },
+  "Onix": {},
+  "Optra": {
+    "OPTRA / LS 4DR SEDAN FWD": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "OPTRA 5/LS 4DR HATCH FWD": {
+      "years": [
+        2005
+      ]
+    },
+    "OPTRA WAGON/LS 4DR WAGON FWD": {
+      "years": [
+        2005
+      ]
+    },
+    "OPTRA 5LS/LT 4DR HATCH FWD": {
+      "years": [
+        2006
+      ]
+    },
+    "OPTRA WAGON LS/LT 4DR WAGON FWD": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "OPTRA5 LS/LT 4DR HATCH FWD": {
+      "years": [
+        2007
+      ]
+    }
+  },
+  "Orlando": {
+    "ORLANDO 4DR MINIVAN LS/LT/LTZ": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    }
+  },
+  "P - Series": {},
+  "P6S": {},
+  "R Conventional": {},
+  "S-10": {
+    "S10": {
+      "years": [
+        1982
+      ]
+    },
+    "S-10 BLAZER 2DR 4 X 2": {
+      "years": [
+        1985,
+        1986,
+        1987,
+        1990
+      ]
+    },
+    "S-10 BLAZER 2DR 4 X 4": {
+      "years": [
+        1985,
+        1986,
+        1987,
+        1990
+      ]
+    },
+    "S-10 EXTENDED CAB 4 X 4 PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "S-10 EXTENDED CAB PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "S-10 LONG BED 4 X 4 PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "S-10 LONG BED PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "S-10 SHORT BED 4 X 4 PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "S-10 SHORT BED PICK-UP": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "S-10 BLAZER 2DR 2X2": {
+      "years": [
+        1988
+      ]
+    },
+    "S-10 BLAZER 2DR 4X4": {
+      "years": [
+        1988,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "S-10 P.U. LONG W.B. REGULAR CAB": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "S-10 P.U. LONG W.B. REGULAR CAB 4X4": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "S-10 P.U. MAXI-CAB": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "S-10 P.U. MAXI-CAB 4X4": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "S-10 P.U. SHORT W.B. REGULAR CAB": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "S-10 P.U. SHORT W.B. REGULAR CAB 4X4": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "S-10 BLAZER 2DR 4X2": {
+      "years": [
+        1989,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "S-10 BAHA PICKUP 4X4": {
+      "years": [
+        1991
+      ]
+    },
+    "S-10 BLAZER 4DR 4X2": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "S-10 BLAZER 4DR 4X4": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "S-10 P.U. REGULAR CAB LONG BOX": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "S-10 P.U. REGULAR CAB LONG BOX 4X4": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "S-10 P.U. REGULAR CAB SHORT BOX": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "S-10 P.U. REGULAR CAB SHORT BOX 4X4": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "S-10 P/U EXT CAB S/BOX": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        2003
+      ]
+    },
+    "S-10 P/U EXT CAB S/BOX 4X4": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        2003
+      ]
+    },
+    "S-10 P/U REG CAB L/BOX": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        2003
+      ]
+    },
+    "S-10 P/U REG CAB L/BOX 4X4": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "S-10 P/U REG CAB S/BOX": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        2003
+      ]
+    },
+    "S-10 P/U REG CAB S/BOX 4X4": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "S-10 P/U REG CAB S/BOX 4X4 ZR2": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "S-10 P/U REG CAB S/BOX SS": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "S-10 P/U EXT CAB S/BOX 4X4 ZR2": {
+      "years": [
+        1995,
+        1996
+      ]
+    },
+    "S-10 P/U EXT CAB S/BOX F/SIDE": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "S-10 P/U EXT CAB S/BOX F/SIDE 4X4": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "S-10 P/U EXT CAB S/BOX F/SIDE 4X4 ZR2": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "S-10 P/U EXT CAB S/BOX S/SIDE": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "S-10 P/U EXT CAB S/BOX S/SIDE 4X4": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "S-10 P/U REG CAB L/BOX F/SIDE": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "S-10 P/U REG CAB L/BOX F/SIDE 4X4": {
+      "years": [
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "S-10 P/U REG CAB S/BOX F/SIDE": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "S-10 P/U REG CAB S/BOX F/SIDE 4X4": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "S-10 P/U REG CAB S/BOX F/SIDE SS": {
+      "years": [
+        1997,
+        1998
+      ]
+    },
+    "S-10 P/U REG CAB S/BOX S/SIDE": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "S-10 P/U REG CAB S/BOX S/SIDE 4X4": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "S-10 R/U REG CAB S/BOX F/SIDE 4X4 ZR2": {
+      "years": [
+        1997
+      ]
+    },
+    "S-10 P/U EXT CAB S/BOX F/SIDE SS": {
+      "years": [
+        1998
+      ]
+    },
+    "S-10 P/U EXT CAB S/BOX S/SIDE SS": {
+      "years": [
+        1998
+      ]
+    },
+    "S-10 P/U REG CAB S/BOX F/SIDE 4X4 ZR2": {
+      "years": [
+        1998,
+        1999
+      ]
+    },
+    "S-10 P/U REG CAB S/BOX S/SIDE SS": {
+      "years": [
+        1998
+      ]
+    },
+    "S-10 P/U EXT CAB S/BOX F/SIDE XTREME": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "S-10 P/U EXT CAB S/BOX S/SIDE XTREME": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "S-10 P/U REG CAB S/BOX F/SIDE XTREME": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "S-10 P/U REG CAB S/BOX S/SIDE XTREME": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "S10 P/U CREW CAB Reg/BOX 4WD": {
+      "years": [
+        2002
+      ]
+    },
+    "S-10 P/U CREW CAB S/BOX 4WD": {
+      "years": [
+        2003
+      ]
+    }
+  },
+  "S-10 Pickup": {},
+  "S6": {},
+  "S7": {},
+  "SS": {
+    "CAB & CHASSIS C2500 OR C20": {
+      "years": [
+        1981
+      ]
+    },
+    "CAB & CHASSIS C3500 or C30": {
+      "years": [
+        1981
+      ]
+    },
+    "CAB & CHASSIS C3500 OR C30": {
+      "years": [
+        1981,
+        1981,
+        1981
+      ]
+    },
+    "CAB CHASSIS K3500 OR K30": {
+      "years": [
+        1981,
+        1981,
+        1981
+      ]
+    },
+    "CAB & CHASSIS-C2500 OR C20": {
+      "years": [
+        1982
+      ]
+    },
+    "CAB & CHASSIS-C3500 OR C30": {
+      "years": [
+        1982,
+        1982,
+        1982,
+        1982
+      ]
+    },
+    "CAB CHASSIS-K3500 OR K30": {
+      "years": [
+        1982,
+        1982,
+        1982
+      ]
+    },
+    "ASTRO AWD PASSENGER VAN": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "ASTRO EXTENDED LENGTH AWD PASSENGER VAN": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "ASTRO EXTENDED LENGTH RWD PASSENGER VAN": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "ASTRO RWD PASSENGER VAN": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "C1500 P/U EXT CAB S/BOX S/SIDE": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "C1500 P/U REG CAB S/BOX S/SIDE": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "K1500 P/U EXT CAB S/BOX S/SIDE 4X4": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "K1500 P/U REG CAB S/BOX S/SIDE 4X4": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    }
+  },
+  "SSR": {
+    "SSR REG CAB S/BOX RWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006
       ]
     }
   },
@@ -4658,6 +4869,359 @@
       ]
     }
   },
+  "Silverado HD": {
+    "SILVERADO HD CREW CAB STANDARD BOX": {
+      "years": [
+        2020
+      ]
+    }
+  },
+  "Silverado LD": {},
+  "Sonic": {
+    "SONIC 4DR SEDAN LS/LT/LTZ": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "SONIC 5DR HATCHBACK LS/LT/LTZ": {
+      "years": [
+        2012
+      ]
+    },
+    "SONIC 5DR HATCHBACK LS/LT/LTZ/RS": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016
+      ]
+    },
+    "SONIC 4DR SEDAN LS/LT/LTZ/RS": {
+      "years": [
+        2014,
+        2015,
+        2016
+      ]
+    },
+    "SONIC 4DR SEDAN": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "SONIC 5DR HATCHBACK": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Spark": {
+    "SPARK 4DR HATCHBACK LS/LT": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016
+      ]
+    },
+    "SPARK EV 4DR HATCHBACK LS/LT": {
+      "years": [
+        2016
+      ]
+    },
+    "SPARK 4DR HATCHBACK": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "SPARK EV 4DR HATCHBACK": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Suburban": {
+    "GMC SUBURBAN C1500": {
+      "years": [
+        1982
+      ]
+    },
+    "GMC SUBURBAN C2500": {
+      "years": [
+        1982
+      ]
+    },
+    "GMC SUBURBAN K1500": {
+      "years": [
+        1982
+      ]
+    },
+    "GMC SUBURBAN K2500": {
+      "years": [
+        1982
+      ]
+    },
+    "SUBURBAN 4 X 2": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "SUBURBAN 4 X 4": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "R10 SUBURBAN": {
+      "years": [
+        1988
+      ]
+    },
+    "R20 SUBURBAN": {
+      "years": [
+        1988
+      ]
+    },
+    "V10 SUBURBAN": {
+      "years": [
+        1988
+      ]
+    },
+    "V20 SUBURBAN 4X4": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "R10 SUBURBAN  2WD": {
+      "years": [
+        1989,
+        1990
+      ]
+    },
+    "R20 SUBURBAN 2WD": {
+      "years": [
+        1989,
+        1990
+      ]
+    },
+    "V10 SUBURBAN 4X4": {
+      "years": [
+        1989,
+        1990
+      ]
+    },
+    "R1500 SUBURBAN  2WD": {
+      "years": [
+        1991
+      ]
+    },
+    "R2500 SUBURBAN  2WD": {
+      "years": [
+        1991
+      ]
+    },
+    "V1500 SUBURBAN 4X4": {
+      "years": [
+        1991
+      ]
+    },
+    "V2500 SUBURBAN 4X4": {
+      "years": [
+        1991
+      ]
+    },
+    "C1500 SUBURBAN  4X2": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "C2500 SUBURBAN 4X2": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "K1500 SUBURBAN 4X4": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "K2500 SUBURBAN 4X4": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "SUBURBAN C1500 4DR 4X2": {
+      "years": [
+        1994,
+        2000,
+        2001,
+        2003
+      ]
+    },
+    "SUBURBAN C2500 4DR 4X2": {
+      "years": [
+        1994,
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "SUBURBAN K1500 4DR 4X4": {
+      "years": [
+        1994,
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "SUBURBAN K2500 4DR 4X4": {
+      "years": [
+        1994,
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "SUBURBAN C1500 4DR 4X2 BASE/LS/LT": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "SUBURBAN C2500 4DR 4X2 BASE/LS/LT": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "SUBURBAN K1500 4DR 4X4 BASE/LS/LT": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "SUBURBAN K2500 4DR 4X4 BASE/LS/LT": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "SUBURBAN 4DR SUV LS/LT": {
+      "years": [
+        2002
+      ]
+    },
+    "SUBURBAN 4DR RWD /LS/LT": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "SUBURBAN 4DR 4WD /LS/LT": {
+      "years": [
+        2006
+      ]
+    },
+    "SUBURBAN 4DR SUV 4WD LTZ": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "SUBURBAN 4DR SUV RWD LS/LT": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "SUBURBAN 1500 4DR SUV 4WD": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "SUBURBAN 1500 4DR SUV RWD": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "SUBURBAN 2500 4DR SUV 4WD": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "SUBURBAN 2500 4DR SUV RWD": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "SUBURBAN 4DR SUV AWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "SUBURBAN 4DR SUV RWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
   "Tahoe": {
     "TAHOE K1500 2DR SUV 4X4 BASE/LS/LT/SPORT": {
       "years": [
@@ -4816,739 +5380,89 @@
       ]
     }
   },
-  "City Express": {
-    "CITY EXPRESS VAN": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Avalanche": {
-    "AVALANCHE 1500 P/U CREWCAB S/BOX 2WD": {
-      "years": [
-        2002,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "AVALANCHE 1500 P/U CREWCAB S/BOX 4WD": {
-      "years": [
-        2002,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "AVALANCHE 2500 P/UCREWCAB S/BOX 2WD": {
-      "years": [
-        2002,
-        2003,
-        2004,
-        2005,
-        2006,
-        2009,
-        2010
-      ]
-    },
-    "AVALANCHE 2500 P/UCREWCAB S/BOX 4WD": {
-      "years": [
-        2002,
-        2003,
-        2004,
-        2005,
-        2006,
-        2009,
-        2010
-      ]
-    }
-  },
-  "Colorado": {
-    "COLORADO CREW CAB S/BOX 2WD": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "COLORADO CREW CAB S/BOX 4X4": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "COLORADO EXT CAB S/BOX 2WD": {
-      "years": [
-        2004,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "COLORADO EXT CAB S/BOX 4X4": {
-      "years": [
-        2004,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "COLORADO REG CAB S/BOX 2WD": {
-      "years": [
-        2004,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "COLORADO REG CAB S/BOX 4X4": {
-      "years": [
-        2004,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "COLORADO EXT CAB S/BOX 2WD /LS": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "COLORADO EXT CAB S/BOX 4X4 /LS": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "COLORADO REG CAB S/BOX 2WD /LS": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "COLORADO REG CAB S/BOX 4X4 /LS": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "COLORADO CREW CAB L/BOX 2WD": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "COLORADO CREW CAB L/BOX 4X4": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "COLORADO EXTENDED CAB L/BOX 2WD": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "COLORADO EXTENDED CAB L/BOX 4X4": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "HHR": {
-    "HHR LS/LT 4DR WAGON": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "HHR SS 4DR WAGON": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    }
-  },
-  "SSR": {
-    "SSR REG CAB S/BOX RWD": {
-      "years": [
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    }
-  },
-  "3 ton": {},
-  "Venture": {
-    "VENTURE": {
-      "years": [
-        1997,
-        1998
-      ]
-    },
-    "VENTURE EXTENDED W/B LS": {
-      "years": [
-        1997
-      ]
-    },
-    "VENTURE EXTENDED W/B": {
-      "years": [
-        1998
-      ]
-    },
-    "VENTURE EXTENDED W/B CARGO": {
-      "years": [
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "VENTURE 3DR/4DR": {
-      "years": [
-        1999
-      ]
-    },
-    "VENTURE EXTENDED W/B 4DR": {
-      "years": [
-        1999,
-        2000
-      ]
-    },
-    "VENTURE 4DR": {
-      "years": [
-        2000
-      ]
-    },
-    "VENTURE 4DR VALUE/BASE/LS": {
-      "years": [
-        2001,
-        2002
-      ]
-    },
-    "VENTURE EXTENDED W/B 4DR BASE/LS/LT/WBE": {
-      "years": [
-        2001,
-        2002
-      ]
-    },
-    "VENTURE 4DR VALUE/VALUE PLUS/LS/LT": {
-      "years": [
-        2003
-      ]
-    },
-    "VENTURE EXTENDED W/B 4DR AWD LS/LT/Warner Br.": {
-      "years": [
-        2003
-      ]
-    },
-    "VENTURE EXTENDED W/B 4DR VALUE/VALUE PLUS/LS/": {
-      "years": [
-        2003
-      ]
-    },
-    "VENTURE 4DR FWD VALUE VAN/VALUE PLUS/BASE/LS": {
-      "years": [
-        2004
-      ]
-    },
-    "VENTURE EXTENDED W/B 4DR FWD /LT": {
-      "years": [
-        2004
-      ]
-    },
-    "VENTURE VALUE PLUS/BASE/LS/LT 4DR FWD": {
-      "years": [
-        2005
-      ]
-    }
-  },
-  "B7": {},
-  "GMT-400": {},
-  "Forward Control": {},
-  "Lumina APV": {
-    "LUMINA APV BASE/LE WAGON": {
-      "years": [
-        1990
-      ]
-    },
-    "LUMINA APV BASE/CL WAGON": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    }
-  },
-  "C5": {},
-  "C6": {
-    "G30/C6P SPORTVAN": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    }
-  },
-  "C7": {},
-  "P6S": {},
-  "S-10": {
-    "S10": {
-      "years": [
-        1982
-      ]
-    },
-    "S-10 BLAZER 2DR 4 X 2": {
-      "years": [
-        1985,
-        1986,
-        1987,
-        1990
-      ]
-    },
-    "S-10 BLAZER 2DR 4 X 4": {
-      "years": [
-        1985,
-        1986,
-        1987,
-        1990
-      ]
-    },
-    "S-10 EXTENDED CAB 4 X 4 PICK-UP": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "S-10 EXTENDED CAB PICK-UP": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "S-10 LONG BED 4 X 4 PICK-UP": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "S-10 LONG BED PICK-UP": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "S-10 SHORT BED 4 X 4 PICK-UP": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "S-10 SHORT BED PICK-UP": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "S-10 BLAZER 2DR 2X2": {
-      "years": [
-        1988
-      ]
-    },
-    "S-10 BLAZER 2DR 4X4": {
-      "years": [
-        1988,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "S-10 P.U. LONG W.B. REGULAR CAB": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "S-10 P.U. LONG W.B. REGULAR CAB 4X4": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "S-10 P.U. MAXI-CAB": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "S-10 P.U. MAXI-CAB 4X4": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "S-10 P.U. SHORT W.B. REGULAR CAB": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "S-10 P.U. SHORT W.B. REGULAR CAB 4X4": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "S-10 BLAZER 2DR 4X2": {
+  "Tracker": {
+    "CHEVY (GEO) TRACKER   CONVERTIBLE": {
       "years": [
         1989,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "S-10 BAHA PICKUP 4X4": {
-      "years": [
         1991
       ]
     },
-    "S-10 BLAZER 4DR 4X2": {
+    "CHEVY (GEO) TRACKER   HARD TOP": {
       "years": [
-        1991,
+        1989,
+        1991
+      ]
+    },
+    "CHEVY TRACKER   CONVERTIBLE": {
+      "years": [
+        1990
+      ]
+    },
+    "CHEVY TRACKER   HARD TOP": {
+      "years": [
+        1990
+      ]
+    },
+    "GEO TRACKER 4x4  CONVERTIBLE": {
+      "years": [
         1992,
         1993
       ]
     },
-    "S-10 BLAZER 4DR 4X4": {
+    "GEO TRACKER 4x4  HARD TOP": {
       "years": [
-        1991,
         1992,
         1993
       ]
     },
-    "S-10 P.U. REGULAR CAB LONG BOX": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "S-10 P.U. REGULAR CAB LONG BOX 4X4": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "S-10 P.U. REGULAR CAB SHORT BOX": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "S-10 P.U. REGULAR CAB SHORT BOX 4X4": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "S-10 P/U EXT CAB S/BOX": {
+    "GEO TRACKER 2DR CONVERTIBLE 2WD": {
       "years": [
         1994,
+        1994,
+        1995,
         1995,
         1996,
-        2003
+        1997
       ]
     },
-    "S-10 P/U EXT CAB S/BOX 4X4": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        2003
-      ]
-    },
-    "S-10 P/U REG CAB L/BOX": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        2003
-      ]
-    },
-    "S-10 P/U REG CAB L/BOX 4X4": {
+    "GEO TRACKER 2DR CONVERTIBLE 4WD BASE/LSi": {
       "years": [
         1994,
         1995,
         1996
       ]
     },
-    "S-10 P/U REG CAB S/BOX": {
+    "GEO TRACKER 2DR HARD TOP 4WD BASE/LSi": {
       "years": [
         1994,
-        1995,
-        1996,
-        2003
+        1995
       ]
     },
-    "S-10 P/U REG CAB S/BOX 4X4": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX 4X4 ZR2": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX SS": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "S-10 P/U EXT CAB S/BOX 4X4 ZR2": {
-      "years": [
-        1995,
-        1996
-      ]
-    },
-    "S-10 P/U EXT CAB S/BOX F/SIDE": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U EXT CAB S/BOX F/SIDE 4X4": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U EXT CAB S/BOX F/SIDE 4X4 ZR2": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U EXT CAB S/BOX S/SIDE": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U EXT CAB S/BOX S/SIDE 4X4": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U REG CAB L/BOX F/SIDE": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U REG CAB L/BOX F/SIDE 4X4": {
-      "years": [
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX F/SIDE": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX F/SIDE 4X4": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX F/SIDE SS": {
-      "years": [
-        1997,
-        1998
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX S/SIDE": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX S/SIDE 4X4": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "S-10 R/U REG CAB S/BOX F/SIDE 4X4 ZR2": {
+    "GEO TRACKER 2DR CONVERTIBLE 4WD": {
       "years": [
         1997
       ]
     },
-    "S-10 P/U EXT CAB S/BOX F/SIDE SS": {
+    "GEO TRACKER 4DR HARDTOP BASE/LSi": {
       "years": [
-        1998
+        1997
       ]
     },
-    "S-10 P/U EXT CAB S/BOX S/SIDE SS": {
-      "years": [
-        1998
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX F/SIDE 4X4 ZR2": {
+    "TRACKER 2DR CONVERTIBLE 4WD": {
       "years": [
         1998,
-        1999
+        1999,
+        2000,
+        2001,
+        2002
       ]
     },
-    "S-10 P/U REG CAB S/BOX S/SIDE SS": {
+    "TRACKER 4DR HARDTOP BASE/LSi": {
       "years": [
         1998
       ]
     },
-    "S-10 P/U EXT CAB S/BOX F/SIDE XTREME": {
+    "TRACKER 4DR HARDTOP 4WD": {
       "years": [
         1999,
         2000,
@@ -5556,120 +5470,15 @@
         2002
       ]
     },
-    "S-10 P/U EXT CAB S/BOX S/SIDE XTREME": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX F/SIDE XTREME": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX S/SIDE XTREME": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S10 P/U CREW CAB Reg/BOX 4WD": {
-      "years": [
-        2002
-      ]
-    },
-    "S-10 P/U CREW CAB S/BOX 4WD": {
+    "TRACKER /LS 2DR CONVERTIBLE SUV 4WD": {
       "years": [
         2003
       ]
-    }
-  },
-  "Cutaway Chassis": {},
-  "Motorhome Chassis": {},
-  "Hi-Cube": {},
-  "S7": {},
-  "S6": {},
-  "R Conventional": {},
-  "V Conventional": {},
-  "Bus Chassis": {},
-  "Heavy Conventional": {},
-  "Aluminum Tilt": {},
-  "El Camino": {},
-  "LUV": {},
-  "Silverado HD": {
-    "SILVERADO HD CREW CAB STANDARD BOX": {
-      "years": [
-        2020
-      ]
-    }
-  },
-  "Silverado LD": {},
-  "Captiva Sport": {},
-  "Orlando": {
-    "ORLANDO 4DR MINIVAN LS/LT/LTZ": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    }
-  },
-  "Traverse": {
-    "TRAVERSE 4DR SUV FWD LS/LT1/LTZ": {
-      "years": [
-        2009
-      ]
     },
-    "TRAVERSE 4DR SUV AWD LS/LT/LTZ": {
+    "TRACKER /LX 4DR HARDTOP SUV 4WD": {
       "years": [
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "TRAVERSE 4DR SUV FWD LS/LT/LTZ": {
-      "years": [
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "TRAVERSE LS/LT/LTZ AWD 4DR SUV": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "TRAVERSE LS/LT/LTZ FWD 4DR SUV": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "TRAVERSE 4DR SUV AWD": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "TRAVERSE 4DR SUV FWD": {
-      "years": [
-        2018,
-        2019
+        2003,
+        2004
       ]
     }
   },
@@ -5761,6 +5570,98 @@
       ]
     }
   },
+  "Traverse": {
+    "TRAVERSE 4DR SUV FWD LS/LT1/LTZ": {
+      "years": [
+        2009
+      ]
+    },
+    "TRAVERSE 4DR SUV AWD LS/LT/LTZ": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "TRAVERSE 4DR SUV FWD LS/LT/LTZ": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "TRAVERSE LS/LT/LTZ AWD 4DR SUV": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "TRAVERSE LS/LT/LTZ FWD 4DR SUV": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "TRAVERSE 4DR SUV AWD": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "TRAVERSE 4DR SUV FWD": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "Trax": {
+    "TRAX 4 LS/LT/LTZ DR SUV": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "TRAX LT/LTZ AWD 4 DR SUV": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "TRAX LT/LTZ AWD 4DR SUV": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "TRAX LS/LT/LTZ FWD 4DR SUV": {
+      "years": [
+        2016
+      ]
+    },
+    "TRAX AWD 4DR SUV": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "TRAX FWD 4DR SUV": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "U100": {},
   "Uplander": {
     "UPLANDER CARGO EWB FWD": {
       "years": [
@@ -5815,6 +5716,105 @@
       "years": [
         2008,
         2009
+      ]
+    }
+  },
+  "V Conventional": {},
+  "Venture": {
+    "VENTURE": {
+      "years": [
+        1997,
+        1998
+      ]
+    },
+    "VENTURE EXTENDED W/B LS": {
+      "years": [
+        1997
+      ]
+    },
+    "VENTURE EXTENDED W/B": {
+      "years": [
+        1998
+      ]
+    },
+    "VENTURE EXTENDED W/B CARGO": {
+      "years": [
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "VENTURE 3DR/4DR": {
+      "years": [
+        1999
+      ]
+    },
+    "VENTURE EXTENDED W/B 4DR": {
+      "years": [
+        1999,
+        2000
+      ]
+    },
+    "VENTURE 4DR": {
+      "years": [
+        2000
+      ]
+    },
+    "VENTURE 4DR VALUE/BASE/LS": {
+      "years": [
+        2001,
+        2002
+      ]
+    },
+    "VENTURE EXTENDED W/B 4DR BASE/LS/LT/WBE": {
+      "years": [
+        2001,
+        2002
+      ]
+    },
+    "VENTURE 4DR VALUE/VALUE PLUS/LS/LT": {
+      "years": [
+        2003
+      ]
+    },
+    "VENTURE EXTENDED W/B 4DR AWD LS/LT/Warner Br.": {
+      "years": [
+        2003
+      ]
+    },
+    "VENTURE EXTENDED W/B 4DR VALUE/VALUE PLUS/LS/": {
+      "years": [
+        2003
+      ]
+    },
+    "VENTURE 4DR FWD VALUE VAN/VALUE PLUS/BASE/LS": {
+      "years": [
+        2004
+      ]
+    },
+    "VENTURE EXTENDED W/B 4DR FWD /LT": {
+      "years": [
+        2004
+      ]
+    },
+    "VENTURE VALUE PLUS/BASE/LS/LT 4DR FWD": {
+      "years": [
+        2005
+      ]
+    }
+  },
+  "Volt": {
+    "VOLT 4DR HATCHBACK": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
       ]
     }
   }

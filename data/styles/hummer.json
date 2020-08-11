@@ -1,4 +1,30 @@
 {
+  "H1": {
+    "HUMMER H1 OPEN TOP 4DR SUV 4WD": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "HUMMER H1 WAGON 4DR SUV 4WD": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "H1 OPEN TOP 4DR SUV 4WD": {
+      "years": [
+        2005
+      ]
+    },
+    "H1 WAGON 4DR SUV 4WD": {
+      "years": [
+        2005
+      ]
+    }
+  },
   "H2": {
     "HUMMER H2 4DR SUV 4WD": {
       "years": [
@@ -60,32 +86,6 @@
       "years": [
         2009,
         2010
-      ]
-    }
-  },
-  "H1": {
-    "HUMMER H1 OPEN TOP 4DR SUV 4WD": {
-      "years": [
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "HUMMER H1 WAGON 4DR SUV 4WD": {
-      "years": [
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "H1 OPEN TOP 4DR SUV 4WD": {
-      "years": [
-        2005
-      ]
-    },
-    "H1 WAGON 4DR SUV 4WD": {
-      "years": [
-        2005
       ]
     }
   }

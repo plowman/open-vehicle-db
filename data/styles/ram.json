@@ -586,6 +586,19 @@
   "4000": {},
   "4500": {},
   "5500": {},
+  "Cargo Van": {
+    "RAM CARGO VAN BASE": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
   "Promaster 1500": {
     "PROMASTER 1500 HIGH ROOF 136 IN. WB CARGO VAN": {
       "years": [
@@ -659,19 +672,6 @@
     },
     "PROMASTER 3500 HIGH ROOF 159 IN. WB EXT CARGO VAN": {
       "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Cargo Van": {
-    "RAM CARGO VAN BASE": {
-      "years": [
-        2013,
-        2014,
-        2015,
         2016,
         2017,
         2018,

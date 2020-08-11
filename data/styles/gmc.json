@@ -1,8 +1,578 @@
 {
-  "Electric Vehicle": {},
+  "Acadia": {
+    "ACADIA 4DR SUV FWD SLE/SLT": {
+      "years": [
+        2007,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "ACADIA 4DR SUV FWD SLE/SLT1/SLT2": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "ACADIA 4DR SUV AWD SLE/SLT": {
+      "years": [
+        2010
+      ]
+    },
+    "ACADIA 4DR SUV AWD SLE/SLT/DENALI": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "ACADIA 4DR SUV AWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "ACADIA 4DR SUV FWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Aluminum Tilt": {},
+  "Bus Chassis": {},
   "C/K Pickup": {},
-  "P Truck Forward": {},
+  "C5": {},
+  "C6": {},
+  "C7": {},
+  "Caballero": {},
+  "Canyon": {
+    "CANYON CREW CAB S/BOX 2WD": {
+      "years": [
+        2004,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "CANYON CREW CAB S/BOX 4X4": {
+      "years": [
+        2004,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "CANYON EXT CAB S/BOX 2WD": {
+      "years": [
+        2004
+      ]
+    },
+    "CANYON EXT CAB S/BOX 4X4": {
+      "years": [
+        2004
+      ]
+    },
+    "CANYON REG CAB S/BOX 2WD": {
+      "years": [
+        2004
+      ]
+    },
+    "CANYON REG CAB S/BOX 4X4": {
+      "years": [
+        2004
+      ]
+    },
+    "CANYON CREW CAB S/BOX 2WD /SL": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "CANYON CREW CAB S/BOX 4X4 /SL": {
+      "years": [
+        2005
+      ]
+    },
+    "CANYON EXT CAB S/BOX 2WD /SL/SLE": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "CANYON EXT CAB S/BOX 4X4 /SL/SLE": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "CANYON REG CAB S/BOX 2WD /SL/SLE": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "CANYON REG CAB S/BOX 4X4 /SL/SLE": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "CANYON CREW CAB S/BOX 4X4 /SL/SLE": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "CANYON CREW CAB S/BOX 2WD /SLE": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "CANYON CREW CAB S/BOX 4X4 /SLE": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "CANYON EXT CAB S/BOX 2WD /SLE": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "CANYON EXT CAB S/BOX 4X4 /SLE": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "CANYON REG CAB S/BOX 2WD /SLE": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "CANYON REG CAB S/BOX 4X4 /SLE": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "CANYON CREW CAB L/BOX 2WD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "CANYON CREW CAB L/BOX 4X4": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "CANYON EXTENDED CAB L/BOX 2WD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "CANYON EXTENDED CAB L/BOX 4X4": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Cutaway Chassis": {},
+  "Cutaway Van": {},
+  "Electric Vehicle": {},
+  "Envoy": {
+    "ENVOY SLE/SLT 4DR SUV 2WD": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "ENVOY SLE/SLT 4DR SUV 4WD": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "ENVOY SLE/SLT 4DR SUV EXT 2WD": {
+      "years": [
+        2002
+      ]
+    },
+    "ENVOY SLE/SLT 4DR SUV EXT 4WD": {
+      "years": [
+        2002
+      ]
+    },
+    "ENVOY XL SLE/SLT 4DR SUV 2WD": {
+      "years": [
+        2003,
+        2004
+      ]
+    },
+    "ENVOY XL SLE/SLT 4DR SUV 4WD": {
+      "years": [
+        2003,
+        2004
+      ]
+    },
+    "ENVOY XUV 4DR SUV RWD": {
+      "years": [
+        2004
+      ]
+    },
+    "ENVOY 4DR SUV 2WD SLE/SLT/DENALI": {
+      "years": [
+        2005
+      ]
+    },
+    "ENVOY 4DR SUV 4WD /SLE/SLT/DENALI": {
+      "years": [
+        2005
+      ]
+    },
+    "ENVOY XL 4DR SUV 2WD SLE/SLT/DENALI": {
+      "years": [
+        2005
+      ]
+    },
+    "ENVOY XL 4DR SUV 4WD  SLE/SLT/DENALI": {
+      "years": [
+        2005
+      ]
+    },
+    "ENVOY XUV 4DR SUV 2WD /SLE/SLT": {
+      "years": [
+        2005
+      ]
+    },
+    "ENVOY XUV 4DR SUV 4WD /SLE/SLT": {
+      "years": [
+        2005
+      ]
+    },
+    "ENVOY 4DR SUV 2WD DENALI": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "ENVOY 4DR SUV 2WD SLE/SLT": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "ENVOY 4DR SUV 4WD /SLE/SLT": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "ENVOY 4DR SUV 4WD DENALI": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "ENVOY XL 4DR SUV 2WD DENALI": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "ENVOY XL 4DR SUV 2WD SLE/SLT": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "ENVOY XL 4DR SUV 4WD  DENALI": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "ENVOY XL 4DR SUV 4WD  SLE/SLT": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "ENVOY 4DR SUV 4WD SLE/SLT": {
+      "years": [
+        2008,
+        2009
+      ]
+    }
+  },
+  "Forward Control": {},
+  "GMT-400": {},
+  "Geo Tracker": {},
+  "Heavy Conventional": {},
+  "Hi-Cube": {},
+  "Jimmy": {
+    "K-JIMMY 4DR 4 X 2": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "K-JIMMY 4DR 4 X 4": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "S-15 JIMMY 2DR 2 X 4": {
+      "years": [
+        1985
+      ]
+    },
+    "S-15 JIMMY 2DR 4 X 4": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "S-15 JIMMY 2DR 4 X 2": {
+      "years": [
+        1986,
+        1987
+      ]
+    },
+    "S-15 JIMMY 2DR 4X2": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "S-15 JIMMY 2DR 4X4": {
+      "years": [
+        1988,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "V-JIMMY 4DR 2X4": {
+      "years": [
+        1988,
+        1990
+      ]
+    },
+    "V-JIMMY 4DR 4X4": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "T-15 JIMMY 2DR 4X4": {
+      "years": [
+        1989
+      ]
+    },
+    "V-JIMMY 2DR 4X2": {
+      "years": [
+        1989
+      ]
+    },
+    "S-15 JIMMY 4DR 4X2": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "S-15 JIMMY 4DR 4X4": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "V1500-JIMMY 2DR 4X4": {
+      "years": [
+        1991
+      ]
+    },
+    "JIMMY 2DR SUV 2WD": {
+      "years": [
+        1994
+      ]
+    },
+    "JIMMY 2DR SUV 4WD": {
+      "years": [
+        1994
+      ]
+    },
+    "JIMMY 4DR SUV 2WD": {
+      "years": [
+        1994
+      ]
+    },
+    "JIMMY 4DR SUV 4WD": {
+      "years": [
+        1994
+      ]
+    },
+    "JIMMY 2DR SUV 2WD SL/SLS": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "JIMMY 2DR SUV 4WD SL/SLS": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "JIMMY 4DR SUV 2WD SL/SLS/SLE/SLT": {
+      "years": [
+        1995,
+        1996,
+        1998,
+        1999
+      ]
+    },
+    "JIMMY 4DR SUV 4WD SL/SLS/SLE/SLT": {
+      "years": [
+        1995,
+        1996,
+        1998,
+        1999
+      ]
+    },
+    "JIMMY 4DR SUV 2WD SL/SLS/SLT": {
+      "years": [
+        1997
+      ]
+    },
+    "JIMMY 4DR SUV 4WD SL/SLS/SLT": {
+      "years": [
+        1997
+      ]
+    },
+    "JIMMY 4DR SUV 4WD ENVOY": {
+      "years": [
+        1999,
+        2000
+      ]
+    },
+    "JIMMY 2DR SUV 2WD SLS": {
+      "years": [
+        2000
+      ]
+    },
+    "JIMMY 2DR SUV 4WD SLS": {
+      "years": [
+        2000
+      ]
+    },
+    "JIMMY 4DR SUV 2WD SLS/SLE/SLT": {
+      "years": [
+        2000
+      ]
+    },
+    "JIMMY 4DR SUV 4WD SLS/SLE/SLT": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "JIMMY 2DR SUV 4WD SLS/SLE/SLT": {
+      "years": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    }
+  },
+  "Jimmy Utility": {},
+  "Magna Van": {},
   "Motorhome Chassis": {},
+  "P Truck Forward": {},
+  "R Conventional": {},
   "Rally": {
     "RALLY VAN": {
       "years": [
@@ -122,52 +692,166 @@
     }
   },
   "S15 Pickup": {},
-  "Acadia": {
-    "ACADIA 4DR SUV FWD SLE/SLT": {
+  "S15 Utility": {},
+  "S6": {},
+  "Safari": {
+    "M-1500 SAFARI CARGO": {
       "years": [
-        2007,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015
+        1988,
+        1989,
+        1990
       ]
     },
-    "ACADIA 4DR SUV FWD SLE/SLT1/SLT2": {
+    "SAFARI": {
       "years": [
-        2008,
-        2009
+        1988,
+        1989
       ]
     },
-    "ACADIA 4DR SUV AWD SLE/SLT": {
+    "SAFARI EXTENDED LENGTH AWD PASSENGER VAN": {
       "years": [
-        2010
+        1990,
+        1991,
+        1992
       ]
     },
-    "ACADIA 4DR SUV AWD SLE/SLT/DENALI": {
+    "SAFARI EXTENDED LENGTH PASSENGER VAN": {
       "years": [
-        2011,
-        2012,
-        2013,
-        2014,
-        2015
+        1990
       ]
     },
-    "ACADIA 4DR SUV AWD": {
+    "SAFARI PASSENGER VAN": {
       "years": [
-        2016,
-        2017,
-        2018,
-        2019
+        1990
       ]
     },
-    "ACADIA 4DR SUV FWD": {
+    "SAFARI AWD PASSENGER VANS": {
       "years": [
-        2016,
-        2017,
-        2018,
-        2019
+        1991
+      ]
+    },
+    "SAFARI CARGO": {
+      "years": [
+        1991,
+        1992,
+        1993,
+        1994
+      ]
+    },
+    "SAFARI CARGO EXTENDED BODY": {
+      "years": [
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "SAFARI EXTENDED LENGTH RWD PASSENGER VAN": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "SAFARI RWD PASSENGER VAN": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "SAFARI AWD PASSENGER VAN": {
+      "years": [
+        1992
+      ]
+    },
+    "SAFARI AWD WAGON": {
+      "years": [
+        1993
+      ]
+    },
+    "SAFARI EXTENDED LENGTH AWD WAGON": {
+      "years": [
+        1993
+      ]
+    },
+    "SAFARI EXTENDED LENGTH RWD WAGON": {
+      "years": [
+        1993
+      ]
+    },
+    "SAFARI RWD WAGON": {
+      "years": [
+        1993
+      ]
+    },
+    "SAFARI PASSENGER WAGON AWD": {
+      "years": [
+        1994,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "SAFARI PASSENGER WAGON AWD EXTENDED BODY": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "SAFARI PASSENGER WAGON RWD": {
+      "years": [
+        1994,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "SAFARI PASSENGER WAGON RWD EXTENDED BODY": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "SAFARI CARGO AWD": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "SAFARI CARGO RWD": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
       ]
     }
   },
@@ -2517,712 +3201,14 @@
       ]
     }
   },
-  "Terrain": {
-    "TERRAIN SLE/SLT 4DR SUV AWD": {
+  "Sierra HD": {
+    "SIERRA HD CREW CAB STANDARD BOX": {
       "years": [
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "TERRAIN SLE/SLT 4DR SUV FWD": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "TERRAIN SLE/SLT/DENALI 4DR SUV AWD": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "TERRAIN SLE/SLT/DENALI 4DR SUV FWD": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "TERRAIN 4DR SUV AWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "TERRAIN 4DR SUV FWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
+        2020
       ]
     }
   },
-  "Yukon": {
-    "K1500 YUKON 4X4": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "YUKON 1500 2DR SUV 4X4 SL/SLE/GT": {
-      "years": [
-        1994
-      ]
-    },
-    "YUKON 1500 2DR SUV 4X4 SL/SLE/SLT/GT": {
-      "years": [
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "YUKON 1500 4DR SUV 4X4 SL/SLE/SLT/GT": {
-      "years": [
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "YUKON 1500 2DR SUV 4X2 SL/SLE/SLT/GT": {
-      "years": [
-        1996,
-        1997
-      ]
-    },
-    "YUKON 1500 4DR SUV 4X2 SL/SLE/SLT/GT": {
-      "years": [
-        1996,
-        1997
-      ]
-    },
-    "YUKON 1500 4DR SUV 4X2 SLE/SLT": {
-      "years": [
-        1998,
-        1999
-      ]
-    },
-    "YUKON 1500 4DR SUV 4X4 SLE/SLT": {
-      "years": [
-        1998,
-        1999
-      ]
-    },
-    "YUKON 1500 4DR SUV 4X4 DENALI": {
-      "years": [
-        1999
-      ]
-    },
-    "YUKON 1500 4DR 4X2": {
-      "years": [
-        2000,
-        2001,
-        2003
-      ]
-    },
-    "YUKON 1500 4DR 4X4": {
-      "years": [
-        2000,
-        2001,
-        2003
-      ]
-    },
-    "YUKON 1500 4DR 4X4 DENALI": {
-      "years": [
-        2000
-      ]
-    },
-    "YUKON 1500 4DR AWD DENALI": {
-      "years": [
-        2001
-      ]
-    },
-    "YUKON 1500 4DR 4WD DENALI": {
-      "years": [
-        2002,
-        2003
-      ]
-    },
-    "YUKON 1500 4DR 4X2 SL": {
-      "years": [
-        2002
-      ]
-    },
-    "YUKON 1500 4DR 4X2 SLT": {
-      "years": [
-        2002
-      ]
-    },
-    "YUKON 1500 4DR 4X4 /DENALI": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "YUKON 1500 4DR RWD /SLE/SLT": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "YUKON 4DR SUV 4WD SLE/SLT/DENALI": {
-      "years": [
-        2007,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "YUKON 4DR SUV RWD SLE/SLT": {
-      "years": [
-        2007,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "YUKON 4DR SUV 4WD DENALI": {
-      "years": [
-        2008,
-        2009,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "YUKON 4DR SUV RWD SL/SLE": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "YUKON HYBRID 4DR SUV 4WD": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "YUKON HYBRID 4DR SUV RWD": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "YUKON 2500-XL 4DR SUV 4WD SLE/SLT/DENALI": {
-      "years": [
-        2010
-      ]
-    },
-    "YUKON 2500-XL 4DR SUV RWD SLE/SLT": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "YUKON 2500-XL 4DR SUV 4WD SLE/SLT": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "YUKON HYBRID 4DR SUV 4WD/DENALI": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "YUKON 4DR SUV 4WD SLE/SLT": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Canyon": {
-    "CANYON CREW CAB S/BOX 2WD": {
-      "years": [
-        2004,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "CANYON CREW CAB S/BOX 4X4": {
-      "years": [
-        2004,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "CANYON EXT CAB S/BOX 2WD": {
-      "years": [
-        2004
-      ]
-    },
-    "CANYON EXT CAB S/BOX 4X4": {
-      "years": [
-        2004
-      ]
-    },
-    "CANYON REG CAB S/BOX 2WD": {
-      "years": [
-        2004
-      ]
-    },
-    "CANYON REG CAB S/BOX 4X4": {
-      "years": [
-        2004
-      ]
-    },
-    "CANYON CREW CAB S/BOX 2WD /SL": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "CANYON CREW CAB S/BOX 4X4 /SL": {
-      "years": [
-        2005
-      ]
-    },
-    "CANYON EXT CAB S/BOX 2WD /SL/SLE": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "CANYON EXT CAB S/BOX 4X4 /SL/SLE": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "CANYON REG CAB S/BOX 2WD /SL/SLE": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "CANYON REG CAB S/BOX 4X4 /SL/SLE": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "CANYON CREW CAB S/BOX 4X4 /SL/SLE": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "CANYON CREW CAB S/BOX 2WD /SLE": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "CANYON CREW CAB S/BOX 4X4 /SLE": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "CANYON EXT CAB S/BOX 2WD /SLE": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "CANYON EXT CAB S/BOX 4X4 /SLE": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "CANYON REG CAB S/BOX 2WD /SLE": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "CANYON REG CAB S/BOX 4X4 /SLE": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "CANYON CREW CAB L/BOX 2WD": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "CANYON CREW CAB L/BOX 4X4": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "CANYON EXTENDED CAB L/BOX 2WD": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "CANYON EXTENDED CAB L/BOX 4X4": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Yukon XL": {
-    "YUKON-XL 1500 4DR 4X2": {
-      "years": [
-        2000,
-        2001,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "YUKON-XL 1500 4DR 4X4": {
-      "years": [
-        2000,
-        2001,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "YUKON-XL 2500 4DR 4X2": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "YUKON-XL 2500 4DR 4X4": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "YUKON-XL 1500 4DR AWD DENALI": {
-      "years": [
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "YUKON-XL 1500 4DR 4X2 SLE": {
-      "years": [
-        2002
-      ]
-    },
-    "YUKON-XL 1500 4DR 4X2 SLT": {
-      "years": [
-        2002
-      ]
-    },
-    "YUKON-XL 4DR SUV 4WD SLE/SLT/DENALI": {
-      "years": [
-        2007,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "YUKON-XL 4DR SUV RWD SLE/SLT": {
-      "years": [
-        2007,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "YUKON-XL 4DR SUV 4WD DENALI": {
-      "years": [
-        2008,
-        2009,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "YUKON-XL 4DR SUV RWD SL/SLE": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "YUKON-XL 4DR SUV 4WD SLE/SLT": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Safari": {
-    "M-1500 SAFARI CARGO": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "SAFARI": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "SAFARI EXTENDED LENGTH AWD PASSENGER VAN": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "SAFARI EXTENDED LENGTH PASSENGER VAN": {
-      "years": [
-        1990
-      ]
-    },
-    "SAFARI PASSENGER VAN": {
-      "years": [
-        1990
-      ]
-    },
-    "SAFARI AWD PASSENGER VANS": {
-      "years": [
-        1991
-      ]
-    },
-    "SAFARI CARGO": {
-      "years": [
-        1991,
-        1992,
-        1993,
-        1994
-      ]
-    },
-    "SAFARI CARGO EXTENDED BODY": {
-      "years": [
-        1991,
-        1992,
-        1993,
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "SAFARI EXTENDED LENGTH RWD PASSENGER VAN": {
-      "years": [
-        1991,
-        1992
-      ]
-    },
-    "SAFARI RWD PASSENGER VAN": {
-      "years": [
-        1991,
-        1992
-      ]
-    },
-    "SAFARI AWD PASSENGER VAN": {
-      "years": [
-        1992
-      ]
-    },
-    "SAFARI AWD WAGON": {
-      "years": [
-        1993
-      ]
-    },
-    "SAFARI EXTENDED LENGTH AWD WAGON": {
-      "years": [
-        1993
-      ]
-    },
-    "SAFARI EXTENDED LENGTH RWD WAGON": {
-      "years": [
-        1993
-      ]
-    },
-    "SAFARI RWD WAGON": {
-      "years": [
-        1993
-      ]
-    },
-    "SAFARI PASSENGER WAGON AWD": {
-      "years": [
-        1994,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "SAFARI PASSENGER WAGON AWD EXTENDED BODY": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "SAFARI PASSENGER WAGON RWD": {
-      "years": [
-        1994,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "SAFARI PASSENGER WAGON RWD EXTENDED BODY": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "SAFARI CARGO AWD": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "SAFARI CARGO RWD": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    }
-  },
-  "GMT-400": {},
+  "Sierra Limited": {},
   "Sonoma": {
     "SONOMA P.U. CLUB COUPE": {
       "years": [
@@ -3615,12 +3601,54 @@
       ]
     }
   },
-  "Jimmy Utility": {},
-  "C5": {},
-  "C6": {},
-  "C7": {},
-  "Cutaway Chassis": {},
-  "S15 Utility": {},
+  "Terrain": {
+    "TERRAIN SLE/SLT 4DR SUV AWD": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "TERRAIN SLE/SLT 4DR SUV FWD": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "TERRAIN SLE/SLT/DENALI 4DR SUV AWD": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "TERRAIN SLE/SLT/DENALI 4DR SUV FWD": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "TERRAIN 4DR SUV AWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "TERRAIN 4DR SUV FWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "V Conventional": {},
+  "Value Van": {},
   "Vandura": {
     "G-1500 VANDURA": {
       "years": [
@@ -3794,352 +3822,324 @@
       ]
     }
   },
-  "Magna Van": {},
-  "Value Van": {},
-  "Hi-Cube": {},
-  "Geo Tracker": {},
-  "S6": {},
-  "Jimmy": {
-    "K-JIMMY 4DR 4 X 2": {
+  "Yukon": {
+    "K1500 YUKON 4X4": {
       "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "K-JIMMY 4DR 4 X 4": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "S-15 JIMMY 2DR 2 X 4": {
-      "years": [
-        1985
-      ]
-    },
-    "S-15 JIMMY 2DR 4 X 4": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "S-15 JIMMY 2DR 4 X 2": {
-      "years": [
-        1986,
-        1987
-      ]
-    },
-    "S-15 JIMMY 2DR 4X2": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
         1992,
         1993
       ]
     },
-    "S-15 JIMMY 2DR 4X4": {
-      "years": [
-        1988,
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "V-JIMMY 4DR 2X4": {
-      "years": [
-        1988,
-        1990
-      ]
-    },
-    "V-JIMMY 4DR 4X4": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "T-15 JIMMY 2DR 4X4": {
-      "years": [
-        1989
-      ]
-    },
-    "V-JIMMY 2DR 4X2": {
-      "years": [
-        1989
-      ]
-    },
-    "S-15 JIMMY 4DR 4X2": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "S-15 JIMMY 4DR 4X4": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "V1500-JIMMY 2DR 4X4": {
-      "years": [
-        1991
-      ]
-    },
-    "JIMMY 2DR SUV 2WD": {
+    "YUKON 1500 2DR SUV 4X4 SL/SLE/GT": {
       "years": [
         1994
       ]
     },
-    "JIMMY 2DR SUV 4WD": {
-      "years": [
-        1994
-      ]
-    },
-    "JIMMY 4DR SUV 2WD": {
-      "years": [
-        1994
-      ]
-    },
-    "JIMMY 4DR SUV 4WD": {
-      "years": [
-        1994
-      ]
-    },
-    "JIMMY 2DR SUV 2WD SL/SLS": {
+    "YUKON 1500 2DR SUV 4X4 SL/SLE/SLT/GT": {
       "years": [
         1995,
         1996,
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "JIMMY 2DR SUV 4WD SL/SLS": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "JIMMY 4DR SUV 2WD SL/SLS/SLE/SLT": {
-      "years": [
-        1995,
-        1996,
-        1998,
-        1999
-      ]
-    },
-    "JIMMY 4DR SUV 4WD SL/SLS/SLE/SLT": {
-      "years": [
-        1995,
-        1996,
-        1998,
-        1999
-      ]
-    },
-    "JIMMY 4DR SUV 2WD SL/SLS/SLT": {
-      "years": [
         1997
       ]
     },
-    "JIMMY 4DR SUV 4WD SL/SLS/SLT": {
+    "YUKON 1500 4DR SUV 4X4 SL/SLE/SLT/GT": {
       "years": [
+        1995,
+        1996,
         1997
       ]
     },
-    "JIMMY 4DR SUV 4WD ENVOY": {
+    "YUKON 1500 2DR SUV 4X2 SL/SLE/SLT/GT": {
       "years": [
-        1999,
+        1996,
+        1997
+      ]
+    },
+    "YUKON 1500 4DR SUV 4X2 SL/SLE/SLT/GT": {
+      "years": [
+        1996,
+        1997
+      ]
+    },
+    "YUKON 1500 4DR SUV 4X2 SLE/SLT": {
+      "years": [
+        1998,
+        1999
+      ]
+    },
+    "YUKON 1500 4DR SUV 4X4 SLE/SLT": {
+      "years": [
+        1998,
+        1999
+      ]
+    },
+    "YUKON 1500 4DR SUV 4X4 DENALI": {
+      "years": [
+        1999
+      ]
+    },
+    "YUKON 1500 4DR 4X2": {
+      "years": [
+        2000,
+        2001,
+        2003
+      ]
+    },
+    "YUKON 1500 4DR 4X4": {
+      "years": [
+        2000,
+        2001,
+        2003
+      ]
+    },
+    "YUKON 1500 4DR 4X4 DENALI": {
+      "years": [
         2000
       ]
     },
-    "JIMMY 2DR SUV 2WD SLS": {
+    "YUKON 1500 4DR AWD DENALI": {
       "years": [
-        2000
+        2001
       ]
     },
-    "JIMMY 2DR SUV 4WD SLS": {
+    "YUKON 1500 4DR 4WD DENALI": {
       "years": [
-        2000
+        2002,
+        2003
       ]
     },
-    "JIMMY 4DR SUV 2WD SLS/SLE/SLT": {
+    "YUKON 1500 4DR 4X2 SL": {
       "years": [
-        2000
+        2002
       ]
     },
-    "JIMMY 4DR SUV 4WD SLS/SLE/SLT": {
+    "YUKON 1500 4DR 4X2 SLT": {
+      "years": [
+        2002
+      ]
+    },
+    "YUKON 1500 4DR 4X4 /DENALI": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "YUKON 1500 4DR RWD /SLE/SLT": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "YUKON 4DR SUV 4WD SLE/SLT/DENALI": {
+      "years": [
+        2007,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "YUKON 4DR SUV RWD SLE/SLT": {
+      "years": [
+        2007,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "YUKON 4DR SUV 4WD DENALI": {
+      "years": [
+        2008,
+        2009,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "YUKON 4DR SUV RWD SL/SLE": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "YUKON HYBRID 4DR SUV 4WD": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "YUKON HYBRID 4DR SUV RWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "YUKON 2500-XL 4DR SUV 4WD SLE/SLT/DENALI": {
+      "years": [
+        2010
+      ]
+    },
+    "YUKON 2500-XL 4DR SUV RWD SLE/SLT": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "YUKON 2500-XL 4DR SUV 4WD SLE/SLT": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "YUKON HYBRID 4DR SUV 4WD/DENALI": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "YUKON 4DR SUV 4WD SLE/SLT": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Yukon XL": {
+    "YUKON-XL 1500 4DR 4X2": {
+      "years": [
+        2000,
+        2001,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "YUKON-XL 1500 4DR 4X4": {
+      "years": [
+        2000,
+        2001,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "YUKON-XL 2500 4DR 4X2": {
       "years": [
         2000,
         2001,
         2002,
         2003,
-        2004
+        2004,
+        2005,
+        2006
       ]
     },
-    "JIMMY 2DR SUV 4WD SLS/SLE/SLT": {
+    "YUKON-XL 2500 4DR 4X4": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "YUKON-XL 1500 4DR AWD DENALI": {
       "years": [
         2001,
         2002,
         2003,
         2004,
-        2005
-      ]
-    }
-  },
-  "R Conventional": {},
-  "V Conventional": {},
-  "Forward Control": {},
-  "Aluminum Tilt": {},
-  "Heavy Conventional": {},
-  "Bus Chassis": {},
-  "Caballero": {},
-  "Sierra HD": {
-    "SIERRA HD CREW CAB STANDARD BOX": {
-      "years": [
-        2020
-      ]
-    }
-  },
-  "Sierra Limited": {},
-  "Envoy": {
-    "ENVOY SLE/SLT 4DR SUV 2WD": {
-      "years": [
-        2002,
-        2003,
-        2004
+        2005,
+        2006
       ]
     },
-    "ENVOY SLE/SLT 4DR SUV 4WD": {
-      "years": [
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "ENVOY SLE/SLT 4DR SUV EXT 2WD": {
+    "YUKON-XL 1500 4DR 4X2 SLE": {
       "years": [
         2002
       ]
     },
-    "ENVOY SLE/SLT 4DR SUV EXT 4WD": {
+    "YUKON-XL 1500 4DR 4X2 SLT": {
       "years": [
         2002
       ]
     },
-    "ENVOY XL SLE/SLT 4DR SUV 2WD": {
+    "YUKON-XL 4DR SUV 4WD SLE/SLT/DENALI": {
       "years": [
-        2003,
-        2004
-      ]
-    },
-    "ENVOY XL SLE/SLT 4DR SUV 4WD": {
-      "years": [
-        2003,
-        2004
-      ]
-    },
-    "ENVOY XUV 4DR SUV RWD": {
-      "years": [
-        2004
-      ]
-    },
-    "ENVOY 4DR SUV 2WD SLE/SLT/DENALI": {
-      "years": [
-        2005
-      ]
-    },
-    "ENVOY 4DR SUV 4WD /SLE/SLT/DENALI": {
-      "years": [
-        2005
-      ]
-    },
-    "ENVOY XL 4DR SUV 2WD SLE/SLT/DENALI": {
-      "years": [
-        2005
-      ]
-    },
-    "ENVOY XL 4DR SUV 4WD  SLE/SLT/DENALI": {
-      "years": [
-        2005
-      ]
-    },
-    "ENVOY XUV 4DR SUV 2WD /SLE/SLT": {
-      "years": [
-        2005
-      ]
-    },
-    "ENVOY XUV 4DR SUV 4WD /SLE/SLT": {
-      "years": [
-        2005
-      ]
-    },
-    "ENVOY 4DR SUV 2WD DENALI": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "ENVOY 4DR SUV 2WD SLE/SLT": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "ENVOY 4DR SUV 4WD /SLE/SLT": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "ENVOY 4DR SUV 4WD DENALI": {
-      "years": [
-        2006,
         2007,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "YUKON-XL 4DR SUV RWD SLE/SLT": {
+      "years": [
+        2007,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "YUKON-XL 4DR SUV 4WD DENALI": {
+      "years": [
+        2008,
+        2009,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "YUKON-XL 4DR SUV RWD SL/SLE": {
+      "years": [
         2008,
         2009
       ]
     },
-    "ENVOY XL 4DR SUV 2WD DENALI": {
+    "YUKON-XL 4DR SUV 4WD SLE/SLT": {
       "years": [
-        2006,
-        2007
-      ]
-    },
-    "ENVOY XL 4DR SUV 2WD SLE/SLT": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "ENVOY XL 4DR SUV 4WD  DENALI": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "ENVOY XL 4DR SUV 4WD  SLE/SLT": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "ENVOY 4DR SUV 4WD SLE/SLT": {
-      "years": [
-        2008,
-        2009
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
       ]
     }
-  },
-  "Cutaway Van": {}
+  }
 }

@@ -1,4 +1,5 @@
 {
+  "G2X": {},
   "LANOS": {
     "LANOS 2DR HATCHBACK S/SX": {
       "years": [
@@ -25,6 +26,27 @@
       ]
     }
   },
+  "LEGANZA": {
+    "LEGANZA 4DR SEDAN SX/CDX": {
+      "years": [
+        1999,
+        2000,
+        2001
+      ]
+    },
+    "LEGANZA 4DR SEDAN CDX": {
+      "years": [
+        2002
+      ]
+    },
+    "LEGANZA 4DR SEDAN SX": {
+      "years": [
+        2002
+      ]
+    }
+  },
+  "Laganza V-car": {},
+  "Leganza V-200 & variants/derivatives": {},
   "NUBIRA": {
     "NUBIRA 4DR SEDAN SX/CDX": {
       "years": [
@@ -54,27 +76,5 @@
         2002
       ]
     }
-  },
-  "LEGANZA": {
-    "LEGANZA 4DR SEDAN SX/CDX": {
-      "years": [
-        1999,
-        2000,
-        2001
-      ]
-    },
-    "LEGANZA 4DR SEDAN CDX": {
-      "years": [
-        2002
-      ]
-    },
-    "LEGANZA 4DR SEDAN SX": {
-      "years": [
-        2002
-      ]
-    }
-  },
-  "Laganza V-car": {},
-  "Leganza V-200 & variants/derivatives": {},
-  "G2X": {}
+  }
 }

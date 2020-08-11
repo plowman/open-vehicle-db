@@ -1,4 +1,32 @@
 {
+  "Model 3": {
+    "MODEL 3 4DR SEDAN LONG RANGE": {
+      "years": [
+        2018
+      ]
+    },
+    "MODEL 3 4DR SEDAN STANDARD": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "MODEL 3 4DR SEDAN LONG RANGE AWD": {
+      "years": [
+        2019
+      ]
+    },
+    "MODEL 3 4DR SEDAN LONG RANGE RWD": {
+      "years": [
+        2019
+      ]
+    },
+    "MODEL 3 4DR SEDAN MID RANGE": {
+      "years": [
+        2019
+      ]
+    }
+  },
   "Model S": {
     "MODEL S": {
       "years": [
@@ -69,7 +97,6 @@
       ]
     }
   },
-  "Roadster": {},
   "Model X": {
     "MODEL X": {
       "years": [
@@ -84,33 +111,6 @@
       ]
     }
   },
-  "Model 3": {
-    "MODEL 3 4DR SEDAN LONG RANGE": {
-      "years": [
-        2018
-      ]
-    },
-    "MODEL 3 4DR SEDAN STANDARD": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "MODEL 3 4DR SEDAN LONG RANGE AWD": {
-      "years": [
-        2019
-      ]
-    },
-    "MODEL 3 4DR SEDAN LONG RANGE RWD": {
-      "years": [
-        2019
-      ]
-    },
-    "MODEL 3 4DR SEDAN MID RANGE": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "Model Y": {}
+  "Model Y": {},
+  "Roadster": {}
 }

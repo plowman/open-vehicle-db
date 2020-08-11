@@ -195,6 +195,75 @@
       ]
     }
   },
+  "Cooper Clubman": {
+    "COOPER CLUBMAN / COOPER CLUBMAN S 5DR HATCH F": {
+      "years": [
+        2008
+      ]
+    },
+    "COOPER CLUBMAN 4DR HATCH FWD": {
+      "years": [
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "COOPER CLUBMAN S 4DR HATCH FWD": {
+      "years": [
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "COOPER CLUBMAN 3DR HATCH FWD": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "COOPER CLUBMAN S 3DR HATCH FWD": {
+      "years": [
+        2012
+      ]
+    }
+  },
+  "Cooper Convertible": {
+    "COOPER CONVERTIBLE 2DR FWD": {
+      "years": [
+        2013,
+        2014
+      ]
+    }
+  },
+  "Cooper Countryman": {
+    "COOPER COUNTRYMAN 4 DR SUV": {
+      "years": [
+        2013,
+        2014
+      ]
+    }
+  },
+  "Cooper Coupe": {
+    "COOPER COUPE 2DR COUPE": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    }
+  },
+  "Cooper Hardtop": {},
+  "Cooper Paceman": {},
+  "Cooper Roadster": {
+    "COOPER ROADSTER": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    }
+  },
   "Cooper S": {
     "COOPER S 2DR HATCH FWD": {
       "years": [
@@ -330,40 +399,6 @@
       ]
     }
   },
-  "JCW Hardtop": {},
-  "Cooper Clubman": {
-    "COOPER CLUBMAN / COOPER CLUBMAN S 5DR HATCH F": {
-      "years": [
-        2008
-      ]
-    },
-    "COOPER CLUBMAN 4DR HATCH FWD": {
-      "years": [
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "COOPER CLUBMAN S 4DR HATCH FWD": {
-      "years": [
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "COOPER CLUBMAN 3DR HATCH FWD": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "COOPER CLUBMAN S 3DR HATCH FWD": {
-      "years": [
-        2012
-      ]
-    }
-  },
   "Cooper S Clubman": {
     "COOPER S CLUBMAN 3DR HATCH FWD": {
       "years": [
@@ -372,26 +407,7 @@
       ]
     }
   },
-  "JCW Clubman": {},
-  "Cooper Convertible": {
-    "COOPER CONVERTIBLE 2DR FWD": {
-      "years": [
-        2013,
-        2014
-      ]
-    }
-  },
   "Cooper S Convertible": {},
-  "JCW Convertible": {},
-  "Cooper Hardtop": {},
-  "Cooper Countryman": {
-    "COOPER COUNTRYMAN 4 DR SUV": {
-      "years": [
-        2013,
-        2014
-      ]
-    }
-  },
   "Cooper S Countryman": {
     "COOPER S COUNTRYMAN 4 DR SUV": {
       "years": [
@@ -405,16 +421,6 @@
     }
   },
   "Cooper S Countryman All4": {},
-  "Cooper S Hardtop": {},
-  "Cooper Coupe": {
-    "COOPER COUPE 2DR COUPE": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    }
-  },
   "Cooper S Coupe": {
     "COOPER S COUPE 2DR COUPE": {
       "years": [
@@ -424,16 +430,10 @@
       ]
     }
   },
-  "JCW Coupe": {},
-  "Cooper Roadster": {
-    "COOPER ROADSTER": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    }
-  },
+  "Cooper S Hardtop": {},
+  "Cooper S JCW GP": {},
+  "Cooper S Paceman": {},
+  "Cooper S Paceman ALL4": {},
   "Cooper S Roadster": {
     "COOPER S ROADSTER": {
       "years": [
@@ -443,11 +443,11 @@
       ]
     }
   },
-  "Cooper S Paceman": {},
-  "Cooper Paceman": {},
-  "Cooper S Paceman ALL4": {},
-  "JCW Roadster": {},
+  "JCW Clubman": {},
+  "JCW Convertible": {},
   "JCW Countryman": {},
+  "JCW Coupe": {},
+  "JCW Hardtop": {},
   "JCW Paceman": {},
-  "Cooper S JCW GP": {}
+  "JCW Roadster": {}
 }

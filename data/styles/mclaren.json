@@ -1,4 +1,86 @@
 {
+  "540C": {},
+  "570GT": {},
+  "570S": {
+    "570S / 540C 2DR COUPE": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "570S / 570GT / 540C 2DR COUPE": {
+      "years": [
+        2019
+      ]
+    },
+    "570S SPIDER": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "600LT": {
+    "600LT 2DR COUPE": {
+      "years": [
+        2019
+      ]
+    },
+    "600LT SPIDER 2DR CONVERTIBLE": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "620R": {},
+  "625C": {},
+  "650S": {
+    "650S 2DR COUPE": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "650S SPIDER 2DR CONVERTIBLE": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    }
+  },
+  "675LT": {
+    "675LT 2DR COUPE": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "675LT SPIDER 2DR CONVERTIBLE": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    }
+  },
+  "720S": {
+    "720S 2DR COUPE": {
+      "years": [
+        2018
+      ]
+    },
+    "720S 2DR COUPE / SPIDER": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "GT": {},
   "MP4-12C": {
     "MP4-12C": {
       "years": [
@@ -40,86 +122,6 @@
       ]
     }
   },
-  "625C": {},
-  "650S": {
-    "650S 2DR COUPE": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "650S SPIDER 2DR CONVERTIBLE": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    }
-  },
-  "675LT": {
-    "675LT 2DR COUPE": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "675LT SPIDER 2DR CONVERTIBLE": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    }
-  },
-  "540C": {},
-  "570S": {
-    "570S / 540C 2DR COUPE": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "570S / 570GT / 540C 2DR COUPE": {
-      "years": [
-        2019
-      ]
-    },
-    "570S SPIDER": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "570GT": {},
-  "600LT": {
-    "600LT 2DR COUPE": {
-      "years": [
-        2019
-      ]
-    },
-    "600LT SPIDER 2DR CONVERTIBLE": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "720S": {
-    "720S 2DR COUPE": {
-      "years": [
-        2018
-      ]
-    },
-    "720S 2DR COUPE / SPIDER": {
-      "years": [
-        2019
-      ]
-    }
-  },
   "SENNA": {
     "SENNA": {
       "years": [
@@ -127,7 +129,5 @@
       ]
     }
   },
-  "SENNA GTR": {},
-  "GT": {},
-  "620R": {}
+  "SENNA GTR": {}
 }

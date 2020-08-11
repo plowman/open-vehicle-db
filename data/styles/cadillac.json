@@ -1,4 +1,5 @@
 {
+  "60 Special": {},
   "ATS": {
     "ATS 4DR SEDAN BASE RWD": {
       "years": [
@@ -79,6 +80,121 @@
         2016,
         2017,
         2018,
+        2019
+      ]
+    }
+  },
+  "Allante": {
+    "ALLANTE CONVERTIBLE/COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "ALLANTE CONVERTIBLE COUPE": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "ALLANTE CONVERTIBLE": {
+      "years": [
+        1990
+      ]
+    },
+    "ALLANTE CONVERTIBLE/HARDTOP": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    }
+  },
+  "Brougham": {
+    "BROUGHAM COUPE": {
+      "years": [
+        1985
+      ]
+    },
+    "BROUGHAM SEDAN": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "BROUGHAM 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "BROUGHAM 4DR SEDAN": {
+      "years": [
+        1990,
+        1992
+      ]
+    },
+    "BROUGHAM/BROUGHAM d'ELEGANCE 4DR SEDAN": {
+      "years": [
+        1991
+      ]
+    }
+  },
+  "CT4": {},
+  "CT5": {},
+  "CT6": {
+    "CT6 2.0L 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "CT6 3.0L TWIN TURBO AWD 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "CT6 3.0L TWIN TURBO AWD PLATINUM 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "CT6 3.6L AWD 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "CT6 3.6L AWD PLATINUM 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "CT6 LUXURY AWD 4DR SEDAN": {
+      "years": [
+        2019
+      ]
+    },
+    "CT6 PLATINUM AWD 4DR SEDAN": {
+      "years": [
+        2019
+      ]
+    },
+    "CT6 PREMIUM LUXURY AWD 4DR SEDAN": {
+      "years": [
+        2019
+      ]
+    },
+    "CT6 SPORT AWD 4DR SEDAN": {
+      "years": [
         2019
       ]
     }
@@ -279,94 +395,32 @@
       ]
     }
   },
-  "ELR": {
-    "ELR COUPE": {
+  "Catera": {
+    "CATERA 4DR SEDAN": {
       "years": [
-        2014,
-        2015,
-        2016
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
       ]
     }
   },
-  "XTS": {
-    "XTS 4DR SEDAN BASE/LUXURY/PREMIUM/PLATINUM AW": {
+  "Cimarron": {
+    "CIMARRON 4 DR SD": {
       "years": [
-        2013
+        1981,
+        1982
       ]
     },
-    "XTS 4DR SEDAN LUXURY/PREMIUM/PLATINUM FWD": {
+    "CIMARRON": {
       "years": [
-        2013
-      ]
-    },
-    "XTS 4DR SEDAN LUXURY/PREMIUM/PLATINUM AWD": {
-      "years": [
-        2014
-      ]
-    },
-    "XTS 4DR SEDAN STANDARD/LUXURY/PREMIUM/PLATINU": {
-      "years": [
-        2014
-      ]
-    },
-    "XTS 4DR SEDAN AWD": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "XTS 4DR SEDAN FWD": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
+        1985,
+        1986
       ]
     }
   },
-  "STS": {
-    "STS V6/V8 4DR SEDAN RWD": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "STS-V 4DR SEDAN RWD": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "STS V6/V8 4DR SEDAN RWD/V6 AWD": {
-      "years": [
-        2010
-      ]
-    },
-    "STS V8 4DR SEDAN AWD": {
-      "years": [
-        2010
-      ]
-    },
-    "STS 4DR SEDAN AWD 3.6 4": {
-      "years": [
-        2011
-      ]
-    },
-    "STS 4DR SEDAN RWD 3.6": {
-      "years": [
-        2011
-      ]
-    }
-  },
+  "Commercial Chassis": {},
   "DTS": {
     "DTS 4DR SEDAN FWD": {
       "years": [
@@ -379,28 +433,6 @@
       ]
     }
   },
-  "XLR": {
-    "XLR ROADSTER 2DR CONV RWD": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "XLR-V ROADSTER 2DR CONV RWD": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    }
-  },
-  "Limousine": {},
-  "Hearse": {},
   "Deville": {
     "DE VILLE 2 DR CP": {
       "years": [
@@ -474,6 +506,15 @@
       ]
     }
   },
+  "ELR": {
+    "ELR COUPE": {
+      "years": [
+        2014,
+        2015,
+        2016
+      ]
+    }
+  },
   "Eldorado": {
     "ELDORADO 2 DR CP": {
       "years": [
@@ -536,81 +577,100 @@
       ]
     }
   },
-  "Catera": {
-    "CATERA 4DR SEDAN": {
+  "Escalade": {
+    "ESCALADE 4DR SUV": {
       "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001
-      ]
-    }
-  },
-  "Seville": {
-    "SEVILLE 4 DR SD": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "SEVILLE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "SEVILLE 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "SEVILLE 4 DR SEDAN/STS SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "SEVILLE BASE/STS 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "SEVILLE 4DR SEDAN SLS": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
         1999,
         2000,
         2001,
-        2002,
-        2003,
-        2004
+        2002
       ]
     },
-    "SEVILLE 4DR SEDAN STS": {
+    "ESCALADE EXT P/U EXT CAB S/BOX AWD": {
       "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
         2002,
         2003,
-        2004
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "ESCALADE 4DR SUV AWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "ESCALADE HYBRID 4DR SUV 2WD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "ESCALADE HYBRID 4DR SUV 4WD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "ESCALADE": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
       ]
     }
   },
-  "Commercial Chassis": {},
+  "Escalade ESV": {
+    "ESCALADE ESV 4DR SUV AWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "ESCALADE ESV": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
   "Fleetwood": {
     "FLEETWOOD 2 DR CP": {
       "years": [
@@ -696,203 +756,8 @@
       ]
     }
   },
-  "CT6": {
-    "CT6 2.0L 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "CT6 3.0L TWIN TURBO AWD 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "CT6 3.0L TWIN TURBO AWD PLATINUM 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "CT6 3.6L AWD 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "CT6 3.6L AWD PLATINUM 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "CT6 LUXURY AWD 4DR SEDAN": {
-      "years": [
-        2019
-      ]
-    },
-    "CT6 PLATINUM AWD 4DR SEDAN": {
-      "years": [
-        2019
-      ]
-    },
-    "CT6 PREMIUM LUXURY AWD 4DR SEDAN": {
-      "years": [
-        2019
-      ]
-    },
-    "CT6 SPORT AWD 4DR SEDAN": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "60 Special": {},
-  "Allante": {
-    "ALLANTE CONVERTIBLE/COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "ALLANTE CONVERTIBLE COUPE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "ALLANTE CONVERTIBLE": {
-      "years": [
-        1990
-      ]
-    },
-    "ALLANTE CONVERTIBLE/HARDTOP": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    }
-  },
-  "Brougham": {
-    "BROUGHAM COUPE": {
-      "years": [
-        1985
-      ]
-    },
-    "BROUGHAM SEDAN": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "BROUGHAM 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "BROUGHAM 4DR SEDAN": {
-      "years": [
-        1990,
-        1992
-      ]
-    },
-    "BROUGHAM/BROUGHAM d'ELEGANCE 4DR SEDAN": {
-      "years": [
-        1991
-      ]
-    }
-  },
-  "Cimarron": {
-    "CIMARRON 4 DR SD": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "CIMARRON": {
-      "years": [
-        1985,
-        1986
-      ]
-    }
-  },
-  "CT4": {},
-  "CT5": {},
-  "Escalade": {
-    "ESCALADE 4DR SUV": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "ESCALADE EXT P/U EXT CAB S/BOX AWD": {
-      "years": [
-        2002,
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "ESCALADE 4DR SUV AWD": {
-      "years": [
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "ESCALADE HYBRID 4DR SUV 2WD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "ESCALADE HYBRID 4DR SUV 4WD": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "ESCALADE": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
+  "Hearse": {},
+  "Limousine": {},
   "SRX": {
     "SRX 4DR SUV RWD V6": {
       "years": [
@@ -945,29 +810,136 @@
       ]
     }
   },
-  "Escalade ESV": {
-    "ESCALADE ESV 4DR SUV AWD": {
+  "STS": {
+    "STS V6/V8 4DR SEDAN RWD": {
       "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "STS-V 4DR SEDAN RWD": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "STS V6/V8 4DR SEDAN RWD/V6 AWD": {
+      "years": [
+        2010
+      ]
+    },
+    "STS V8 4DR SEDAN AWD": {
+      "years": [
+        2010
+      ]
+    },
+    "STS 4DR SEDAN AWD 3.6 4": {
+      "years": [
+        2011
+      ]
+    },
+    "STS 4DR SEDAN RWD 3.6": {
+      "years": [
+        2011
+      ]
+    }
+  },
+  "Seville": {
+    "SEVILLE 4 DR SD": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "SEVILLE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "SEVILLE 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "SEVILLE 4 DR SEDAN/STS SEDAN": {
+      "years": [
+        1989
+      ]
+    },
+    "SEVILLE BASE/STS 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "SEVILLE 4DR SEDAN SLS": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
         2003,
+        2004
+      ]
+    },
+    "SEVILLE 4DR SEDAN STS": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    }
+  },
+  "XLR": {
+    "XLR ROADSTER 2DR CONV RWD": {
+      "years": [
         2004,
         2005,
         2006,
         2007,
         2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
+        2009
       ]
     },
-    "ESCALADE ESV": {
+    "XLR-V ROADSTER 2DR CONV RWD": {
       "years": [
-        2015,
-        2016,
-        2017,
-        2018,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    }
+  },
+  "XT4": {
+    "XT4 4DR SUV AWD": {
+      "years": [
+        2019
+      ]
+    },
+    "XT4 4DR SUV FWD": {
+      "years": [
         2019
       ]
     }
@@ -988,22 +960,50 @@
       ]
     }
   },
-  "XT4": {
-    "XT4 4DR SUV AWD": {
-      "years": [
-        2019
-      ]
-    },
-    "XT4 4DR SUV FWD": {
-      "years": [
-        2019
-      ]
-    }
-  },
   "XT6": {
     "XT6 4DR SUV": {
       "years": [
         2020
+      ]
+    }
+  },
+  "XTS": {
+    "XTS 4DR SEDAN BASE/LUXURY/PREMIUM/PLATINUM AW": {
+      "years": [
+        2013
+      ]
+    },
+    "XTS 4DR SEDAN LUXURY/PREMIUM/PLATINUM FWD": {
+      "years": [
+        2013
+      ]
+    },
+    "XTS 4DR SEDAN LUXURY/PREMIUM/PLATINUM AWD": {
+      "years": [
+        2014
+      ]
+    },
+    "XTS 4DR SEDAN STANDARD/LUXURY/PREMIUM/PLATINU": {
+      "years": [
+        2014
+      ]
+    },
+    "XTS 4DR SEDAN AWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "XTS 4DR SEDAN FWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
       ]
     }
   }

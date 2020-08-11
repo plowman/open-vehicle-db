@@ -1,4 +1,51 @@
 {
+  "Achieva": {
+    "ACHIEVA S/SL 2DR COUPE": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "ACHIEVA S/SL 4DR SEDAN": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "ACHIEVA 2DR COUPE S/SC": {
+      "years": [
+        1994
+      ]
+    },
+    "ACHIEVA 4DR SEDAN S/SL": {
+      "years": [
+        1994
+      ]
+    },
+    "ACHIEVA 2DR COUPE S": {
+      "years": [
+        1995
+      ]
+    },
+    "ACHIEVA 4DR SEDAN S": {
+      "years": [
+        1995
+      ]
+    },
+    "ACHIEVA 2DR COUPE SC": {
+      "years": [
+        1996,
+        1997
+      ]
+    },
+    "ACHIEVA 4DR SEDAN SL": {
+      "years": [
+        1996,
+        1997,
+        1998
+      ]
+    }
+  },
   "Alero": {
     "ALERO 2DR COUPE GX/GL/GLS": {
       "years": [
@@ -58,100 +105,29 @@
       ]
     }
   },
-  "Intrigue": {
-    "INTRIGUE 4DR SEDAN BASE/GL": {
+  "Bravada": {
+    "BRAVADA 4DR SUV": {
       "years": [
-        1998
-      ]
-    },
-    "INTRIGUE 4DR SEDAN GX/GL/GLS": {
-      "years": [
-        1999,
-        2000,
-        2001,
         2002
       ]
+    },
+    "BRAVADA 4DR SUV AWD": {
+      "years": [
+        2003,
+        2004
+      ]
     }
   },
-  "Regency": {
-    "98 REGENCY COUPE": {
-      "years": [
-        1985
-      ]
-    },
-    "NINETY-EIGHT REGENCY SEDAN": {
+  "Ciera": {},
+  "Custom Cruiser": {
+    "CUSTOM CRUISER WAGON": {
       "years": [
         1985,
-        1986
-      ]
-    },
-    "98 REGENCY COUPE (BASE)": {
-      "years": [
-        1986
-      ]
-    },
-    "NINETY-EIGHT REGENCY 4 DR SEDAN": {
-      "years": [
+        1986,
         1987,
         1988,
-        1989
-      ]
-    },
-    "NINETY-EIGHT REGENCY BROUGHAM 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "NINETY EIGHT REGENCY TOURING SEDAN": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "NINETY-EIGHT REGENCY BROUGHAM 4 DR SEDAN": {
-      "years": [
-        1988
-      ]
-    },
-    "NINETY-EIGHT REGENCY BROUGHAM 4 DR": {
-      "years": [
-        1989
-      ]
-    },
-    "98 REGENCY BROUGHAM/TOURING 4DR SEDAN": {
-      "years": [
+        1989,
         1990
-      ]
-    },
-    "98 REGENCY ELITE/TOURING 4DR SEDAN": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "98 REGENCY 4DR SEDAN ELITE": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    }
-  },
-  "Eighty Eight (88)": {},
-  "LSS": {
-    "88 ROYALE 4DR SEDAN BASE/LS/LSS": {
-      "years": [
-        1994,
-        1995
-      ]
-    },
-    "88 4DR SEDAN BASE/LS/LSS": {
-      "years": [
-        1996,
-        1997,
-        1998,
-        1999
       ]
     }
   },
@@ -195,53 +171,223 @@
       ]
     }
   },
-  "Achieva": {
-    "ACHIEVA S/SL 2DR COUPE": {
+  "Cutlass Calais": {
+    "CUTLASS CALAIS 2 DR": {
       "years": [
-        1992,
-        1993
+        1982
       ]
     },
-    "ACHIEVA S/SL 4DR SEDAN": {
+    "CUTLASS CALAIS 2 DR COUPE": {
       "years": [
-        1992,
-        1993
+        1988
       ]
     },
-    "ACHIEVA 2DR COUPE S/SC": {
+    "CUTLASS CALAIS BASE/SL 4 DR SEDAN": {
       "years": [
-        1994
+        1988
       ]
     },
-    "ACHIEVA 4DR SEDAN S/SL": {
+    "CUTLASS CALAIS INT'L SERIES 2DR COUPE": {
       "years": [
-        1994
+        1988,
+        1989
       ]
     },
-    "ACHIEVA 2DR COUPE S": {
+    "CUTLASS CALAIS INT'L SERIES 4DR SEDAN": {
       "years": [
-        1995
+        1988,
+        1989
       ]
     },
-    "ACHIEVA 4DR SEDAN S": {
+    "CUTLASS CALAIS S 2 DR COUPE": {
       "years": [
-        1995
+        1989
       ]
     },
-    "ACHIEVA 2DR COUPE SC": {
+    "CUTLASS CALAIS S/SL 4 DR SEDAN": {
       "years": [
-        1996,
-        1997
+        1989
       ]
     },
-    "ACHIEVA 4DR SEDAN SL": {
+    "CUTLASS CALAIS S/INTERNAT'L SERIES COUPE": {
       "years": [
-        1996,
-        1997,
-        1998
+        1990
+      ]
+    },
+    "CUTLASS CALAIS S/SL 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "CUTLASS CALAIS S/INT'L SER/QUAD442 COUPE": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "CUTLASS CALAIS S/SL/INT'L SER 4DR SEDAN": {
+      "years": [
+        1991,
+        1992
       ]
     }
   },
+  "Cutlass Ciera": {
+    "CUTLASS CIERA": {
+      "years": [
+        1982
+      ]
+    },
+    "CUTLASS CIERA BROUGHAM COUPE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "CUTLASS CIERA BROUGHAM SEDAN": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "CUTLASS CIERA LS SEDAN 4 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "CUTLASS CIERA WAGON": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "CUTLASS CIERA 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "CUTLASS CIERA BROUGHAM 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "CUTLASS CIERA GT 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "CUTLASS CIERA GT 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "CUTLASS CIERA S 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "CUTLASS CIERA SL 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "CUTLASS CIERA 2 DR COUPE": {
+      "years": [
+        1988
+      ]
+    },
+    "CUTLASS CIERA BASE/BROUGHAM 4 DR SEDAN": {
+      "years": [
+        1988
+      ]
+    },
+    "CUTLASS CIERA INT'L SERIES 2DR COUPE": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "CUTLASS CIERA INT'L SERIES 4DR SEDAN": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "CUTLASS CIERA BASE 2 DR COUPE": {
+      "years": [
+        1989
+      ]
+    },
+    "CUTLASS CIERA BASE 4 DR SEDAN": {
+      "years": [
+        1989
+      ]
+    },
+    "CUTLASS CIERA BASE/SL 4 DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "CUTLASS CIERA INTERNAT'L SERIES SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "CUTLASS CIERA S/SL 4 DR SEDAN": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "CUTLASS CIERA 4DR SEDAN S/SL": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "CUTLASS CIERA 4DR WAGON S/SL": {
+      "years": [
+        1996
+      ]
+    }
+  },
+  "Cutlass Cruiser": {
+    "CUTLASS CRUISER WAGON": {
+      "years": [
+        1982,
+        1987
+      ]
+    },
+    "CUTLASS CRUISER BROUGHAM WAGON": {
+      "years": [
+        1987
+      ]
+    },
+    "CUTLASS CRUISER BASE/BROUGHAM WAGON": {
+      "years": [
+        1988
+      ]
+    },
+    "CUTLASS CRUISER BASE/SL WAGON": {
+      "years": [
+        1989,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "CUTLASS CRUISER 4DR WAGON S/SL": {
+      "years": [
+        1994,
+        1995
+      ]
+    }
+  },
+  "Cutlass Salon": {},
   "Cutlass Supreme": {
     "CUTLASS SUPREME 4 DR SD": {
       "years": [
@@ -392,362 +538,6 @@
       ]
     }
   },
-  "Ciera": {},
-  "Ninety Eight (98)": {},
-  "Custom Cruiser": {
-    "CUSTOM CRUISER WAGON": {
-      "years": [
-        1985,
-        1986,
-        1987,
-        1988,
-        1989,
-        1990
-      ]
-    }
-  },
-  "Toronado": {
-    "TORONADO": {
-      "years": [
-        1981
-      ]
-    },
-    "TORONADO BROUGHAM": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "TORONADO BROUGHAM 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "TORONADO BASE/TROFEO 2 DR COUPE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "TORONADO BASE/TROFEO 2DR COUPE": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    }
-  },
-  "Cutlass Calais": {
-    "CUTLASS CALAIS 2 DR": {
-      "years": [
-        1982
-      ]
-    },
-    "CUTLASS CALAIS 2 DR COUPE": {
-      "years": [
-        1988
-      ]
-    },
-    "CUTLASS CALAIS BASE/SL 4 DR SEDAN": {
-      "years": [
-        1988
-      ]
-    },
-    "CUTLASS CALAIS INT'L SERIES 2DR COUPE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "CUTLASS CALAIS INT'L SERIES 4DR SEDAN": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "CUTLASS CALAIS S 2 DR COUPE": {
-      "years": [
-        1989
-      ]
-    },
-    "CUTLASS CALAIS S/SL 4 DR SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "CUTLASS CALAIS S/INTERNAT'L SERIES COUPE": {
-      "years": [
-        1990
-      ]
-    },
-    "CUTLASS CALAIS S/SL 4DR SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "CUTLASS CALAIS S/INT'L SER/QUAD442 COUPE": {
-      "years": [
-        1991,
-        1992
-      ]
-    },
-    "CUTLASS CALAIS S/SL/INT'L SER 4DR SEDAN": {
-      "years": [
-        1991,
-        1992
-      ]
-    }
-  },
-  "Firenza": {
-    "FIRENZA 2 DR": {
-      "years": [
-        1982
-      ]
-    },
-    "FIRENZA 4 DR": {
-      "years": [
-        1982
-      ]
-    },
-    "FIRENZA (BASE) SEDAN 4 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "FIRENZA (BASE) WAGON": {
-      "years": [
-        1985
-      ]
-    },
-    "FIRENZA 4 DR LX SEDAN": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "FIRENZA LX CRUISER WAGON": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "FIRENZA S COUPE HB": {
-      "years": [
-        1985
-      ]
-    },
-    "FIRENZA SX COUPE HB": {
-      "years": [
-        1985
-      ]
-    },
-    "FIRENZA COUPE BASE": {
-      "years": [
-        1986
-      ]
-    },
-    "FIRENZA LC COUPE": {
-      "years": [
-        1986
-      ]
-    },
-    "FIRENZA S/GT HATCHBACK (2-DR)": {
-      "years": [
-        1986
-      ]
-    },
-    "FIRENZA 2 DR COUPE": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "FIRENZA 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "FIRENZA CRUISER WAGON": {
-      "years": [
-        1987
-      ]
-    },
-    "FIRENZA GT 2 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "FIRENZA LC 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "FIRENZA LX 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "FIRENZA S 2 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "FIRENZA WAGON": {
-      "years": [
-        1988
-      ]
-    }
-  },
-  "Omega": {
-    "OMEGA 2 DR CP": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "OMEGA 4 DR SD": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "OMEGA BROUGH. 2 DR CP": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "OMEGA BROUGH. 4 DR SD": {
-      "years": [
-        1981,
-        1982
-      ]
-    }
-  },
-  "Cutlass Ciera": {
-    "CUTLASS CIERA": {
-      "years": [
-        1982
-      ]
-    },
-    "CUTLASS CIERA BROUGHAM COUPE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CUTLASS CIERA BROUGHAM SEDAN": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CUTLASS CIERA LS SEDAN 4 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CUTLASS CIERA WAGON": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "CUTLASS CIERA 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "CUTLASS CIERA BROUGHAM 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "CUTLASS CIERA GT 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "CUTLASS CIERA GT 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "CUTLASS CIERA S 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "CUTLASS CIERA SL 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "CUTLASS CIERA 2 DR COUPE": {
-      "years": [
-        1988
-      ]
-    },
-    "CUTLASS CIERA BASE/BROUGHAM 4 DR SEDAN": {
-      "years": [
-        1988
-      ]
-    },
-    "CUTLASS CIERA INT'L SERIES 2DR COUPE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "CUTLASS CIERA INT'L SERIES 4DR SEDAN": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "CUTLASS CIERA BASE 2 DR COUPE": {
-      "years": [
-        1989
-      ]
-    },
-    "CUTLASS CIERA BASE 4 DR SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "CUTLASS CIERA BASE/SL 4 DR SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "CUTLASS CIERA INTERNAT'L SERIES SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "CUTLASS CIERA S/SL 4 DR SEDAN": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "CUTLASS CIERA 4DR SEDAN S/SL": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "CUTLASS CIERA 4DR WAGON S/SL": {
-      "years": [
-        1996
-      ]
-    }
-  },
   "Delta 88": {
     "DELTA 88 4 DR SD": {
       "years": [
@@ -860,50 +650,229 @@
       ]
     }
   },
-  "Cutlass Cruiser": {
-    "CUTLASS CRUISER WAGON": {
+  "Eighty Eight (88)": {},
+  "Firenza": {
+    "FIRENZA 2 DR": {
       "years": [
-        1982,
+        1982
+      ]
+    },
+    "FIRENZA 4 DR": {
+      "years": [
+        1982
+      ]
+    },
+    "FIRENZA (BASE) SEDAN 4 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "FIRENZA (BASE) WAGON": {
+      "years": [
+        1985
+      ]
+    },
+    "FIRENZA 4 DR LX SEDAN": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "FIRENZA LX CRUISER WAGON": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "FIRENZA S COUPE HB": {
+      "years": [
+        1985
+      ]
+    },
+    "FIRENZA SX COUPE HB": {
+      "years": [
+        1985
+      ]
+    },
+    "FIRENZA COUPE BASE": {
+      "years": [
+        1986
+      ]
+    },
+    "FIRENZA LC COUPE": {
+      "years": [
+        1986
+      ]
+    },
+    "FIRENZA S/GT HATCHBACK (2-DR)": {
+      "years": [
+        1986
+      ]
+    },
+    "FIRENZA 2 DR COUPE": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "FIRENZA 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "FIRENZA CRUISER WAGON": {
+      "years": [
         1987
       ]
     },
-    "CUTLASS CRUISER BROUGHAM WAGON": {
+    "FIRENZA GT 2 DR HATCHBACK": {
       "years": [
         1987
       ]
     },
-    "CUTLASS CRUISER BASE/BROUGHAM WAGON": {
+    "FIRENZA LC 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "FIRENZA LX 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "FIRENZA S 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "FIRENZA WAGON": {
+      "years": [
+        1988
+      ]
+    }
+  },
+  "Intrigue": {
+    "INTRIGUE 4DR SEDAN BASE/GL": {
+      "years": [
+        1998
+      ]
+    },
+    "INTRIGUE 4DR SEDAN GX/GL/GLS": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    }
+  },
+  "LSS": {
+    "88 ROYALE 4DR SEDAN BASE/LS/LSS": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "88 4DR SEDAN BASE/LS/LSS": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    }
+  },
+  "Ninety Eight (98)": {},
+  "Omega": {
+    "OMEGA 2 DR CP": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "OMEGA 4 DR SD": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "OMEGA BROUGH. 2 DR CP": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "OMEGA BROUGH. 4 DR SD": {
+      "years": [
+        1981,
+        1982
+      ]
+    }
+  },
+  "Regency": {
+    "98 REGENCY COUPE": {
+      "years": [
+        1985
+      ]
+    },
+    "NINETY-EIGHT REGENCY SEDAN": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "98 REGENCY COUPE (BASE)": {
+      "years": [
+        1986
+      ]
+    },
+    "NINETY-EIGHT REGENCY 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "NINETY-EIGHT REGENCY BROUGHAM 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "NINETY EIGHT REGENCY TOURING SEDAN": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "NINETY-EIGHT REGENCY BROUGHAM 4 DR SEDAN": {
       "years": [
         1988
       ]
     },
-    "CUTLASS CRUISER BASE/SL WAGON": {
+    "NINETY-EIGHT REGENCY BROUGHAM 4 DR": {
       "years": [
-        1989,
-        1990,
+        1989
+      ]
+    },
+    "98 REGENCY BROUGHAM/TOURING 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "98 REGENCY ELITE/TOURING 4DR SEDAN": {
+      "years": [
         1991,
         1992,
         1993
       ]
     },
-    "CUTLASS CRUISER 4DR WAGON S/SL": {
+    "98 REGENCY 4DR SEDAN ELITE": {
       "years": [
         1994,
-        1995
-      ]
-    }
-  },
-  "Cutlass Salon": {},
-  "Bravada": {
-    "BRAVADA 4DR SUV": {
-      "years": [
-        2002
-      ]
-    },
-    "BRAVADA 4DR SUV AWD": {
-      "years": [
-        2003,
-        2004
+        1995,
+        1996
       ]
     }
   },
@@ -931,6 +900,37 @@
     "SILHOUETTE GL/GLS/PREMIERE EDITION": {
       "years": [
         2004
+      ]
+    }
+  },
+  "Toronado": {
+    "TORONADO": {
+      "years": [
+        1981
+      ]
+    },
+    "TORONADO BROUGHAM": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "TORONADO BROUGHAM 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "TORONADO BASE/TROFEO 2 DR COUPE": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "TORONADO BASE/TROFEO 2DR COUPE": {
+      "years": [
+        1990,
+        1991,
+        1992
       ]
     }
   }

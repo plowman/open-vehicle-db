@@ -13,15 +13,6 @@
       ]
     }
   },
-  "Sky": {
-    "SKY 2DR CONV RWD /REDLINE": {
-      "years": [
-        2007,
-        2008,
-        2009
-      ]
-    }
-  },
   "Aura": {
     "AURA 4DR SEDAN FWD /XE/GREEN LINE": {
       "years": [
@@ -77,6 +68,18 @@
       ]
     }
   },
+  "L200": {
+    "L100/L200 4DR SEDAN": {
+      "years": [
+        2002
+      ]
+    },
+    "L200 4DR SEDAN": {
+      "years": [
+        2003
+      ]
+    }
+  },
   "L300": {
     "L300 4DR SEDAN V6": {
       "years": [
@@ -107,15 +110,143 @@
       ]
     }
   },
-  "L200": {
-    "L100/L200 4DR SEDAN": {
+  "LS": {
+    "LS/LS1 4DR SEDAN": {
       "years": [
-        2002
+        2000
       ]
     },
-    "L200 4DR SEDAN": {
+    "LS300 4DR SEDAN V6": {
       "years": [
+        2001
+      ]
+    }
+  },
+  "LS1": {
+    "LS100/LS200 4DR SEDAN": {
+      "years": [
+        2001
+      ]
+    }
+  },
+  "LS2": {
+    "LS2 4DR SEDAN": {
+      "years": [
+        2000
+      ]
+    }
+  },
+  "LW1": {
+    "LW1 4DR WAGON": {
+      "years": [
+        2000
+      ]
+    }
+  },
+  "LW2": {
+    "LW2 4DR WAGON": {
+      "years": [
+        2000
+      ]
+    }
+  },
+  "LW200": {
+    "LW200 4DR WAGON": {
+      "years": [
+        2001,
+        2002,
         2003
+      ]
+    }
+  },
+  "LW300": {
+    "LW300 4DR WAGON V6": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    }
+  },
+  "Outlook": {
+    "OUTLOOK 4DR SUV FWD XE/XR": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ]
+    }
+  },
+  "Relay": {
+    "RELAY 2 FWD 4DR MINIVAN": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "RELAY 3 AWD 4DR MINIVAN": {
+      "years": [
+        2005,
+        2006,
+        2009
+      ]
+    },
+    "RELAY 3 FWD 4DR MINIVAN": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    }
+  },
+  "SC1": {
+    "SC1 2DR COUPE": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "SC1/SC2 2DR COUPE": {
+      "years": [
+        1997,
+        1998
+      ]
+    },
+    "SC1 2DR/3DR COUPE": {
+      "years": [
+        1999
+      ]
+    },
+    "SC1/SC2 3DR COUPE": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    }
+  },
+  "SC2": {
+    "SATURN SC1/SC2 2DR COUPE": {
+      "years": [
+        1993
+      ]
+    },
+    "SC2 2DR COUPE SPORT (HIDDEN HEADLIGHTS)": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "SC2 2DR/3DR COUPE": {
+      "years": [
+        1999
       ]
     }
   },
@@ -177,64 +308,7 @@
       ]
     }
   },
-  "SC1": {
-    "SATURN SC1/SC2 2DR COUPE": {
-      "years": [
-        1993
-      ]
-    },
-    "SC1 2DR COUPE": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "SC1/SC2 2DR COUPE": {
-      "years": [
-        1997,
-        1998
-      ]
-    },
-    "SC1 2DR/3DR COUPE": {
-      "years": [
-        1999
-      ]
-    },
-    "SC1/SC2 3DR COUPE": {
-      "years": [
-        2000,
-        2001,
-        2002
-      ]
-    }
-  },
-  "SC2": {
-    "SC2 2DR COUPE SPORT (HIDDEN HEADLIGHTS)": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "SC2 2DR/3DR COUPE": {
-      "years": [
-        1999
-      ]
-    }
-  },
-  "LS": {
-    "LS/LS1 4DR SEDAN": {
-      "years": [
-        2000
-      ]
-    },
-    "LS300 4DR SEDAN V6": {
-      "years": [
-        2001
-      ]
-    }
-  },
+  "SL3": {},
   "SW1": {
     "SATURN SW1/SW2 4DR WAGON": {
       "years": [
@@ -266,53 +340,15 @@
       ]
     }
   },
-  "LS1": {
-    "LS100/LS200 4DR SEDAN": {
+  "Sky": {
+    "SKY 2DR CONV RWD /REDLINE": {
       "years": [
-        2001
+        2007,
+        2008,
+        2009
       ]
     }
   },
-  "LS2": {
-    "LS2 4DR SEDAN": {
-      "years": [
-        2000
-      ]
-    }
-  },
-  "LW2": {
-    "LW2 4DR WAGON": {
-      "years": [
-        2000
-      ]
-    }
-  },
-  "LW1": {
-    "LW1 4DR WAGON": {
-      "years": [
-        2000
-      ]
-    }
-  },
-  "LW200": {
-    "LW200 4DR WAGON": {
-      "years": [
-        2001,
-        2002,
-        2003
-      ]
-    }
-  },
-  "LW300": {
-    "LW300 4DR WAGON V6": {
-      "years": [
-        2001,
-        2002,
-        2003
-      ]
-    }
-  },
-  "SL3": {},
   "Vue": {
     "VUE 4DR SUV AWD": {
       "years": [
@@ -374,42 +410,6 @@
     },
     "VUE 2-MODE HYBRID 4DR CUV FWD": {
       "years": [
-        2009
-      ]
-    }
-  },
-  "Outlook": {
-    "OUTLOOK 4DR SUV FWD XE/XR": {
-      "years": [
-        2007,
-        2008,
-        2009
-      ]
-    }
-  },
-  "Relay": {
-    "RELAY 2 FWD 4DR MINIVAN": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "RELAY 3 AWD 4DR MINIVAN": {
-      "years": [
-        2005,
-        2006,
-        2009
-      ]
-    },
-    "RELAY 3 FWD 4DR MINIVAN": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
         2009
       ]
     }

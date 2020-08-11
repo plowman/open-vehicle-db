@@ -1,4 +1,31 @@
 {
+  "718": {
+    "718 BOXSTER BASE/S 2DR CONVERTIBLE": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "718 CAYMAN BASE/S 2DR COUPE RWD": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "718 BOXSTER GTS 2DR CONVERTIBLE": {
+      "years": [
+        2019
+      ]
+    },
+    "718 CAYMAN GTS 2DR COUPE RWD": {
+      "years": [
+        2019
+      ]
+    }
+  },
   "911": {
     "911SC": {
       "years": [
@@ -604,6 +631,157 @@
       ]
     }
   },
+  "918": {
+    "918 SPYDER/WEISSACH PACKAGE": {
+      "years": [
+        2014,
+        2015,
+        2016
+      ]
+    }
+  },
+  "924": {
+    "924": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "924 TURBO": {
+      "years": [
+        1981
+      ]
+    },
+    "924S 2 DR HATCHBACK": {
+      "years": [
+        1987,
+        1988
+      ]
+    }
+  },
+  "928": {
+    "928": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "928S": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "928 S4 2 DR HATCHBACK": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "928 S4 COUPE": {
+      "years": [
+        1989
+      ]
+    },
+    "928 S4/GT 2DR COUPE": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "928 GTS 2DR COUPE": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "928 COUPE GTS": {
+      "years": [
+        1994,
+        1995
+      ]
+    }
+  },
+  "944": {
+    "944": {
+      "years": [
+        1982,
+        1985,
+        1986
+      ]
+    },
+    "944 TURBO": {
+      "years": [
+        1986
+      ]
+    },
+    "944 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "944 TURBO 2 DR HATCHBACK": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "944S 2 DR HATCHBACK": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "944 COUPE": {
+      "years": [
+        1989
+      ]
+    },
+    "944 S2 COUPE": {
+      "years": [
+        1989
+      ]
+    },
+    "944 TURBO COUPE": {
+      "years": [
+        1989
+      ]
+    },
+    "944S2 CABRIOLET": {
+      "years": [
+        1989
+      ]
+    },
+    "944 S2 2DR COUPE/CABRIOLET": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "944 TURBO 2DR COUPE": {
+      "years": [
+        1990
+      ]
+    }
+  },
+  "968": {
+    "968 CABRIOLET": {
+      "years": [
+        1992,
+        1993,
+        1994,
+        1995
+      ]
+    },
+    "968 COUPE": {
+      "years": [
+        1992,
+        1993,
+        1994,
+        1995
+      ]
+    }
+  },
   "Boxster": {
     "BOXSTER CABRIOLET 2.5L": {
       "years": [
@@ -656,6 +834,31 @@
     "BOXSTER GTS 2DR CONVERTIBLE": {
       "years": [
         2015
+      ]
+    }
+  },
+  "Boxster S": {
+    "BOXSTER S CABRIOLET 3.2L": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "BOXSTER S 2DR CONVERTIBLE RWD": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "BOXSTER SPYDER 2DR CONVERTIBLE RWD": {
+      "years": [
+        2011
       ]
     }
   },
@@ -837,6 +1040,30 @@
     "CAYMAN GT4 2DR COUPE RWD": {
       "years": [
         2016
+      ]
+    }
+  },
+  "Macan": {
+    "MACAN S 4DR SUV AWD": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "MACAN TURBO 4DR SUV AWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "MACAN 4DR SUV AWD": {
+      "years": [
+        2017,
+        2018,
+        2019
       ]
     }
   },
@@ -1074,233 +1301,6 @@
     },
     "PANAMERA TURBO S E-HYBRID EXECUTIVE 4DR SEDAN": {
       "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "918": {
-    "918 SPYDER/WEISSACH PACKAGE": {
-      "years": [
-        2014,
-        2015,
-        2016
-      ]
-    }
-  },
-  "944": {
-    "944": {
-      "years": [
-        1982,
-        1985,
-        1986
-      ]
-    },
-    "944 TURBO": {
-      "years": [
-        1986
-      ]
-    },
-    "944 2 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "944 TURBO 2 DR HATCHBACK": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "944S 2 DR HATCHBACK": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "944 COUPE": {
-      "years": [
-        1989
-      ]
-    },
-    "944 S2 COUPE": {
-      "years": [
-        1989
-      ]
-    },
-    "944 TURBO COUPE": {
-      "years": [
-        1989
-      ]
-    },
-    "944S2 CABRIOLET": {
-      "years": [
-        1989
-      ]
-    },
-    "944 S2 2DR COUPE/CABRIOLET": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "944 TURBO 2DR COUPE": {
-      "years": [
-        1990
-      ]
-    }
-  },
-  "928": {
-    "928": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "928S": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "928 S4 2 DR HATCHBACK": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "928 S4 COUPE": {
-      "years": [
-        1989
-      ]
-    },
-    "928 S4/GT 2DR COUPE": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "928 GTS 2DR COUPE": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "928 COUPE GTS": {
-      "years": [
-        1994,
-        1995
-      ]
-    }
-  },
-  "924": {
-    "924": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "924 TURBO": {
-      "years": [
-        1981
-      ]
-    },
-    "924S 2 DR HATCHBACK": {
-      "years": [
-        1987,
-        1988
-      ]
-    }
-  },
-  "Boxster S": {
-    "BOXSTER S CABRIOLET 3.2L": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "BOXSTER S 2DR CONVERTIBLE RWD": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "BOXSTER SPYDER 2DR CONVERTIBLE RWD": {
-      "years": [
-        2011
-      ]
-    }
-  },
-  "968": {
-    "968 CABRIOLET": {
-      "years": [
-        1992,
-        1993,
-        1994,
-        1995
-      ]
-    },
-    "968 COUPE": {
-      "years": [
-        1992,
-        1993,
-        1994,
-        1995
-      ]
-    }
-  },
-  "718": {
-    "718 BOXSTER BASE/S 2DR CONVERTIBLE": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "718 CAYMAN BASE/S 2DR COUPE RWD": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "718 BOXSTER GTS 2DR CONVERTIBLE": {
-      "years": [
-        2019
-      ]
-    },
-    "718 CAYMAN GTS 2DR COUPE RWD": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "Macan": {
-    "MACAN S 4DR SUV AWD": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "MACAN TURBO 4DR SUV AWD": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "MACAN 4DR SUV AWD": {
-      "years": [
-        2017,
         2018,
         2019
       ]

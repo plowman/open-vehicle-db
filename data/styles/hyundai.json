@@ -1,4 +1,427 @@
 {
+  "Accent": {
+    "ACCENT 2DR HATCHBACK L/GL": {
+      "years": [
+        1995
+      ]
+    },
+    "ACCENT 4DR SEDAN L/GL": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "ACCENT 2DR HATCHBACK L/GL/GT": {
+      "years": [
+        1996,
+        1997
+      ]
+    },
+    "ACCENT 2DR HATCHBACK L/GS": {
+      "years": [
+        1998
+      ]
+    },
+    "ACCENT 2DR HATCHBACK L/GSi": {
+      "years": [
+        1999
+      ]
+    },
+    "ACCENT 4DR SEDAN GL": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "ACCENT 2DR HATCHBACK GS/GSi": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "ACCENT 5 4DR HATCH FWD": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "ACCENT GL 4DR SEDAN FWD": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "ACCENT GS/GSi 2DR HATCHBACK": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "ACCENT GLS 4DR SEDAN FWD": {
+      "years": [
+        2006
+      ]
+    },
+    "ACCENT 2DR HATCHBACK GS/COMFORT/SPORT/PREMIUM": {
+      "years": [
+        2007
+      ]
+    },
+    "ACCENT 4DR SEDAN FWD GL/COMFORT": {
+      "years": [
+        2007
+      ]
+    },
+    "ACCENT 4DR SEDAN FWD GLS": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "ACCENT 2DR HATCHBACK L/GL/SPORT/SR": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "ACCENT 4DR SEDAN FWD L/GL": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "ACCENT 2DR HATCHBACK L/GL/SPORT": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "ACCENT 4DR SEDAN FWD L/GL/GLS": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "ACCENT 4DR HATCHBACK L/GL/GLS (auto)": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "ACCENT 4DR HATCHBACK L/GL/GLS (manual)": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016
+      ]
+    },
+    "ACCENT 4DR SEDAN L/GL (manual)": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "ACCENT 4DR SEDAN L/GL/GLS (auto)": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "ACCENT 4DR HATCHBACK GL/GLS (auto)": {
+      "years": [
+        2014
+      ]
+    },
+    "ACCENT 4DR SEDAN GL/GLS (auto)": {
+      "years": [
+        2014
+      ]
+    },
+    "ACCENT 4DR SEDAN L (manual)": {
+      "years": [
+        2014,
+        2015,
+        2016
+      ]
+    },
+    "ACCENT 4DR HATCHBACK GL/SE/GLS (auto)": {
+      "years": [
+        2015
+      ]
+    },
+    "ACCENT 4DR SEDAN GL/SE/GLS (auto)": {
+      "years": [
+        2015
+      ]
+    },
+    "ACCENT 4DR HATCHBACK LE/GL/SE/GLS (auto)": {
+      "years": [
+        2016
+      ]
+    },
+    "ACCENT 4DR SEDAN LE/GL/SE/GLS (auto)": {
+      "years": [
+        2016
+      ]
+    },
+    "ACCENT 4DR HATCHBACK (auto)": {
+      "years": [
+        2017
+      ]
+    },
+    "ACCENT 4DR HATCHBACK (manual)": {
+      "years": [
+        2017
+      ]
+    },
+    "ACCENT 4DR SEDAN (auto)": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "ACCENT 4DR SEDAN (manual)": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "ACCENT 5DR HATCH": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "Azera": {
+    "AZERA 4DR SEDAN FWD": {
+      "years": [
+        2006
+      ]
+    },
+    "AZERA 4DR SEDAN FWD GLS/LIMITED": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ]
+    }
+  },
+  "Elantra": {
+    "ELANTRA GL/GLS 4DR SEDAN": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "ELANTRA 4DR SEDAN GL/GLS": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "ELANTRA 4DR WAGON GL/GLS": {
+      "years": [
+        1996,
+        1997
+      ]
+    },
+    "ELANTRA 4DR SEDAN GL": {
+      "years": [
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "ELANTRA 4DR SEDAN GLS": {
+      "years": [
+        1998,
+        1999
+      ]
+    },
+    "ELANTRA 4DR WAGON GL": {
+      "years": [
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "ELANTRA 4DR WAGON GLS": {
+      "years": [
+        1998,
+        1999
+      ]
+    },
+    "ELANTRA 4DR SEDAN VE": {
+      "years": [
+        2000
+      ]
+    },
+    "ELANTRA 4DR WAGON VE": {
+      "years": [
+        2000
+      ]
+    },
+    "ELANTRA 4DR SEDAN GL/VE": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "ELANTRA 4DR SEDAN FWD /GL": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "ELANTRA 4DR SEDAN FWD /VE": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "ELANTRA 4DR HATCH FWD /GL/VE/GT": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "ELANTRA 4DR SEDAN FWD GL/COMFORT/COMFORT PLUS": {
+      "years": [
+        2007
+      ]
+    },
+    "ELANTRA 4DR SEDAN FWD GLS/SE": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "ELANTRA 4DR SEDAN FWD L/GL/GLS/LIMITED": {
+      "years": [
+        2010
+      ]
+    },
+    "ELANTRA 4 DR SEDAN AUTO L/GL/GLS/LIMITED": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "ELANTRA 4 DR SEDAN MANUAL L/GL/GLS": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "ELANTRA COUPE 2DR GLS/SE": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "ELANTRA 4DR SEDAN L/GL/GLS/LIMITED": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "ELANTRA 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Elantra GT": {
+    "ELANTRA GT": {
+      "years": [
+        2003,
+        2004
+      ]
+    },
+    "ELANTRA GT 5DR GL/GLS/SE": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "ELANTRA GT 5DR HATCHBACK": {
+      "years": [
+        2016,
+        2017,
+        2019
+      ]
+    },
+    "ELANTRA GT 1.6T 5DR HATCHBACK": {
+      "years": [
+        2018
+      ]
+    },
+    "ELANTRA GT 2.0L 5DR HATCHBACK": {
+      "years": [
+        2018
+      ]
+    }
+  },
+  "Elantra Touring": {
+    "ELANTRA TOURING 5DR HATCH FWD": {
+      "years": [
+        2009
+      ]
+    },
+    "ELANTRA TOURING 5DR HATCH FWD GL/GLS": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "ELANTRA TOURING 5DR HATCH FWD L": {
+      "years": [
+        2010,
+        2011
+      ]
+    }
+  },
+  "Entourage": {
+    "ENTOURAGE 4DR VAN FWD GL/COMFORT/GLS/GLS PREM": {
+      "years": [
+        2007
+      ]
+    },
+    "ENTOURAGE 4DR VAN FWD L/GL/GLS/LIMITED": {
+      "years": [
+        2008,
+        2009
+      ]
+    }
+  },
   "Equus": {
     "EQUUS 4 DR SEDAN SIGNATURE/ULTIMATE": {
       "years": [
@@ -12,6 +435,262 @@
       "years": [
         2015,
         2016
+      ]
+    }
+  },
+  "Excel": {
+    "EXCEL GL/GLS": {
+      "years": [
+        1986
+      ]
+    },
+    "EXCEL GL/GLS 4 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "EXCEL GL/GLS 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "EXCEL L/GL 2 DR HATCHBACK": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "EXCEL L/GL/GLS 4 DR HATCHBACK": {
+      "years": [
+        1988
+      ]
+    },
+    "EXCEL CX/CXL 4 DR SEDAN": {
+      "years": [
+        1989
+      ]
+    },
+    "EXCEL CX/CXL 4DR HATCHBACK": {
+      "years": [
+        1989,
+        1990,
+        1991
+      ]
+    },
+    "EXCEL L/CX 2 DR HATCHBACK": {
+      "years": [
+        1989
+      ]
+    },
+    "EXCEL BASIC/L/CX 2DR HATCHBACK": {
+      "years": [
+        1990
+      ]
+    },
+    "EXCEL CX/CXL 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "EXCEL BASE/L/CX 2DR HATCHBACK": {
+      "years": [
+        1991
+      ]
+    },
+    "EXCEL L/CX/CXL 2DR HATCHBACK": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "EXCEL 2DR HATCHBACK CX/CXL": {
+      "years": [
+        1994
+      ]
+    },
+    "EXCEL 4DR SEDAN CX/CXL": {
+      "years": [
+        1994
+      ]
+    }
+  },
+  "Genesis": {
+    "GENESIS 2DR COUPE RWD 2.0T/3.8": {
+      "years": [
+        2009
+      ]
+    },
+    "GENESIS 4DR SEDAN RWD 3.8/4.6": {
+      "years": [
+        2009
+      ]
+    },
+    "GENESIS 2DR COUPE RWD 2.0T": {
+      "years": [
+        2010
+      ]
+    },
+    "GENESIS 2DR COUPE RWD 3.8": {
+      "years": [
+        2010
+      ]
+    },
+    "GENESIS 4DR SEDAN RWD 3.8": {
+      "years": [
+        2010
+      ]
+    },
+    "GENESIS 4DR SEDAN RWD 4.6": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "GENESIS 2DR COUPE RWD 2.0T/2.0T PREMIUM/2.0T": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "GENESIS 2DR COUPE RWD 3.8/3.8 GT": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "GENESIS 4DR SEDAN RWD 3.8/3.8 PREMIUM/3.8 TEC": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "GENESIS  2DR COUPE RWD 2.0T/2.0T PREMIUM/2.0T": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "GENESIS 2DR COUPE RWD 3.8 GT": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016
+      ]
+    },
+    "GENESIS 4DR SEDAN RWD 5.0L R-SPEC": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "GENESIS 4DR SEDAN AWD 3.8 PREMIUM/3.8 LUX/3.8": {
+      "years": [
+        2015
+      ]
+    },
+    "GENESIS 4DR SEDAN AWD 5.0 ULTIMATE": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "GENESIS 4DR SEDAN AWD 3.8 PREMIUM/3.8 LUX/3.8 TEC": {
+      "years": [
+        2016
+      ]
+    }
+  },
+  "Genesis Coupe": {},
+  "Ioniq": {
+    "IONIQ 4DR HATCH": {
+      "years": [
+        2017,
+        2018
+      ]
+    },
+    "IONIQ HYBRID ESSENTIAL 4DR HATCH": {
+      "years": [
+        2019
+      ]
+    },
+    "IONIQ HYBRID PREFERRED/LUXURY4DR HATCH": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "Kona": {
+    "KONA 1.6T AWD 4DR SUV": {
+      "years": [
+        2018
+      ]
+    },
+    "KONA 2.0 AWD 4DR SUV": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "KONA 2.0 FWD 4DR SUV": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "Kona Electric": {
+    "KONA ELECTRIC 4DR SUV": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "Nexo": {
+    "NEXO 4DR SUV": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "Palisade": {
+    "PALISADE 4DR SUV": {
+      "years": [
+        2020
+      ]
+    }
+  },
+  "Pony": {
+    "PONY GL": {
+      "years": [
+        1986
+      ]
+    },
+    "PONY GLS": {
+      "years": [
+        1986
+      ]
+    },
+    "PONY L": {
+      "years": [
+        1986
+      ]
+    },
+    "PONY CX 1.6 4 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "PONY L 1.4 4 DR HATCHBACK": {
+      "years": [
+        1987
       ]
     }
   },
@@ -141,127 +820,80 @@
       ]
     }
   },
-  "Tucson": {
-    "TUCSON 4DR SUV AWD GLS": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "TUCSON 4DR SUV FWD GL": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "TUCSON 4DR SUV FWD GL V6/GLS": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "TUCSON 4DR SUV GLS FWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "TUCSON 4DR SUV SE/LIMITED AWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "TUCSON 4DR SUV SE/LIMITED FWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "TUCSON 4DR SUV AWD GL/GLS/LIMITED": {
-      "years": [
-        2010
-      ]
-    },
-    "TUCSON 4DR SUV FWD GL/GLS": {
-      "years": [
-        2010
-      ]
-    },
-    "TUCSON 4DR SUV AWD GL": {
-      "years": [
-        2011,
-        2012,
-        2014,
-        2015
-      ]
-    },
-    "TUCSON 4DR SUV AWD GLS/LIMITED": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "TUCSON 4DR SUV FWD GLS": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "TUCSON 4DR SUV FWD L/GL": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "TUCSON 4DR SUV AWD GL/PREMIUM": {
+  "Santa Fe Sport": {
+    "SANTA FE SPORT 2.4L LUXURY/2.0T PREMIUM/2.0T": {
       "years": [
         2013
       ]
     },
-    "TUCSON 4DR SUV FWD L/GL/PTRMIUM": {
+    "SANTA FE SPORT 2.4L/2.4L PREMIUM/2.0T PREMIUM": {
       "years": [
         2013
       ]
     },
-    "TUCSON 4DR SUV FWD GL (manual)": {
+    "SANTA FE SPORT AWD 2.4L PREMIUM/2.4L LUXURY/2": {
       "years": [
         2014,
         2015
       ]
     },
-    "TUCSON 4DR SUV FWD GLS (auto)": {
+    "SANTA FE SPORT FWD 2.4L/2.4L PREMIUM/2.0T": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "SANTA FE SPORT AWD 4DR SUV": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "SANTA FE SPORT FWD 4DR SUV": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    }
+  },
+  "Santa Fe XL": {
+    "SANTA FE XL GLS/LIMITED AWD 4DR SUV": {
+      "years": [
+        2013
+      ]
+    },
+    "SANTA FE XL GLS/LIMITED FWD 4DR SUV": {
+      "years": [
+        2013
+      ]
+    },
+    "SANTA FE XL  FWD 4DR SUV": {
       "years": [
         2014
       ]
     },
-    "TUCSON 4DR SUV FCEV": {
+    "SANTA FE XL PREMIUM/LUXURY/LIMITED AWD 4DR SU": {
       "years": [
-        2015,
-        2016
+        2014
       ]
     },
-    "TUCSON 4DR SUV FWD GL/GLS (auto)": {
+    "SANTA FE XL AWD 4DR SUV PREMIUM/LUXURY/LIMITE": {
       "years": [
         2015
       ]
     },
-    "TUCSON 4DR SUV AWD": {
+    "SANTA FE XL FWD 4DR SUV": {
       "years": [
+        2015,
         2016,
         2017,
         2018,
         2019
       ]
     },
-    "TUCSON 4DR SUV FWD": {
+    "SANTA FE XL AWD 4DR SUV": {
       "years": [
         2016,
         2017,
@@ -270,60 +902,31 @@
       ]
     }
   },
-  "Veloster": {
-    "VELOSTER 3DR HATCHBACK /TECH PACKAGE (auto)": {
+  "Scoupe": {
+    "S COUPE GL/GLS 2DR": {
       "years": [
-        2012
+        1990
       ]
     },
-    "VELOSTER 3DR HATCHBACK /TECH PACKAGE (manual)": {
+    "S COUPE BASE/LS 2DR": {
       "years": [
-        2012
+        1991,
+        1992,
+        1993
       ]
     },
-    "VELOSTER 3DR HATCHBACK /TECH PACKAGE": {
+    "SCOUPE 2DR COUPE BASE/LS": {
       "years": [
-        2013,
-        2014
+        1994,
+        1995
       ]
     },
-    "VELOSTER TURBO 3DR HATCHBACK": {
+    "SCOUPE 2DR COUPE LS TURBO": {
       "years": [
-        2013,
-        2014,
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "VELOSTER 3DR HATCHBACK /SE/TECH": {
-      "years": [
-        2015
-      ]
-    },
-    "VELOSTER 3DR HATCHBACK": {
-      "years": [
-        2016,
-        2017
-      ]
-    },
-    "VELOSTER 3DR COUPE": {
-      "years": [
-        2019
-      ]
-    },
-    "VELOSTER N 3DR COUPE": {
-      "years": [
-        2019
-      ]
-    },
-    "VELOSTER TURBO 3DR COUPE": {
-      "years": [
-        2019
+        1994
       ]
     }
   },
-  "Genesis Coupe": {},
   "Sonata": {
     "SONATA": {
       "years": [
@@ -533,499 +1136,15 @@
       ]
     }
   },
-  "Elantra": {
-    "ELANTRA GL/GLS 4DR SEDAN": {
+  "Stellar": {
+    "STELLAR SL": {
       "years": [
-        1992,
-        1993
+        1986
       ]
     },
-    "ELANTRA 4DR SEDAN GL/GLS": {
+    "STELLAR CL/CXL 4 DR SEDAN": {
       "years": [
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "ELANTRA 4DR WAGON GL/GLS": {
-      "years": [
-        1996,
-        1997
-      ]
-    },
-    "ELANTRA 4DR SEDAN GL": {
-      "years": [
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "ELANTRA 4DR SEDAN GLS": {
-      "years": [
-        1998,
-        1999
-      ]
-    },
-    "ELANTRA 4DR WAGON GL": {
-      "years": [
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "ELANTRA 4DR WAGON GLS": {
-      "years": [
-        1998,
-        1999
-      ]
-    },
-    "ELANTRA 4DR SEDAN VE": {
-      "years": [
-        2000
-      ]
-    },
-    "ELANTRA 4DR WAGON VE": {
-      "years": [
-        2000
-      ]
-    },
-    "ELANTRA 4DR SEDAN GL/VE": {
-      "years": [
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "ELANTRA 4DR SEDAN FWD /GL": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "ELANTRA 4DR SEDAN FWD /VE": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "ELANTRA 4DR HATCH FWD /GL/VE/GT": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "ELANTRA 4DR SEDAN FWD GL/COMFORT/COMFORT PLUS": {
-      "years": [
-        2007
-      ]
-    },
-    "ELANTRA 4DR SEDAN FWD GLS/SE": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "ELANTRA 4DR SEDAN FWD L/GL/GLS/LIMITED": {
-      "years": [
-        2010
-      ]
-    },
-    "ELANTRA 4 DR SEDAN AUTO L/GL/GLS/LIMITED": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "ELANTRA 4 DR SEDAN MANUAL L/GL/GLS": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "ELANTRA COUPE 2DR GLS/SE": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "ELANTRA 4DR SEDAN L/GL/GLS/LIMITED": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "ELANTRA 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Entourage": {
-    "ENTOURAGE 4DR VAN FWD GL/COMFORT/GLS/GLS PREM": {
-      "years": [
-        2007
-      ]
-    },
-    "ENTOURAGE 4DR VAN FWD L/GL/GLS/LIMITED": {
-      "years": [
-        2008,
-        2009
-      ]
-    }
-  },
-  "Azera": {
-    "AZERA 4DR SEDAN FWD": {
-      "years": [
-        2006
-      ]
-    },
-    "AZERA 4DR SEDAN FWD GLS/LIMITED": {
-      "years": [
-        2007,
-        2008,
-        2009
-      ]
-    }
-  },
-  "Veracruz": {
-    "VERACRUZ GLS/LIMITED": {
-      "years": [
-        2007
-      ]
-    },
-    "VERACRUZ 4DR CUV AWD GLS/LIMITED": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "VERACRUZ 4DR CUV FWD GL": {
-      "years": [
-        2010
-      ]
-    },
-    "VERACRUZ 4DR CUV AWD GL PREMIUM/GLS/LIMITED": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "VERACRUZ 4DR CUV FWD GL/GL PREMIUM": {
-      "years": [
-        2011
-      ]
-    },
-    "VERACRUZ 4DR CUV FWD GL/GLS": {
-      "years": [
-        2012
-      ]
-    }
-  },
-  "Accent": {
-    "ACCENT 2DR HATCHBACK L/GL": {
-      "years": [
-        1995
-      ]
-    },
-    "ACCENT 4DR SEDAN L/GL": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "ACCENT 2DR HATCHBACK L/GL/GT": {
-      "years": [
-        1996,
-        1997
-      ]
-    },
-    "ACCENT 2DR HATCHBACK L/GS": {
-      "years": [
-        1998
-      ]
-    },
-    "ACCENT 2DR HATCHBACK L/GSi": {
-      "years": [
-        1999
-      ]
-    },
-    "ACCENT 4DR SEDAN GL": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "ACCENT 2DR HATCHBACK GS/GSi": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "ACCENT 5 4DR HATCH FWD": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "ACCENT GL 4DR SEDAN FWD": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "ACCENT GS/GSi 2DR HATCHBACK": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "ACCENT GLS 4DR SEDAN FWD": {
-      "years": [
-        2006
-      ]
-    },
-    "ACCENT 2DR HATCHBACK GS/COMFORT/SPORT/PREMIUM": {
-      "years": [
-        2007
-      ]
-    },
-    "ACCENT 4DR SEDAN FWD GL/COMFORT": {
-      "years": [
-        2007
-      ]
-    },
-    "ACCENT 4DR SEDAN FWD GLS": {
-      "years": [
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "ACCENT 2DR HATCHBACK L/GL/SPORT/SR": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "ACCENT 4DR SEDAN FWD L/GL": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "ACCENT 2DR HATCHBACK L/GL/SPORT": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "ACCENT 4DR SEDAN FWD L/GL/GLS": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "ACCENT 4DR HATCHBACK L/GL/GLS (auto)": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "ACCENT 4DR HATCHBACK L/GL/GLS (manual)": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "ACCENT 4DR SEDAN L/GL (manual)": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "ACCENT 4DR SEDAN L/GL/GLS (auto)": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "ACCENT 4DR HATCHBACK GL/GLS (auto)": {
-      "years": [
-        2014
-      ]
-    },
-    "ACCENT 4DR SEDAN GL/GLS (auto)": {
-      "years": [
-        2014
-      ]
-    },
-    "ACCENT 4DR SEDAN L (manual)": {
-      "years": [
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "ACCENT 4DR HATCHBACK GL/SE/GLS (auto)": {
-      "years": [
-        2015
-      ]
-    },
-    "ACCENT 4DR SEDAN GL/SE/GLS (auto)": {
-      "years": [
-        2015
-      ]
-    },
-    "ACCENT 4DR HATCHBACK LE/GL/SE/GLS (auto)": {
-      "years": [
-        2016
-      ]
-    },
-    "ACCENT 4DR SEDAN LE/GL/SE/GLS (auto)": {
-      "years": [
-        2016
-      ]
-    },
-    "ACCENT 4DR HATCHBACK (auto)": {
-      "years": [
-        2017
-      ]
-    },
-    "ACCENT 4DR HATCHBACK (manual)": {
-      "years": [
-        2017
-      ]
-    },
-    "ACCENT 4DR SEDAN (auto)": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "ACCENT 4DR SEDAN (manual)": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "ACCENT 5DR HATCH": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "Genesis": {
-    "GENESIS 2DR COUPE RWD 2.0T/3.8": {
-      "years": [
-        2009
-      ]
-    },
-    "GENESIS 4DR SEDAN RWD 3.8/4.6": {
-      "years": [
-        2009
-      ]
-    },
-    "GENESIS 2DR COUPE RWD 2.0T": {
-      "years": [
-        2010
-      ]
-    },
-    "GENESIS 2DR COUPE RWD 3.8": {
-      "years": [
-        2010
-      ]
-    },
-    "GENESIS 4DR SEDAN RWD 3.8": {
-      "years": [
-        2010
-      ]
-    },
-    "GENESIS 4DR SEDAN RWD 4.6": {
-      "years": [
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "GENESIS 2DR COUPE RWD 2.0T/2.0T PREMIUM/2.0T": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "GENESIS 2DR COUPE RWD 3.8/3.8 GT": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "GENESIS 4DR SEDAN RWD 3.8/3.8 PREMIUM/3.8 TEC": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "GENESIS  2DR COUPE RWD 2.0T/2.0T PREMIUM/2.0T": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "GENESIS 2DR COUPE RWD 3.8 GT": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "GENESIS 4DR SEDAN RWD 5.0L R-SPEC": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "GENESIS 4DR SEDAN AWD 3.8 PREMIUM/3.8 LUX/3.8": {
-      "years": [
-        2015
-      ]
-    },
-    "GENESIS 4DR SEDAN AWD 5.0 ULTIMATE": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "GENESIS 4DR SEDAN AWD 3.8 PREMIUM/3.8 LUX/3.8 TEC": {
-      "years": [
-        2016
+        1987
       ]
     }
   },
@@ -1107,23 +1226,221 @@
       ]
     }
   },
-  "Elantra Touring": {
-    "ELANTRA TOURING 5DR HATCH FWD": {
+  "Tucson": {
+    "TUCSON 4DR SUV AWD GLS": {
       "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "TUCSON 4DR SUV FWD GL": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "TUCSON 4DR SUV FWD GL V6/GLS": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "TUCSON 4DR SUV GLS FWD": {
+      "years": [
+        2008,
         2009
       ]
     },
-    "ELANTRA TOURING 5DR HATCH FWD GL/GLS": {
+    "TUCSON 4DR SUV SE/LIMITED AWD": {
       "years": [
-        2010,
+        2008,
+        2009
+      ]
+    },
+    "TUCSON 4DR SUV SE/LIMITED FWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "TUCSON 4DR SUV AWD GL/GLS/LIMITED": {
+      "years": [
+        2010
+      ]
+    },
+    "TUCSON 4DR SUV FWD GL/GLS": {
+      "years": [
+        2010
+      ]
+    },
+    "TUCSON 4DR SUV AWD GL": {
+      "years": [
+        2011,
+        2012,
+        2014,
+        2015
+      ]
+    },
+    "TUCSON 4DR SUV AWD GLS/LIMITED": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "TUCSON 4DR SUV FWD GLS": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "TUCSON 4DR SUV FWD L/GL": {
+      "years": [
         2011,
         2012
       ]
     },
-    "ELANTRA TOURING 5DR HATCH FWD L": {
+    "TUCSON 4DR SUV AWD GL/PREMIUM": {
       "years": [
-        2010,
+        2013
+      ]
+    },
+    "TUCSON 4DR SUV FWD L/GL/PTRMIUM": {
+      "years": [
+        2013
+      ]
+    },
+    "TUCSON 4DR SUV FWD GL (manual)": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "TUCSON 4DR SUV FWD GLS (auto)": {
+      "years": [
+        2014
+      ]
+    },
+    "TUCSON 4DR SUV FCEV": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "TUCSON 4DR SUV FWD GL/GLS (auto)": {
+      "years": [
+        2015
+      ]
+    },
+    "TUCSON 4DR SUV AWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "TUCSON 4DR SUV FWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Veloster": {
+    "VELOSTER 3DR HATCHBACK /TECH PACKAGE (auto)": {
+      "years": [
+        2012
+      ]
+    },
+    "VELOSTER 3DR HATCHBACK /TECH PACKAGE (manual)": {
+      "years": [
+        2012
+      ]
+    },
+    "VELOSTER 3DR HATCHBACK /TECH PACKAGE": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "VELOSTER TURBO 3DR HATCHBACK": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "VELOSTER 3DR HATCHBACK /SE/TECH": {
+      "years": [
+        2015
+      ]
+    },
+    "VELOSTER 3DR HATCHBACK": {
+      "years": [
+        2016,
+        2017
+      ]
+    },
+    "VELOSTER 3DR COUPE": {
+      "years": [
+        2019
+      ]
+    },
+    "VELOSTER N 3DR COUPE": {
+      "years": [
+        2019
+      ]
+    },
+    "VELOSTER TURBO 3DR COUPE": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "Venue": {},
+  "Veracruz": {
+    "VERACRUZ GLS/LIMITED": {
+      "years": [
+        2007
+      ]
+    },
+    "VERACRUZ 4DR CUV AWD GLS/LIMITED": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "VERACRUZ 4DR CUV FWD GL": {
+      "years": [
+        2010
+      ]
+    },
+    "VERACRUZ 4DR CUV AWD GL PREMIUM/GLS/LIMITED": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "VERACRUZ 4DR CUV FWD GL/GL PREMIUM": {
+      "years": [
         2011
+      ]
+    },
+    "VERACRUZ 4DR CUV FWD GL/GLS": {
+      "years": [
+        2012
       ]
     }
   },
@@ -1137,327 +1454,10 @@
       ]
     }
   },
-  "Excel": {
-    "EXCEL GL/GLS": {
-      "years": [
-        1986
-      ]
-    },
-    "EXCEL GL/GLS 4 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "EXCEL GL/GLS 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "EXCEL L/GL 2 DR HATCHBACK": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "EXCEL L/GL/GLS 4 DR HATCHBACK": {
-      "years": [
-        1988
-      ]
-    },
-    "EXCEL CX/CXL 4 DR SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "EXCEL CX/CXL 4DR HATCHBACK": {
-      "years": [
-        1989,
-        1990,
-        1991
-      ]
-    },
-    "EXCEL L/CX 2 DR HATCHBACK": {
-      "years": [
-        1989
-      ]
-    },
-    "EXCEL BASIC/L/CX 2DR HATCHBACK": {
-      "years": [
-        1990
-      ]
-    },
-    "EXCEL CX/CXL 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "EXCEL BASE/L/CX 2DR HATCHBACK": {
-      "years": [
-        1991
-      ]
-    },
-    "EXCEL L/CX/CXL 2DR HATCHBACK": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "EXCEL 2DR HATCHBACK CX/CXL": {
-      "years": [
-        1994
-      ]
-    },
-    "EXCEL 4DR SEDAN CX/CXL": {
-      "years": [
-        1994
-      ]
-    }
-  },
-  "Scoupe": {
-    "S COUPE GL/GLS 2DR": {
-      "years": [
-        1990
-      ]
-    },
-    "S COUPE BASE/LS 2DR": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "SCOUPE 2DR COUPE BASE/LS": {
-      "years": [
-        1994,
-        1995
-      ]
-    },
-    "SCOUPE 2DR COUPE LS TURBO": {
-      "years": [
-        1994
-      ]
-    }
-  },
   "XG300": {
     "XG300 4DR SEDAN": {
       "years": [
         2001
-      ]
-    }
-  },
-  "Elantra GT": {
-    "ELANTRA GT": {
-      "years": [
-        2003,
-        2004
-      ]
-    },
-    "ELANTRA GT 5DR GL/GLS/SE": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "ELANTRA GT 5DR HATCHBACK": {
-      "years": [
-        2016,
-        2017,
-        2019
-      ]
-    },
-    "ELANTRA GT 1.6T 5DR HATCHBACK": {
-      "years": [
-        2018
-      ]
-    },
-    "ELANTRA GT 2.0L 5DR HATCHBACK": {
-      "years": [
-        2018
-      ]
-    }
-  },
-  "Pony": {
-    "PONY GL": {
-      "years": [
-        1986
-      ]
-    },
-    "PONY GLS": {
-      "years": [
-        1986
-      ]
-    },
-    "PONY L": {
-      "years": [
-        1986
-      ]
-    },
-    "PONY CX 1.6 4 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "PONY L 1.4 4 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    }
-  },
-  "Stellar": {
-    "STELLAR SL": {
-      "years": [
-        1986
-      ]
-    },
-    "STELLAR CL/CXL 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    }
-  },
-  "Ioniq": {
-    "IONIQ 4DR HATCH": {
-      "years": [
-        2017,
-        2018
-      ]
-    },
-    "IONIQ HYBRID ESSENTIAL 4DR HATCH": {
-      "years": [
-        2019
-      ]
-    },
-    "IONIQ HYBRID PREFERRED/LUXURY4DR HATCH": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "Venue": {},
-  "Santa Fe Sport": {
-    "SANTA FE SPORT 2.4L LUXURY/2.0T PREMIUM/2.0T": {
-      "years": [
-        2013
-      ]
-    },
-    "SANTA FE SPORT 2.4L/2.4L PREMIUM/2.0T PREMIUM": {
-      "years": [
-        2013
-      ]
-    },
-    "SANTA FE SPORT AWD 2.4L PREMIUM/2.4L LUXURY/2": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "SANTA FE SPORT FWD 2.4L/2.4L PREMIUM/2.0T": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "SANTA FE SPORT AWD 4DR SUV": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "SANTA FE SPORT FWD 4DR SUV": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    }
-  },
-  "Kona": {
-    "KONA 1.6T AWD 4DR SUV": {
-      "years": [
-        2018
-      ]
-    },
-    "KONA 2.0 AWD 4DR SUV": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "KONA 2.0 FWD 4DR SUV": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "Santa Fe XL": {
-    "SANTA FE XL GLS/LIMITED AWD 4DR SUV": {
-      "years": [
-        2013
-      ]
-    },
-    "SANTA FE XL GLS/LIMITED FWD 4DR SUV": {
-      "years": [
-        2013
-      ]
-    },
-    "SANTA FE XL  FWD 4DR SUV": {
-      "years": [
-        2014
-      ]
-    },
-    "SANTA FE XL PREMIUM/LUXURY/LIMITED AWD 4DR SU": {
-      "years": [
-        2014
-      ]
-    },
-    "SANTA FE XL AWD 4DR SUV PREMIUM/LUXURY/LIMITE": {
-      "years": [
-        2015
-      ]
-    },
-    "SANTA FE XL FWD 4DR SUV": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "SANTA FE XL AWD 4DR SUV": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Nexo": {
-    "NEXO 4DR SUV": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "Palisade": {
-    "PALISADE 4DR SUV": {
-      "years": [
-        2020
-      ]
-    }
-  },
-  "Kona Electric": {
-    "KONA ELECTRIC 4DR SUV": {
-      "years": [
-        2019
       ]
     }
   }

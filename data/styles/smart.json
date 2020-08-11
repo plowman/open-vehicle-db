@@ -1,5 +1,5 @@
 {
-  "smart": {},
+  "EQ Fortwo": {},
   "Fortwo": {
     "FORTWO CABRIOLET 2DR CONV /PURE/PULSE/PASSION": {
       "years": [
@@ -66,6 +66,6 @@
       ]
     }
   },
-  "EQ Fortwo": {},
-  "Fortwo Electric Drive": {}
+  "Fortwo Electric Drive": {},
+  "smart": {}
 }

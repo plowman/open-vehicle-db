@@ -1,55 +1,641 @@
 {
-  "Vibe": {
-    "VIBE / BASE": {
+  "6000": {
+    "6000 2 DR CP": {
       "years": [
+        1982
+      ]
+    },
+    "6000 4 DR SD": {
+      "years": [
+        1982
+      ]
+    },
+    "6000 LE 2 DR CP": {
+      "years": [
+        1982
+      ]
+    },
+    "6000 LE 4 DR SD": {
+      "years": [
+        1982
+      ]
+    },
+    "6000 COUPE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "6000 SEDAN (BASE)": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "6000 STE SEDAN": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "6000 WAGON": {
+      "years": [
+        1985,
+        1986,
+        1987
+      ]
+    },
+    "6000 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "6000 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "6000 LE 4DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "6000 LE WAGON": {
+      "years": [
+        1987,
+        1990,
+        1991
+      ]
+    },
+    "6000 SE 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "6000 SE WAGON": {
+      "years": [
+        1987
+      ]
+    },
+    "6000 STE 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "6000 BASE/LE 4 DR SEDAN": {
+      "years": [
+        1988
+      ]
+    },
+    "6000 BASE/LE WAGON": {
+      "years": [
+        1988
+      ]
+    },
+    "6000 S/E/STE 4 DR SEDAN": {
+      "years": [
+        1988
+      ]
+    },
+    "6000 STE ALL WHEEL DRIVE SEDAN": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "6000 SE": {
+      "years": [
+        1989
+      ]
+    },
+    "6000/LE 4 DR SEDAN": {
+      "years": [
+        1989
+      ]
+    },
+    "6000/LE WAGON": {
+      "years": [
+        1989
+      ]
+    },
+    "6000 LE/SE 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    }
+  },
+  "Acadian": {
+    "ACADIAN 2 DR CP": {
+      "years": [
+        1981
+      ]
+    },
+    "ACADIAN 4 DR HATCHBACK": {
+      "years": [
+        1981,
+        1987
+      ]
+    },
+    "ACADIAN S": {
+      "years": [
+        1981
+      ]
+    },
+    "ACADIAN 2 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "ACADIAN 4 DR": {
+      "years": [
+        1985
+      ]
+    },
+    "ACADIAN BASE/LE HATCHBACK (4-DR)": {
+      "years": [
+        1986
+      ]
+    },
+    "ACADIAN 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    }
+  },
+  "Aztek": {
+    "AZTEK 4DR BASE/GT AWD": {
+      "years": [
+        2001
+      ]
+    },
+    "AZTEK 4DR BASE/GT FWD": {
+      "years": [
+        2001
+      ]
+    },
+    "AZTEK 4DR BASE/GT FWD/AWD": {
+      "years": [
+        2002,
         2003,
-        2004
+        2004,
+        2005
       ]
-    },
-    "VIBE / GT": {
+    }
+  },
+  "Bonneville": {
+    "BONNEVILLE BROUGHAM SEDAN": {
       "years": [
-        2003,
-        2004
+        1985
       ]
     },
-    "VIBE/ AWD": {
+    "BONNEVILLE LE SEDAN": {
       "years": [
-        2003,
-        2004
+        1985
       ]
     },
-    "VIBE 4DR WAGON FWD": {
+    "BONNEVILLE SEDAN (BASE)": {
       "years": [
-        2005,
-        2006,
-        2007
+        1985
       ]
     },
-    "VIBE 4DR WAGON FWD / GT": {
+    "BONNEVILLE BASE/LE/BROUGHAM SEDAN": {
       "years": [
-        2005,
-        2006
+        1986
       ]
     },
-    "VIBE4DR WAGON AWD": {
+    "BONNEVILLE 4 DR SEDAN": {
       "years": [
-        2005,
-        2006
+        1987
       ]
     },
-    "VIBE AWD 4DR WAGON AWD": {
+    "BONNEVILLE LE 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "BONNEVILLE SE 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "BONNEVILLE LE/SE/SSE 4 DR SEDAN": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "BONNEVILLE LE/SE/SSE 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "BONNEVILLE SE/SSE/SSEi 4DR SEDAN": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "BONNEVILLE 4DR SEDAN SE": {
+      "years": [
+        1994,
+        1995,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "BONNEVILLE 4DR SEDAN SSE": {
+      "years": [
+        1994
+      ]
+    },
+    "BONNEVILLE 4DR SEDAN SSE/SSEi": {
+      "years": [
+        1995,
+        1999
+      ]
+    },
+    "BONNEVILLE 4DR SEDAN SE/SLE": {
+      "years": [
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "BONNEVILLE 4DR SEDAN SSE/SSEi V6": {
+      "years": [
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "BONNEVILLE 4DR SEDAN SLE/SSEi": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "BONNEVILLE 4DR SEDAN FWD /GXP": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "BONNEVILLE 4DR SEDAN FWD SE/SLE": {
+      "years": [
+        2004,
+        2005
+      ]
+    }
+  },
+  "Catalina": {},
+  "Fiero": {
+    "FIERO 2.4L": {
+      "years": [
+        1985
+      ]
+    },
+    "FIERO GT 2.8L": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "FIERO 2.5L BASE": {
+      "years": [
+        1986
+      ]
+    },
+    "FIERO SE": {
+      "years": [
+        1986
+      ]
+    },
+    "FIERO SPORT": {
+      "years": [
+        1986
+      ]
+    },
+    "FIERO 2 DR COUPE": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "FIERO GT 2 DR COUPE": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "FIERO SE 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "FIERO SPORT 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "FIERO FORMULA 2 DR COUPE": {
+      "years": [
+        1988
+      ]
+    }
+  },
+  "Firebird": {
+    "FIREBIRD 2 DR CP": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "FIREBIRD SE 2 DR CP": {
+      "years": [
+        1982
+      ]
+    },
+    "FIREBIRD TRANS 2 DR CP": {
+      "years": [
+        1982
+      ]
+    },
+    "FIREBIRD (BASE)": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "FIREBIRD SE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "FIREBIRD TRANS AM": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "FIREBIRD 2 DR HATCHBACK": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "FIREBIRD FORMULA 2 DR HATCHBACK": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "FIREBIRD TRANS AM/GTA 2 DR HATCHBACK": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "FIREBIRD TRANS AM/GTA 2 DR NOTCHBACK": {
+      "years": [
+        1989
+      ]
+    },
+    "FIREBIRD BASE/FORMULA HATCHBACK": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "FIREBIRD TRANS AM/TRANS AM GTA HATCHBACK": {
+      "years": [
+        1990
+      ]
+    },
+    "FIREBIRD TRANS AM/GTA HATCHBACK": {
+      "years": [
+        1991
+      ]
+    },
+    "FIREBIRD FORMULA/TRANS AM/GTA HATCHBACK": {
+      "years": [
+        1992
+      ]
+    },
+    "FIREBIRD/TRANS AM CONVERTIBLE": {
+      "years": [
+        1992
+      ]
+    },
+    "FIREBIRD 2DR COUPE": {
+      "years": [
+        1993
+      ]
+    },
+    "FIREBIRD FORMULA 2DR COUPE": {
+      "years": [
+        1993
+      ]
+    },
+    "FIREBIRD TRANS AM 2DR COUPE": {
+      "years": [
+        1993
+      ]
+    },
+    "FIREBIRD 2DR CONVERTIBLE": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "FIREBIRD 2DR CONVERTIBLE FORMULA": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "FIREBIRD 2DR CONVERTIBLE TRANS AM": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "FIREBIRD 2DR HATCHBACK COUPE": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "FIREBIRD 2DR HATCHBACK FORMULA": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "FIREBIRD 2DR HATCHBACK TRANS AM GT": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "FIREBIRD 2DR HATCHBACK TRANS AM": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "FIREBIRD 2DR HATCHBACK BASE/FORMULA": {
+      "years": [
+        2001,
+        2002
+      ]
+    }
+  },
+  "Firefly": {
+    "FIREFLY": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "FIREFLY 2 DR KAMBACK": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "FIREFLY 4 DR KAMBACK": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "FIREFLY TURBO 2 DR KAMBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "FIREFLY BASE/LE 2 DR": {
+      "years": [
+        1989
+      ]
+    },
+    "FIREFLY BASE/LE 4 DR": {
+      "years": [
+        1989
+      ]
+    },
+    "FIREFLY TURBO 2 DR": {
+      "years": [
+        1989
+      ]
+    },
+    "FIREFLY BASE/LE 2DR HATCHBACK": {
+      "years": [
+        1990
+      ]
+    },
+    "FIREFLY BASE/LE 4DR HATCHBACK": {
+      "years": [
+        1990
+      ]
+    },
+    "FIREFLY CONVERTIBLE": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "FIREFLY TURBO 2DR HATCHBACK": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "FIREFLY 2DR HATCHBACK": {
+      "years": [
+        1991,
+        1994,
+        1999,
+        2000
+      ]
+    },
+    "FIREFLY 4DR HATCHBACK": {
+      "years": [
+        1991,
+        1994
+      ]
+    },
+    "FIREFLY 4DR SEDAN": {
+      "years": [
+        1994,
+        1999,
+        2000
+      ]
+    },
+    "FIREFLY 2DR HATCHBACK BASE/SE": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "FIREFLY 4DR SEDAN BASE/SE": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    }
+  },
+  "G3": {
+    "G3 WAVE 4DR HATCH FWD /SE": {
       "years": [
         2009,
         2010
       ]
     },
-    "VIBE BASE 4DR WAGON FWD": {
-      "years": [
-        2009,
-        2010
-      ]
-    },
-    "VIBE GT 4DR WAGON FWD": {
+    "G3 WAVE 4DR SEDAN FWD /SE": {
       "years": [
         2009,
         2010
@@ -74,8 +660,19 @@
       ]
     }
   },
-  "Solstice": {
-    "SOLSTICE 2DR CONV RWD": {
+  "G6": {
+    "G6 4DR SEDAN FWD V6/GT": {
+      "years": [
+        2005
+      ]
+    },
+    "G6 2DR CONV FWD GT/GTP": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "G6 2DR COUPE FWD GT/GTP": {
       "years": [
         2006,
         2007,
@@ -83,35 +680,226 @@
         2009
       ]
     },
-    "SOLSTICE 2DR COUPE RWD": {
+    "G6 4DR SEDAN FWD /V6": {
+      "years": [
+        2006
+      ]
+    },
+    "G6 4DR SEDAN FWD GT": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "G6 4DR SEDAN FWD GTP": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "G6 4DR SEDAN FWD /SE": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "G6 4DR SEDAN FWD GXP": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "G6 GT CONVERTIBLE 2DR FWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    }
+  },
+  "G8": {
+    "G8 BASE 4DR SEDAN RWD": {
+      "years": [
+        2008
+      ]
+    },
+    "G8 GT 4DR SEDAN RWD": {
+      "years": [
+        2008
+      ]
+    },
+    "G8 4DR SEDAN RWD /BASE": {
+      "years": [
+        2009
+      ]
+    },
+    "G8 4DR SEDAN RWD /GT/GXP": {
       "years": [
         2009
       ]
     }
   },
-  "Wave": {
-    "WAVE 4DR HATCH FWD /BASE/UPLEVEL": {
+  "GTO": {},
+  "Grand AM": {
+    "GRAND AM COUPE": {
       "years": [
-        2005,
-        2006
+        1985
       ]
     },
-    "WAVE 4DR SEDAN FWD /BASE/UPLEVEL": {
+    "GRAND AM BASE/LE/SE COUPE": {
       "years": [
-        2005,
-        2006
+        1986
       ]
     },
-    "WAVE 4DR HATCH FWD /SE": {
+    "GRAND AM BASE/LE/SE SEDAN": {
       "years": [
-        2007,
-        2008
+        1986
       ]
     },
-    "WAVE 4DR SEDAN FWD /SE": {
+    "GRAND AM 2 DR COUPE": {
       "years": [
-        2007,
-        2008
+        1987
+      ]
+    },
+    "GRAND AM 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "GRAND AM LE 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "GRAND AM LE 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "GRAND AM SE 2 DR COUPE": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "GRAND AM SE 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "GRAND AM BASE/LE 2 DR COUPE": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "GRAND AM BASE/LE 4 DR SEDAN": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "GRAND AM LE/SE 2DR COUPE": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "GRAND AM LE/SE 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "GRAND AM SE/GT 2DR COUPE": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "GRAND AM SE/GT 4DR SEDAN": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "GRAND AM 2DR COUPE SE/GT": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "GRAND AM 4DR SEDAN SE/GT": {
+      "years": [
+        1994,
+        1995,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "GRAND AM 4DR SEDAN SE/GT V6": {
+      "years": [
+        1996
+      ]
+    },
+    "GRAND AM 2DR COUPE GT": {
+      "years": [
+        1998
+      ]
+    },
+    "GRAND AM 2DR COUPE SE": {
+      "years": [
+        1998
+      ]
+    },
+    "GRAND AM 4DR SEDAN GT": {
+      "years": [
+        1998
+      ]
+    },
+    "GRAND AM 2DR COUPE FWD /GT": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "GRAND AM 4DR SEDAN FWD /SE/SE1/GT": {
+      "years": [
+        2004
+      ]
+    }
+  },
+  "Grand Lemans": {
+    "GRAND LE MANS 4 DR": {
+      "years": [
+        1982
+      ]
+    },
+    "GRAND LE MANS 4 DR WAGON": {
+      "years": [
+        1982
+      ]
+    },
+    "GRAND LE MANS BROUGH. 4 DR SD": {
+      "years": [
+        1982
       ]
     }
   },
@@ -303,98 +1091,188 @@
       ]
     }
   },
-  "G6": {
-    "G6 4DR SEDAN FWD V6/GT": {
+  "J2000": {
+    "J2000 2 DR CP": {
+      "years": [
+        1982
+      ]
+    },
+    "J2000 3 DR HB CP": {
+      "years": [
+        1982
+      ]
+    },
+    "J2000 4 DR SD": {
+      "years": [
+        1982
+      ]
+    },
+    "J2000 4 DR WAGON": {
+      "years": [
+        1982
+      ]
+    },
+    "J2000 LE 2 DR CP": {
+      "years": [
+        1982
+      ]
+    },
+    "J2000 LE 4 DR SD": {
+      "years": [
+        1982
+      ]
+    },
+    "J2000 SE 3 DR HB CP": {
+      "years": [
+        1982
+      ]
+    }
+  },
+  "Laurentian": {},
+  "Lemans": {
+    "LE MANS 2 DR": {
+      "years": [
+        1981
+      ]
+    },
+    "LE MANS 4 DR": {
+      "years": [
+        1981
+      ]
+    },
+    "LE MANS WAGON": {
+      "years": [
+        1981
+      ]
+    },
+    "LE MANS AERO COUPE/SE 3DR HATCHBACK": {
+      "years": [
+        1992
+      ]
+    },
+    "LE MANS SE SEDAN": {
+      "years": [
+        1992
+      ]
+    }
+  },
+  "Matiz": {},
+  "Montana/ SV6": {
+    "MONTANA SV6 EWB AWD MINIVAN /UPLEVEL 1/UPLEVE": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "MONTANA SV6 EWB FWD MINIVAN /UPLEVEL 1/UPLEVE": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "MONTANA SV6 SWB AWD MINIVAN /UPLEVEL 1/UPLEVE": {
       "years": [
         2005
       ]
     },
-    "G6 2DR CONV FWD GT/GTP": {
+    "MONTANA SV6 SWB FWD MINIVAN /UPLEVEL 1/UPLEVE": {
       "years": [
-        2006,
-        2007
-      ]
-    },
-    "G6 2DR COUPE FWD GT/GTP": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "G6 4DR SEDAN FWD /V6": {
-      "years": [
+        2005,
         2006
       ]
     },
-    "G6 4DR SEDAN FWD GT": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "G6 4DR SEDAN FWD GTP": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "G6 4DR SEDAN FWD /SE": {
+    "MONTANA SV6 EWB FWD MINIVAN": {
       "years": [
         2007,
         2008,
         2009
       ]
     },
-    "G6 4DR SEDAN FWD GXP": {
+    "MONTANA SV6 SWB FWD MINIVAN": {
       "years": [
-        2008,
-        2009
-      ]
-    },
-    "G6 GT CONVERTIBLE 2DR FWD": {
-      "years": [
+        2007,
         2008,
         2009
       ]
     }
   },
-  "G8": {
-    "G8 BASE 4DR SEDAN RWD": {
+  "Parisienne": {
+    "PARISIENNE 2 DR CP": {
       "years": [
-        2008
+        1981,
+        1982
       ]
     },
-    "G8 GT 4DR SEDAN RWD": {
+    "PARISIENNE 4 DR SD": {
       "years": [
-        2008
+        1981,
+        1982
       ]
     },
-    "G8 4DR SEDAN RWD /BASE": {
+    "PARISIENNE WAGON": {
       "years": [
-        2009
+        1981,
+        1985,
+        1986
       ]
     },
-    "G8 4DR SEDAN RWD /GT/GXP": {
+    "PARISIENNE 4 DR WAGON": {
       "years": [
-        2009
+        1982,
+        1982
+      ]
+    },
+    "PARISIENNE BROUGH. 2 DR": {
+      "years": [
+        1982
+      ]
+    },
+    "PARISIENNE BROUGH. 4 DR": {
+      "years": [
+        1982
+      ]
+    },
+    "PARISIENNE": {
+      "years": [
+        1985,
+        1986
       ]
     }
   },
-  "G3": {
-    "G3 WAVE 4DR HATCH FWD /SE": {
+  "Phoenix": {
+    "PHOENIX HATCHBACK": {
       "years": [
-        2009,
-        2010
+        1981
       ]
     },
-    "G3 WAVE 4DR SEDAN FWD /SE": {
+    "PHOENIX NOTCHBACK": {
       "years": [
-        2009,
-        2010
+        1981
+      ]
+    },
+    "PHOENIX 5 DR HB SD": {
+      "years": [
+        1982
+      ]
+    },
+    "PHOENIX LJ 2 DR CP": {
+      "years": [
+        1982
+      ]
+    },
+    "PHOENIX LJ 5 DR HB SD": {
+      "years": [
+        1982
+      ]
+    },
+    "PHOENIX SJ 2 DR CP": {
+      "years": [
+        1982
+      ]
+    },
+    "PHOENIX SJ 5 DR HB SD": {
+      "years": [
+        1982
       ]
     }
   },
@@ -411,523 +1289,27 @@
       ]
     }
   },
-  "GTO": {},
-  "Matiz": {},
-  "Bonneville": {
-    "BONNEVILLE BROUGHAM SEDAN": {
+  "Safari": {
+    "SAFARI WAGON": {
       "years": [
-        1985
-      ]
-    },
-    "BONNEVILLE LE SEDAN": {
-      "years": [
-        1985
-      ]
-    },
-    "BONNEVILLE SEDAN (BASE)": {
-      "years": [
-        1985
-      ]
-    },
-    "BONNEVILLE BASE/LE/BROUGHAM SEDAN": {
-      "years": [
-        1986
-      ]
-    },
-    "BONNEVILLE 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "BONNEVILLE LE 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "BONNEVILLE SE 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "BONNEVILLE LE/SE/SSE 4 DR SEDAN": {
-      "years": [
+        1987,
         1988,
         1989
-      ]
-    },
-    "BONNEVILLE LE/SE/SSE 4DR SEDAN": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "BONNEVILLE SE/SSE/SSEi 4DR SEDAN": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "BONNEVILLE 4DR SEDAN SE": {
-      "years": [
-        1994,
-        1995,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "BONNEVILLE 4DR SEDAN SSE": {
-      "years": [
-        1994
-      ]
-    },
-    "BONNEVILLE 4DR SEDAN SSE/SSEi": {
-      "years": [
-        1995,
-        1999
-      ]
-    },
-    "BONNEVILLE 4DR SEDAN SE/SLE": {
-      "years": [
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "BONNEVILLE 4DR SEDAN SSE/SSEi V6": {
-      "years": [
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "BONNEVILLE 4DR SEDAN SLE/SSEi": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "BONNEVILLE 4DR SEDAN FWD /GXP": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "BONNEVILLE 4DR SEDAN FWD SE/SLE": {
-      "years": [
-        2004,
-        2005
       ]
     }
   },
-  "Sunfire": {
-    "SUNFIRE 2DR CONVERTIBLE SE": {
+  "Solstice": {
+    "SOLSTICE 2DR CONV RWD": {
       "years": [
-        1995,
-        1996,
-        1997,
-        1998
+        2006,
+        2007,
+        2008,
+        2009
       ]
     },
-    "SUNFIRE 2DR COUPE GT": {
+    "SOLSTICE 2DR COUPE RWD": {
       "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "SUNFIRE 2DR COUPE SE": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "SUNFIRE 4DR SEDAN SE": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "SUNFIRE 2DR CONVERTIBLE GT": {
-      "years": [
-        1999,
-        2000
-      ]
-    },
-    "SUNFIRE 2DR COUPE BASE": {
-      "years": [
-        2001,
-        2002
-      ]
-    },
-    "SUNFIRE 4DR SEDAN GTX": {
-      "years": [
-        2001,
-        2002
-      ]
-    },
-    "SUNFIRE 4DR SEDAN SL/SLX": {
-      "years": [
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "SUNFIRE 2DR COUPE SL/SLX": {
-      "years": [
-        2003
-      ]
-    },
-    "SUNFIRE 2DR COUPE FWD /SL/GT": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "SUNFIRE 4DR SEDAN FWD /SL/SLX": {
-      "years": [
-        2004,
-        2005
-      ]
-    }
-  },
-  "Grand AM": {
-    "GRAND AM COUPE": {
-      "years": [
-        1985
-      ]
-    },
-    "GRAND AM BASE/LE/SE COUPE": {
-      "years": [
-        1986
-      ]
-    },
-    "GRAND AM BASE/LE/SE SEDAN": {
-      "years": [
-        1986
-      ]
-    },
-    "GRAND AM 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "GRAND AM 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "GRAND AM LE 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "GRAND AM LE 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "GRAND AM SE 2 DR COUPE": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "GRAND AM SE 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "GRAND AM BASE/LE 2 DR COUPE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "GRAND AM BASE/LE 4 DR SEDAN": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "GRAND AM LE/SE 2DR COUPE": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "GRAND AM LE/SE 4DR SEDAN": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "GRAND AM SE/GT 2DR COUPE": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "GRAND AM SE/GT 4DR SEDAN": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "GRAND AM 2DR COUPE SE/GT": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "GRAND AM 4DR SEDAN SE/GT": {
-      "years": [
-        1994,
-        1995,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "GRAND AM 4DR SEDAN SE/GT V6": {
-      "years": [
-        1996
-      ]
-    },
-    "GRAND AM 2DR COUPE GT": {
-      "years": [
-        1998
-      ]
-    },
-    "GRAND AM 2DR COUPE SE": {
-      "years": [
-        1998
-      ]
-    },
-    "GRAND AM 4DR SEDAN GT": {
-      "years": [
-        1998
-      ]
-    },
-    "GRAND AM 2DR COUPE FWD /GT": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "GRAND AM 4DR SEDAN FWD /SE/SE1/GT": {
-      "years": [
-        2004
-      ]
-    }
-  },
-  "Firebird": {
-    "FIREBIRD 2 DR CP": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "FIREBIRD SE 2 DR CP": {
-      "years": [
-        1982
-      ]
-    },
-    "FIREBIRD TRANS 2 DR CP": {
-      "years": [
-        1982
-      ]
-    },
-    "FIREBIRD (BASE)": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "FIREBIRD SE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "FIREBIRD TRANS AM": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "FIREBIRD 2 DR HATCHBACK": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "FIREBIRD FORMULA 2 DR HATCHBACK": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "FIREBIRD TRANS AM/GTA 2 DR HATCHBACK": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "FIREBIRD TRANS AM/GTA 2 DR NOTCHBACK": {
-      "years": [
-        1989
-      ]
-    },
-    "FIREBIRD BASE/FORMULA HATCHBACK": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "FIREBIRD TRANS AM/TRANS AM GTA HATCHBACK": {
-      "years": [
-        1990
-      ]
-    },
-    "FIREBIRD TRANS AM/GTA HATCHBACK": {
-      "years": [
-        1991
-      ]
-    },
-    "FIREBIRD FORMULA/TRANS AM/GTA HATCHBACK": {
-      "years": [
-        1992
-      ]
-    },
-    "FIREBIRD/TRANS AM CONVERTIBLE": {
-      "years": [
-        1992
-      ]
-    },
-    "FIREBIRD 2DR COUPE": {
-      "years": [
-        1993
-      ]
-    },
-    "FIREBIRD FORMULA 2DR COUPE": {
-      "years": [
-        1993
-      ]
-    },
-    "FIREBIRD TRANS AM 2DR COUPE": {
-      "years": [
-        1993
-      ]
-    },
-    "FIREBIRD 2DR CONVERTIBLE": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "FIREBIRD 2DR CONVERTIBLE FORMULA": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "FIREBIRD 2DR CONVERTIBLE TRANS AM": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "FIREBIRD 2DR HATCHBACK COUPE": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "FIREBIRD 2DR HATCHBACK FORMULA": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "FIREBIRD 2DR HATCHBACK TRANS AM GT": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "FIREBIRD 2DR HATCHBACK TRANS AM": {
-      "years": [
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "FIREBIRD 2DR HATCHBACK BASE/FORMULA": {
-      "years": [
-        2001,
-        2002
+        2009
       ]
     }
   },
@@ -1130,353 +1512,104 @@
       ]
     }
   },
-  "Firefly": {
-    "FIREFLY": {
+  "Sunbird 2000": {},
+  "Sunburst": {
+    "SUNBURST 2 DR": {
       "years": [
         1985,
         1986
       ]
     },
-    "FIREFLY 2 DR KAMBACK": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "FIREFLY 4 DR KAMBACK": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "FIREFLY TURBO 2 DR KAMBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "FIREFLY BASE/LE 2 DR": {
-      "years": [
-        1989
-      ]
-    },
-    "FIREFLY BASE/LE 4 DR": {
-      "years": [
-        1989
-      ]
-    },
-    "FIREFLY TURBO 2 DR": {
-      "years": [
-        1989
-      ]
-    },
-    "FIREFLY BASE/LE 2DR HATCHBACK": {
-      "years": [
-        1990
-      ]
-    },
-    "FIREFLY BASE/LE 4DR HATCHBACK": {
-      "years": [
-        1990
-      ]
-    },
-    "FIREFLY CONVERTIBLE": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "FIREFLY TURBO 2DR HATCHBACK": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "FIREFLY 2DR HATCHBACK": {
-      "years": [
-        1991,
-        1994,
-        1999,
-        2000
-      ]
-    },
-    "FIREFLY 4DR HATCHBACK": {
-      "years": [
-        1991,
-        1994
-      ]
-    },
-    "FIREFLY 4DR SEDAN": {
-      "years": [
-        1994,
-        1999,
-        2000
-      ]
-    },
-    "FIREFLY 2DR HATCHBACK BASE/SE": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "FIREFLY 4DR SEDAN BASE/SE": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    }
-  },
-  "Lemans": {
-    "LE MANS 2 DR": {
-      "years": [
-        1981
-      ]
-    },
-    "LE MANS 4 DR": {
-      "years": [
-        1981
-      ]
-    },
-    "LE MANS WAGON": {
-      "years": [
-        1981
-      ]
-    },
-    "LE MANS AERO COUPE/SE 3DR HATCHBACK": {
-      "years": [
-        1992
-      ]
-    },
-    "LE MANS SE SEDAN": {
-      "years": [
-        1992
-      ]
-    }
-  },
-  "6000": {
-    "6000 2 DR CP": {
-      "years": [
-        1982
-      ]
-    },
-    "6000 4 DR SD": {
-      "years": [
-        1982
-      ]
-    },
-    "6000 LE 2 DR CP": {
-      "years": [
-        1982
-      ]
-    },
-    "6000 LE 4 DR SD": {
-      "years": [
-        1982
-      ]
-    },
-    "6000 COUPE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "6000 SEDAN (BASE)": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "6000 STE SEDAN": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "6000 WAGON": {
+    "SUNBURST 4 DR": {
       "years": [
         1985,
         1986,
         1987
       ]
-    },
-    "6000 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "6000 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "6000 LE 4DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "6000 LE WAGON": {
-      "years": [
-        1987,
-        1990,
-        1991
-      ]
-    },
-    "6000 SE 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "6000 SE WAGON": {
-      "years": [
-        1987
-      ]
-    },
-    "6000 STE 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "6000 BASE/LE 4 DR SEDAN": {
-      "years": [
-        1988
-      ]
-    },
-    "6000 BASE/LE WAGON": {
-      "years": [
-        1988
-      ]
-    },
-    "6000 S/E/STE 4 DR SEDAN": {
-      "years": [
-        1988
-      ]
-    },
-    "6000 STE ALL WHEEL DRIVE SEDAN": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "6000 SE": {
-      "years": [
-        1989
-      ]
-    },
-    "6000/LE 4 DR SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "6000/LE WAGON": {
-      "years": [
-        1989
-      ]
-    },
-    "6000 LE/SE 4DR SEDAN": {
-      "years": [
-        1990,
-        1991
-      ]
     }
   },
-  "Parisienne": {
-    "PARISIENNE 2 DR CP": {
+  "Sunfire": {
+    "SUNFIRE 2DR CONVERTIBLE SE": {
       "years": [
-        1981,
-        1982
+        1995,
+        1996,
+        1997,
+        1998
       ]
     },
-    "PARISIENNE 4 DR SD": {
+    "SUNFIRE 2DR COUPE GT": {
       "years": [
-        1981,
-        1982
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
       ]
     },
-    "PARISIENNE WAGON": {
+    "SUNFIRE 2DR COUPE SE": {
       "years": [
-        1981,
-        1985,
-        1986
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000
       ]
     },
-    "PARISIENNE 4 DR WAGON": {
+    "SUNFIRE 4DR SEDAN SE": {
       "years": [
-        1982,
-        1982
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000
       ]
     },
-    "PARISIENNE BROUGH. 2 DR": {
+    "SUNFIRE 2DR CONVERTIBLE GT": {
       "years": [
-        1982
+        1999,
+        2000
       ]
     },
-    "PARISIENNE BROUGH. 4 DR": {
+    "SUNFIRE 2DR COUPE BASE": {
       "years": [
-        1982
+        2001,
+        2002
       ]
     },
-    "PARISIENNE": {
+    "SUNFIRE 4DR SEDAN GTX": {
       "years": [
-        1985,
-        1986
-      ]
-    }
-  },
-  "Fiero": {
-    "FIERO 2.4L": {
-      "years": [
-        1985
+        2001,
+        2002
       ]
     },
-    "FIERO GT 2.8L": {
+    "SUNFIRE 4DR SEDAN SL/SLX": {
       "years": [
-        1985,
-        1986
+        2001,
+        2002,
+        2003
       ]
     },
-    "FIERO 2.5L BASE": {
+    "SUNFIRE 2DR COUPE SL/SLX": {
       "years": [
-        1986
+        2003
       ]
     },
-    "FIERO SE": {
+    "SUNFIRE 2DR COUPE FWD /SL/GT": {
       "years": [
-        1986
+        2004,
+        2005
       ]
     },
-    "FIERO SPORT": {
+    "SUNFIRE 4DR SEDAN FWD /SL/SLX": {
       "years": [
-        1986
-      ]
-    },
-    "FIERO 2 DR COUPE": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "FIERO GT 2 DR COUPE": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "FIERO SE 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "FIERO SPORT 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "FIERO FORMULA 2 DR COUPE": {
-      "years": [
-        1988
+        2004,
+        2005
       ]
     }
   },
@@ -1489,108 +1622,6 @@
     "T1000 5 DR HB SD": {
       "years": [
         1982
-      ]
-    }
-  },
-  "Sunbird 2000": {},
-  "Phoenix": {
-    "PHOENIX HATCHBACK": {
-      "years": [
-        1981
-      ]
-    },
-    "PHOENIX NOTCHBACK": {
-      "years": [
-        1981
-      ]
-    },
-    "PHOENIX 5 DR HB SD": {
-      "years": [
-        1982
-      ]
-    },
-    "PHOENIX LJ 2 DR CP": {
-      "years": [
-        1982
-      ]
-    },
-    "PHOENIX LJ 5 DR HB SD": {
-      "years": [
-        1982
-      ]
-    },
-    "PHOENIX SJ 2 DR CP": {
-      "years": [
-        1982
-      ]
-    },
-    "PHOENIX SJ 5 DR HB SD": {
-      "years": [
-        1982
-      ]
-    }
-  },
-  "Grand Lemans": {
-    "GRAND LE MANS 4 DR": {
-      "years": [
-        1982
-      ]
-    },
-    "GRAND LE MANS 4 DR WAGON": {
-      "years": [
-        1982
-      ]
-    },
-    "GRAND LE MANS BROUGH. 4 DR SD": {
-      "years": [
-        1982
-      ]
-    }
-  },
-  "Catalina": {},
-  "J2000": {
-    "J2000 2 DR CP": {
-      "years": [
-        1982
-      ]
-    },
-    "J2000 3 DR HB CP": {
-      "years": [
-        1982
-      ]
-    },
-    "J2000 4 DR SD": {
-      "years": [
-        1982
-      ]
-    },
-    "J2000 4 DR WAGON": {
-      "years": [
-        1982
-      ]
-    },
-    "J2000 LE 2 DR CP": {
-      "years": [
-        1982
-      ]
-    },
-    "J2000 LE 4 DR SD": {
-      "years": [
-        1982
-      ]
-    },
-    "J2000 SE 3 DR HB CP": {
-      "years": [
-        1982
-      ]
-    }
-  },
-  "Safari": {
-    "SAFARI WAGON": {
-      "years": [
-        1987,
-        1988,
-        1989
       ]
     }
   },
@@ -1610,100 +1641,6 @@
       "years": [
         1990,
         1991
-      ]
-    }
-  },
-  "Acadian": {
-    "ACADIAN 2 DR CP": {
-      "years": [
-        1981
-      ]
-    },
-    "ACADIAN 4 DR HATCHBACK": {
-      "years": [
-        1981,
-        1987
-      ]
-    },
-    "ACADIAN S": {
-      "years": [
-        1981
-      ]
-    },
-    "ACADIAN 2 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "ACADIAN 4 DR": {
-      "years": [
-        1985
-      ]
-    },
-    "ACADIAN BASE/LE HATCHBACK (4-DR)": {
-      "years": [
-        1986
-      ]
-    },
-    "ACADIAN 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    }
-  },
-  "Sunburst": {
-    "SUNBURST 2 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "SUNBURST 4 DR": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    }
-  },
-  "Laurentian": {},
-  "Montana/ SV6": {
-    "MONTANA SV6 EWB AWD MINIVAN /UPLEVEL 1/UPLEVE": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "MONTANA SV6 EWB FWD MINIVAN /UPLEVEL 1/UPLEVE": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "MONTANA SV6 SWB AWD MINIVAN /UPLEVEL 1/UPLEVE": {
-      "years": [
-        2005
-      ]
-    },
-    "MONTANA SV6 SWB FWD MINIVAN /UPLEVEL 1/UPLEVE": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "MONTANA SV6 EWB FWD MINIVAN": {
-      "years": [
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "MONTANA SV6 SWB FWD MINIVAN": {
-      "years": [
-        2007,
-        2008,
-        2009
       ]
     }
   },
@@ -1730,26 +1667,6 @@
       "years": [
         2008,
         2009
-      ]
-    }
-  },
-  "Aztek": {
-    "AZTEK 4DR BASE/GT AWD": {
-      "years": [
-        2001
-      ]
-    },
-    "AZTEK 4DR BASE/GT FWD": {
-      "years": [
-        2001
-      ]
-    },
-    "AZTEK 4DR BASE/GT FWD/AWD": {
-      "years": [
-        2002,
-        2003,
-        2004,
-        2005
       ]
     }
   },
@@ -1781,6 +1698,89 @@
         1997,
         1998,
         1999
+      ]
+    }
+  },
+  "Vibe": {
+    "VIBE / BASE": {
+      "years": [
+        2003,
+        2004
+      ]
+    },
+    "VIBE / GT": {
+      "years": [
+        2003,
+        2004
+      ]
+    },
+    "VIBE/ AWD": {
+      "years": [
+        2003,
+        2004
+      ]
+    },
+    "VIBE 4DR WAGON FWD": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "VIBE 4DR WAGON FWD / GT": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "VIBE4DR WAGON AWD": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "VIBE AWD 4DR WAGON AWD": {
+      "years": [
+        2009,
+        2010
+      ]
+    },
+    "VIBE BASE 4DR WAGON FWD": {
+      "years": [
+        2009,
+        2010
+      ]
+    },
+    "VIBE GT 4DR WAGON FWD": {
+      "years": [
+        2009,
+        2010
+      ]
+    }
+  },
+  "Wave": {
+    "WAVE 4DR HATCH FWD /BASE/UPLEVEL": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "WAVE 4DR SEDAN FWD /BASE/UPLEVEL": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "WAVE 4DR HATCH FWD /SE": {
+      "years": [
+        2007,
+        2008
+      ]
+    },
+    "WAVE 4DR SEDAN FWD /SE": {
+      "years": [
+        2007,
+        2008
       ]
     }
   }

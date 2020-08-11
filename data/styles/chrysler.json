@@ -1,4 +1,244 @@
 {
+  "200": {
+    "200 4DR SEDAN LX/LIMITED": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "200 4DR SEDAN TOURING": {
+      "years": [
+        2011
+      ]
+    },
+    "200 CONVERTIBLE": {
+      "years": [
+        2011
+      ]
+    },
+    "200 4DR SEDAN TOURING/S": {
+      "years": [
+        2012
+      ]
+    },
+    "200 CONVERTIBLE LX/TOURING/LIMITED/S": {
+      "years": [
+        2012
+      ]
+    },
+    "200 4DR SEDAN LX/TOURING/LIMITED": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "200 4DR SEDAN S": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "200 CONVERTIBLE LX": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "200 CONVERTIBLE TOURING/LIMITED/S": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "200 4DR SEDAN LX/LIMITED/S/C FWD": {
+      "years": [
+        2015
+      ]
+    },
+    "200 4DR SEDAN S/C AWD": {
+      "years": [
+        2015
+      ]
+    },
+    "200 4DR SEDAN AWD": {
+      "years": [
+        2016
+      ]
+    },
+    "200 4DR SEDAN FWD": {
+      "years": [
+        2016
+      ]
+    },
+    "200 4DR SEDAN I-4 FWD": {
+      "years": [
+        2017
+      ]
+    },
+    "200 4DR SEDAN V6 AWD": {
+      "years": [
+        2017
+      ]
+    },
+    "200 4DR SEDAN V6 FWD": {
+      "years": [
+        2017
+      ]
+    }
+  },
+  "300": {
+    "300M 4DR SEDAN": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "300M SPECIAL 4DR SEDAN FWD": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "300 4DR SEDAN RWD TOURING/LIMITED": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "300 4DR SEDAN RWD SRT8": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "300 TOURING/LIMITED 4DR SEDAN RWD": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "300 4DR SEDAN 300C AWD": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "300 4DR SEDAN 300C RWD": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "300 4DR SEDAN BASE/LIMITED": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "300 SRT-8": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "300 4DR SEDAN 300 S/300C/300C LUXURY AWD": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "300 4DR SEDAN 300 TOURING/300 S RWD": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "300 4DR SEDAN 300C/300C LUXURY RWD": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "300 SRT": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "300 4DR SEDAN HEMI RWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "300 4DR SEDAN V6 AWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "300 4DR SEDAN V6 RWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "300C": {
+    "300C 4DR SEDAN RWD": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "300C /HERITAGE EDITION/SRT DESIGN 4DR SEDAN R": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "300C SRT8 4DR SEDAN RWD": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    }
+  },
+  "Aspen": {
+    "ASPEN 4DR SUV 4WD LIMITED": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "ASPEN HYBRID 4DR SUV 4WD": {
+      "years": [
+        2008,
+        2009
+      ]
+    }
+  },
+  "Caravan": {},
   "Cirrus": {
     "CIRRUS 4DR SEDAN LX/LXi": {
       "years": [
@@ -15,6 +255,671 @@
       ]
     }
   },
+  "Concorde": {
+    "CONCORDE 4DR SEDAN": {
+      "years": [
+        1993,
+        1994,
+        1995
+      ]
+    },
+    "CONCORDE 4DR SEDAN LX/LXi": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "CONCORDE 4DR SEDAN LIMITED": {
+      "years": [
+        2003,
+        2004
+      ]
+    }
+  },
+  "Concorde/LHS": {},
+  "Conquest": {},
+  "Cordoba": {
+    "CORDOBA": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "CORDOBA HS": {
+      "years": [
+        1981
+      ]
+    },
+    "CORDOBA LS": {
+      "years": [
+        1982
+      ]
+    }
+  },
+  "Crossfire": {
+    "CROSSFIRE 2DR COUPE RWD": {
+      "years": [
+        2004
+      ]
+    },
+    "CROSSFIRE 2DR COUPE RWD /LIMITED": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "CROSSFIRE ROADSTER  2DR CONV RWD /SRT6": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "CROSSFIRE ROADSTER 2DR CONV RWD /LIMTED": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "CROSSFIRE SRT6 2DR COUPE RWD": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "CROSSFIRE LIMITED 2DR COUPE RWD": {
+      "years": [
+        2008
+      ]
+    },
+    "CROSSFIRE ROADSTER LIMITED 2DR CONV RWD": {
+      "years": [
+        2008
+      ]
+    }
+  },
+  "Daytona": {
+    "DAYTONA 2 DR HATCHBACK": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "DAYTONA PACIFICA 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "DAYTONA SHELBY Z 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "DAYTONA PACIFICA": {
+      "years": [
+        1988
+      ]
+    },
+    "DAYTONA SHELBY Z": {
+      "years": [
+        1988
+      ]
+    },
+    "DAYTONA 2 DR HATCHBACK/ES/ES TURBO": {
+      "years": [
+        1989
+      ]
+    },
+    "DAYTONA SHELBY": {
+      "years": [
+        1989
+      ]
+    },
+    "DAYTONA BASE HATCHBACK 2DR": {
+      "years": [
+        1990
+      ]
+    },
+    "DAYTONA ES HATCHBACK 2DR": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "DAYTONA ES TURBO HATCHBACK 2DR": {
+      "years": [
+        1990
+      ]
+    },
+    "DAYTONA SHELBY HATCHBACK 2DR": {
+      "years": [
+        1990
+      ]
+    },
+    "DAYTONA SHELBY SPORT COUPE HATCHBACK 2DR": {
+      "years": [
+        1991
+      ]
+    },
+    "DAYTONA SPORTS COUPE HATCHBACK 2DR": {
+      "years": [
+        1991
+      ]
+    },
+    "DAYTONA SPORTS COUPE/ES/IROC": {
+      "years": [
+        1992
+      ]
+    },
+    "DAYTONA ES/IROC/IROC R-T": {
+      "years": [
+        1993
+      ]
+    }
+  },
+  "Dynasty": {
+    "DYNASTY BASE/PREMIUM": {
+      "years": [
+        1988
+      ]
+    },
+    "DYNASTY BASE": {
+      "years": [
+        1989
+      ]
+    },
+    "DYNASTY LE SEDAN": {
+      "years": [
+        1989
+      ]
+    },
+    "DYNASTY BASE/LE 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    }
+  },
+  "E-CLASS": {},
+  "EXECUTIVE": {},
+  "FIFTH AVENUE": {
+    "FIFTH AVENUE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "FIFTH AVENUE 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    }
+  },
+  "Grand Voyager": {},
+  "Imperial": {
+    "IMPERIAL": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "IMPERIAL 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    }
+  },
+  "Intrepid": {
+    "INTREPID/ES 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "INTREPID 4DR SEDAN BASE/ES": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "INTREPID 4DR SEDAN SE/ES/RT": {
+      "years": [
+        2001,
+        2002
+      ]
+    },
+    "INTREPID 4DR SEDAN SE/ES": {
+      "years": [
+        2003,
+        2004
+      ]
+    },
+    "INTREPID 4DR SEDAN SXT": {
+      "years": [
+        2003,
+        2004
+      ]
+    }
+  },
+  "LASER": {
+    "LASER (BASE)": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "LASER XE": {
+      "years": [
+        1985,
+        1986
+      ]
+    }
+  },
+  "LHS": {
+    "LHS 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1999,
+        2000,
+        2001
+      ]
+    }
+  },
+  "LeBaron": {
+    "LE BARON 2 DR": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "LE BARON 4 DR": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "LE BARON WAGON": {
+      "years": [
+        1981
+      ]
+    },
+    "LE BARON CONV.": {
+      "years": [
+        1982
+      ]
+    },
+    "LeBARON CONVERTIBLE": {
+      "years": [
+        1985
+      ]
+    },
+    "LeBARON COUPE": {
+      "years": [
+        1985
+      ]
+    },
+    "LeBARON GTS": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "LeBARON SEDAN": {
+      "years": [
+        1985
+      ]
+    },
+    "LEBARON CONVERTIBLE": {
+      "years": [
+        1986,
+        1987
+      ]
+    },
+    "LEBARON COUPE": {
+      "years": [
+        1986
+      ]
+    },
+    "LEBARON SEDAN": {
+      "years": [
+        1986
+      ]
+    },
+    "LEBARON TOWN & COUNTRY WAGON": {
+      "years": [
+        1986,
+        1987,
+        1988
+      ]
+    },
+    "LEBARON 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "LEBARON 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988
+      ]
+    },
+    "LEBARON GTS 4 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "LEBARON GTS PREMIUM 4 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "LEBARON BASE/PREMIUM 2 DR COUPE": {
+      "years": [
+        1988
+      ]
+    },
+    "LEBARON BASE/PREMIUM CONVERTIBLE": {
+      "years": [
+        1988
+      ]
+    },
+    "LEBARON GTS BASE/PREMIUM 4 DR HATCHBACK": {
+      "years": [
+        1988
+      ]
+    },
+    "LEBARON BASE/PREMIUM GTC 2DR COUPE": {
+      "years": [
+        1989
+      ]
+    },
+    "LEBARON BASE/PREMIUM GTC CONVERTIBLE": {
+      "years": [
+        1989
+      ]
+    },
+    "LEBARON GTS BASE/PREMIUM GTS TURBO 4DR": {
+      "years": [
+        1989
+      ]
+    },
+    "LE BARON 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "LE BARON BASE/PREMIUM/GT/GTC 2DR COUPE": {
+      "years": [
+        1990
+      ]
+    },
+    "LE BARON BASE/PREMIUM/GT/GTC CONVERTIBLE": {
+      "years": [
+        1990
+      ]
+    },
+    "LE BARON CONVERTIBLE/LX/GTC CONVERTIBLE": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "LE BARON COUPE/LX/GTC 2DR COUPE": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "LE BARON /LX/LANDAU 4DR SEDAN": {
+      "years": [
+        1992
+      ]
+    },
+    "LE BARON LE/LANDAU 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "LE BARON LX/GTC CONVERTIBLE": {
+      "years": [
+        1993
+      ]
+    },
+    "LE BARON 2DR CONVERTIBLE GTC/LX": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "LE BARON 4DR SEDAN LE/LANDAU": {
+      "years": [
+        1994
+      ]
+    }
+  },
+  "NEWPORT": {
+    "NEWPORT": {
+      "years": [
+        1981,
+        1982
+      ]
+    }
+  },
+  "Neon": {
+    "NEON 4DR SEDAN LE/LX": {
+      "years": [
+        2000,
+        2001
+      ]
+    },
+    "NEON 4DR SEDAN RT": {
+      "years": [
+        2001,
+        2002
+      ]
+    },
+    "NEON 4DR SEDAN LE": {
+      "years": [
+        2002
+      ]
+    },
+    "NEON 4DR SEDAN LX": {
+      "years": [
+        2002
+      ]
+    }
+  },
+  "New Yorker": {
+    "NEW YORKER": {
+      "years": [
+        1981,
+        1985,
+        1986
+      ]
+    },
+    "NEW YORKER FIFTH AVE.": {
+      "years": [
+        1982
+      ]
+    },
+    "NEW YORKER 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "NEW YORKER BASE/LANDAU 4 DR SEDAN": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "NEW YORKER TURBO": {
+      "years": [
+        1988
+      ]
+    },
+    "NEW YORKER FIFTH AVENUE 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "NEW YORKER LANDAU 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "NEW YORKER SALON": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "NEW YORKER 4DR SEDAN": {
+      "years": [
+        1994,
+        1995
+      ]
+    }
+  },
+  "PT Cruiser": {
+    "PT CRUISER 4DR BASE/LIMITED": {
+      "years": [
+        2001
+      ]
+    },
+    "PT CRUISER 4DR/ TOURING/LIMITED/DREAM": {
+      "years": [
+        2002
+      ]
+    },
+    "PT CRUISER 4DR/CLASSIC/ TOURING/LIMITED/TURBO": {
+      "years": [
+        2003,
+        2004
+      ]
+    },
+    "PT CRUISER 2DR CONVERTIBLE FWD /GT": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "PT CRUISER 2DR CONVERTIBLE FWD /TOURING": {
+      "years": [
+        2005
+      ]
+    },
+    "PT CRUISER 4DR WAGON FWD /CLASSIC/ TOURING/GT": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "PT CRUISER 2DR CONVERTIBLE FWD TOURING": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "PT CRUISER CONVERTIBLE TOURING 2DR FWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "PT CRUISER LX/TOURING 4DR WAGON FWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "PT CRUISER CLASSIC 4DR WAGON FWD": {
+      "years": [
+        2010
+      ]
+    }
+  },
+  "Pacifica": {
+    "PACIFICA 4DR WAGON AWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "PACIFICA 4DR WAGON FWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "PACIFICA LIMITED 4DR WAGON AWD": {
+      "years": [
+        2008
+      ]
+    },
+    "PACIFICA LX/TOURING 4DR WAGON FWD": {
+      "years": [
+        2008
+      ]
+    },
+    "PACIFICA 4DR MINIVAN": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "PACIFICA HYBRID 4DR MINIVAN": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Prowler": {
+    "PLYMOUTH PROWLER 2DR CONVERTIBLE": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    }
+  },
+  "SALON": {},
   "Sebring": {
     "SEBRING 2DR COUPE LX/LXi": {
       "years": [
@@ -194,857 +1099,9 @@
       ]
     }
   },
-  "300": {
-    "300M 4DR SEDAN": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "300M SPECIAL 4DR SEDAN FWD": {
-      "years": [
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "300 4DR SEDAN RWD TOURING/LIMITED": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "300 4DR SEDAN RWD SRT8": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "300 TOURING/LIMITED 4DR SEDAN RWD": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "300 4DR SEDAN 300C AWD": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "300 4DR SEDAN 300C RWD": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "300 4DR SEDAN BASE/LIMITED": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "300 SRT-8": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "300 4DR SEDAN 300 S/300C/300C LUXURY AWD": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "300 4DR SEDAN 300 TOURING/300 S RWD": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "300 4DR SEDAN 300C/300C LUXURY RWD": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "300 SRT": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "300 4DR SEDAN HEMI RWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "300 4DR SEDAN V6 AWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "300 4DR SEDAN V6 RWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "200": {
-    "200 4DR SEDAN LX/LIMITED": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "200 4DR SEDAN TOURING": {
-      "years": [
-        2011
-      ]
-    },
-    "200 CONVERTIBLE": {
-      "years": [
-        2011
-      ]
-    },
-    "200 4DR SEDAN TOURING/S": {
-      "years": [
-        2012
-      ]
-    },
-    "200 CONVERTIBLE LX/TOURING/LIMITED/S": {
-      "years": [
-        2012
-      ]
-    },
-    "200 4DR SEDAN LX/TOURING/LIMITED": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "200 4DR SEDAN S": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "200 CONVERTIBLE LX": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "200 CONVERTIBLE TOURING/LIMITED/S": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "200 4DR SEDAN LX/LIMITED/S/C FWD": {
-      "years": [
-        2015
-      ]
-    },
-    "200 4DR SEDAN S/C AWD": {
-      "years": [
-        2015
-      ]
-    },
-    "200 4DR SEDAN AWD": {
-      "years": [
-        2016
-      ]
-    },
-    "200 4DR SEDAN FWD": {
-      "years": [
-        2016
-      ]
-    },
-    "200 4DR SEDAN I-4 FWD": {
-      "years": [
-        2017
-      ]
-    },
-    "200 4DR SEDAN V6 AWD": {
-      "years": [
-        2017
-      ]
-    },
-    "200 4DR SEDAN V6 FWD": {
-      "years": [
-        2017
-      ]
-    }
-  },
-  "PT Cruiser": {
-    "PT CRUISER 4DR BASE/LIMITED": {
-      "years": [
-        2001
-      ]
-    },
-    "PT CRUISER 4DR/ TOURING/LIMITED/DREAM": {
-      "years": [
-        2002
-      ]
-    },
-    "PT CRUISER 4DR/CLASSIC/ TOURING/LIMITED/TURBO": {
-      "years": [
-        2003,
-        2004
-      ]
-    },
-    "PT CRUISER 2DR CONVERTIBLE FWD /GT": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "PT CRUISER 2DR CONVERTIBLE FWD /TOURING": {
-      "years": [
-        2005
-      ]
-    },
-    "PT CRUISER 4DR WAGON FWD /CLASSIC/ TOURING/GT": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "PT CRUISER 2DR CONVERTIBLE FWD TOURING": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "PT CRUISER CONVERTIBLE TOURING 2DR FWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "PT CRUISER LX/TOURING 4DR WAGON FWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "PT CRUISER CLASSIC 4DR WAGON FWD": {
-      "years": [
-        2010
-      ]
-    }
-  },
-  "Crossfire": {
-    "CROSSFIRE 2DR COUPE RWD": {
-      "years": [
-        2004
-      ]
-    },
-    "CROSSFIRE 2DR COUPE RWD /LIMITED": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "CROSSFIRE ROADSTER  2DR CONV RWD /SRT6": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "CROSSFIRE ROADSTER 2DR CONV RWD /LIMTED": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "CROSSFIRE SRT6 2DR COUPE RWD": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "CROSSFIRE LIMITED 2DR COUPE RWD": {
-      "years": [
-        2008
-      ]
-    },
-    "CROSSFIRE ROADSTER LIMITED 2DR CONV RWD": {
-      "years": [
-        2008
-      ]
-    }
-  },
-  "Concorde": {
-    "CONCORDE 4DR SEDAN": {
-      "years": [
-        1993,
-        1994,
-        1995
-      ]
-    },
-    "CONCORDE 4DR SEDAN LX/LXi": {
-      "years": [
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "CONCORDE 4DR SEDAN LIMITED": {
-      "years": [
-        2003,
-        2004
-      ]
-    }
-  },
-  "Intrepid": {
-    "INTREPID/ES 4DR SEDAN": {
-      "years": [
-        1993
-      ]
-    },
-    "INTREPID 4DR SEDAN BASE/ES": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "INTREPID 4DR SEDAN SE/ES/RT": {
-      "years": [
-        2001,
-        2002
-      ]
-    },
-    "INTREPID 4DR SEDAN SE/ES": {
-      "years": [
-        2003,
-        2004
-      ]
-    },
-    "INTREPID 4DR SEDAN SXT": {
-      "years": [
-        2003,
-        2004
-      ]
-    }
-  },
-  "New Yorker": {
-    "NEW YORKER": {
-      "years": [
-        1981,
-        1985,
-        1986
-      ]
-    },
-    "NEW YORKER FIFTH AVE.": {
-      "years": [
-        1982
-      ]
-    },
-    "NEW YORKER 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "NEW YORKER BASE/LANDAU 4 DR SEDAN": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "NEW YORKER TURBO": {
-      "years": [
-        1988
-      ]
-    },
-    "NEW YORKER FIFTH AVENUE 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "NEW YORKER LANDAU 4DR SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "NEW YORKER SALON": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "NEW YORKER 4DR SEDAN": {
-      "years": [
-        1994,
-        1995
-      ]
-    }
-  },
-  "LHS": {
-    "LHS 4DR SEDAN": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1999,
-        2000,
-        2001
-      ]
-    }
-  },
-  "Vision": {},
-  "Stratus": {},
-  "Viper": {},
-  "Neon": {
-    "NEON 4DR SEDAN LE/LX": {
-      "years": [
-        2000,
-        2001
-      ]
-    },
-    "NEON 4DR SEDAN RT": {
-      "years": [
-        2001,
-        2002
-      ]
-    },
-    "NEON 4DR SEDAN LE": {
-      "years": [
-        2002
-      ]
-    },
-    "NEON 4DR SEDAN LX": {
-      "years": [
-        2002
-      ]
-    }
-  },
   "Shadow": {},
-  "Prowler": {
-    "PLYMOUTH PROWLER 2DR CONVERTIBLE": {
-      "years": [
-        2000,
-        2001,
-        2002
-      ]
-    }
-  },
+  "Stratus": {},
   "TC": {},
-  "LeBaron": {
-    "LE BARON 2 DR": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "LE BARON 4 DR": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "LE BARON WAGON": {
-      "years": [
-        1981
-      ]
-    },
-    "LE BARON CONV.": {
-      "years": [
-        1982
-      ]
-    },
-    "LeBARON CONVERTIBLE": {
-      "years": [
-        1985
-      ]
-    },
-    "LeBARON COUPE": {
-      "years": [
-        1985
-      ]
-    },
-    "LeBARON GTS": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "LeBARON SEDAN": {
-      "years": [
-        1985
-      ]
-    },
-    "LEBARON CONVERTIBLE": {
-      "years": [
-        1986,
-        1987
-      ]
-    },
-    "LEBARON COUPE": {
-      "years": [
-        1986
-      ]
-    },
-    "LEBARON SEDAN": {
-      "years": [
-        1986
-      ]
-    },
-    "LEBARON TOWN & COUNTRY WAGON": {
-      "years": [
-        1986,
-        1987,
-        1988
-      ]
-    },
-    "LEBARON 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "LEBARON 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "LEBARON GTS 4 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "LEBARON GTS PREMIUM 4 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "LEBARON BASE/PREMIUM 2 DR COUPE": {
-      "years": [
-        1988
-      ]
-    },
-    "LEBARON BASE/PREMIUM CONVERTIBLE": {
-      "years": [
-        1988
-      ]
-    },
-    "LEBARON GTS BASE/PREMIUM 4 DR HATCHBACK": {
-      "years": [
-        1988
-      ]
-    },
-    "LEBARON BASE/PREMIUM GTC 2DR COUPE": {
-      "years": [
-        1989
-      ]
-    },
-    "LEBARON BASE/PREMIUM GTC CONVERTIBLE": {
-      "years": [
-        1989
-      ]
-    },
-    "LEBARON GTS BASE/PREMIUM GTS TURBO 4DR": {
-      "years": [
-        1989
-      ]
-    },
-    "LE BARON 4DR SEDAN": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "LE BARON BASE/PREMIUM/GT/GTC 2DR COUPE": {
-      "years": [
-        1990
-      ]
-    },
-    "LE BARON BASE/PREMIUM/GT/GTC CONVERTIBLE": {
-      "years": [
-        1990
-      ]
-    },
-    "LE BARON CONVERTIBLE/LX/GTC CONVERTIBLE": {
-      "years": [
-        1991,
-        1992
-      ]
-    },
-    "LE BARON COUPE/LX/GTC 2DR COUPE": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "LE BARON /LX/LANDAU 4DR SEDAN": {
-      "years": [
-        1992
-      ]
-    },
-    "LE BARON LE/LANDAU 4DR SEDAN": {
-      "years": [
-        1993
-      ]
-    },
-    "LE BARON LX/GTC CONVERTIBLE": {
-      "years": [
-        1993
-      ]
-    },
-    "LE BARON 2DR CONVERTIBLE GTC/LX": {
-      "years": [
-        1994,
-        1995
-      ]
-    },
-    "LE BARON 4DR SEDAN LE/LANDAU": {
-      "years": [
-        1994
-      ]
-    }
-  },
-  "Concorde/LHS": {},
-  "Daytona": {
-    "DAYTONA 2 DR HATCHBACK": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "DAYTONA PACIFICA 2 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "DAYTONA SHELBY Z 2 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "DAYTONA PACIFICA": {
-      "years": [
-        1988
-      ]
-    },
-    "DAYTONA SHELBY Z": {
-      "years": [
-        1988
-      ]
-    },
-    "DAYTONA 2 DR HATCHBACK/ES/ES TURBO": {
-      "years": [
-        1989
-      ]
-    },
-    "DAYTONA SHELBY": {
-      "years": [
-        1989
-      ]
-    },
-    "DAYTONA BASE HATCHBACK 2DR": {
-      "years": [
-        1990
-      ]
-    },
-    "DAYTONA ES HATCHBACK 2DR": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "DAYTONA ES TURBO HATCHBACK 2DR": {
-      "years": [
-        1990
-      ]
-    },
-    "DAYTONA SHELBY HATCHBACK 2DR": {
-      "years": [
-        1990
-      ]
-    },
-    "DAYTONA SHELBY SPORT COUPE HATCHBACK 2DR": {
-      "years": [
-        1991
-      ]
-    },
-    "DAYTONA SPORTS COUPE HATCHBACK 2DR": {
-      "years": [
-        1991
-      ]
-    },
-    "DAYTONA SPORTS COUPE/ES/IROC": {
-      "years": [
-        1992
-      ]
-    },
-    "DAYTONA ES/IROC/IROC R-T": {
-      "years": [
-        1993
-      ]
-    }
-  },
-  "Dynasty": {
-    "DYNASTY BASE/PREMIUM": {
-      "years": [
-        1988
-      ]
-    },
-    "DYNASTY BASE": {
-      "years": [
-        1989
-      ]
-    },
-    "DYNASTY LE SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "DYNASTY BASE/LE 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    }
-  },
-  "Imperial": {
-    "IMPERIAL": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "IMPERIAL 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    }
-  },
-  "SALON": {},
-  "LASER": {
-    "LASER (BASE)": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "LASER XE": {
-      "years": [
-        1985,
-        1986
-      ]
-    }
-  },
-  "NEWPORT": {
-    "NEWPORT": {
-      "years": [
-        1981,
-        1982
-      ]
-    }
-  },
-  "FIFTH AVENUE": {
-    "FIFTH AVENUE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "FIFTH AVENUE 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    }
-  },
-  "Conquest": {},
-  "EXECUTIVE": {},
-  "E-CLASS": {},
-  "Cordoba": {
-    "CORDOBA": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "CORDOBA HS": {
-      "years": [
-        1981
-      ]
-    },
-    "CORDOBA LS": {
-      "years": [
-        1982
-      ]
-    }
-  },
-  "300C": {
-    "300C 4DR SEDAN RWD": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "300C /HERITAGE EDITION/SRT DESIGN 4DR SEDAN R": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "300C SRT8 4DR SEDAN RWD": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    }
-  },
   "Town and Country": {
     "TOWN & COUNTRY WAGON": {
       "years": [
@@ -1157,64 +1214,7 @@
       ]
     }
   },
-  "Grand Voyager": {},
-  "Pacifica": {
-    "PACIFICA 4DR WAGON AWD": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "PACIFICA 4DR WAGON FWD": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "PACIFICA LIMITED 4DR WAGON AWD": {
-      "years": [
-        2008
-      ]
-    },
-    "PACIFICA LX/TOURING 4DR WAGON FWD": {
-      "years": [
-        2008
-      ]
-    },
-    "PACIFICA 4DR MINIVAN": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "PACIFICA HYBRID 4DR MINIVAN": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Caravan": {},
-  "Voyager": {},
-  "Aspen": {
-    "ASPEN 4DR SUV 4WD LIMITED": {
-      "years": [
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "ASPEN HYBRID 4DR SUV 4WD": {
-      "years": [
-        2008,
-        2009
-      ]
-    }
-  }
+  "Viper": {},
+  "Vision": {},
+  "Voyager": {}
 }

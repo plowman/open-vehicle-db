@@ -1,4 +1,416 @@
 {
+  "E-PACE": {
+    "E-PACE 4DR SUV": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "F-Pace": {
+    "F-PACE 2.0L DIESEL 4DR SUV": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "F-PACE 3.0L V6 4DR SUV": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "F-PACE 2.0L 4DR SUV": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "F-PACE SVR V8 4DR SUV": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "F-Type": {
+    "F-TYPE 2DR CONVERTIBLE": {
+      "years": [
+        2014
+      ]
+    },
+    "F-TYPE 2DR COUPE": {
+      "years": [
+        2014
+      ]
+    },
+    "F-TYPE /TYPE S 2DR CONVERTIBLE": {
+      "years": [
+        2015
+      ]
+    },
+    "F-TYPE /TYPE S 2DR COUPE": {
+      "years": [
+        2015
+      ]
+    },
+    "F-TYPE R 2DR COUPE": {
+      "years": [
+        2015
+      ]
+    },
+    "F-TYPE V8 S 2DR CONVERTIBLE": {
+      "years": [
+        2015
+      ]
+    },
+    "F-TYPE V6 AWD 2DR COUPE/CONVERTIBLE": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "F-TYPE V6 RWD 2DR COUPE/CONVERTIBLE": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "F-TYPE V8 AWD 2DR COUPE/CONVERTIBLE": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "F-TYPE 2.0L RWD 2DR COUPE/CONVERTIBLE": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "I-PACE": {
+    "I-PACE 4DR SUV": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "S-Type": {
+    "S-TYPE 4DR SEDAN 3.0 V6": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "S-TYPE 4DR SEDAN 4.0 V8": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "S-TYPE 4DR SEDAN RWD /3.0 V6": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008
+      ]
+    },
+    "S-TYPE 4DR SEDAN RWD /4.2 V8": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008
+      ]
+    },
+    "S-TYPE 4DR SEDAN RWD /R": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008
+      ]
+    }
+  },
+  "Super V8": {
+    "XJ8 4DR SEDAN RWD SUPER V8": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "XJ8 L 4DR SEDAN RWD SUPER V8": {
+      "years": [
+        2007
+      ]
+    },
+    "XJ SUPER V8 4DR SEDAN RWD": {
+      "years": [
+        2008,
+        2009
+      ]
+    }
+  },
+  "Vanden Plas": {
+    "XJ12 VANDEN PLAS": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "XJ12 VANDEN PLAS 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "VANDEN PLAS 4 DR SEDAN": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "XJ6 VANDEN PLAS 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "XJ6 4DR SEDAN VANDEN PLAS": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "XJ8 4DR SEDAN VANDEN PLAS": {
+      "years": [
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "XJ8 4DR SEDAN VANDEN PLAS SUPERCHARGED": {
+      "years": [
+        2000,
+        2001
+      ]
+    },
+    "XJ8 4DR SEDAN VANDEN PLAS SUPERV8": {
+      "years": [
+        2002
+      ]
+    },
+    "VANDEN PLAS 4DR SEDAN": {
+      "years": [
+        2003
+      ]
+    },
+    "VANDEN PLAS SUPERV8 4DR SEDAN": {
+      "years": [
+        2003
+      ]
+    },
+    "XJ8 4DR SEDAN RWD BASE/VANDEN PLAS": {
+      "years": [
+        2004
+      ]
+    },
+    "XJ8 4DR SEDAN RWD VANDEN PLAS": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "XJ8 L 4DR SEDAN RWD VANDEN PLAS": {
+      "years": [
+        2007
+      ]
+    }
+  },
+  "X-Type": {
+    "X-TYPE 4DR SEDAN AWD": {
+      "years": [
+        2002,
+        2003
+      ]
+    },
+    "X-TYPE 4DR SEDAN AWD /2.5": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "X-TYPE 4DR SEDAN AWD /3.0": {
+      "years": [
+        2004
+      ]
+    },
+    "X-TYPE 4DR WAGON AWD /3.0": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "X-TYPE 4DR SEDAN AWD /3.0/SPORT": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "X-TYPE 4DR SEDAN AWD 3.0": {
+      "years": [
+        2007
+      ]
+    },
+    "X-TYPE 4DR WAGON AWD 3.0 SPORTWAGON": {
+      "years": [
+        2007
+      ]
+    },
+    "X-TYPE 3.0 4DR SEDAN AWD": {
+      "years": [
+        2008
+      ]
+    },
+    "X-TYPE SPORTWAGON 3.0 4DR WAGON AWD": {
+      "years": [
+        2008
+      ]
+    }
+  },
+  "XE": {
+    "XE 2.0L DIESEL 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "XE 3.0L V6 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "XE 2.0L 4DR SEDAN": {
+      "years": [
+        2018
+      ]
+    },
+    "XE SV PROJECT 8 4DR SEDAN": {
+      "years": [
+        2018
+      ]
+    },
+    "XE 4DR SEDAN": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "XF": {
+    "XF 4DR SEDAN RWD LUXURY/PREMIUM LUXURY": {
+      "years": [
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "XFR SUPERCHARGED 4DR SEDAN RWD": {
+      "years": [
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "XF 4DR SEDAN RWD": {
+      "years": [
+        2012
+      ]
+    },
+    "XF 4DR SEDAN RWD PREMIUM": {
+      "years": [
+        2012
+      ]
+    },
+    "XF AWD 4DR SEDAN": {
+      "years": [
+        2013
+      ]
+    },
+    "XF 2.0 4DR SEDAN": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "XF 3.0 AWD 4DR SEDAN": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "XFR-S SUPERCHARGED 4DR SEDAN RWD": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "XF 4DR SEDAN": {
+      "years": [
+        2016,
+        2017
+      ]
+    },
+    "XF 2.0L 4DR SEDAN": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "XF 2.0L DIESEL 4DR SEDAN": {
+      "years": [
+        2018,
+        2019
+      ]
+    },
+    "XF 3.0L V6 4DR SEDAN": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
   "XJ": {
     "XJ VANDEN PLAS 4DR SEDAN RWD": {
       "years": [
@@ -105,513 +517,12 @@
       ]
     }
   },
-  "XF": {
-    "XF 4DR SEDAN RWD LUXURY/PREMIUM LUXURY": {
-      "years": [
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "XFR SUPERCHARGED 4DR SEDAN RWD": {
-      "years": [
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "XF 4DR SEDAN RWD": {
-      "years": [
-        2012
-      ]
-    },
-    "XF 4DR SEDAN RWD PREMIUM": {
-      "years": [
-        2012
-      ]
-    },
-    "XF AWD 4DR SEDAN": {
-      "years": [
-        2013
-      ]
-    },
-    "XF 2.0 4DR SEDAN": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "XF 3.0 AWD 4DR SEDAN": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "XFR-S SUPERCHARGED 4DR SEDAN RWD": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "XF 4DR SEDAN": {
-      "years": [
-        2016,
-        2017
-      ]
-    },
-    "XF 2.0L 4DR SEDAN": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "XF 2.0L DIESEL 4DR SEDAN": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "XF 3.0L V6 4DR SEDAN": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "XK": {
-    "XK/XKR CONVERTIBLE": {
-      "years": [
-        2007
-      ]
-    },
-    "XK/XKR COUPE": {
-      "years": [
-        2007
-      ]
-    },
-    "XK /XKR CONVERTIBLE": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "XK /XKR COUPE": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "XK COUPE/CABRIO": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "XK CABRIO": {
-      "years": [
-        2012
-      ]
-    },
-    "XK COUPE": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "XK CONVERTIBLE": {
-      "years": [
-        2013,
-        2014
-      ]
-    }
-  },
-  "X-Type": {
-    "X-TYPE 4DR SEDAN AWD": {
-      "years": [
-        2002,
-        2003
-      ]
-    },
-    "X-TYPE 4DR SEDAN AWD /2.5": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "X-TYPE 4DR SEDAN AWD /3.0": {
-      "years": [
-        2004
-      ]
-    },
-    "X-TYPE 4DR WAGON AWD /3.0": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "X-TYPE 4DR SEDAN AWD /3.0/SPORT": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "X-TYPE 4DR SEDAN AWD 3.0": {
-      "years": [
-        2007
-      ]
-    },
-    "X-TYPE 4DR WAGON AWD 3.0 SPORTWAGON": {
-      "years": [
-        2007
-      ]
-    },
-    "X-TYPE 3.0 4DR SEDAN AWD": {
-      "years": [
-        2008
-      ]
-    },
-    "X-TYPE SPORTWAGON 3.0 4DR WAGON AWD": {
-      "years": [
-        2008
-      ]
-    }
-  },
-  "S-Type": {
-    "S-TYPE 4DR SEDAN 3.0 V6": {
-      "years": [
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-TYPE 4DR SEDAN 4.0 V8": {
-      "years": [
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-TYPE 4DR SEDAN RWD /3.0 V6": {
-      "years": [
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008
-      ]
-    },
-    "S-TYPE 4DR SEDAN RWD /4.2 V8": {
-      "years": [
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008
-      ]
-    },
-    "S-TYPE 4DR SEDAN RWD /R": {
-      "years": [
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008
-      ]
-    }
-  },
-  "F-Type": {
-    "F-TYPE 2DR CONVERTIBLE": {
-      "years": [
-        2014
-      ]
-    },
-    "F-TYPE 2DR COUPE": {
-      "years": [
-        2014
-      ]
-    },
-    "F-TYPE /TYPE S 2DR CONVERTIBLE": {
-      "years": [
-        2015
-      ]
-    },
-    "F-TYPE /TYPE S 2DR COUPE": {
-      "years": [
-        2015
-      ]
-    },
-    "F-TYPE R 2DR COUPE": {
-      "years": [
-        2015
-      ]
-    },
-    "F-TYPE V8 S 2DR CONVERTIBLE": {
-      "years": [
-        2015
-      ]
-    },
-    "F-TYPE V6 AWD 2DR COUPE/CONVERTIBLE": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "F-TYPE V6 RWD 2DR COUPE/CONVERTIBLE": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "F-TYPE V8 AWD 2DR COUPE/CONVERTIBLE": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "F-TYPE 2.0L RWD 2DR COUPE/CONVERTIBLE": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "Vanden Plas": {
-    "XJ12 VANDEN PLAS": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "XJ12 VANDEN PLAS 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "VANDEN PLAS 4 DR SEDAN": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "XJ6 VANDEN PLAS 4DR SEDAN": {
-      "years": [
-        1993
-      ]
-    },
-    "XJ6 4DR SEDAN VANDEN PLAS": {
+  "XJ12": {
+    "XJ12 4DR SEDAN": {
       "years": [
         1994,
         1995,
-        1996,
-        1997
-      ]
-    },
-    "XJ8 4DR SEDAN VANDEN PLAS": {
-      "years": [
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "XJ8 4DR SEDAN VANDEN PLAS SUPERCHARGED": {
-      "years": [
-        2000,
-        2001
-      ]
-    },
-    "XJ8 4DR SEDAN VANDEN PLAS SUPERV8": {
-      "years": [
-        2002
-      ]
-    },
-    "VANDEN PLAS 4DR SEDAN": {
-      "years": [
-        2003
-      ]
-    },
-    "VANDEN PLAS SUPERV8 4DR SEDAN": {
-      "years": [
-        2003
-      ]
-    },
-    "XJ8 4DR SEDAN RWD BASE/VANDEN PLAS": {
-      "years": [
-        2004
-      ]
-    },
-    "XJ8 4DR SEDAN RWD VANDEN PLAS": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "XJ8 L 4DR SEDAN RWD VANDEN PLAS": {
-      "years": [
-        2007
-      ]
-    }
-  },
-  "XK8": {
-    "XK8 2DR CONVERTIBLE": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "XK8 2DR COUPE": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "XK8 2DR COUPE RWD": {
-      "years": [
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    }
-  },
-  "XJR": {
-    "XJR 4DR SEDAN": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003,
-        2014,
-        2015
-      ]
-    },
-    "XJR 4DR SEDAN RWD": {
-      "years": [
-        2004,
-        2006,
-        2007
-      ]
-    },
-    "XJR LWB 4DR SEDAN": {
-      "years": [
-        2014,
-        2015
-      ]
-    }
-  },
-  "XE": {
-    "XE 2.0L DIESEL 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "XE 3.0L V6 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "XE 2.0L 4DR SEDAN": {
-      "years": [
-        2018
-      ]
-    },
-    "XE SV PROJECT 8 4DR SEDAN": {
-      "years": [
-        2018
-      ]
-    },
-    "XE 4DR SEDAN": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "Super V8": {
-    "XJ8 4DR SEDAN RWD SUPER V8": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "XJ8 L 4DR SEDAN RWD SUPER V8": {
-      "years": [
-        2007
-      ]
-    },
-    "XJ SUPER V8 4DR SEDAN RWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    }
-  },
-  "XJ8": {
-    "XJ8 4DR SEDAN": {
-      "years": [
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "XJ8L 4DR SEDAN": {
-      "years": [
-        1999
-      ]
-    },
-    "XJ8 4DR SEDAN RWD": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "XJ8 4DR SEDAN RWD XJR": {
-      "years": [
-        2005,
-        2006
+        1996
       ]
     }
   },
@@ -669,6 +580,66 @@
         1995,
         1996,
         1997
+      ]
+    }
+  },
+  "XJ8": {
+    "XJ8 4DR SEDAN": {
+      "years": [
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "XJ8L 4DR SEDAN": {
+      "years": [
+        1999
+      ]
+    },
+    "XJ8 4DR SEDAN RWD": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "XJ8 4DR SEDAN RWD XJR": {
+      "years": [
+        2005,
+        2006
+      ]
+    }
+  },
+  "XJR": {
+    "XJR 4DR SEDAN": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2014,
+        2015
+      ]
+    },
+    "XJR 4DR SEDAN RWD": {
+      "years": [
+        2004,
+        2006,
+        2007
+      ]
+    },
+    "XJR LWB 4DR SEDAN": {
+      "years": [
+        2014,
+        2015
       ]
     }
   },
@@ -760,12 +731,85 @@
       ]
     }
   },
-  "XJ12": {
-    "XJ12 4DR SEDAN": {
+  "XK": {
+    "XK/XKR CONVERTIBLE": {
       "years": [
-        1994,
-        1995,
-        1996
+        2007
+      ]
+    },
+    "XK/XKR COUPE": {
+      "years": [
+        2007
+      ]
+    },
+    "XK /XKR CONVERTIBLE": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "XK /XKR COUPE": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "XK COUPE/CABRIO": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "XK CABRIO": {
+      "years": [
+        2012
+      ]
+    },
+    "XK COUPE": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "XK CONVERTIBLE": {
+      "years": [
+        2013,
+        2014
+      ]
+    }
+  },
+  "XK8": {
+    "XK8 2DR CONVERTIBLE": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "XK8 2DR COUPE": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "XK8 2DR COUPE RWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006
       ]
     }
   },
@@ -820,50 +864,6 @@
     "XKR COUPE/XKR-S COUPE/XKR-S GT COUPE": {
       "years": [
         2014
-      ]
-    }
-  },
-  "F-Pace": {
-    "F-PACE 2.0L DIESEL 4DR SUV": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "F-PACE 3.0L V6 4DR SUV": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "F-PACE 2.0L 4DR SUV": {
-      "years": [
-        2018,
-        2019
-      ]
-    },
-    "F-PACE SVR V8 4DR SUV": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "E-PACE": {
-    "E-PACE 4DR SUV": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "I-PACE": {
-    "I-PACE 4DR SUV": {
-      "years": [
-        2019
       ]
     }
   }

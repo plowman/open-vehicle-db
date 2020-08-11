@@ -1,4 +1,20 @@
 {
+  "164": {
+    "164 SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "164 4DR SEDAN LS": {
+      "years": [
+        1994,
+        1995
+      ]
+    }
+  },
   "4C": {
     "4C 2DR COUPE": {
       "years": [
@@ -21,23 +37,47 @@
     }
   },
   "8C Competizione Spider": {},
-  "164": {
-    "164 SEDAN": {
+  "GTV6": {
+    "GTV-6-2.5": {
       "years": [
-        1990,
-        1991,
-        1992,
-        1993
+        1982
       ]
     },
-    "164 4DR SEDAN LS": {
+    "GTV62.5": {
       "years": [
-        1994,
-        1995
+        1985,
+        1986
       ]
     }
   },
   "Giulia (952)": {},
+  "Milano": {
+    "MILANO GOLD 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "MILANO PLATINUM 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "MILANO SILVER 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "MILANO GOLD/PLATINUM/VERDE 4 DR SEDAN": {
+      "years": [
+        1988
+      ]
+    },
+    "MILANO GOLD/VERDE 4 DR SEDAN": {
+      "years": [
+        1989
+      ]
+    }
+  },
   "Spider": {
     "SPIDER VELOCE": {
       "years": [
@@ -69,46 +109,6 @@
         1992,
         1993,
         1994
-      ]
-    }
-  },
-  "Milano": {
-    "MILANO GOLD 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "MILANO PLATINUM 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "MILANO SILVER 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "MILANO GOLD/PLATINUM/VERDE 4 DR SEDAN": {
-      "years": [
-        1988
-      ]
-    },
-    "MILANO GOLD/VERDE 4 DR SEDAN": {
-      "years": [
-        1989
-      ]
-    }
-  },
-  "GTV6": {
-    "GTV-6-2.5": {
-      "years": [
-        1982
-      ]
-    },
-    "GTV62.5": {
-      "years": [
-        1985,
-        1986
       ]
     }
   },

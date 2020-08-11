@@ -1,4 +1,143 @@
 {
+  "400": {
+    "400": {
+      "years": [
+        1982
+      ]
+    }
+  },
+  "600": {
+    "600 2 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "600 4 DR": {
+      "years": [
+        1985
+      ]
+    },
+    "600 TURBO CONVERTIBLE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "600 BASE/SE (4-DR)": {
+      "years": [
+        1986
+      ]
+    },
+    "600ES  TURBO CONVERTIBLE": {
+      "years": [
+        1986
+      ]
+    },
+    "600 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "600 SE 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "600 BASE/SE 4 DR SEDAN": {
+      "years": [
+        1988
+      ]
+    }
+  },
+  "ARIES": {
+    "ARIES K 2 DR": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "ARIES K 4 DR": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "ARIES K WAGON": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "ARIES (BASE) 2 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "ARIES (BASE) 4 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "ARIES LE 2 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "ARIES LE 4 DR": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "ARIES LE WAGON": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "ARIES SE 2 DR": {
+      "years": [
+        1985,
+        1985,
+        1986
+      ]
+    },
+    "ARIES SE WAGON": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "ARIES SE 4 DR": {
+      "years": [
+        1986
+      ]
+    },
+    "ARIES CANADA-K 2 DR SEDAN": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "ARIES CANADA-K 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "ARIES CANADA-K WAGON": {
+      "years": [
+        1987,
+        1988
+      ]
+    }
+  },
   "Avenger": {
     "AVENGER 2DR COUPE ES": {
       "years": [
@@ -60,6 +199,211 @@
       ]
     }
   },
+  "Caliber": {
+    "CALIBER 4DR SUV FWD RT": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "CALIBER 4DR SUV FWD SE/SXT": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "CALIBER 4DR SUV FWD SRT4": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "CALIBER 4DR HATCHBACK CANADA VALUE PACKAGE SE": {
+      "years": [
+        2011
+      ]
+    },
+    "CALIBER 4DR HATCHBACK RUSH": {
+      "years": [
+        2011
+      ]
+    },
+    "CALIBER 4DR HATCHBACK SE/SXT": {
+      "years": [
+        2012
+      ]
+    }
+  },
+  "Caravan": {
+    "CARAVAN": {
+      "years": [
+        1985,
+        1988,
+        1989
+      ]
+    },
+    "CARAVAN BASE/SE/LE": {
+      "years": [
+        1986,
+        1998,
+        1999
+      ]
+    },
+    "CARAVAN (VAN)": {
+      "years": [
+        1987
+      ]
+    },
+    "CARAVAN EXTENDED BODY LE VAN": {
+      "years": [
+        1987
+      ]
+    },
+    "CARAVAN EXTENDED BODY SE VAN": {
+      "years": [
+        1987
+      ]
+    },
+    "CARAVAN LE VAN": {
+      "years": [
+        1987
+      ]
+    },
+    "CARAVAN SE VAN": {
+      "years": [
+        1987
+      ]
+    },
+    "CARAVAN LE": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "CARAVAN SE": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "CARAVAN BASE/SE/LE WAGON": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "CARAVAN C/V EXTENDED VAN FWD/AWD": {
+      "years": [
+        1991,
+        1993
+      ]
+    },
+    "CARAVAN C/V FWD/AWD": {
+      "years": [
+        1991,
+        1993
+      ]
+    },
+    "CARAVAN SE/LE AWD WAGON": {
+      "years": [
+        1991
+      ]
+    },
+    "CARAVAN C/V AWD": {
+      "years": [
+        1992
+      ]
+    },
+    "CARAVAN C/V EXTENDED VAN AWD": {
+      "years": [
+        1992
+      ]
+    },
+    "CARAVAN C/V EXTENDED VAN FWD": {
+      "years": [
+        1992
+      ]
+    },
+    "CARAVAN C/V FWD": {
+      "years": [
+        1992
+      ]
+    },
+    "CARAVAN SE/LE/ES AWD WAGON": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "CARAVAN SE/LE/ES FWD WAGON": {
+      "years": [
+        1992
+      ]
+    },
+    "CARAVAN SE/LE/ES WAGON": {
+      "years": [
+        1993
+      ]
+    },
+    "CARAVAN 3DR WAGON AWD SE/LE/ES": {
+      "years": [
+        1994
+      ]
+    },
+    "CARAVAN 3DR WAGON BASE/SE/LE/ES": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "CARAVAN CARGO VAN": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "CARAVAN CARGO VAN EXTENDED BODY": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "CARAVAN BASE/SE/LE/ES": {
+      "years": [
+        1996,
+        1997
+      ]
+    },
+    "CARAVAN BASE/SE": {
+      "years": [
+        2000
+      ]
+    },
+    "CARAVAN SE/SPORT": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "CARAVAN FWD BASE/ANNIVERSARY EDITION/SXT": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "CARAVAN FWD BASE/SXT": {
+      "years": [
+        2006,
+        2007
+      ]
+    }
+  },
+  "Caravan/Grand Caravan": {},
   "Challenger": {
     "CHALLENGER": {
       "years": [
@@ -331,116 +675,1117 @@
       ]
     }
   },
-  "Caliber": {
-    "CALIBER 4DR SUV FWD RT": {
+  "Colt": {
+    "COLT HATCHBACK 1.4L": {
       "years": [
-        2007,
-        2008,
-        2009
+        1981
       ]
     },
-    "CALIBER 4DR SUV FWD SE/SXT": {
+    "COLT HATCHBACK 1.6L": {
       "years": [
-        2007,
-        2008,
-        2009,
-        2010
+        1981
       ]
     },
-    "CALIBER 4DR SUV FWD SRT4": {
+    "COLT 2 DR HB": {
       "years": [
-        2007,
-        2008,
-        2009
+        1982
       ]
     },
-    "CALIBER 4DR HATCHBACK CANADA VALUE PACKAGE SE": {
+    "COLT 5 DR HB": {
       "years": [
-        2011
+        1982
       ]
     },
-    "CALIBER 4DR HATCHBACK RUSH": {
+    "COLT 100 DL 2 DR HATCHBACK": {
       "years": [
-        2011
+        1991
       ]
     },
-    "CALIBER 4DR HATCHBACK SE/SXT": {
+    "COLT 100 E 2 DR HATCHBACK": {
       "years": [
-        2012
+        1991,
+        1992
+      ]
+    },
+    "COLT 100 E/DL 4 DR SEDAN": {
+      "years": [
+        1991
+      ]
+    },
+    "COLT 200 E/GT 2 DR HATCHBACK": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "COLT 100 E 4 DR SEDAN": {
+      "years": [
+        1992
+      ]
+    },
+    "COLT WAGON/SE/AWD SE": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "COLT COUPE/GL 2DR": {
+      "years": [
+        1993
+      ]
+    },
+    "COLT SEDAN/GL 4DR": {
+      "years": [
+        1993
+      ]
+    },
+    "COLT 2DR COUPE BASE/ES": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "COLT 3DR WAGON BASE/SE": {
+      "years": [
+        1994
+      ]
+    },
+    "COLT 3DR WAGON Ti AWD": {
+      "years": [
+        1994
+      ]
+    },
+    "COLT 4DR SEDAN BASE/ES": {
+      "years": [
+        1994
       ]
     }
   },
-  "Viper": {
-    "VIPER RT-10 2DR CONVERTIBLE": {
+  "Conquest": {},
+  "D-Series": {},
+  "D50": {},
+  "DIPLOMAT": {
+    "DIPLOMAT 2 DR": {
       "years": [
-        1993,
-        1994,
-        1995,
-        1996,
-        1997
+        1981
       ]
     },
-    "VIPER 2DR HATCHBACK GTS": {
+    "DIPLOMAT 4 DR": {
+      "years": [
+        1981
+      ]
+    },
+    "DIPLOMAT WAGON": {
+      "years": [
+        1981
+      ]
+    },
+    "DIPLOMAT": {
+      "years": [
+        1982
+      ]
+    },
+    "DIPLOMAT SALON": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "DIPLOMAT SALON 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    }
+  },
+  "Dakota": {
+    "DAKOTA LONG WB 4X4": {
+      "years": [
+        1987,
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "DAKOTA LONG WB PICK-UP": {
+      "years": [
+        1987
+      ]
+    },
+    "DAKOTA SHORT WB 4X4": {
+      "years": [
+        1987,
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "DAKOTA SHORT WB PICK-UP": {
+      "years": [
+        1987
+      ]
+    },
+    "DAKOTA LONG WB": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "DAKOTA SHORT WB": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "DAKOTA CLUB CAB PICKUP": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "DAKOTA CLUB CAB PICKUP 4X4": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "DAKOTA P/U CLUB CAB S/BOX": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "DAKOTA P/U CLUB CAB S/BOX 4X4": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "DAKOTA P/U REG CAB L/BOX": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "DAKOTA P/U REG CAB L/BOX 4X4": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "DAKOTA P/U REG CAB S/BOX": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "DAKOTA P/U REG CAB S/BOX 4X4": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "DAKOTA P/U CLUB CAB S/BOX 2WD": {
       "years": [
         1997,
         1998,
         1999
       ]
     },
-    "VIPER 2DR CONVERTIBLE RT-10": {
+    "DAKOTA P/U CLUB CAB S/BOX 4WD": {
       "years": [
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "DAKOTA P/U REG CAB L/BOX 2WD": {
+      "years": [
+        1997,
         1998,
         1999,
         2000,
-        2001,
-        2002
+        2001
       ]
     },
-    "VIPER 2DR HATCHBACK GTS/ACR": {
+    "DAKOTA P/U REG CAB S/BOX 2WD": {
+      "years": [
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "DAKOTA P/U REG CAB S/BOX 4WD": {
+      "years": [
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "DAKOTA P/U CLUB CAB L/BOX 2WD": {
+      "years": [
+        2000,
+        2001
+      ]
+    },
+    "DAKOTA P/U CLUB CAB L/BOX 4WD": {
+      "years": [
+        2000,
+        2001
+      ]
+    },
+    "DAKOTA P/U QUAD CAB S/BOX 2WD": {
       "years": [
         2000,
         2001,
-        2002
+        2002,
+        2003,
+        2004
       ]
     },
-    "VIPER SRT/10 2DR CONV RWD": {
+    "DAKOTA P/U QUAD CAB S/BOX 4WD": {
       "years": [
+        2000,
+        2001,
+        2002,
         2003,
-        2004,
+        2004
+      ]
+    },
+    "DAKOTA P/U REG CAB L/BOX 4WD": {
+      "years": [
+        2000,
+        2001
+      ]
+    },
+    "DAKOTA P/U CLUB CAB L/BOX 2WD SXT/SLT/R/T": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "DAKOTA P/U CLUB CAB L/BOX 4WD SXT/SLT/R/T": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "DAKOTA P/U REG CAB L/BOX 2WD Sport/SLT": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "DAKOTA P/U REG CAB L/BOX 4WD Sport/SLT": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "DAKOTA P/U CLUB CAB 2WD LARAMIE": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "DAKOTA P/U CLUB CAB 2WD ST/SLT": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "DAKOTA P/U CLUB CAB 4WD ST/SLT": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "DAKOTA P/U QUAD CAB 2WD LARAMIE": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "DAKOTA P/U QUAD CAB 2WD ST/SLT": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "DAKOTA P/U QUAD CAB 4WD ST/SLT": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "DAKOTA P/U CLUB CAB 2WD ST/SLT/SXT": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "DAKOTA P/U CLUB CAB 4WD ST/SLT/SXT": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "DAKOTA P/U QUAD CAB 2WD ST/SLT/SXT": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "DAKOTA P/U QUAD CAB 4WD ST/SLT/SXT": {
+      "years": [
+        2010,
+        2011
+      ]
+    }
+  },
+  "Dart": {
+    "DART SE/SXT/RALLYE/AERO/LIMITED/GT 4DR SEDAN": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "DART SE/SXT/AERO/BLACKTOP/LIMITED/GT 4DR SEDA": {
+      "years": [
+        2015
+      ]
+    },
+    "DART 4DR SEDAN": {
+      "years": [
+        2016,
+        2017
+      ]
+    }
+  },
+  "Daytona": {},
+  "Durango": {
+    "DURANGO 4WD SLT/SLT PLUS": {
+      "years": [
+        1998
+      ]
+    },
+    "DURANGO 2X4 SLT/SLT PLUS": {
+      "years": [
+        1999
+      ]
+    },
+    "DURANGO 4X4 SLT/SLT PLUS": {
+      "years": [
+        1999
+      ]
+    },
+    "DURANGO 4X4 SPORT/SLT": {
+      "years": [
+        2000,
+        2001
+      ]
+    },
+    "DURANGO SUV 4X4 R/T": {
+      "years": [
+        2002,
+        2003
+      ]
+    },
+    "DURANGO SUV 4X4 SXT/SLT/SLT Plus": {
+      "years": [
+        2002,
+        2003
+      ]
+    },
+    "DURANGO SUV 4X4 /LIMITED": {
+      "years": [
+        2004
+      ]
+    },
+    "DURANGO SUV 4X4 /SLT/SLT PLUS": {
+      "years": [
+        2004
+      ]
+    },
+    "DURANGO SUV 4WD /LIMITED": {
+      "years": [
         2005,
         2006,
         2007
       ]
     },
-    "VIPER SRT/10 2DR COUPE RWD": {
+    "DURANGO SUV 4WD /SLT/SLT PLUS": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "DURANGO 4DR SUV 4WD SLT/SLT PLUS": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "DURANGO HYBRID 4DR SUV 4WD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "DURANGO 4DR SUV AWD V6 SXT/CREW PLUS/CITADEL": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "DURANGO 4DR SUV AWD V8 CREW PLUS/CITADEL": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "DURANGO 4DR SUV RWD V6 SXT/CREW PLUS/CITADEL": {
+      "years": [
+        2011
+      ]
+    },
+    "DURANGO 4DR SUV RWD V8 CREW PLUS/CITADEL": {
+      "years": [
+        2011
+      ]
+    },
+    "DURANGO 4DR SUV AWD V8 R/T/CREW PLUS/CITADEL": {
+      "years": [
+        2013
+      ]
+    },
+    "DURANGO 4DR SUV AWD V6 SXT/LIMITED/CITADEL": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "DURANGO 4DR SUV AWD V8 R/T/LIMITED/CITADEL": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "DURANGO 4DR SUV AWD V6": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "DURANGO 4DR SUV AWD V8": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Dynasty": {},
+  "Grand Caravan": {
+    "GRAND CARAVAN LE": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "GRAND CARAVAN SE": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "GRAND CARAVAN SE/LE WAGON": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "GRAND CARAVAN SE/LE AWD WAGON": {
+      "years": [
+        1991
+      ]
+    },
+    "GRAND CARAVAN SE/LE/ES AWD WAGON": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "GRAND CARAVAN SE/LE/ES FWD WAGON": {
+      "years": [
+        1992
+      ]
+    },
+    "GRAND CARAVAN SE/LE/ES WAGON": {
+      "years": [
+        1993
+      ]
+    },
+    "GRAND CARAVAN 3DR WAGON AWD SE/LE/ES": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "GRAND CARAVAN 3DR WAGON BASE/SE/LE/ES": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "GRAND CARAVAN AWD SE/LE/ES": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "GRAND CARAVAN BASE/SE/LE/ES": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "GRAND CARAVAN AWD SPORT/ES": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "GRAND CARAVAN SPORT/ES": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "GRAND CARAVAN SPORT FWD": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "GRAND CARAVAN SPORT FWD /ANNIVERSARY EDITION/": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "GRAND CARAVAN": {
       "years": [
         2006,
         2007
       ]
     },
-    "VIPER SRT10 COUPE/ACR RWD": {
+    "GRAND CARAVAN SXT": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "GRAND CARAVAN 4DR VAN FWD CANADA VALUE PKG/SE": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "GRAND CARAVAN 4DR VAN FWD SXT": {
       "years": [
         2008,
         2009,
         2010
       ]
     },
-    "VIPER SRT10 ROADSTER 2DR CONV RWD": {
+    "GRAND CARAVAN 4DR VAN CARGO VAN/EXPRESS/MAINS": {
       "years": [
-        2008,
-        2009,
-        2010
+        2011
       ]
     },
-    "VIPER 2DR COUPE /GTS": {
+    "GRAND CARAVAN 4DR VAN FWD CVP/SXT/CREW/CREW P": {
       "years": [
-        2015
+        2012
       ]
     },
-    "VIPER 2DR COUPE": {
+    "GRAND CARAVAN 4DR VAN FWD CVP/SE PLUS/SXT/SXT": {
       "years": [
+        2013,
+        2014
+      ]
+    },
+    "GRAND CARAVAN 4DR VAN FWD": {
+      "years": [
+        2015,
         2016,
-        2017
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Intrepid": {},
+  "Journey": {
+    "JOURNEY 4DR CUV AWD SXT/RT": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "JOURNEY 4DR CUV FWD SE/SXT/RT": {
+      "years": [
+        2008
+      ]
+    },
+    "JOURNEY 4DR CUV FWD SE": {
+      "years": [
+        2009
+      ]
+    },
+    "JOURNEY 4DR CUV FWD SXT/RT": {
+      "years": [
+        2009
+      ]
+    },
+    "JOURNEY 4DR SUV AWD RT": {
+      "years": [
+        2010
+      ]
+    },
+    "JOURNEY 4DR SUV FWD SE": {
+      "years": [
+        2010
+      ]
+    },
+    "JOURNEY 4DR SUV FWD SXT": {
+      "years": [
+        2010
+      ]
+    },
+    "JOURNEY 4DR SUV AWD SXT/CREW/R/T": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "JOURNEY 4DR SUV FWD CANADA VALUE PACKAGE/SE P": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "JOURNEY 4DR SUV FWD R/T": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "JOURNEY 4DR SUV FWD SXT/CREW": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "JOURNEY 4DR SUV AWD R/T/R/T RALLYE": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "JOURNEY 4DR SUV FWD CREW": {
+      "years": [
+        2013
+      ]
+    },
+    "JOURNEY 4DR SUV FWD LIMITED": {
+      "years": [
+        2014
+      ]
+    },
+    "JOURNEY 4DR SUV AWD V6": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "JOURNEY 4DR SUV FWD I4": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "JOURNEY 4DR SUV FWD V6": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "LANCER": {
+    "LANCER (BASE)": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "LANCER ES": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "LANCER 4 DR HATCHBACK": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "LANCER ES 4 DR HATCHBACK": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "LANCER SHELBY 4DR": {
+      "years": [
+        1988,
+        1989
+      ]
+    }
+  },
+  "Magnum": {
+    "MAGNUM 4DR WAGON RWD /SE/SXT": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008
+      ]
+    },
+    "MAGNUM RT 4DR WAGON RWD": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008
+      ]
+    },
+    "MAGNUM SRT8 4DR WAGON RWD": {
+      "years": [
+        2006,
+        2007,
+        2008
+      ]
+    }
+  },
+  "Mini Ram": {
+    "MINI RAM VAN": {
+      "years": [
+        1987,
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "MINI RAM VAN ROYAL": {
+      "years": [
+        1987
+      ]
+    },
+    "MINI RAM EXTENDED VAN": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    }
+  },
+  "Mirada": {
+    "MIRADA": {
+      "years": [
+        1981,
+        1982
+      ]
+    }
+  },
+  "Monaco": {},
+  "Neon": {
+    "NEON 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "NEON 2DR COUPE": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "NEON 2DR COUPE BASE/EX/SPORT/R/T": {
+      "years": [
+        1999
+      ]
+    },
+    "NEON 4DR SEDAN BASE/EX/SPORT/R/T": {
+      "years": [
+        1999
+      ]
+    }
+  },
+  "Nitro": {
+    "NITRO 4DR SUV 4WD SLT/RT": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "NITRO 4DR SUV RWD SE/SXT": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "NITRO 4DR SUV RWD SXT": {
+      "years": [
+        2010,
+        2011
+      ]
+    }
+  },
+  "OMNI": {
+    "OMNI 024": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "OMNI 2 DR": {
+      "years": [
+        1981
+      ]
+    },
+    "OMNI 4 DR": {
+      "years": [
+        1981
+      ]
+    },
+    "OMNI 5 DR": {
+      "years": [
+        1982
+      ]
+    },
+    "OMNI GLH": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "OMNI SE": {
+      "years": [
+        1985
+      ]
+    },
+    "OMNI BASE/SE": {
+      "years": [
+        1986
+      ]
+    },
+    "EXPO 4 DR HATCHBACK OMNI": {
+      "years": [
+        1989
+      ]
+    },
+    "OMNI 4DR HATCHBACK": {
+      "years": [
+        1990
+      ]
+    }
+  },
+  "RAM 50": {
+    "RAM 50": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "POWER RAM 50 4 X 4 CUSTOM/SPORT": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "RAM 50 CUSTOM PICK-UP": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "RAM 50 ROYAL PICK-UP": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "POWER RAM 50 LONG WB 4X4": {
+      "years": [
+        1987,
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "POWER RAM 50 SHORT WB 4X4": {
+      "years": [
+        1987,
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "RAM 50 LONG WB PICK-UP": {
+      "years": [
+        1987
+      ]
+    },
+    "RAM 50 SHORT WB PICK-UP": {
+      "years": [
+        1987
+      ]
+    },
+    "POWER RAM 50 SPORT CAB 4X4": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "RAM 50 LONG WB": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "RAM 50 SHORT WB": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "RAM 50 SPORT CAB": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "RAM 50 SE": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    }
+  },
+  "RD200 / RD250": {},
+  "Raider": {
+    "RAIDER 4X4": {
+      "years": [
+        1987,
+        1988,
+        1989
       ]
     }
   },
@@ -1828,209 +3173,112 @@
       ]
     }
   },
-  "Dart": {
-    "DART SE/SXT/RALLYE/AERO/LIMITED/GT 4DR SEDAN": {
+  "Ram Chassis Cab": {},
+  "Ram Van": {
+    "B-150 RAM VAN LONG WB": {
       "years": [
-        2013,
-        2014
+        1987
       ]
     },
-    "DART SE/SXT/AERO/BLACKTOP/LIMITED/GT 4DR SEDA": {
+    "B-150 RAM VAN SHORT WB": {
       "years": [
-        2015
+        1987
       ]
     },
-    "DART 4DR SEDAN": {
+    "B-250 RAM VAN LONG WB": {
       "years": [
-        2016,
-        2017
+        1987
+      ]
+    },
+    "B-350 RAM VAN LONG WB": {
+      "years": [
+        1987
       ]
     }
   },
-  "Intrepid": {},
-  "Stratus": {
-    "STRATUS 4DR SEDAN BASE/ES": {
+  "Ram Wagon": {
+    "B150 RAMWAGON LONG WB": {
       "years": [
-        1995,
-        1996,
-        1997,
-        1998,
-        1999
+        1985,
+        1986
+      ]
+    },
+    "B150 RAMWAGON SHORT WB": {
+      "years": [
+        1985,
+        1986
       ]
     }
   },
-  "Neon": {
-    "NEON 4DR SEDAN": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "NEON 2DR COUPE": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "NEON 2DR COUPE BASE/EX/SPORT/R/T": {
-      "years": [
-        1999
-      ]
-    },
-    "NEON 4DR SEDAN BASE/EX/SPORT/R/T": {
-      "years": [
-        1999
-      ]
-    }
-  },
-  "Colt": {
-    "COLT HATCHBACK 1.4L": {
+  "Ramcharger": {
+    "RAMCHARGER 4 WD AW 150": {
       "years": [
         1981
       ]
     },
-    "COLT HATCHBACK 1.6L": {
+    "RAMCHARGER DD150": {
       "years": [
         1981
       ]
     },
-    "COLT 2 DR HB": {
+    "RAMCHARGER AD150": {
       "years": [
-        1982
-      ]
-    },
-    "COLT 5 DR HB": {
-      "years": [
-        1982
-      ]
-    },
-    "COLT 100 DL 2 DR HATCHBACK": {
-      "years": [
-        1991
-      ]
-    },
-    "COLT 100 E 2 DR HATCHBACK": {
-      "years": [
-        1991,
-        1992
-      ]
-    },
-    "COLT 100 E/DL 4 DR SEDAN": {
-      "years": [
-        1991
-      ]
-    },
-    "COLT 200 E/GT 2 DR HATCHBACK": {
-      "years": [
-        1991,
-        1992
-      ]
-    },
-    "COLT 100 E 4 DR SEDAN": {
-      "years": [
-        1992
-      ]
-    },
-    "COLT WAGON/SE/AWD SE": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "COLT COUPE/GL 2DR": {
-      "years": [
-        1993
-      ]
-    },
-    "COLT SEDAN/GL 4DR": {
-      "years": [
-        1993
-      ]
-    },
-    "COLT 2DR COUPE BASE/ES": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "COLT 3DR WAGON BASE/SE": {
-      "years": [
-        1994
-      ]
-    },
-    "COLT 3DR WAGON Ti AWD": {
-      "years": [
-        1994
-      ]
-    },
-    "COLT 4DR SEDAN BASE/ES": {
-      "years": [
-        1994
-      ]
-    }
-  },
-  "Stealth": {
-    "STEALTH SPORTS COUPE/ES/RT/RT TURBO": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "STEALTH 2DR COUPE R/T": {
-      "years": [
-        1994
-      ]
-    },
-    "STEALTH 2DR COUPE R/T TURBO AWD": {
-      "years": [
-        1994
-      ]
-    },
-    "STEALTH 2DR HATCHBACK R/T": {
-      "years": [
-        1995,
-        1996
-      ]
-    },
-    "STEALTH 2DR HATCHBACK R/T TURBO AWD": {
-      "years": [
-        1995,
-        1996
-      ]
-    }
-  },
-  "Spirit": {
-    "SPIRIT LE": {
-      "years": [
-        1989
-      ]
-    },
-    "SPIRIT BASE/LE/ES 4DR SEDAN": {
-      "years": [
+        1982,
+        1988,
+        1989,
         1990,
         1991
       ]
     },
-    "SPIRIT BASE/ES 4DR SEDAN": {
+    "RAMCHARGER AW150 4 WD": {
       "years": [
+        1982
+      ]
+    },
+    "RAM CHARGER 4 X 2": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "RAMCHARGER 4 X 4": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "RAMCHARGER 4X2": {
+      "years": [
+        1987
+      ]
+    },
+    "RAMCHARGER AW150 4X4": {
+      "years": [
+        1987,
+        1988,
+        1989,
+        1990,
+        1991,
         1992,
         1993
       ]
     },
-    "SPIRIT 4DR SEDAN": {
+    "RAMCHARGER AD150 4X2": {
       "years": [
-        1994,
-        1995
+        1992,
+        1993
       ]
     }
   },
+  "Rampage": {
+    "RAMPAGE": {
+      "years": [
+        1981,
+        1982
+      ]
+    }
+  },
+  "Royal Mini Ram Van": {},
   "SHADOW": {
     "SHADOW 2 DR HATCHBACK": {
       "years": [
@@ -2118,58 +3366,6 @@
       ]
     }
   },
-  "Dynasty": {},
-  "Daytona": {},
-  "Monaco": {},
-  "OMNI": {
-    "OMNI 024": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "OMNI 2 DR": {
-      "years": [
-        1981
-      ]
-    },
-    "OMNI 4 DR": {
-      "years": [
-        1981
-      ]
-    },
-    "OMNI 5 DR": {
-      "years": [
-        1982
-      ]
-    },
-    "OMNI GLH": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "OMNI SE": {
-      "years": [
-        1985
-      ]
-    },
-    "OMNI BASE/SE": {
-      "years": [
-        1986
-      ]
-    },
-    "EXPO 4 DR HATCHBACK OMNI": {
-      "years": [
-        1989
-      ]
-    },
-    "OMNI 4DR HATCHBACK": {
-      "years": [
-        1990
-      ]
-    }
-  },
   "SHELBY": {
     "SHELBY CHARGER": {
       "years": [
@@ -2183,223 +3379,6 @@
       ]
     }
   },
-  "ARIES": {
-    "ARIES K 2 DR": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "ARIES K 4 DR": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "ARIES K WAGON": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "ARIES (BASE) 2 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "ARIES (BASE) 4 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "ARIES LE 2 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "ARIES LE 4 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "ARIES LE WAGON": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "ARIES SE 2 DR": {
-      "years": [
-        1985,
-        1985,
-        1986
-      ]
-    },
-    "ARIES SE WAGON": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "ARIES SE 4 DR": {
-      "years": [
-        1986
-      ]
-    },
-    "ARIES CANADA-K 2 DR SEDAN": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "ARIES CANADA-K 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "ARIES CANADA-K WAGON": {
-      "years": [
-        1987,
-        1988
-      ]
-    }
-  },
-  "600": {
-    "600 2 DR": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "600 4 DR": {
-      "years": [
-        1985
-      ]
-    },
-    "600 TURBO CONVERTIBLE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "600 BASE/SE (4-DR)": {
-      "years": [
-        1986
-      ]
-    },
-    "600ES  TURBO CONVERTIBLE": {
-      "years": [
-        1986
-      ]
-    },
-    "600 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "600 SE 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "600 BASE/SE 4 DR SEDAN": {
-      "years": [
-        1988
-      ]
-    }
-  },
-  "DIPLOMAT": {
-    "DIPLOMAT 2 DR": {
-      "years": [
-        1981
-      ]
-    },
-    "DIPLOMAT 4 DR": {
-      "years": [
-        1981
-      ]
-    },
-    "DIPLOMAT WAGON": {
-      "years": [
-        1981
-      ]
-    },
-    "DIPLOMAT": {
-      "years": [
-        1982
-      ]
-    },
-    "DIPLOMAT SALON": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "DIPLOMAT SALON 4 DR SEDAN": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    }
-  },
-  "LANCER": {
-    "LANCER (BASE)": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "LANCER ES": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "LANCER 4 DR HATCHBACK": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "LANCER ES 4 DR HATCHBACK": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "LANCER SHELBY 4DR": {
-      "years": [
-        1988,
-        1989
-      ]
-    }
-  },
-  "Conquest": {},
-  "400": {
-    "400": {
-      "years": [
-        1982
-      ]
-    }
-  },
-  "Mirada": {
-    "MIRADA": {
-      "years": [
-        1981,
-        1982
-      ]
-    }
-  },
   "ST.REGIS": {
     "ST. REGIS": {
       "years": [
@@ -2407,427 +3386,31 @@
       ]
     }
   },
-  "Journey": {
-    "JOURNEY 4DR CUV AWD SXT/RT": {
+  "Spirit": {
+    "SPIRIT LE": {
       "years": [
-        2008,
-        2009
+        1989
       ]
     },
-    "JOURNEY 4DR CUV FWD SE/SXT/RT": {
+    "SPIRIT BASE/LE/ES 4DR SEDAN": {
       "years": [
-        2008
+        1990,
+        1991
       ]
     },
-    "JOURNEY 4DR CUV FWD SE": {
+    "SPIRIT BASE/ES 4DR SEDAN": {
       "years": [
-        2009
+        1992,
+        1993
       ]
     },
-    "JOURNEY 4DR CUV FWD SXT/RT": {
+    "SPIRIT 4DR SEDAN": {
       "years": [
-        2009
-      ]
-    },
-    "JOURNEY 4DR SUV AWD RT": {
-      "years": [
-        2010
-      ]
-    },
-    "JOURNEY 4DR SUV FWD SE": {
-      "years": [
-        2010
-      ]
-    },
-    "JOURNEY 4DR SUV FWD SXT": {
-      "years": [
-        2010
-      ]
-    },
-    "JOURNEY 4DR SUV AWD SXT/CREW/R/T": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "JOURNEY 4DR SUV FWD CANADA VALUE PACKAGE/SE P": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "JOURNEY 4DR SUV FWD R/T": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "JOURNEY 4DR SUV FWD SXT/CREW": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "JOURNEY 4DR SUV AWD R/T/R/T RALLYE": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "JOURNEY 4DR SUV FWD CREW": {
-      "years": [
-        2013
-      ]
-    },
-    "JOURNEY 4DR SUV FWD LIMITED": {
-      "years": [
-        2014
-      ]
-    },
-    "JOURNEY 4DR SUV AWD V6": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "JOURNEY 4DR SUV FWD I4": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "JOURNEY 4DR SUV FWD V6": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
+        1994,
+        1995
       ]
     }
   },
-  "Nitro": {
-    "NITRO 4DR SUV 4WD SLT/RT": {
-      "years": [
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "NITRO 4DR SUV RWD SE/SXT": {
-      "years": [
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "NITRO 4DR SUV RWD SXT": {
-      "years": [
-        2010,
-        2011
-      ]
-    }
-  },
-  "Dakota": {
-    "DAKOTA LONG WB 4X4": {
-      "years": [
-        1987,
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "DAKOTA LONG WB PICK-UP": {
-      "years": [
-        1987
-      ]
-    },
-    "DAKOTA SHORT WB 4X4": {
-      "years": [
-        1987,
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "DAKOTA SHORT WB PICK-UP": {
-      "years": [
-        1987
-      ]
-    },
-    "DAKOTA LONG WB": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "DAKOTA SHORT WB": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "DAKOTA CLUB CAB PICKUP": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "DAKOTA CLUB CAB PICKUP 4X4": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "DAKOTA P/U CLUB CAB S/BOX": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "DAKOTA P/U CLUB CAB S/BOX 4X4": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "DAKOTA P/U REG CAB L/BOX": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "DAKOTA P/U REG CAB L/BOX 4X4": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "DAKOTA P/U REG CAB S/BOX": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "DAKOTA P/U REG CAB S/BOX 4X4": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "DAKOTA P/U CLUB CAB S/BOX 2WD": {
-      "years": [
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "DAKOTA P/U CLUB CAB S/BOX 4WD": {
-      "years": [
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "DAKOTA P/U REG CAB L/BOX 2WD": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001
-      ]
-    },
-    "DAKOTA P/U REG CAB S/BOX 2WD": {
-      "years": [
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "DAKOTA P/U REG CAB S/BOX 4WD": {
-      "years": [
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "DAKOTA P/U CLUB CAB L/BOX 2WD": {
-      "years": [
-        2000,
-        2001
-      ]
-    },
-    "DAKOTA P/U CLUB CAB L/BOX 4WD": {
-      "years": [
-        2000,
-        2001
-      ]
-    },
-    "DAKOTA P/U QUAD CAB S/BOX 2WD": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "DAKOTA P/U QUAD CAB S/BOX 4WD": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "DAKOTA P/U REG CAB L/BOX 4WD": {
-      "years": [
-        2000,
-        2001
-      ]
-    },
-    "DAKOTA P/U CLUB CAB L/BOX 2WD SXT/SLT/R/T": {
-      "years": [
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "DAKOTA P/U CLUB CAB L/BOX 4WD SXT/SLT/R/T": {
-      "years": [
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "DAKOTA P/U REG CAB L/BOX 2WD Sport/SLT": {
-      "years": [
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "DAKOTA P/U REG CAB L/BOX 4WD Sport/SLT": {
-      "years": [
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "DAKOTA P/U CLUB CAB 2WD LARAMIE": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "DAKOTA P/U CLUB CAB 2WD ST/SLT": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "DAKOTA P/U CLUB CAB 4WD ST/SLT": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "DAKOTA P/U QUAD CAB 2WD LARAMIE": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "DAKOTA P/U QUAD CAB 2WD ST/SLT": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "DAKOTA P/U QUAD CAB 4WD ST/SLT": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "DAKOTA P/U CLUB CAB 2WD ST/SLT/SXT": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "DAKOTA P/U CLUB CAB 4WD ST/SLT/SXT": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "DAKOTA P/U QUAD CAB 2WD ST/SLT/SXT": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "DAKOTA P/U QUAD CAB 4WD ST/SLT/SXT": {
-      "years": [
-        2010,
-        2011
-      ]
-    }
-  },
-  "Caravan/Grand Caravan": {},
-  "Ram Chassis Cab": {},
   "Sprinter": {
     "SPRINTER 2500 LWB CARGO VAN HIGH ROOF": {
       "years": [
@@ -3031,704 +3614,121 @@
       ]
     }
   },
-  "Durango": {
-    "DURANGO 4WD SLT/SLT PLUS": {
+  "Stealth": {
+    "STEALTH SPORTS COUPE/ES/RT/RT TURBO": {
       "years": [
-        1998
-      ]
-    },
-    "DURANGO 2X4 SLT/SLT PLUS": {
-      "years": [
-        1999
-      ]
-    },
-    "DURANGO 4X4 SLT/SLT PLUS": {
-      "years": [
-        1999
-      ]
-    },
-    "DURANGO 4X4 SPORT/SLT": {
-      "years": [
-        2000,
-        2001
-      ]
-    },
-    "DURANGO SUV 4X4 R/T": {
-      "years": [
-        2002,
-        2003
-      ]
-    },
-    "DURANGO SUV 4X4 SXT/SLT/SLT Plus": {
-      "years": [
-        2002,
-        2003
-      ]
-    },
-    "DURANGO SUV 4X4 /LIMITED": {
-      "years": [
-        2004
-      ]
-    },
-    "DURANGO SUV 4X4 /SLT/SLT PLUS": {
-      "years": [
-        2004
-      ]
-    },
-    "DURANGO SUV 4WD /LIMITED": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "DURANGO SUV 4WD /SLT/SLT PLUS": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "DURANGO 4DR SUV 4WD SLT/SLT PLUS": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "DURANGO HYBRID 4DR SUV 4WD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "DURANGO 4DR SUV AWD V6 SXT/CREW PLUS/CITADEL": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "DURANGO 4DR SUV AWD V8 CREW PLUS/CITADEL": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "DURANGO 4DR SUV RWD V6 SXT/CREW PLUS/CITADEL": {
-      "years": [
-        2011
-      ]
-    },
-    "DURANGO 4DR SUV RWD V8 CREW PLUS/CITADEL": {
-      "years": [
-        2011
-      ]
-    },
-    "DURANGO 4DR SUV AWD V8 R/T/CREW PLUS/CITADEL": {
-      "years": [
-        2013
-      ]
-    },
-    "DURANGO 4DR SUV AWD V6 SXT/LIMITED/CITADEL": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "DURANGO 4DR SUV AWD V8 R/T/LIMITED/CITADEL": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "DURANGO 4DR SUV AWD V6": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "DURANGO 4DR SUV AWD V8": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Ramcharger": {
-    "RAMCHARGER 4 WD AW 150": {
-      "years": [
-        1981
-      ]
-    },
-    "RAMCHARGER DD150": {
-      "years": [
-        1981
-      ]
-    },
-    "RAMCHARGER AD150": {
-      "years": [
-        1982,
-        1988,
-        1989,
-        1990,
-        1991
-      ]
-    },
-    "RAMCHARGER AW150 4 WD": {
-      "years": [
-        1982
-      ]
-    },
-    "RAM CHARGER 4 X 2": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "RAMCHARGER 4 X 4": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "RAMCHARGER 4X2": {
-      "years": [
-        1987
-      ]
-    },
-    "RAMCHARGER AW150 4X4": {
-      "years": [
-        1987,
-        1988,
-        1989,
-        1990,
         1991,
         1992,
         1993
       ]
     },
-    "RAMCHARGER AD150 4X2": {
-      "years": [
-        1992,
-        1993
-      ]
-    }
-  },
-  "Ram Van": {
-    "B-150 RAM VAN LONG WB": {
-      "years": [
-        1987
-      ]
-    },
-    "B-150 RAM VAN SHORT WB": {
-      "years": [
-        1987
-      ]
-    },
-    "B-250 RAM VAN LONG WB": {
-      "years": [
-        1987
-      ]
-    },
-    "B-350 RAM VAN LONG WB": {
-      "years": [
-        1987
-      ]
-    }
-  },
-  "Ram Wagon": {
-    "B150 RAMWAGON LONG WB": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "B150 RAMWAGON SHORT WB": {
-      "years": [
-        1985,
-        1986
-      ]
-    }
-  },
-  "Caravan": {
-    "CARAVAN": {
-      "years": [
-        1985,
-        1988,
-        1989
-      ]
-    },
-    "CARAVAN BASE/SE/LE": {
-      "years": [
-        1986,
-        1998,
-        1999
-      ]
-    },
-    "CARAVAN (VAN)": {
-      "years": [
-        1987
-      ]
-    },
-    "CARAVAN EXTENDED BODY LE VAN": {
-      "years": [
-        1987
-      ]
-    },
-    "CARAVAN EXTENDED BODY SE VAN": {
-      "years": [
-        1987
-      ]
-    },
-    "CARAVAN LE VAN": {
-      "years": [
-        1987
-      ]
-    },
-    "CARAVAN SE VAN": {
-      "years": [
-        1987
-      ]
-    },
-    "CARAVAN LE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "CARAVAN SE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "CARAVAN BASE/SE/LE WAGON": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "CARAVAN C/V EXTENDED VAN FWD/AWD": {
-      "years": [
-        1991,
-        1993
-      ]
-    },
-    "CARAVAN C/V FWD/AWD": {
-      "years": [
-        1991,
-        1993
-      ]
-    },
-    "CARAVAN SE/LE AWD WAGON": {
-      "years": [
-        1991
-      ]
-    },
-    "CARAVAN C/V AWD": {
-      "years": [
-        1992
-      ]
-    },
-    "CARAVAN C/V EXTENDED VAN AWD": {
-      "years": [
-        1992
-      ]
-    },
-    "CARAVAN C/V EXTENDED VAN FWD": {
-      "years": [
-        1992
-      ]
-    },
-    "CARAVAN C/V FWD": {
-      "years": [
-        1992
-      ]
-    },
-    "CARAVAN SE/LE/ES AWD WAGON": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "CARAVAN SE/LE/ES FWD WAGON": {
-      "years": [
-        1992
-      ]
-    },
-    "CARAVAN SE/LE/ES WAGON": {
-      "years": [
-        1993
-      ]
-    },
-    "CARAVAN 3DR WAGON AWD SE/LE/ES": {
+    "STEALTH 2DR COUPE R/T": {
       "years": [
         1994
       ]
     },
-    "CARAVAN 3DR WAGON BASE/SE/LE/ES": {
+    "STEALTH 2DR COUPE R/T TURBO AWD": {
       "years": [
-        1994,
-        1995
+        1994
       ]
     },
-    "CARAVAN CARGO VAN": {
+    "STEALTH 2DR HATCHBACK R/T": {
       "years": [
-        1994,
-        1995
+        1995,
+        1996
       ]
     },
-    "CARAVAN CARGO VAN EXTENDED BODY": {
+    "STEALTH 2DR HATCHBACK R/T TURBO AWD": {
       "years": [
-        1994,
-        1995
+        1995,
+        1996
       ]
-    },
-    "CARAVAN BASE/SE/LE/ES": {
+    }
+  },
+  "Stratus": {
+    "STRATUS 4DR SEDAN BASE/ES": {
       "years": [
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    }
+  },
+  "Viper": {
+    "VIPER RT-10 2DR CONVERTIBLE": {
+      "years": [
+        1993,
+        1994,
+        1995,
         1996,
         1997
       ]
     },
-    "CARAVAN BASE/SE": {
+    "VIPER 2DR HATCHBACK GTS": {
       "years": [
-        2000
-      ]
-    },
-    "CARAVAN SE/SPORT": {
-      "years": [
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "CARAVAN FWD BASE/ANNIVERSARY EDITION/SXT": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "CARAVAN FWD BASE/SXT": {
-      "years": [
-        2006,
-        2007
-      ]
-    }
-  },
-  "Grand Caravan": {
-    "GRAND CARAVAN LE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "GRAND CARAVAN SE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "GRAND CARAVAN SE/LE WAGON": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "GRAND CARAVAN SE/LE AWD WAGON": {
-      "years": [
-        1991
-      ]
-    },
-    "GRAND CARAVAN SE/LE/ES AWD WAGON": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "GRAND CARAVAN SE/LE/ES FWD WAGON": {
-      "years": [
-        1992
-      ]
-    },
-    "GRAND CARAVAN SE/LE/ES WAGON": {
-      "years": [
-        1993
-      ]
-    },
-    "GRAND CARAVAN 3DR WAGON AWD SE/LE/ES": {
-      "years": [
-        1994,
-        1995
-      ]
-    },
-    "GRAND CARAVAN 3DR WAGON BASE/SE/LE/ES": {
-      "years": [
-        1994,
-        1995
-      ]
-    },
-    "GRAND CARAVAN AWD SE/LE/ES": {
-      "years": [
-        1996,
         1997,
         1998,
-        1999,
-        2000
+        1999
       ]
     },
-    "GRAND CARAVAN BASE/SE/LE/ES": {
+    "VIPER 2DR CONVERTIBLE RT-10": {
       "years": [
-        1996,
-        1997,
         1998,
         1999,
-        2000
-      ]
-    },
-    "GRAND CARAVAN AWD SPORT/ES": {
-      "years": [
+        2000,
         2001,
-        2002,
-        2003
+        2002
       ]
     },
-    "GRAND CARAVAN SPORT/ES": {
+    "VIPER 2DR HATCHBACK GTS/ACR": {
       "years": [
+        2000,
         2001,
-        2002,
-        2003
+        2002
       ]
     },
-    "GRAND CARAVAN SPORT FWD": {
+    "VIPER SRT/10 2DR CONV RWD": {
       "years": [
+        2003,
         2004,
-        2005
+        2005,
+        2006,
+        2007
       ]
     },
-    "GRAND CARAVAN SPORT FWD /ANNIVERSARY EDITION/": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "GRAND CARAVAN": {
+    "VIPER SRT/10 2DR COUPE RWD": {
       "years": [
         2006,
         2007
       ]
     },
-    "GRAND CARAVAN SXT": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "GRAND CARAVAN 4DR VAN FWD CANADA VALUE PKG/SE": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "GRAND CARAVAN 4DR VAN FWD SXT": {
+    "VIPER SRT10 COUPE/ACR RWD": {
       "years": [
         2008,
         2009,
         2010
       ]
     },
-    "GRAND CARAVAN 4DR VAN CARGO VAN/EXPRESS/MAINS": {
+    "VIPER SRT10 ROADSTER 2DR CONV RWD": {
       "years": [
-        2011
+        2008,
+        2009,
+        2010
       ]
     },
-    "GRAND CARAVAN 4DR VAN FWD CVP/SXT/CREW/CREW P": {
+    "VIPER 2DR COUPE /GTS": {
       "years": [
-        2012
+        2015
       ]
     },
-    "GRAND CARAVAN 4DR VAN FWD CVP/SE PLUS/SXT/SXT": {
+    "VIPER 2DR COUPE": {
       "years": [
-        2013,
-        2014
-      ]
-    },
-    "GRAND CARAVAN 4DR VAN FWD": {
-      "years": [
-        2015,
         2016,
-        2017,
-        2018,
-        2019
+        2017
       ]
     }
   },
-  "RAM 50": {
-    "RAM 50": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "POWER RAM 50 4 X 4 CUSTOM/SPORT": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "RAM 50 CUSTOM PICK-UP": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "RAM 50 ROYAL PICK-UP": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "POWER RAM 50 LONG WB 4X4": {
-      "years": [
-        1987,
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "POWER RAM 50 SHORT WB 4X4": {
-      "years": [
-        1987,
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "RAM 50 LONG WB PICK-UP": {
-      "years": [
-        1987
-      ]
-    },
-    "RAM 50 SHORT WB PICK-UP": {
-      "years": [
-        1987
-      ]
-    },
-    "POWER RAM 50 SPORT CAB 4X4": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "RAM 50 LONG WB": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "RAM 50 SHORT WB": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "RAM 50 SPORT CAB": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "RAM 50 SE": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    }
-  },
-  "D-Series": {},
-  "W-Series": {},
-  "Raider": {
-    "RAIDER 4X4": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    }
-  },
-  "Mini Ram": {
-    "MINI RAM VAN": {
-      "years": [
-        1987,
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "MINI RAM VAN ROYAL": {
-      "years": [
-        1987
-      ]
-    },
-    "MINI RAM EXTENDED VAN": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    }
-  },
-  "Royal Mini Ram Van": {},
-  "D50": {},
-  "Rampage": {
-    "RAMPAGE": {
-      "years": [
-        1981,
-        1982
-      ]
-    }
-  },
-  "RD200 / RD250": {},
-  "Magnum": {
-    "MAGNUM 4DR WAGON RWD /SE/SXT": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008
-      ]
-    },
-    "MAGNUM RT 4DR WAGON RWD": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008
-      ]
-    },
-    "MAGNUM SRT8 4DR WAGON RWD": {
-      "years": [
-        2006,
-        2007,
-        2008
-      ]
-    }
-  }
+  "W-Series": {}
 }

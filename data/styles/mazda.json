@@ -1,4 +1,730 @@
 {
+  "323": {
+    "323 DELUXE SEDAN": {
+      "years": [
+        1986
+      ]
+    },
+    "323 HATCHBACK BASE(2-DR)": {
+      "years": [
+        1986
+      ]
+    },
+    "323 HATCHBACK DELUXE (2-DR)": {
+      "years": [
+        1986
+      ]
+    },
+    "323 HATCHBACK DELUXE (4-DR)": {
+      "years": [
+        1986
+      ]
+    },
+    "323 HATCHBACK GT (2-DR)": {
+      "years": [
+        1986
+      ]
+    },
+    "323 HATCHBACK LUXURY (2-DR)": {
+      "years": [
+        1986
+      ]
+    },
+    "323 LUXURY SEDAN": {
+      "years": [
+        1986
+      ]
+    },
+    "323 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "323 DELUXE 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "323 DELUXE 4 DR HATCHBACK": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "323 DELUXE 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "323 DELUXE WAGON": {
+      "years": [
+        1987
+      ]
+    },
+    "323 GT 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "323 LUXURY 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "323 LUXURY 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "323 LUXURY WAGON": {
+      "years": [
+        1987
+      ]
+    },
+    "323 BASE/LUXURY WAGON": {
+      "years": [
+        1988
+      ]
+    },
+    "323 BASE/LUXURY/DELUXE 2 DR HATCHBACK": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "323 BASE/LUXURY/DELUXE/GT 4 DR SEDAN": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "323 GTX 2 DR HATCHBACK": {
+      "years": [
+        1988
+      ]
+    },
+    "323 GTX/4WD TURBO 2 DR HATCHBACK": {
+      "years": [
+        1989
+      ]
+    },
+    "323 WAGON": {
+      "years": [
+        1989
+      ]
+    },
+    "323 PROTEGE BASE/LX/DX 4WD/GT 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "323 STD/DX/LX 2DR HATCHBACK": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "323 DX/LX/SE 2DR HATCHBACK": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "323 PROTEGE LX/DX/SE 4DR SEDAN": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "323 2DR HATCHBACK BASE/SE/LX": {
+      "years": [
+        1994
+      ]
+    },
+    "323 PROTEGE 4DR SEDAN DX/SE/LX": {
+      "years": [
+        1994
+      ]
+    },
+    "323 2DR HATCHBACK GS": {
+      "years": [
+        1995
+      ]
+    },
+    "323 2DR HATCHBACK LX": {
+      "years": [
+        1995
+      ]
+    },
+    "323 2DR HATCHBACK S (OLD BODY STYLE)": {
+      "years": [
+        1995
+      ]
+    },
+    "323 PROTEGE 4DR SEDAN LX/ES": {
+      "years": [
+        1995,
+        1996
+      ]
+    },
+    "323 PROTEGE 4DR SEDAN S (OLD BODY STYLE)": {
+      "years": [
+        1995,
+        1996
+      ]
+    }
+  },
+  "626": {
+    "626 2 DR": {
+      "years": [
+        1981
+      ]
+    },
+    "626 4 DR": {
+      "years": [
+        1981
+      ]
+    },
+    "626 CP": {
+      "years": [
+        1982
+      ]
+    },
+    "626 SD": {
+      "years": [
+        1982
+      ]
+    },
+    "626 DELUXE SPORT COUPE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "626 DELUXE SPORT SEDAN": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "626 LUXURY TOURING SEDAN": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "626 TURBO TOURING SEDAN": {
+      "years": [
+        1986
+      ]
+    },
+    "626 DELUXE 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "626 DELUXE 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "626 LUXURY 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "626 LUXURY 4 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "626 LUXURY 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "626 TURBO 2 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "626 TURBO 4 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "626 TURBO 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "626 LUXURY/DELUXE/TURBO/4WS 4 DR SEDAN": {
+      "years": [
+        1988
+      ]
+    },
+    "626 LUXURY/TURBO TOURING 4 DR SEDAN": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "626 LUXURY/DELUXE/4 DR SEDAN": {
+      "years": [
+        1989
+      ]
+    },
+    "626 DX/LX 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "626 LUXURY/TURBO TOURING 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "626 LX/GT TURBO TOURING 4DR SEDAN": {
+      "years": [
+        1991
+      ]
+    },
+    "626 SE/LX 4DR SEDAN": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "626 CRONOS DX/LX/ES 4DR SEDAN": {
+      "years": [
+        1993
+      ]
+    },
+    "626 CRONOS 4DR SEDAN DX/LX": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "626 CRONOS 4DR SEDAN LX/ES V6": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "626 4DR SEDAN LX": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "626 4DR SEDAN LX/ES V6": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    }
+  },
+  "929": {
+    "929 SEDAN": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "929S 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "929 SERENIA 4DR SEDAN": {
+      "years": [
+        1992,
+        1993,
+        1994
+      ]
+    }
+  },
+  "B-Series": {},
+  "CX-3": {
+    "CX-3 AWD": {
+      "years": [
+        2016
+      ]
+    },
+    "CX-3 FWD": {
+      "years": [
+        2016
+      ]
+    },
+    "CX-3 4DR SUV AWD": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "CX-3 4DR SUV FWD": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "CX-30": {},
+  "CX-5": {
+    "CX-5 4DR SUV GS/GT AWD": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "CX-5 4DR SUV GS/GT FWD": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "CX-5 4DR SUV GX AWD": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "CX-5 4DR SUV GX FWD": {
+      "years": [
+        2013,
+        2014
+      ]
+    },
+    "CX-5 GS/GT 4DR SUV AWD": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "CX-5 GS/GT 4DR SUV FWD": {
+      "years": [
+        2015
+      ]
+    },
+    "CX-5 GX 4DR SUV AWD": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "CX-5 GX 4DR SUV FWD": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "CX-5 GS 4DR SUV FWD": {
+      "years": [
+        2016
+      ]
+    },
+    "CX-5 GS 4DR SUV FWD (2016.5)": {
+      "years": [
+        2017
+      ]
+    },
+    "CX-5 GS/GT 4DR SUV AWD (2016.5)": {
+      "years": [
+        2017
+      ]
+    },
+    "CX-5 GX 4DR SUV AWD (2016.5)": {
+      "years": [
+        2017
+      ]
+    },
+    "CX-5 GX 4DR SUV FWD (2016.5)": {
+      "years": [
+        2017
+      ]
+    },
+    "CX-5 2.0L FWD 4DR SUV (2017)": {
+      "years": [
+        2017
+      ]
+    },
+    "CX-5 2.5L AWD 4DR SUV (2017)": {
+      "years": [
+        2017
+      ]
+    },
+    "CX-5 2.5L FWD 4DR SUV (2017)": {
+      "years": [
+        2017
+      ]
+    },
+    "CX-5 2.0L FWD 4DR SUV": {
+      "years": [
+        2018
+      ]
+    },
+    "CX-5 2.5L AWD 4DR SUV": {
+      "years": [
+        2018
+      ]
+    },
+    "CX-5 2.5L FWD 4DR SUV": {
+      "years": [
+        2018
+      ]
+    },
+    "CX-5 AWD 4DR SUV": {
+      "years": [
+        2019
+      ]
+    },
+    "CX-5 FWD 4DR SUV": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "CX-7": {
+    "CX-7 4DR SUV FWD GS/GT": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "CX-7 4DR SUV AWD GS/GT": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "CX-7 4DR SUV FWD GX": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    }
+  },
+  "CX-9": {
+    "CX-9 4DR SUV FWD GS/GT": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "CX-9 4DR SUV AWD GT": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "CX-9 4DR SUV FWD GS": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "CX-9 GS 4DR SUV FWD": {
+      "years": [
+        2015
+      ]
+    },
+    "CX-9 GS/GT 4DR SUV AWD": {
+      "years": [
+        2015
+      ]
+    },
+    "CX-9 4DR SUV AWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "CX-9 4DR SUV FWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "GLC": {
+    "GLC 2 DR": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "GLC 2 DR HB": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "GLC 4 DR": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "GLC 4 DR HB": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "GLC WAGON": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "GLC 2 DR HATCHBACK": {
+      "years": [
+        1985
+      ]
+    },
+    "GLC DECOR 4 DR HATCHBACK": {
+      "years": [
+        1985
+      ]
+    },
+    "GLC SEDAN DECOR": {
+      "years": [
+        1985
+      ]
+    }
+  },
+  "MPV": {
+    "MPV/MPV LX": {
+      "years": [
+        1989
+      ]
+    },
+    "MPV 4WD": {
+      "years": [
+        1990
+      ]
+    },
+    "MPV/MPV LX 2WD": {
+      "years": [
+        1990
+      ]
+    },
+    "MPV 4WD WAGON": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "MPV/MPV LX 2WD WAGON": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "MPV 3DR WAGON 2WD BASE/LX": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "MPV 3DR WAGON 2WD BASE/LX V6": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "MPV 3DR WAGON 4WD BASE/LX V6": {
+      "years": [
+        1994,
+        1995
+      ]
+    },
+    "MPV 4DR WAGON 2WD L/LX V6": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "MPV 4DR WAGON 4WD LX V6": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999
+      ]
+    },
+    "MPV 4DR WAGON FWD DX/LX/ES": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "MPV 4DR WAGON FWD GX/GS/GT": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    }
+  },
+  "MX-3": {
+    "MX-3 PRECIDIA/GS": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "MX-3 PRECIDIA 2DR HATCHBACK GS V6": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "MX-3 PRECIDIA 2DR HATCHBACK RS 1.6L": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    }
+  },
   "MX-5": {
     "MX-5 MIATA CONVERTIBLE": {
       "years": [
@@ -77,29 +803,85 @@
       ]
     }
   },
-  "RX-8": {
-    "RX-8 2DR COUPE RWD GS/GT": {
+  "MX-6": {
+    "MX-6 DELUXE/LUXURY/GT TURBO SPORT COUPE": {
       "years": [
-        2004
+        1988
       ]
     },
-    "RX-8 2DR COUPE RWD /GS/GT": {
+    "MX-6 DELUXE/LUXURY/GT/GT-4WS COUPE": {
       "years": [
-        2005,
-        2006,
-        2007,
-        2008
+        1989
       ]
     },
-    "RX-8 2DR COUPE RWD GS/R3/GT": {
+    "MX-6 4WS 2DR COUPE": {
       "years": [
-        2009
+        1990
       ]
     },
-    "RX-8 2DR COUPE RWD R3/GT": {
+    "MX-6 DX 2DR COUPE": {
       "years": [
-        2010,
+        1990
+      ]
+    },
+    "MX-6 GT 2DR COUPE": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "MX-6 LX 2DR COUPE": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "MX-6 SE 2DR COUPE": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
+    "MX-6 MYSTERE RS/LS 2DR COUPE": {
+      "years": [
+        1993
+      ]
+    },
+    "MX-6 MYSTERE 2DR COUPE LS V6": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "MX-6 MYSTERE 2DR COUPE RS 2.0L": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    }
+  },
+  "Mazda2": {
+    "MAZDA2 4 DR HATCHBACK": {
+      "years": [
         2011
+      ]
+    },
+    "MAZDA2 4 DR HATCHBACK GX/GS": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "MAZDA2 4DR HATCHBACK GX/GS": {
+      "years": [
+        2015
       ]
     }
   },
@@ -452,105 +1234,37 @@
       ]
     }
   },
-  "Mazda2": {
-    "MAZDA2 4 DR HATCHBACK": {
-      "years": [
-        2011
-      ]
-    },
-    "MAZDA2 4 DR HATCHBACK GX/GS": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "MAZDA2 4DR HATCHBACK GX/GS": {
-      "years": [
-        2015
-      ]
-    }
-  },
-  "MPV": {
-    "MPV/MPV LX": {
-      "years": [
-        1989
-      ]
-    },
-    "MPV 4WD": {
-      "years": [
-        1990
-      ]
-    },
-    "MPV/MPV LX 2WD": {
-      "years": [
-        1990
-      ]
-    },
-    "MPV 4WD WAGON": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "MPV/MPV LX 2WD WAGON": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "MPV 3DR WAGON 2WD BASE/LX": {
+  "Millenia": {
+    "MILLENIA 4DR SEDAN BASE/S": {
       "years": [
         1994,
-        1995
+        1995,
+        1996
       ]
     },
-    "MPV 3DR WAGON 2WD BASE/LX V6": {
+    "MILLENIA 4DR SEDAN BASE V6": {
       "years": [
-        1994,
-        1995
-      ]
-    },
-    "MPV 3DR WAGON 4WD BASE/LX V6": {
-      "years": [
-        1994,
-        1995
-      ]
-    },
-    "MPV 4DR WAGON 2WD L/LX V6": {
-      "years": [
-        1996,
         1997,
         1998,
         1999
       ]
     },
-    "MPV 4DR WAGON 4WD LX V6": {
+    "MILLENIA 4DR SEDAN S V6 MILLER CYCLE": {
       "years": [
-        1996,
         1997,
         1998,
-        1999
-      ]
-    },
-    "MPV 4DR WAGON FWD DX/LX/ES": {
-      "years": [
-        2000,
+        1999,
         2001,
-        2002,
-        2003
+        2002
       ]
     },
-    "MPV 4DR WAGON FWD GX/GS/GT": {
+    "MILLENIA 4DR SEDAN S/SE V6 MILLER CYCLE": {
       "years": [
-        2004,
-        2005,
-        2006
+        2000
       ]
     }
   },
+  "Navajo": {},
   "Protege": {
     "PROTEGE 4DR SEDAN SE/LX": {
       "years": [
@@ -598,417 +1312,6 @@
     "MAZDASPEED PROTEGE 4DR SEDAN FWD": {
       "years": [
         2003
-      ]
-    }
-  },
-  "Millenia": {
-    "MILLENIA 4DR SEDAN BASE/S": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "MILLENIA 4DR SEDAN BASE V6": {
-      "years": [
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "MILLENIA 4DR SEDAN S V6 MILLER CYCLE": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2001,
-        2002
-      ]
-    },
-    "MILLENIA 4DR SEDAN S/SE V6 MILLER CYCLE": {
-      "years": [
-        2000
-      ]
-    }
-  },
-  "626": {
-    "626 2 DR": {
-      "years": [
-        1981
-      ]
-    },
-    "626 4 DR": {
-      "years": [
-        1981
-      ]
-    },
-    "626 CP": {
-      "years": [
-        1982
-      ]
-    },
-    "626 SD": {
-      "years": [
-        1982
-      ]
-    },
-    "626 DELUXE SPORT COUPE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "626 DELUXE SPORT SEDAN": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "626 LUXURY TOURING SEDAN": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "626 TURBO TOURING SEDAN": {
-      "years": [
-        1986
-      ]
-    },
-    "626 DELUXE 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "626 DELUXE 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "626 LUXURY 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "626 LUXURY 4 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "626 LUXURY 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "626 TURBO 2 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "626 TURBO 4 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "626 TURBO 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "626 LUXURY/DELUXE/TURBO/4WS 4 DR SEDAN": {
-      "years": [
-        1988
-      ]
-    },
-    "626 LUXURY/TURBO TOURING 4 DR SEDAN": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "626 LUXURY/DELUXE/4 DR SEDAN": {
-      "years": [
-        1989
-      ]
-    },
-    "626 DX/LX 4DR SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "626 LUXURY/TURBO TOURING 4DR SEDAN": {
-      "years": [
-        1990
-      ]
-    },
-    "626 LX/GT TURBO TOURING 4DR SEDAN": {
-      "years": [
-        1991
-      ]
-    },
-    "626 SE/LX 4DR SEDAN": {
-      "years": [
-        1991,
-        1992
-      ]
-    },
-    "626 CRONOS DX/LX/ES 4DR SEDAN": {
-      "years": [
-        1993
-      ]
-    },
-    "626 CRONOS 4DR SEDAN DX/LX": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "626 CRONOS 4DR SEDAN LX/ES V6": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "626 4DR SEDAN LX": {
-      "years": [
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "626 4DR SEDAN LX/ES V6": {
-      "years": [
-        2000,
-        2001,
-        2002
-      ]
-    }
-  },
-  "323": {
-    "323 DELUXE SEDAN": {
-      "years": [
-        1986
-      ]
-    },
-    "323 HATCHBACK BASE(2-DR)": {
-      "years": [
-        1986
-      ]
-    },
-    "323 HATCHBACK DELUXE (2-DR)": {
-      "years": [
-        1986
-      ]
-    },
-    "323 HATCHBACK DELUXE (4-DR)": {
-      "years": [
-        1986
-      ]
-    },
-    "323 HATCHBACK GT (2-DR)": {
-      "years": [
-        1986
-      ]
-    },
-    "323 HATCHBACK LUXURY (2-DR)": {
-      "years": [
-        1986
-      ]
-    },
-    "323 LUXURY SEDAN": {
-      "years": [
-        1986
-      ]
-    },
-    "323 2 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "323 DELUXE 2 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "323 DELUXE 4 DR HATCHBACK": {
-      "years": [
-        1987,
-        1988,
-        1989
-      ]
-    },
-    "323 DELUXE 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "323 DELUXE WAGON": {
-      "years": [
-        1987
-      ]
-    },
-    "323 GT 2 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "323 LUXURY 2 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "323 LUXURY 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "323 LUXURY WAGON": {
-      "years": [
-        1987
-      ]
-    },
-    "323 BASE/LUXURY WAGON": {
-      "years": [
-        1988
-      ]
-    },
-    "323 BASE/LUXURY/DELUXE 2 DR HATCHBACK": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "323 BASE/LUXURY/DELUXE/GT 4 DR SEDAN": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "323 GTX 2 DR HATCHBACK": {
-      "years": [
-        1988
-      ]
-    },
-    "323 GTX/4WD TURBO 2 DR HATCHBACK": {
-      "years": [
-        1989
-      ]
-    },
-    "323 WAGON": {
-      "years": [
-        1989
-      ]
-    },
-    "323 PROTEGE BASE/LX/DX 4WD/GT 4DR SEDAN": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "323 STD/DX/LX 2DR HATCHBACK": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "323 DX/LX/SE 2DR HATCHBACK": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "323 PROTEGE LX/DX/SE 4DR SEDAN": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "323 2DR HATCHBACK BASE/SE/LX": {
-      "years": [
-        1994
-      ]
-    },
-    "323 PROTEGE 4DR SEDAN DX/SE/LX": {
-      "years": [
-        1994
-      ]
-    },
-    "323 2DR HATCHBACK GS": {
-      "years": [
-        1995
-      ]
-    },
-    "323 2DR HATCHBACK LX": {
-      "years": [
-        1995
-      ]
-    },
-    "323 2DR HATCHBACK S (OLD BODY STYLE)": {
-      "years": [
-        1995
-      ]
-    },
-    "323 PROTEGE 4DR SEDAN LX/ES": {
-      "years": [
-        1995,
-        1996
-      ]
-    },
-    "323 PROTEGE 4DR SEDAN S (OLD BODY STYLE)": {
-      "years": [
-        1995,
-        1996
-      ]
-    }
-  },
-  "MX-3": {
-    "MX-3 PRECIDIA/GS": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "MX-3 PRECIDIA 2DR HATCHBACK GS V6": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "MX-3 PRECIDIA 2DR HATCHBACK RS 1.6L": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    }
-  },
-  "929": {
-    "929 SEDAN": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "929S 4DR SEDAN": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "929 SERENIA 4DR SEDAN": {
-      "years": [
-        1992,
-        1993,
-        1994
       ]
     }
   },
@@ -1096,144 +1399,32 @@
       ]
     }
   },
-  "MX-6": {
-    "MX-6 DELUXE/LUXURY/GT TURBO SPORT COUPE": {
+  "RX-8": {
+    "RX-8 2DR COUPE RWD GS/GT": {
       "years": [
-        1988
+        2004
       ]
     },
-    "MX-6 DELUXE/LUXURY/GT/GT-4WS COUPE": {
+    "RX-8 2DR COUPE RWD /GS/GT": {
       "years": [
-        1989
+        2005,
+        2006,
+        2007,
+        2008
       ]
     },
-    "MX-6 4WS 2DR COUPE": {
+    "RX-8 2DR COUPE RWD GS/R3/GT": {
       "years": [
-        1990
+        2009
       ]
     },
-    "MX-6 DX 2DR COUPE": {
+    "RX-8 2DR COUPE RWD R3/GT": {
       "years": [
-        1990
-      ]
-    },
-    "MX-6 GT 2DR COUPE": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "MX-6 LX 2DR COUPE": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "MX-6 SE 2DR COUPE": {
-      "years": [
-        1991,
-        1992
-      ]
-    },
-    "MX-6 MYSTERE RS/LS 2DR COUPE": {
-      "years": [
-        1993
-      ]
-    },
-    "MX-6 MYSTERE 2DR COUPE LS V6": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "MX-6 MYSTERE 2DR COUPE RS 2.0L": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997
+        2010,
+        2011
       ]
     }
   },
-  "CX-3": {
-    "CX-3 AWD": {
-      "years": [
-        2016
-      ]
-    },
-    "CX-3 FWD": {
-      "years": [
-        2016
-      ]
-    },
-    "CX-3 4DR SUV AWD": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "CX-3 4DR SUV FWD": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "GLC": {
-    "GLC 2 DR": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "GLC 2 DR HB": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "GLC 4 DR": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "GLC 4 DR HB": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "GLC WAGON": {
-      "years": [
-        1981,
-        1982
-      ]
-    },
-    "GLC 2 DR HATCHBACK": {
-      "years": [
-        1985
-      ]
-    },
-    "GLC DECOR 4 DR HATCHBACK": {
-      "years": [
-        1985
-      ]
-    },
-    "GLC SEDAN DECOR": {
-      "years": [
-        1985
-      ]
-    }
-  },
-  "B-Series": {},
-  "Navajo": {},
   "Tribute": {
     "TRIBUTE 4DR SUV 2WD DX/DX V6": {
       "years": [
@@ -1356,196 +1547,5 @@
         2011
       ]
     }
-  },
-  "CX-7": {
-    "CX-7 4DR SUV FWD GS/GT": {
-      "years": [
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "CX-7 4DR SUV AWD GS/GT": {
-      "years": [
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "CX-7 4DR SUV FWD GX": {
-      "years": [
-        2010,
-        2011,
-        2012
-      ]
-    }
-  },
-  "CX-9": {
-    "CX-9 4DR SUV FWD GS/GT": {
-      "years": [
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "CX-9 4DR SUV AWD GT": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "CX-9 4DR SUV FWD GS": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "CX-9 GS 4DR SUV FWD": {
-      "years": [
-        2015
-      ]
-    },
-    "CX-9 GS/GT 4DR SUV AWD": {
-      "years": [
-        2015
-      ]
-    },
-    "CX-9 4DR SUV AWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "CX-9 4DR SUV FWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "CX-5": {
-    "CX-5 4DR SUV GS/GT AWD": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "CX-5 4DR SUV GS/GT FWD": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "CX-5 4DR SUV GX AWD": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "CX-5 4DR SUV GX FWD": {
-      "years": [
-        2013,
-        2014
-      ]
-    },
-    "CX-5 GS/GT 4DR SUV AWD": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "CX-5 GS/GT 4DR SUV FWD": {
-      "years": [
-        2015
-      ]
-    },
-    "CX-5 GX 4DR SUV AWD": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "CX-5 GX 4DR SUV FWD": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "CX-5 GS 4DR SUV FWD": {
-      "years": [
-        2016
-      ]
-    },
-    "CX-5 GS 4DR SUV FWD (2016.5)": {
-      "years": [
-        2017
-      ]
-    },
-    "CX-5 GS/GT 4DR SUV AWD (2016.5)": {
-      "years": [
-        2017
-      ]
-    },
-    "CX-5 GX 4DR SUV AWD (2016.5)": {
-      "years": [
-        2017
-      ]
-    },
-    "CX-5 GX 4DR SUV FWD (2016.5)": {
-      "years": [
-        2017
-      ]
-    },
-    "CX-5 2.0L FWD 4DR SUV (2017)": {
-      "years": [
-        2017
-      ]
-    },
-    "CX-5 2.5L AWD 4DR SUV (2017)": {
-      "years": [
-        2017
-      ]
-    },
-    "CX-5 2.5L FWD 4DR SUV (2017)": {
-      "years": [
-        2017
-      ]
-    },
-    "CX-5 2.0L FWD 4DR SUV": {
-      "years": [
-        2018
-      ]
-    },
-    "CX-5 2.5L AWD 4DR SUV": {
-      "years": [
-        2018
-      ]
-    },
-    "CX-5 2.5L FWD 4DR SUV": {
-      "years": [
-        2018
-      ]
-    },
-    "CX-5 AWD 4DR SUV": {
-      "years": [
-        2019
-      ]
-    },
-    "CX-5 FWD 4DR SUV": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "CX-30": {}
+  }
 }

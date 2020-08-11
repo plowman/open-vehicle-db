@@ -1,29 +1,361 @@
 {
-  "QX50": {
-    "QX50 AWD JOURNEY 4DR CUV": {
+  "EX35": {
+    "EX35 4DR CUV AWD LUXURY/JOURNEY": {
       "years": [
-        2014
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    }
+  },
+  "FX35": {
+    "FX35 4DR SUV AWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
       ]
     },
-    "QX50 AWD 4DR CUV": {
+    "FX35 4DR SUV AWD /LIMITED": {
       "years": [
-        2015
+        2013
+      ]
+    }
+  },
+  "FX37": {},
+  "FX45": {
+    "FX45 4DR SUV AWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008
+      ]
+    }
+  },
+  "FX50": {
+    "FX50 4DR SUV AWD": {
+      "years": [
+        2009,
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    }
+  },
+  "G20": {
+    "G-20 4DR SEDAN": {
+      "years": [
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996
       ]
     },
-    "QX50 AWD 4DR SUV": {
+    "G20/G20t 4DR SEDAN": {
       "years": [
-        2016,
-        2017,
-        2018
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    }
+  },
+  "G25": {
+    "G SEDAN /G25 SPORT M6 RWD": {
+      "years": [
+        2008,
+        2009
       ]
     },
-    "QX50 4DR SUV": {
+    "G25/G37 4DR SEDAN G25/G37 M6 SPORT RWD": {
       "years": [
-        2019
+        2011
+      ]
+    },
+    "G25/G37 4DR SEDAN G25x AWD/G37x AWD": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "G25 4DR SEDAN RWD": {
+      "years": [
+        2012
+      ]
+    }
+  },
+  "G35": {
+    "G35 2DR COUPE RWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "G35 LUXURY SEDAN": {
+      "years": [
+        2003
+      ]
+    },
+    "G35 4DR SEDAN RWD": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "G35X 4DR SEDAN AWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "G SEDAN G35 SPORT M6/G35X AWD SPORT": {
+      "years": [
+        2008,
+        2009
+      ]
+    }
+  },
+  "G37": {
+    "G37 2DR COUPE/CABRIO G37/G37X": {
+      "years": [
+        2010
+      ]
+    },
+    "G37 4DR SEDAN G37/SPORT RWD": {
+      "years": [
+        2010
+      ]
+    },
+    "G37 4DR SEDAN G37X/AWD": {
+      "years": [
+        2010
+      ]
+    },
+    "G37 2DR CABRIO": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "G37 2DR COUPE": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "G37 2DR COUPE G37x AWD": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "G37 2DR COUPE ISP COUPE": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "G37 4DR SEDAN RWD M6 SPORT": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "G37 2DR COUPE ISP CONVERTIBLE": {
+      "years": [
+        2013
+      ]
+    },
+    "G37X 4DR SEDAN AWD /XAWD SPORT": {
+      "years": [
+        2013
+      ]
+    }
+  },
+  "I30": {
+    "I30/I30t 4DR SEDAN": {
+      "years": [
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
+      ]
+    }
+  },
+  "I35": {
+    "I35 LUXURY 4DR SEDAN FWD": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "I35 SPORT 4DR SEDAN FWD": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ]
+    }
+  },
+  "J30": {
+    "J30 4DR SEDAN": {
+      "years": [
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    }
+  },
+  "JX35": {
+    "JX35 4DR SUV AWD": {
+      "years": [
+        2013
+      ]
+    }
+  },
+  "M30": {},
+  "M35": {
+    "M35 4DR SEDAN RWD": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "M35X 4DR SEDAN AWD": {
+      "years": [
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    }
+  },
+  "M35h": {
+    "M35H 4DR SEDAN M HYBRID": {
+      "years": [
+        2012,
+        2013
+      ]
+    }
+  },
+  "M37": {
+    "M37 4DR SEDAN": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "M37/M56 4DR SEDAN M37x AWD/M37 SPORT/M56": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    }
+  },
+  "M45": {
+    "M45 4DR SEDAN RWD": {
+      "years": [
+        2003,
+        2004,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "M45 4DR SEDAN RWD /SPORT": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "M45X 4DR SEDAN AWD": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    }
+  },
+  "M56": {
+    "M56 4DR SEDAN M56x AWD/M56 SPORT": {
+      "years": [
+        2011,
+        2012,
+        2013
       ]
     }
   },
   "Q40": {},
+  "Q45": {
+    "Q45 4 DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "Q45 4DR SEDAN": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
+      ]
+    },
+    "Q45 4DR SEDAN LUXURY/PREMIUM": {
+      "years": [
+        2002,
+        2003
+      ]
+    },
+    "Q45 4DR SPORT/PREMIUM": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    }
+  },
   "Q50": {
     "Q50 3.7 PREMIUM/Q50S 3.7 AWD 4DR SEDAN": {
       "years": [
@@ -210,310 +542,6 @@
       ]
     }
   },
-  "Q45": {
-    "Q45 4 DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "Q45 4DR SEDAN": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001
-      ]
-    },
-    "Q45 4DR SEDAN LUXURY/PREMIUM": {
-      "years": [
-        2002,
-        2003
-      ]
-    },
-    "Q45 4DR SPORT/PREMIUM": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    }
-  },
-  "G35": {
-    "G35 2DR COUPE RWD": {
-      "years": [
-        2003,
-        2004,
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "G35 LUXURY SEDAN": {
-      "years": [
-        2003
-      ]
-    },
-    "G35 4DR SEDAN RWD": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "G35X 4DR SEDAN AWD": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "G SEDAN G35 SPORT M6/G35X AWD SPORT": {
-      "years": [
-        2008,
-        2009
-      ]
-    }
-  },
-  "M35": {
-    "M35 4DR SEDAN RWD": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "M35X 4DR SEDAN AWD": {
-      "years": [
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    }
-  },
-  "M45": {
-    "M45 4DR SEDAN RWD": {
-      "years": [
-        2003,
-        2004,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "M45 4DR SEDAN RWD /SPORT": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "M45X 4DR SEDAN AWD": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    }
-  },
-  "G37": {
-    "G37 2DR COUPE/CABRIO G37/G37X": {
-      "years": [
-        2010
-      ]
-    },
-    "G37 4DR SEDAN G37/SPORT RWD": {
-      "years": [
-        2010
-      ]
-    },
-    "G37 4DR SEDAN G37X/AWD": {
-      "years": [
-        2010
-      ]
-    },
-    "G37 2DR CABRIO": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "G37 2DR COUPE": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "G37 2DR COUPE G37x AWD": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "G37 2DR COUPE ISP COUPE": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "G37 4DR SEDAN RWD M6 SPORT": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "G37 2DR COUPE ISP CONVERTIBLE": {
-      "years": [
-        2013
-      ]
-    },
-    "G37X 4DR SEDAN AWD /XAWD SPORT": {
-      "years": [
-        2013
-      ]
-    }
-  },
-  "EX35": {
-    "EX35 4DR CUV AWD LUXURY/JOURNEY": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    }
-  },
-  "M56": {
-    "M56 4DR SEDAN M56x AWD/M56 SPORT": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    }
-  },
-  "M37": {
-    "M37 4DR SEDAN": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "M37/M56 4DR SEDAN M37x AWD/M37 SPORT/M56": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    }
-  },
-  "G25": {
-    "G SEDAN /G25 SPORT M6 RWD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "G25/G37 4DR SEDAN G25/G37 M6 SPORT RWD": {
-      "years": [
-        2011
-      ]
-    },
-    "G25/G37 4DR SEDAN G25x AWD/G37x AWD": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "G25 4DR SEDAN RWD": {
-      "years": [
-        2012
-      ]
-    }
-  },
-  "M35h": {
-    "M35H 4DR SEDAN M HYBRID": {
-      "years": [
-        2012,
-        2013
-      ]
-    }
-  },
-  "J30": {
-    "J30 4DR SEDAN": {
-      "years": [
-        1992,
-        1993,
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    }
-  },
-  "G20": {
-    "G-20 4DR SEDAN": {
-      "years": [
-        1991,
-        1992,
-        1993,
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "G20/G20t 4DR SEDAN": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    }
-  },
-  "I35": {
-    "I35 LUXURY 4DR SEDAN FWD": {
-      "years": [
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "I35 SPORT 4DR SEDAN FWD": {
-      "years": [
-        2002,
-        2003,
-        2004
-      ]
-    }
-  },
-  "I30": {
-    "I30/I30t 4DR SEDAN": {
-      "years": [
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001
-      ]
-    }
-  },
-  "M30": {},
   "QX30": {
     "QX30 AWD 4DR SUV": {
       "years": [
@@ -527,6 +555,108 @@
         2017,
         2018,
         2019
+      ]
+    }
+  },
+  "QX4": {
+    "QX4 4DR SUV 4X4": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    }
+  },
+  "QX50": {
+    "QX50 AWD JOURNEY 4DR CUV": {
+      "years": [
+        2014
+      ]
+    },
+    "QX50 AWD 4DR CUV": {
+      "years": [
+        2015
+      ]
+    },
+    "QX50 AWD 4DR SUV": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "QX50 4DR SUV": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "QX56": {
+    "QX56 4DR SUV 4X4": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "QX56 4 DR SUV": {
+      "years": [
+        2011
+      ]
+    },
+    "QX56 4 DR SUV AWD": {
+      "years": [
+        2012,
+        2013
+      ]
+    }
+  },
+  "QX60": {
+    "QX60 3.5 4DR SUV FWD": {
+      "years": [
+        2014,
+        2015,
+        2016
+      ]
+    },
+    "QX60 3.5 AWD 4DR SUV AWD": {
+      "years": [
+        2014,
+        2015,
+        2016
+      ]
+    },
+    "QX60 HYBRID AWD PREMIUM 4DR SUV": {
+      "years": [
+        2014
+      ]
+    },
+    "QX60 HYBRID AWD 4DR SUV": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "QX60 4DR SUV AWD": {
+      "years": [
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "QX60 4DR SUV FWD": {
+      "years": [
+        2017
       ]
     }
   },
@@ -591,136 +721,6 @@
         2017,
         2018,
         2019
-      ]
-    }
-  },
-  "QX60": {
-    "QX60 3.5 4DR SUV FWD": {
-      "years": [
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "QX60 3.5 AWD 4DR SUV AWD": {
-      "years": [
-        2014,
-        2015,
-        2016
-      ]
-    },
-    "QX60 HYBRID AWD PREMIUM 4DR SUV": {
-      "years": [
-        2014
-      ]
-    },
-    "QX60 HYBRID AWD 4DR SUV": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "QX60 4DR SUV AWD": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "QX60 4DR SUV FWD": {
-      "years": [
-        2017
-      ]
-    }
-  },
-  "FX35": {
-    "FX35 4DR SUV AWD": {
-      "years": [
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "FX35 4DR SUV AWD /LIMITED": {
-      "years": [
-        2013
-      ]
-    }
-  },
-  "FX45": {
-    "FX45 4DR SUV AWD": {
-      "years": [
-        2003,
-        2004,
-        2005,
-        2006,
-        2007,
-        2008
-      ]
-    }
-  },
-  "QX56": {
-    "QX56 4DR SUV 4X4": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "QX56 4 DR SUV": {
-      "years": [
-        2011
-      ]
-    },
-    "QX56 4 DR SUV AWD": {
-      "years": [
-        2012,
-        2013
-      ]
-    }
-  },
-  "FX50": {
-    "FX50 4DR SUV AWD": {
-      "years": [
-        2009,
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    }
-  },
-  "FX37": {},
-  "JX35": {
-    "JX35 4DR SUV AWD": {
-      "years": [
-        2013
-      ]
-    }
-  },
-  "QX4": {
-    "QX4 4DR SUV 4X4": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002,
-        2003
       ]
     }
   }

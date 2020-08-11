@@ -1,4 +1,13 @@
 {
+  "9-2X": {
+    "9-2X 4DR WAGON /LINEAR/AERO": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    }
+  },
   "9-3": {
     "9-3 2DR CONVERTIBLE SE": {
       "years": [
@@ -158,6 +167,13 @@
       ]
     }
   },
+  "9-4x": {
+    "9-4X 4 DR SUV": {
+      "years": [
+        2011
+      ]
+    }
+  },
   "9-5": {
     "9-5 4DR SEDAN SE": {
       "years": [
@@ -274,6 +290,29 @@
     "9-5 TURBO4 4 DR SEDAN FWD": {
       "years": [
         2011
+      ]
+    }
+  },
+  "9-7X": {
+    "9-7X 4DR SUV AWD /LINEAR/ARC": {
+      "years": [
+        2005
+      ]
+    },
+    "9-7X 4DR SUV AWD /V8": {
+      "years": [
+        2006
+      ]
+    },
+    "9-7X 4DR SUV AWD 4.2i/5.3i": {
+      "years": [
+        2007
+      ]
+    },
+    "9-7X 4DR SUV AWD 4.2i/5.3i/AERO": {
+      "years": [
+        2008,
+        2009
       ]
     }
   },
@@ -575,45 +614,6 @@
     "9000 4DR HATCHBACK CSE": {
       "years": [
         1998
-      ]
-    }
-  },
-  "9-2X": {
-    "9-2X 4DR WAGON /LINEAR/AERO": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    }
-  },
-  "9-4x": {
-    "9-4X 4 DR SUV": {
-      "years": [
-        2011
-      ]
-    }
-  },
-  "9-7X": {
-    "9-7X 4DR SUV AWD /LINEAR/ARC": {
-      "years": [
-        2005
-      ]
-    },
-    "9-7X 4DR SUV AWD /V8": {
-      "years": [
-        2006
-      ]
-    },
-    "9-7X 4DR SUV AWD 4.2i/5.3i": {
-      "years": [
-        2007
-      ]
-    },
-    "9-7X 4DR SUV AWD 4.2i/5.3i/AERO": {
-      "years": [
-        2008,
-        2009
       ]
     }
   }

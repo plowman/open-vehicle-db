@@ -1,762 +1,61 @@
 {
-  "GT-R": {
-    "GT-R 2DR COUPE AWD": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "GT-R 2DR COUPE AWD PREMIUM/BLACK EDITION": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "GT-R 2DR COUPE": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Versa": {
-    "VERSA 4DR HATCH FWD /1.8S/1.8SL": {
-      "years": [
-        2007
-      ]
-    },
-    "VERSA 4DR SEDAN FWD /1.8S/1.8SL": {
-      "years": [
-        2007
-      ]
-    },
-    "VERSA 4DR HATCH FWD 1.8S/1.8SL": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "VERSA 4DR SEDAN FWD 1.8S/1.8SL": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "VERSA 4DR SEDAN 1.6 FWD": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "VERSA 4DR SEDAN 1.6 S/1.6 SV/1.6 SL": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "VERSA 4DR HATCHBACK FWD 1.8S/1.8SL": {
-      "years": [
-        2013
-      ]
-    },
-    "VERSA 4DR SEDAN S/SV/SL": {
-      "years": [
-        2014
-      ]
-    }
-  },
-  "Versa Note": {
-    "VERSA NOTE 4DR HATCHBACK S/SV/SL": {
-      "years": [
-        2014
-      ]
-    },
-    "VERSA NOTE 4DR HATCHBACK S/SV/SR/SL": {
-      "years": [
-        2015
-      ]
-    },
-    "VERSA NOTE 4DR HATCHBACK": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Altima": {
-    "ALTIMA XE/GXE/SE 4DR SEDAN": {
-      "years": [
-        1993
-      ]
-    },
-    "ALTIMA 4DR SEDAN XE/GXE/SE/GLE": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1999,
-        2000
-      ]
-    },
-    "ALTIMA 4DR SEDAN XE/SE": {
-      "years": [
-        1997
-      ]
-    },
-    "ALTIMA 4DR SEDAN XE/GXE/GLE/SE": {
-      "years": [
-        1998
-      ]
-    },
-    "ALTIMA 4DR SEDAN GLE": {
-      "years": [
-        2001
-      ]
-    },
-    "ALTIMA 4DR SEDAN XE/GXE/SE": {
-      "years": [
-        2001
-      ]
-    },
-    "ALTIMA 4DR SEDAN S": {
-      "years": [
-        2002,
-        2003
-      ]
-    },
-    "ALTIMA 4DR SEDAN SE": {
-      "years": [
-        2002,
-        2003
-      ]
-    },
-    "ALTIMA 4DR SEDAN SL": {
-      "years": [
-        2002,
-        2003
-      ]
-    },
-    "ALTIMA 4DR SEDAN FWD /2.5 SL": {
-      "years": [
-        2004
-      ]
-    },
-    "ALTIMA 4DR SEDAN FWD /2.5/2.5S EXTRA": {
-      "years": [
-        2004
-      ]
-    },
-    "ALTIMA 4DR SEDAN FWD /3.5 SE": {
-      "years": [
-        2004
-      ]
-    },
-    "ALTIMA 4DR SEDAN FWD /2.5S": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "ALTIMA 4DR SEDAN FWD /3.5 S/3.5 SE": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "ALTIMA 4DR SEDAN FWD /SE-R": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "ALTIMA HYBRID 4DR SEDAN FWD": {
-      "years": [
-        2007,
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "ALTIMA 2DR COUPE 2.5S": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "ALTIMA 2DR COUPE 3.5SE": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "ALTIMA 4DR SEDAN FWD 2.5S": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "ALTIMA 4DR SEDAN FWD 3.5 S/3.5 SE": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "ALTIMA 2DR COUPE 3.5SR": {
-      "years": [
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "ALTIMA 4DR SEDAN FWD 3.5 S/3.5SR": {
-      "years": [
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "ALTIMA 2.5/2.5S/2.5SV/2.5SL 4DR SEDAN": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "ALTIMA 3.5SV/3.5SL 4DR SEDAN": {
-      "years": [
-        2013
-      ]
-    },
-    "ALTIMA 3.5SL 4DR SEDAN": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "ALTIMA 2.5 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "ALTIMA 3.5 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018
-      ]
-    },
-    "ALTIMA 4DR SEDAN": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "Leaf": {
-    "LEAF 4DR HATCHBACK SV/SL": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "LEAF 4DR HATCHBACK S/SV": {
-      "years": [
-        2016,
-        2017
-      ]
-    },
-    "LEAF 4DR HATCHBACK SL": {
-      "years": [
-        2016,
-        2017
-      ]
-    },
-    "LEAF 5DR HATCHBACK": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "370Z": {
-    "370Z COUPE 2DR RWD": {
-      "years": [
-        2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "370Z ROADSTER 2DR RWD": {
-      "years": [
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "370Z NISMO 2 DR COUPE": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "370Z TOURING COUPE 2DR RWD": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Sentra": {
-    "SENTRA DELUXE 2 DR": {
+  "200SX": {
+    "200 SX HATCHBACK COUPE": {
       "years": [
         1985
       ]
     },
-    "SENTRA XE 4 DR": {
+    "200 SX NOTCHBACK COUPE": {
       "years": [
         1985
       ]
     },
-    "SENTRA XE HATCHBACK": {
-      "years": [
-        1985
-      ]
-    },
-    "SENTRA XE WAGON": {
-      "years": [
-        1985
-      ]
-    },
-    "SENTRA E (2-DR)": {
+    "200 SX DELUXE NOTCHBACK": {
       "years": [
         1986
       ]
     },
-    "SENTRA E/GXE (4-DR)": {
+    "200 SX TURBO HATCHBACK": {
       "years": [
         1986
       ]
     },
-    "SENTRA XE/GXE WAGON": {
+    "200 SX TURBO 2 DR HATCHBACK": {
       "years": [
-        1986,
-        1987
+        1987,
+        1988
       ]
     },
-    "SENTRA XE/SE HATCHBACK": {
-      "years": [
-        1986
-      ]
-    },
-    "SENTRA E 2 DR COUPE": {
+    "200 SX XE 2 DR COUPE": {
       "years": [
         1987
       ]
     },
-    "SENTRA E/GXE 4 DR SEDAN": {
+    "200 SX XE 2 DR HATCHBACK": {
       "years": [
         1987
       ]
     },
-    "SENTRA XE 4X4 WAGON": {
-      "years": [
-        1987
-      ]
-    },
-    "SENTRA XE/SE 2 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "SENTRA DLX  2 DR SEDAN": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "SENTRA GXE/DLX 4 DR SEDAN": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "SENTRA XE 4X4/DLX FWD WAGON": {
+    "200 SX XE 2 DR HATCHBACK/NOTCHBACK": {
       "years": [
         1988
       ]
     },
-    "SENTRA XE/SE 2 DR SPORTS COUPE": {
-      "years": [
-        1988
-      ]
-    },
-    "SENTRA DLX FWD": {
-      "years": [
-        1989,
-        1990
-      ]
-    },
-    "SENTRA XE 4X4": {
-      "years": [
-        1989,
-        1990
-      ]
-    },
-    "SENTRA XE COUPE": {
-      "years": [
-        1989,
-        1990
-      ]
-    },
-    "SENTRA DLX/XE/GXE 4 DR SEDAN": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "SENTRA 2DR COUPE DLX/XE": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "SENTRA 4DR SEDAN DLX/XE/GXE": {
-      "years": [
-        1994
-      ]
-    },
-    "SENTRA 4DR SEDAN XE/GXE/GLE": {
+    "200SX 2DR COUPE SE/SE-R": {
       "years": [
         1995,
         1996,
         1997
       ]
     },
-    "SENTRA 4DR SEDAN BASE/XE/GXE": {
+    "200SX 2DR COUPE SE": {
       "years": [
         1998
       ]
     },
-    "SENTRA 4DR SEDAN SE": {
+    "200SX 2DR COUPE SE-R": {
       "years": [
-        1999
-      ]
-    },
-    "SENTRA 4DR SEDAN XE/GXE": {
-      "years": [
-        1999
-      ]
-    },
-    "SENTRA 4DR SEDAN XE/GXE/SE": {
-      "years": [
-        2001
-      ]
-    },
-    "SENTRA 4DR SEDAN SE-R/SE-R Spec V": {
-      "years": [
-        2002
-      ]
-    },
-    "SENTRA XE/GX": {
-      "years": [
-        2002,
-        2003
-      ]
-    },
-    "SENTRA 4DR SEDAN SE-R/SE-R SPEC V": {
-      "years": [
-        2003
-      ]
-    },
-    "SENTRA 4DR SEDAN FWD /1.8 /1.8S": {
-      "years": [
-        2004
-      ]
-    },
-    "SENTRA 4DR SEDAN FWD /SE-R/SE-R SPEC V": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "SENTRA 4DR SEDAN FWD /1.8 /1.8S/SPEICAL EDITI": {
-      "years": [
-        2005,
-        2006
-      ]
-    },
-    "SENTRA 4DR SEDAN FWD /2.0/S": {
-      "years": [
-        2007
-      ]
-    },
-    "SENTRA 4DR SEDAN FWD /SL/SE-R/SPEC V": {
-      "years": [
-        2007
-      ]
-    },
-    "SENTRA 4DR SEDAN FWD 2.0/S": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "SENTRA 4DR SEDAN FWD 2.0SL/SE-R/SE-R SPEC V": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011
-      ]
-    },
-    "SENTRA 4DR SEDAN FWD 2.0": {
-      "years": [
-        2012
-      ]
-    },
-    "SENTRA 4DR SEDAN FWD 2.0S/2.0SL/SR": {
-      "years": [
-        2012
-      ]
-    },
-    "SENTRA 4DR SEDAN FWD SE-R SPEC V": {
-      "years": [
-        2012
-      ]
-    },
-    "SENTRA 1.8 S/1.8SV 4DR SEDAN": {
-      "years": [
-        2013
-      ]
-    },
-    "SENTRA S/SV/SR/SL 4DR SEDAN": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "SENTRA 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "SENTRA TURBO 4DR SEDAN": {
-      "years": [
-        2017,
-        2018
-      ]
-    }
-  },
-  "Maxima": {
-    "MAXIMA GL SEDAN": {
-      "years": [
-        1985
-      ]
-    },
-    "MAXIMA SE SEDAN": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "MAXIMA GXE SEDAN": {
-      "years": [
-        1986
-      ]
-    },
-    "MAXIMA GXE 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "MAXIMA SE 4 DR SEDAN": {
-      "years": [
-        1987
-      ]
-    },
-    "MAXIMA SE/GXE/BROUGHAM 4 DR SEDAN": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "MAXIMA GXE/BROUGHAM/SE 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "MAXIMA 4DR SEDAN GXE/BROUGHAM/SE": {
-      "years": [
-        1994
-      ]
-    },
-    "MAXIMA 4DR SEDAN GXE/SE/GLE": {
-      "years": [
-        1995,
-        1996,
-        1997,
-        2001,
-        2002
-      ]
-    },
-    "MAXIMA 4DR SEDAN GXE/GLE/SE": {
-      "years": [
-        1998,
-        2000
-      ]
-    },
-    "MAXIMA 4DR SEDAN GXE/ES/SE/GLE": {
-      "years": [
-        1999
-      ]
-    },
-    "MAXIMA 4DR SEDAN GLE": {
-      "years": [
-        2003
-      ]
-    },
-    "MAXIMA 4DR SEDAN GXE/SE": {
-      "years": [
-        2003
-      ]
-    },
-    "MAXIMA 4DR SEDAN FWD /SE 5-Seat/SE 4-Seat/SL": {
-      "years": [
-        2004
-      ]
-    },
-    "MAXIMA 4DR SEDAN FWD /3.5 SE 5-Seat/3.5 SE 4-": {
-      "years": [
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "MAXIMA 4DR SEDAN FWD 3.5SE/3.5SL": {
-      "years": [
-        2008
-      ]
-    },
-    "MAXIMA 4DR SEDAN FWD /SV": {
-      "years": [
-        2009
-      ]
-    },
-    "MAXIMA 4DR SEDAN FWD 3.5S/3.5SV": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "MAXIMA 4DR SEDAN FWD 3.5SV": {
-      "years": [
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "MAXIMA 4DR SEDAN": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "350Z": {
-    "350Z": {
-      "years": [
-        2003
-      ]
-    },
-    "350Z 2DR COUPE RWD /PERFORMANCE/TOURING/TRACK": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "350Z ROADSTER 2 DR CONV RWD": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2008,
-        2009
-      ]
-    },
-    "350Z 2DR COUPE RWD /GT": {
-      "years": [
-        2007
-      ]
-    },
-    "350Z ROADSTER 2 DR CONV RWD /GT": {
-      "years": [
-        2007
-      ]
-    },
-    "350Z COUPE 2DR RWD": {
-      "years": [
-        2008
+        1998
       ]
     }
   },
@@ -948,70 +247,303 @@
       ]
     }
   },
-  "Altra-EV": {},
-  "NX": {
-    "NX 1600 2DR COUPE": {
+  "350Z": {
+    "350Z": {
       "years": [
-        1991,
-        1992,
-        1993
+        2003
       ]
     },
-    "NX 2000 2DR COUPE": {
+    "350Z 2DR COUPE RWD /PERFORMANCE/TOURING/TRACK": {
       "years": [
-        1991,
-        1992,
-        1993
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "350Z ROADSTER 2 DR CONV RWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2008,
+        2009
+      ]
+    },
+    "350Z 2DR COUPE RWD /GT": {
+      "years": [
+        2007
+      ]
+    },
+    "350Z ROADSTER 2 DR CONV RWD /GT": {
+      "years": [
+        2007
+      ]
+    },
+    "350Z COUPE 2DR RWD": {
+      "years": [
+        2008
       ]
     }
   },
-  "NX/Sentra": {},
-  "Stanza": {
-    "STANZA GL SEDAN": {
+  "370Z": {
+    "370Z COUPE 2DR RWD": {
       "years": [
-        1985
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014
       ]
     },
-    "STANZA XE HATCHBACK 5 DR": {
+    "370Z ROADSTER 2DR RWD": {
       "years": [
-        1985
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
       ]
     },
-    "STANZA E/GXE SEDAN(4-DR)": {
+    "370Z NISMO 2 DR COUPE": {
       "years": [
-        1986
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
       ]
     },
-    "STANZA HATCHBACK XE (4-DR)": {
+    "370Z TOURING COUPE 2DR RWD": {
       "years": [
-        1986
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Altima": {
+    "ALTIMA XE/GXE/SE 4DR SEDAN": {
+      "years": [
+        1993
       ]
     },
-    "STANZA E/GXE 4 DR SEDAN": {
+    "ALTIMA 4DR SEDAN XE/GXE/SE/GLE": {
       "years": [
-        1987
+        1994,
+        1995,
+        1996,
+        1999,
+        2000
       ]
     },
-    "STANZA XE 4 DR HATCHBACK": {
+    "ALTIMA 4DR SEDAN XE/SE": {
       "years": [
-        1987
+        1997
       ]
     },
-    "STANZA DLX/XE/GXE 4 DR SEDAN": {
+    "ALTIMA 4DR SEDAN XE/GXE/GLE/SE": {
       "years": [
-        1988,
-        1989
+        1998
       ]
     },
-    "STANZA DLX/XE/GXE 4DR SEDAN": {
+    "ALTIMA 4DR SEDAN GLE": {
       "years": [
-        1990,
-        1991
+        2001
       ]
     },
-    "STANZA XE/SE 4DR SEDAN": {
+    "ALTIMA 4DR SEDAN XE/GXE/SE": {
       "years": [
-        1992
+        2001
+      ]
+    },
+    "ALTIMA 4DR SEDAN S": {
+      "years": [
+        2002,
+        2003
+      ]
+    },
+    "ALTIMA 4DR SEDAN SE": {
+      "years": [
+        2002,
+        2003
+      ]
+    },
+    "ALTIMA 4DR SEDAN SL": {
+      "years": [
+        2002,
+        2003
+      ]
+    },
+    "ALTIMA 4DR SEDAN FWD /2.5 SL": {
+      "years": [
+        2004
+      ]
+    },
+    "ALTIMA 4DR SEDAN FWD /2.5/2.5S EXTRA": {
+      "years": [
+        2004
+      ]
+    },
+    "ALTIMA 4DR SEDAN FWD /3.5 SE": {
+      "years": [
+        2004
+      ]
+    },
+    "ALTIMA 4DR SEDAN FWD /2.5S": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "ALTIMA 4DR SEDAN FWD /3.5 S/3.5 SE": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "ALTIMA 4DR SEDAN FWD /SE-R": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "ALTIMA HYBRID 4DR SEDAN FWD": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "ALTIMA 2DR COUPE 2.5S": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "ALTIMA 2DR COUPE 3.5SE": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "ALTIMA 4DR SEDAN FWD 2.5S": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "ALTIMA 4DR SEDAN FWD 3.5 S/3.5 SE": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "ALTIMA 2DR COUPE 3.5SR": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "ALTIMA 4DR SEDAN FWD 3.5 S/3.5SR": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "ALTIMA 2.5/2.5S/2.5SV/2.5SL 4DR SEDAN": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "ALTIMA 3.5SV/3.5SL 4DR SEDAN": {
+      "years": [
+        2013
+      ]
+    },
+    "ALTIMA 3.5SL 4DR SEDAN": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "ALTIMA 2.5 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "ALTIMA 3.5 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018
+      ]
+    },
+    "ALTIMA 4DR SEDAN": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "Altra": {},
+  "Altra-EV": {},
+  "Armada": {
+    "ARMADA 4DR SUV AWD SE/LE": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "ARMADA 4DR SUV 4WD LE": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "ARMADA 4DR SUV 4WD PLATINUM": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "ARMADA 4DR SUV": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
       ]
     }
   },
@@ -1051,743 +583,23 @@
       ]
     }
   },
-  "PULSAR": {
-    "PULSAR NX COUPE": {
+  "Cube": {
+    "CUBE 5DR HATCH": {
       "years": [
-        1985,
-        1986
+        2009
       ]
     },
-    "PULSAR NX XE/SE 2 DR HATCHBACK": {
+    "CUBE 5DR HATCH S/SL": {
       "years": [
-        1987
-      ]
-    },
-    "PULSAR NX XE/SE 2 DR COUPE": {
-      "years": [
-        1988,
-        1989
-      ]
-    },
-    "PULSAR NX XE 2DR COUPE": {
-      "years": [
-        1990
-      ]
-    }
-  },
-  "Stanza Wagon": {},
-  "200SX": {
-    "200 SX HATCHBACK COUPE": {
-      "years": [
-        1985
-      ]
-    },
-    "200 SX NOTCHBACK COUPE": {
-      "years": [
-        1985
-      ]
-    },
-    "200 SX DELUXE NOTCHBACK": {
-      "years": [
-        1986
-      ]
-    },
-    "200 SX TURBO HATCHBACK": {
-      "years": [
-        1986
-      ]
-    },
-    "200 SX TURBO 2 DR HATCHBACK": {
-      "years": [
-        1987,
-        1988
-      ]
-    },
-    "200 SX XE 2 DR COUPE": {
-      "years": [
-        1987
-      ]
-    },
-    "200 SX XE 2 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "200 SX XE 2 DR HATCHBACK/NOTCHBACK": {
-      "years": [
-        1988
-      ]
-    },
-    "200SX 2DR COUPE SE/SE-R": {
-      "years": [
-        1995,
-        1996,
-        1997
-      ]
-    },
-    "200SX 2DR COUPE SE": {
-      "years": [
-        1998
-      ]
-    },
-    "200SX 2DR COUPE SE-R": {
-      "years": [
-        1998
-      ]
-    }
-  },
-  "Rogue Sports": {},
-  "Sentra Classic": {
-    "SENTRA CLASSIC 4 DR SEDAN": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    }
-  },
-  "Altra": {},
-  "Micra": {
-    "MICRA DELUXE": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "MICRA GL": {
-      "years": [
-        1985,
-        1986
-      ]
-    },
-    "MICRA E /XE 4 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "MICRA E/XE 2 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    },
-    "MICRA 2 DR HATCHBACK": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991
-      ]
-    },
-    "MICRA 4 DR HATCHBACK": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "MICRA 4DR HATCHBACK  S/SV/KROM/SR": {
-      "years": [
-        2015
-      ]
-    },
-    "MICRA 4DR HATCHBACK": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Kicks": {
-    "KICKS 4DR SUV": {
-      "years": [
-        2019
-      ]
-    }
-  },
-  "Pathfinder": {
-    "PATHFINDER 4 X 2": {
-      "years": [
-        1987
-      ]
-    },
-    "PATHFINDER 4 X 4": {
-      "years": [
-        1987
-      ]
-    },
-    "PATHFINDER 4X4": {
-      "years": [
-        1988
-      ]
-    },
-    "PATHFINDER 4X4 SE": {
-      "years": [
-        1989
-      ]
-    },
-    "PATHFINDER 4X4 XE": {
-      "years": [
-        1989
-      ]
-    },
-    "PATHFINDER SE 4x4 2DR": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "PATHFINDER SE 4x4 4DR": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993,
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "PATHFINDER XE 4x2 4DR": {
-      "years": [
-        1990
-      ]
-    },
-    "PATHFINDER XE 4x4 4DR": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993,
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "PATHFINDER XE 4x4 2DR": {
-      "years": [
-        1991
-      ]
-    },
-    "PATHFINDER LE 4x4 4DR": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "PATHFINDER (1999.5) LE 4x4 4DR": {
-      "years": [
-        1999
-      ]
-    },
-    "PATHFINDER (1999.5) SE 4x4 4DR": {
-      "years": [
-        1999
-      ]
-    },
-    "PATHFINDER (1999.5) XE 4x4 4DR": {
-      "years": [
-        1999
-      ]
-    },
-    "PATHFINDER CHILKOOT EDITION 4DR SUV 4WD": {
-      "years": [
-        2003
-      ]
-    },
-    "PATHFINDER LE 4DR SUV 4WD": {
-      "years": [
-        2003
-      ]
-    },
-    "PATHFINDER SE 4DR SUV 4WD": {
-      "years": [
-        2003
-      ]
-    },
-    "PATHFINDER 4DR SUV 4WD /CHINOOK EDITION": {
-      "years": [
-        2004
-      ]
-    },
-    "PATHFINDER 4DR SUV 4WD /LE": {
-      "years": [
-        2004
-      ]
-    },
-    "PATHFINDER 4DR SUV 4WD /SE": {
-      "years": [
-        2004
-      ]
-    },
-    "PATHFINDER ARMANDA 4DR SUV AWD SE/LE": {
-      "years": [
-        2004
-      ]
-    },
-    "PATHFINDER 4DR SUV 4WD SE OFF-ROAD": {
-      "years": [
-        2005
-      ]
-    },
-    "PATHFINDER 4DR SUV 4WD SE/LE": {
-      "years": [
-        2005
-      ]
-    },
-    "PATHFINDER 4DR SUV 4WD XE": {
-      "years": [
-        2005
-      ]
-    },
-    "PATHFINDER 4DR SUV 4WD LE": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "PATHFINDER 4DR SUV 4WD S": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "PATHFINDER 4DR SUV 4WD SE/OFF-ROAD": {
-      "years": [
-        2006
-      ]
-    },
-    "PATHFINDER 4DR SUV 4WD SE": {
-      "years": [
-        2007
-      ]
-    },
-    "PATHFINDER 4DR SUV 4WD LE V8": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "PATHFINDER 4DR SUV 4WD S V6": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "PATHFINDER 4DR SUV 4WD SE V6": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "PATHFINDER 4DR SUV 4WD LE V6": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "PATHFINDER 4DR SUV 4WD SVV6": {
-      "years": [
-        2011,
-        2012
-      ]
-    },
-    "PATHFINDER PLATINUM 4DR SUV": {
-      "years": [
-        2013
-      ]
-    },
-    "PATHFINDER S/SL 4 x 2 4DR SUV": {
-      "years": [
-        2013
-      ]
-    },
-    "PATHFINDER S/SV/SL 4 x 4 4DR SUV": {
-      "years": [
-        2013
-      ]
-    },
-    "PATHFINDER HYBRID SV/PLATINUM AWD 4DR SUV": {
-      "years": [
-        2014
-      ]
-    },
-    "PATHFINDER PLATINUM AWD 4DR SUV": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "PATHFINDER S/SL FWD 4DR SUV": {
-      "years": [
-        2014
-      ]
-    },
-    "PATHFINDER S/SV/SL AWD 4DR SUV": {
-      "years": [
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "PATHFINDER HYBRID SV/PLATINUM 4DR SUV": {
-      "years": [
-        2015
-      ]
-    },
-    "PATHFINDER S FWD 4DR SUV": {
-      "years": [
-        2015
-      ]
-    },
-    "PATHFINDER FWD 4DR SUV": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Murano": {
-    "MURANO SL/SE 4DR SUV AWD": {
-      "years": [
-        2003
-      ]
-    },
-    "MURANO 4DR SUV AWD SL/SE": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "MURANO 4DR SUV AWD SE": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "MURANO 4DR SUV FWD SL": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "MURANO 4DR SUV AWD LE": {
-      "years": [
-        2009,
-        2010
-      ]
-    },
-    "MURANO 4DR SUV AWD S/SL": {
-      "years": [
-        2009,
-        2010
-      ]
-    },
-    "MURANO 4 DR SUV S AWD/SV AWD": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "MURANO 4 DR SUV SL AWD/LE AWD": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "MURANO 4 DR SUV S AWD": {
-      "years": [
-        2014
-      ]
-    },
-    "MURANO 4 DR SUV SV AWD/SL AWD/PLATINUM AWD": {
-      "years": [
-        2014
-      ]
-    },
-    "MURANO S/SV FWD 4DR SUV": {
-      "years": [
-        2015
-      ]
-    },
-    "MURANO SV/SL/PLATINUM 4DR SUV AWD": {
-      "years": [
-        2015
-      ]
-    },
-    "MURANO 4DR SUV AWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "MURANO 4DR SUV FWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Armada": {
-    "ARMADA 4DR SUV AWD SE/LE": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "ARMADA 4DR SUV 4WD LE": {
-      "years": [
-        2008,
-        2009,
         2010,
         2011
       ]
     },
-    "ARMADA 4DR SUV 4WD PLATINUM": {
+    "CUBE 5DR HATCH 1.8 S/1.8 SL": {
       "years": [
-        2012,
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "ARMADA 4DR SUV": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Xterra": {
-    "XTERRA 4DR SUV 4x4": {
-      "years": [
-        2000,
-        2002
-      ]
-    },
-    "XTERRA 4DR SUV 4x4 SE": {
-      "years": [
-        2001,
-        2002
-      ]
-    },
-    "XTERRA 4DR SUV 4x4 XE": {
-      "years": [
-        2001
-      ]
-    },
-    "XTERRA 4DR SUV 4x4 SE SC": {
-      "years": [
-        2002
-      ]
-    },
-    "XTERRA SE 4DR SUV 4WD": {
-      "years": [
-        2003
-      ]
-    },
-    "XTERRA SE-SC 4DR SUV 4WD": {
-      "years": [
-        2003
-      ]
-    },
-    "XTERRA XE 4DR SUV 4WD": {
-      "years": [
-        2003
-      ]
-    },
-    "XTERRA 4DR SUV 4WD /SE": {
-      "years": [
-        2004
-      ]
-    },
-    "XTERRA 4DR SUV 4WD /SE-SC": {
-      "years": [
-        2004
-      ]
-    },
-    "XTERRA 4DR SUV 4WD /XE": {
-      "years": [
-        2004
-      ]
-    },
-    "XTERRA 4DR SUV 4WD S/OFF-ROAD/SE": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "XTERRA 4DR SUV 4WD S/PRO-4X/SV": {
-      "years": [
-        2011,
-        2012,
-        2013
-      ]
-    },
-    "XTERRA 4DR SUV 4WD S/PRO-4X": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "XTERRA 4DR SUV 4WD": {
-      "years": [
-        2016
-      ]
-    }
-  },
-  "Quest": {
-    "QUEST XE/GXE 2DR": {
-      "years": [
-        1993
-      ]
-    },
-    "QUEST 3DR WAGON XE/GXE": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "QUEST XE/GXE": {
-      "years": [
-        1997,
-        1998
-      ]
-    },
-    "QUEST GXE": {
-      "years": [
-        1999,
-        2000,
-        2001
-      ]
-    },
-    "QUEST SE/GLE": {
-      "years": [
-        1999
-      ]
-    },
-    "QUEST SE": {
-      "years": [
-        2000,
-        2001
-      ]
-    },
-    "QUEST 4DR FWD 3.5 S/3.5SL": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "QUEST 4DR FWD 3.5SE": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "QUEST 4DR FWD 3.5S/3.5SL": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "QUEST 4DR FWD 3.5SLE": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "QUEST 4 DR MINIVAN S/SV": {
-      "years": [
-        2011,
         2012,
         2013,
         2014
-      ]
-    },
-    "QUEST 4 DR MINIVAN SL/LE": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "QUEST 4DR MINIVAN S/SV": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "QUEST 4DR MINIVAN SL/LE": {
-      "years": [
-        2015,
-        2016
-      ]
-    }
-  },
-  "NV200": {
-    "NV200 S/SV VAN": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
       ]
     }
   },
@@ -2082,6 +894,1333 @@
       ]
     }
   },
+  "GT-R": {
+    "GT-R 2DR COUPE AWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "GT-R 2DR COUPE AWD PREMIUM/BLACK EDITION": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "GT-R 2DR COUPE": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Juke": {
+    "JUKE 4 DR SUV SV AWD/SL AWD": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "JUKE 4 DR SUV SV FWD/SL FWD": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "JUKE 4 DR SUV NISMO AWD": {
+      "years": [
+        2014
+      ]
+    },
+    "JUKE 4 DR SUV NISMO/NISMO RS FWD": {
+      "years": [
+        2014
+      ]
+    },
+    "JUKE 4DR SUV NISMO RS FWD": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "JUKE 4DR SUV NISMO/NISMO RS AWD": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "JUKE 4DR SUV SV AWD/SL AWD": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "JUKE 4DR SUV SV FWD": {
+      "years": [
+        2015,
+        2016,
+        2017
+      ]
+    },
+    "JUKE 4DR SUV NISMO AWD": {
+      "years": [
+        2017
+      ]
+    },
+    "JUKE 4DR SUV SV/SL AWD": {
+      "years": [
+        2017
+      ]
+    }
+  },
+  "Kicks": {
+    "KICKS 4DR SUV": {
+      "years": [
+        2019
+      ]
+    }
+  },
+  "Leaf": {
+    "LEAF 4DR HATCHBACK SV/SL": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "LEAF 4DR HATCHBACK S/SV": {
+      "years": [
+        2016,
+        2017
+      ]
+    },
+    "LEAF 4DR HATCHBACK SL": {
+      "years": [
+        2016,
+        2017
+      ]
+    },
+    "LEAF 5DR HATCHBACK": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "Maxima": {
+    "MAXIMA GL SEDAN": {
+      "years": [
+        1985
+      ]
+    },
+    "MAXIMA SE SEDAN": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "MAXIMA GXE SEDAN": {
+      "years": [
+        1986
+      ]
+    },
+    "MAXIMA GXE 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "MAXIMA SE 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "MAXIMA SE/GXE/BROUGHAM 4 DR SEDAN": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "MAXIMA GXE/BROUGHAM/SE 4DR SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "MAXIMA 4DR SEDAN GXE/BROUGHAM/SE": {
+      "years": [
+        1994
+      ]
+    },
+    "MAXIMA 4DR SEDAN GXE/SE/GLE": {
+      "years": [
+        1995,
+        1996,
+        1997,
+        2001,
+        2002
+      ]
+    },
+    "MAXIMA 4DR SEDAN GXE/GLE/SE": {
+      "years": [
+        1998,
+        2000
+      ]
+    },
+    "MAXIMA 4DR SEDAN GXE/ES/SE/GLE": {
+      "years": [
+        1999
+      ]
+    },
+    "MAXIMA 4DR SEDAN GLE": {
+      "years": [
+        2003
+      ]
+    },
+    "MAXIMA 4DR SEDAN GXE/SE": {
+      "years": [
+        2003
+      ]
+    },
+    "MAXIMA 4DR SEDAN FWD /SE 5-Seat/SE 4-Seat/SL": {
+      "years": [
+        2004
+      ]
+    },
+    "MAXIMA 4DR SEDAN FWD /3.5 SE 5-Seat/3.5 SE 4-": {
+      "years": [
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "MAXIMA 4DR SEDAN FWD 3.5SE/3.5SL": {
+      "years": [
+        2008
+      ]
+    },
+    "MAXIMA 4DR SEDAN FWD /SV": {
+      "years": [
+        2009
+      ]
+    },
+    "MAXIMA 4DR SEDAN FWD 3.5S/3.5SV": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "MAXIMA 4DR SEDAN FWD 3.5SV": {
+      "years": [
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "MAXIMA 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Micra": {
+    "MICRA DELUXE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "MICRA GL": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "MICRA E /XE 4 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "MICRA E/XE 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "MICRA 2 DR HATCHBACK": {
+      "years": [
+        1988,
+        1989,
+        1990,
+        1991
+      ]
+    },
+    "MICRA 4 DR HATCHBACK": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "MICRA 4DR HATCHBACK  S/SV/KROM/SR": {
+      "years": [
+        2015
+      ]
+    },
+    "MICRA 4DR HATCHBACK": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Murano": {
+    "MURANO SL/SE 4DR SUV AWD": {
+      "years": [
+        2003
+      ]
+    },
+    "MURANO 4DR SUV AWD SL/SE": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "MURANO 4DR SUV AWD SE": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "MURANO 4DR SUV FWD SL": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "MURANO 4DR SUV AWD LE": {
+      "years": [
+        2009,
+        2010
+      ]
+    },
+    "MURANO 4DR SUV AWD S/SL": {
+      "years": [
+        2009,
+        2010
+      ]
+    },
+    "MURANO 4 DR SUV S AWD/SV AWD": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "MURANO 4 DR SUV SL AWD/LE AWD": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "MURANO 4 DR SUV S AWD": {
+      "years": [
+        2014
+      ]
+    },
+    "MURANO 4 DR SUV SV AWD/SL AWD/PLATINUM AWD": {
+      "years": [
+        2014
+      ]
+    },
+    "MURANO S/SV FWD 4DR SUV": {
+      "years": [
+        2015
+      ]
+    },
+    "MURANO SV/SL/PLATINUM 4DR SUV AWD": {
+      "years": [
+        2015
+      ]
+    },
+    "MURANO 4DR SUV AWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "MURANO 4DR SUV FWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "NV": {
+    "NV1500 STANDARD ROOF S": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "NV2500 HIGHROOF V6 S": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "NV2500 HIGHROOF V6 SV/V8 S": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "NV2500 HIGHROOF V8 SV": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "NV2500 STANDARD ROOF V6 S/V6/SV/V8 S": {
+      "years": [
+        2012
+      ]
+    },
+    "NV2500 STANDARD ROOF V8 SV": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "NV3500 HIGHROOF V8 S": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "NV3500 HIGHROOF V8 SV": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "NV3500 STANDARD ROOF V8 S": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "NV3500 STANDARD ROOF V8 SV": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "NV2500 STANDARD ROOF V6 S/V6 SV/V8 S": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "NV3500 PASSENGER VAN STANDARD ROOF S V6/S V8/": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "NV3500 PASSENGER VAN STANDARD ROOF SV V8/SL V": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "NV200": {
+    "NV200 S/SV VAN": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "NX": {
+    "NX 1600 2DR COUPE": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "NX 2000 2DR COUPE": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    }
+  },
+  "NX/Sentra": {},
+  "PULSAR": {
+    "PULSAR NX COUPE": {
+      "years": [
+        1985,
+        1986
+      ]
+    },
+    "PULSAR NX XE/SE 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "PULSAR NX XE/SE 2 DR COUPE": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "PULSAR NX XE 2DR COUPE": {
+      "years": [
+        1990
+      ]
+    }
+  },
+  "Pathfinder": {
+    "PATHFINDER 4 X 2": {
+      "years": [
+        1987
+      ]
+    },
+    "PATHFINDER 4 X 4": {
+      "years": [
+        1987
+      ]
+    },
+    "PATHFINDER 4X4": {
+      "years": [
+        1988
+      ]
+    },
+    "PATHFINDER 4X4 SE": {
+      "years": [
+        1989
+      ]
+    },
+    "PATHFINDER 4X4 XE": {
+      "years": [
+        1989
+      ]
+    },
+    "PATHFINDER SE 4x4 2DR": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "PATHFINDER SE 4x4 4DR": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "PATHFINDER XE 4x2 4DR": {
+      "years": [
+        1990
+      ]
+    },
+    "PATHFINDER XE 4x4 4DR": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "PATHFINDER XE 4x4 2DR": {
+      "years": [
+        1991
+      ]
+    },
+    "PATHFINDER LE 4x4 4DR": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "PATHFINDER (1999.5) LE 4x4 4DR": {
+      "years": [
+        1999
+      ]
+    },
+    "PATHFINDER (1999.5) SE 4x4 4DR": {
+      "years": [
+        1999
+      ]
+    },
+    "PATHFINDER (1999.5) XE 4x4 4DR": {
+      "years": [
+        1999
+      ]
+    },
+    "PATHFINDER CHILKOOT EDITION 4DR SUV 4WD": {
+      "years": [
+        2003
+      ]
+    },
+    "PATHFINDER LE 4DR SUV 4WD": {
+      "years": [
+        2003
+      ]
+    },
+    "PATHFINDER SE 4DR SUV 4WD": {
+      "years": [
+        2003
+      ]
+    },
+    "PATHFINDER 4DR SUV 4WD /CHINOOK EDITION": {
+      "years": [
+        2004
+      ]
+    },
+    "PATHFINDER 4DR SUV 4WD /LE": {
+      "years": [
+        2004
+      ]
+    },
+    "PATHFINDER 4DR SUV 4WD /SE": {
+      "years": [
+        2004
+      ]
+    },
+    "PATHFINDER ARMANDA 4DR SUV AWD SE/LE": {
+      "years": [
+        2004
+      ]
+    },
+    "PATHFINDER 4DR SUV 4WD SE OFF-ROAD": {
+      "years": [
+        2005
+      ]
+    },
+    "PATHFINDER 4DR SUV 4WD SE/LE": {
+      "years": [
+        2005
+      ]
+    },
+    "PATHFINDER 4DR SUV 4WD XE": {
+      "years": [
+        2005
+      ]
+    },
+    "PATHFINDER 4DR SUV 4WD LE": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "PATHFINDER 4DR SUV 4WD S": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "PATHFINDER 4DR SUV 4WD SE/OFF-ROAD": {
+      "years": [
+        2006
+      ]
+    },
+    "PATHFINDER 4DR SUV 4WD SE": {
+      "years": [
+        2007
+      ]
+    },
+    "PATHFINDER 4DR SUV 4WD LE V8": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "PATHFINDER 4DR SUV 4WD S V6": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "PATHFINDER 4DR SUV 4WD SE V6": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "PATHFINDER 4DR SUV 4WD LE V6": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "PATHFINDER 4DR SUV 4WD SVV6": {
+      "years": [
+        2011,
+        2012
+      ]
+    },
+    "PATHFINDER PLATINUM 4DR SUV": {
+      "years": [
+        2013
+      ]
+    },
+    "PATHFINDER S/SL 4 x 2 4DR SUV": {
+      "years": [
+        2013
+      ]
+    },
+    "PATHFINDER S/SV/SL 4 x 4 4DR SUV": {
+      "years": [
+        2013
+      ]
+    },
+    "PATHFINDER HYBRID SV/PLATINUM AWD 4DR SUV": {
+      "years": [
+        2014
+      ]
+    },
+    "PATHFINDER PLATINUM AWD 4DR SUV": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "PATHFINDER S/SL FWD 4DR SUV": {
+      "years": [
+        2014
+      ]
+    },
+    "PATHFINDER S/SV/SL AWD 4DR SUV": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "PATHFINDER HYBRID SV/PLATINUM 4DR SUV": {
+      "years": [
+        2015
+      ]
+    },
+    "PATHFINDER S FWD 4DR SUV": {
+      "years": [
+        2015
+      ]
+    },
+    "PATHFINDER FWD 4DR SUV": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Pickup": {},
+  "Quest": {
+    "QUEST XE/GXE 2DR": {
+      "years": [
+        1993
+      ]
+    },
+    "QUEST 3DR WAGON XE/GXE": {
+      "years": [
+        1994,
+        1995,
+        1996
+      ]
+    },
+    "QUEST XE/GXE": {
+      "years": [
+        1997,
+        1998
+      ]
+    },
+    "QUEST GXE": {
+      "years": [
+        1999,
+        2000,
+        2001
+      ]
+    },
+    "QUEST SE/GLE": {
+      "years": [
+        1999
+      ]
+    },
+    "QUEST SE": {
+      "years": [
+        2000,
+        2001
+      ]
+    },
+    "QUEST 4DR FWD 3.5 S/3.5SL": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "QUEST 4DR FWD 3.5SE": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "QUEST 4DR FWD 3.5S/3.5SL": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "QUEST 4DR FWD 3.5SLE": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "QUEST 4 DR MINIVAN S/SV": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "QUEST 4 DR MINIVAN SL/LE": {
+      "years": [
+        2011,
+        2012,
+        2013,
+        2014
+      ]
+    },
+    "QUEST 4DR MINIVAN S/SV": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "QUEST 4DR MINIVAN SL/LE": {
+      "years": [
+        2015,
+        2016
+      ]
+    }
+  },
+  "Rogue": {
+    "ROGUE 4DR CUV FWD S/SL": {
+      "years": [
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "ROGUE 4DR CUV AWD S/SL": {
+      "years": [
+        2009,
+        2010
+      ]
+    },
+    "ROGUE 4DR CUV AWD S/SV/SL": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "ROGUE 4DR CUV FWD S/SV": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "ROGUE 4DR CUV S/SV FWD": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "ROGUE 4DR CUV S/SV/SL AWD": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "ROGUE 4DR SUV AWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "ROGUE 4DR SUV FWD": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Rogue Select": {},
+  "Rogue Sports": {},
+  "Sentra": {
+    "SENTRA DELUXE 2 DR": {
+      "years": [
+        1985
+      ]
+    },
+    "SENTRA XE 4 DR": {
+      "years": [
+        1985
+      ]
+    },
+    "SENTRA XE HATCHBACK": {
+      "years": [
+        1985
+      ]
+    },
+    "SENTRA XE WAGON": {
+      "years": [
+        1985
+      ]
+    },
+    "SENTRA E (2-DR)": {
+      "years": [
+        1986
+      ]
+    },
+    "SENTRA E/GXE (4-DR)": {
+      "years": [
+        1986
+      ]
+    },
+    "SENTRA XE/GXE WAGON": {
+      "years": [
+        1986,
+        1987
+      ]
+    },
+    "SENTRA XE/SE HATCHBACK": {
+      "years": [
+        1986
+      ]
+    },
+    "SENTRA E 2 DR COUPE": {
+      "years": [
+        1987
+      ]
+    },
+    "SENTRA E/GXE 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "SENTRA XE 4X4 WAGON": {
+      "years": [
+        1987
+      ]
+    },
+    "SENTRA XE/SE 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "SENTRA DLX  2 DR SEDAN": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "SENTRA GXE/DLX 4 DR SEDAN": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    },
+    "SENTRA XE 4X4/DLX FWD WAGON": {
+      "years": [
+        1988
+      ]
+    },
+    "SENTRA XE/SE 2 DR SPORTS COUPE": {
+      "years": [
+        1988
+      ]
+    },
+    "SENTRA DLX FWD": {
+      "years": [
+        1989,
+        1990
+      ]
+    },
+    "SENTRA XE 4X4": {
+      "years": [
+        1989,
+        1990
+      ]
+    },
+    "SENTRA XE COUPE": {
+      "years": [
+        1989,
+        1990
+      ]
+    },
+    "SENTRA DLX/XE/GXE 4 DR SEDAN": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "SENTRA 2DR COUPE DLX/XE": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "SENTRA 4DR SEDAN DLX/XE/GXE": {
+      "years": [
+        1994
+      ]
+    },
+    "SENTRA 4DR SEDAN XE/GXE/GLE": {
+      "years": [
+        1995,
+        1996,
+        1997
+      ]
+    },
+    "SENTRA 4DR SEDAN BASE/XE/GXE": {
+      "years": [
+        1998
+      ]
+    },
+    "SENTRA 4DR SEDAN SE": {
+      "years": [
+        1999
+      ]
+    },
+    "SENTRA 4DR SEDAN XE/GXE": {
+      "years": [
+        1999
+      ]
+    },
+    "SENTRA 4DR SEDAN XE/GXE/SE": {
+      "years": [
+        2001
+      ]
+    },
+    "SENTRA 4DR SEDAN SE-R/SE-R Spec V": {
+      "years": [
+        2002
+      ]
+    },
+    "SENTRA XE/GX": {
+      "years": [
+        2002,
+        2003
+      ]
+    },
+    "SENTRA 4DR SEDAN SE-R/SE-R SPEC V": {
+      "years": [
+        2003
+      ]
+    },
+    "SENTRA 4DR SEDAN FWD /1.8 /1.8S": {
+      "years": [
+        2004
+      ]
+    },
+    "SENTRA 4DR SEDAN FWD /SE-R/SE-R SPEC V": {
+      "years": [
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "SENTRA 4DR SEDAN FWD /1.8 /1.8S/SPEICAL EDITI": {
+      "years": [
+        2005,
+        2006
+      ]
+    },
+    "SENTRA 4DR SEDAN FWD /2.0/S": {
+      "years": [
+        2007
+      ]
+    },
+    "SENTRA 4DR SEDAN FWD /SL/SE-R/SPEC V": {
+      "years": [
+        2007
+      ]
+    },
+    "SENTRA 4DR SEDAN FWD 2.0/S": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "SENTRA 4DR SEDAN FWD 2.0SL/SE-R/SE-R SPEC V": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "SENTRA 4DR SEDAN FWD 2.0": {
+      "years": [
+        2012
+      ]
+    },
+    "SENTRA 4DR SEDAN FWD 2.0S/2.0SL/SR": {
+      "years": [
+        2012
+      ]
+    },
+    "SENTRA 4DR SEDAN FWD SE-R SPEC V": {
+      "years": [
+        2012
+      ]
+    },
+    "SENTRA 1.8 S/1.8SV 4DR SEDAN": {
+      "years": [
+        2013
+      ]
+    },
+    "SENTRA S/SV/SR/SL 4DR SEDAN": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "SENTRA 4DR SEDAN": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "SENTRA TURBO 4DR SEDAN": {
+      "years": [
+        2017,
+        2018
+      ]
+    }
+  },
+  "Sentra Classic": {
+    "SENTRA CLASSIC 4 DR SEDAN": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    }
+  },
+  "Stanza": {
+    "STANZA GL SEDAN": {
+      "years": [
+        1985
+      ]
+    },
+    "STANZA XE HATCHBACK 5 DR": {
+      "years": [
+        1985
+      ]
+    },
+    "STANZA E/GXE SEDAN(4-DR)": {
+      "years": [
+        1986
+      ]
+    },
+    "STANZA HATCHBACK XE (4-DR)": {
+      "years": [
+        1986
+      ]
+    },
+    "STANZA E/GXE 4 DR SEDAN": {
+      "years": [
+        1987
+      ]
+    },
+    "STANZA XE 4 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "STANZA DLX/XE/GXE 4 DR SEDAN": {
+      "years": [
+        1988,
+        1989
+      ]
+    },
+    "STANZA DLX/XE/GXE 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "STANZA XE/SE 4DR SEDAN": {
+      "years": [
+        1992
+      ]
+    }
+  },
+  "Stanza Wagon": {},
   "Titan": {
     "TITAN CREW CAB S/BOX 4X4 LE": {
       "years": [
@@ -2329,288 +2468,68 @@
       ]
     }
   },
-  "NV": {
-    "NV1500 STANDARD ROOF S": {
+  "Van": {},
+  "Versa": {
+    "VERSA 4DR HATCH FWD /1.8S/1.8SL": {
       "years": [
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
+        2007
       ]
     },
-    "NV2500 HIGHROOF V6 S": {
+    "VERSA 4DR SEDAN FWD /1.8S/1.8SL": {
       "years": [
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
+        2007
       ]
     },
-    "NV2500 HIGHROOF V6 SV/V8 S": {
+    "VERSA 4DR HATCH FWD 1.8S/1.8SL": {
       "years": [
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "NV2500 HIGHROOF V8 SV": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "NV2500 STANDARD ROOF V6 S/V6/SV/V8 S": {
-      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
         2012
       ]
     },
-    "NV2500 STANDARD ROOF V8 SV": {
+    "VERSA 4DR SEDAN FWD 1.8S/1.8SL": {
       "years": [
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "NV3500 HIGHROOF V8 S": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "NV3500 HIGHROOF V8 SV": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "NV3500 STANDARD ROOF V8 S": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "NV3500 STANDARD ROOF V8 SV": {
-      "years": [
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "NV2500 STANDARD ROOF V6 S/V6 SV/V8 S": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "NV3500 PASSENGER VAN STANDARD ROOF S V6/S V8/": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "NV3500 PASSENGER VAN STANDARD ROOF SV V8/SL V": {
-      "years": [
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Cube": {
-    "CUBE 5DR HATCH": {
-      "years": [
+        2008,
         2009
       ]
     },
-    "CUBE 5DR HATCH S/SL": {
+    "VERSA 4DR SEDAN 1.6 FWD": {
       "years": [
         2010,
         2011
       ]
     },
-    "CUBE 5DR HATCH 1.8 S/1.8 SL": {
+    "VERSA 4DR SEDAN 1.6 S/1.6 SV/1.6 SL": {
       "years": [
-        2012,
-        2013,
-        2014
-      ]
-    }
-  },
-  "Pickup": {},
-  "Van": {},
-  "Juke": {
-    "JUKE 4 DR SUV SV AWD/SL AWD": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "JUKE 4 DR SUV SV FWD/SL FWD": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014
-      ]
-    },
-    "JUKE 4 DR SUV NISMO AWD": {
-      "years": [
-        2014
-      ]
-    },
-    "JUKE 4 DR SUV NISMO/NISMO RS FWD": {
-      "years": [
-        2014
-      ]
-    },
-    "JUKE 4DR SUV NISMO RS FWD": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "JUKE 4DR SUV NISMO/NISMO RS AWD": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "JUKE 4DR SUV SV AWD/SL AWD": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "JUKE 4DR SUV SV FWD": {
-      "years": [
-        2015,
-        2016,
-        2017
-      ]
-    },
-    "JUKE 4DR SUV NISMO AWD": {
-      "years": [
-        2017
-      ]
-    },
-    "JUKE 4DR SUV SV/SL AWD": {
-      "years": [
-        2017
-      ]
-    }
-  },
-  "Rogue": {
-    "ROGUE 4DR CUV FWD S/SL": {
-      "years": [
-        2008,
-        2009,
-        2010
-      ]
-    },
-    "ROGUE 4DR CUV AWD S/SL": {
-      "years": [
-        2009,
-        2010
-      ]
-    },
-    "ROGUE 4DR CUV AWD S/SV/SL": {
-      "years": [
-        2011,
         2012,
         2013
       ]
     },
-    "ROGUE 4DR CUV FWD S/SV": {
+    "VERSA 4DR HATCHBACK FWD 1.8S/1.8SL": {
       "years": [
-        2011,
-        2012,
         2013
       ]
     },
-    "ROGUE 4DR CUV S/SV FWD": {
+    "VERSA 4DR SEDAN S/SV/SL": {
       "years": [
-        2014,
+        2014
+      ]
+    }
+  },
+  "Versa Note": {
+    "VERSA NOTE 4DR HATCHBACK S/SV/SL": {
+      "years": [
+        2014
+      ]
+    },
+    "VERSA NOTE 4DR HATCHBACK S/SV/SR/SL": {
+      "years": [
         2015
       ]
     },
-    "ROGUE 4DR CUV S/SV/SL AWD": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "ROGUE 4DR SUV AWD": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "ROGUE 4DR SUV FWD": {
+    "VERSA NOTE 4DR HATCHBACK": {
       "years": [
         2016,
         2017,
@@ -2638,5 +2557,86 @@
       ]
     }
   },
-  "Rogue Select": {}
+  "Xterra": {
+    "XTERRA 4DR SUV 4x4": {
+      "years": [
+        2000,
+        2002
+      ]
+    },
+    "XTERRA 4DR SUV 4x4 SE": {
+      "years": [
+        2001,
+        2002
+      ]
+    },
+    "XTERRA 4DR SUV 4x4 XE": {
+      "years": [
+        2001
+      ]
+    },
+    "XTERRA 4DR SUV 4x4 SE SC": {
+      "years": [
+        2002
+      ]
+    },
+    "XTERRA SE 4DR SUV 4WD": {
+      "years": [
+        2003
+      ]
+    },
+    "XTERRA SE-SC 4DR SUV 4WD": {
+      "years": [
+        2003
+      ]
+    },
+    "XTERRA XE 4DR SUV 4WD": {
+      "years": [
+        2003
+      ]
+    },
+    "XTERRA 4DR SUV 4WD /SE": {
+      "years": [
+        2004
+      ]
+    },
+    "XTERRA 4DR SUV 4WD /SE-SC": {
+      "years": [
+        2004
+      ]
+    },
+    "XTERRA 4DR SUV 4WD /XE": {
+      "years": [
+        2004
+      ]
+    },
+    "XTERRA 4DR SUV 4WD S/OFF-ROAD/SE": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010
+      ]
+    },
+    "XTERRA 4DR SUV 4WD S/PRO-4X/SV": {
+      "years": [
+        2011,
+        2012,
+        2013
+      ]
+    },
+    "XTERRA 4DR SUV 4WD S/PRO-4X": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "XTERRA 4DR SUV 4WD": {
+      "years": [
+        2016
+      ]
+    }
+  }
 }

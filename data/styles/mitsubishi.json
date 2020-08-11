@@ -1,6 +1,177 @@
 {
-  "Outlander": {
-    "OUTLANDER LS 4DR SUV RWD": {
+  "3000 GT": {},
+  "3000 GT Spyder": {},
+  "Cordia": {},
+  "Diamante": {
+    "DIAMANTE ES": {
+      "years": [
+        2002
+      ]
+    },
+    "DIAMANTE LS": {
+      "years": [
+        2002
+      ]
+    },
+    "DIAMANTE 4DR SEDAN FWD ES/LS/VR-X": {
+      "years": [
+        2004
+      ]
+    }
+  },
+  "ECLIPSE CROSS": {
+    "ECLIPSE CROSS 4DR SUV": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "Eclipse": {
+    "ECLIPSE RS MT/GS MT/GT MT": {
+      "years": [
+        2002
+      ]
+    },
+    "ECLIPSE COUPE 2DR COUPE GT/GT PREMIUM": {
+      "years": [
+        2003,
+        2004,
+        2005
+      ]
+    },
+    "ECLIPSE COUPE 2DR COUPE RS/GS": {
+      "years": [
+        2003,
+        2004,
+        2005
+      ]
+    },
+    "ECLIPSE COUPE 2DR COUPE GS": {
+      "years": [
+        2006
+      ]
+    },
+    "ECLIPSE COUPE 2DR COUPE GT": {
+      "years": [
+        2006
+      ]
+    },
+    "ECLIPSE GS 2DR COUPE": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "ECLIPSE GT-P 2DR COUPE": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    }
+  },
+  "Eclipse Spyder": {
+    "ECLIPSE SPYDER GS MT/GT MT": {
+      "years": [
+        2002
+      ]
+    },
+    "ECLIPSE SPYDER 2DR CONV GS": {
+      "years": [
+        2003,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "ECLIPSE SPYDER 2DR CONV GT PREMIUM": {
+      "years": [
+        2003
+      ]
+    },
+    "ECLIPSE SPYDER 2DR CONV FWD /GS": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "ECLIPSE SPYDER 2DR CONV FWD /GT PREMIUM": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "ECLIPSE SPYDER 2DR CONV GT-P": {
+      "years": [
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    }
+  },
+  "Endeavor": {
+    "ENDEAVOR 4DR SUV AWD LIMITED": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007
+      ]
+    },
+    "ENDEAVOR 4DR SUV FWD LS/XLS": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "ENDEAVOR 4DR SUV FWD LS": {
+      "years": [
+        2006,
+        2007
+      ]
+    },
+    "ENDEAVOR 4DR SUV AWD LTD": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "ENDEAVOR 4DR SUV FWD BASE": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "ENDEAVOR 4DR SUV FWD SE": {
+      "years": [
+        2008,
+        2009
+      ]
+    },
+    "ENDEAVOR 4DR SUV AWD SE": {
+      "years": [
+        2010,
+        2011,
+        2012
+      ]
+    }
+  },
+  "Expo": {},
+  "Expo LRV": {},
+  "Galant": {
+    "GALANT 4DR SEDAN FWD /DE/ES": {
       "years": [
         2003,
         2004,
@@ -8,92 +179,53 @@
         2006
       ]
     },
-    "OUTLANDER XLS 4DR SUV AWD": {
+    "GALANT 4DR SEDAN FWD /ES V6/ LS V6/ GTZ": {
       "years": [
-        2003,
-        2004,
-        2005
+        2003
       ]
     },
-    "OUTLANDER SE/LIMITED 4DR SUV AWD": {
+    "GALANT 4DR SEDAN FWD /GTS-V6": {
       "years": [
+        2004,
+        2005,
         2006
       ]
     },
-    "OUTLANDER 4DR SUV AWD XLS": {
+    "GALANT 4DR SEDAN FWD /LS-V6": {
       "years": [
-        2007,
-        2008,
-        2009
+        2004,
+        2005,
+        2006,
+        2007
       ]
     },
-    "OUTLANDER 4DR SUV FWD LS": {
+    "GALANT 4DR SEDAN FWD /ES": {
       "years": [
-        2007,
-        2008,
-        2009
+        2007
       ]
     },
-    "OUTLANDER 4DR SUV FWD ES": {
+    "GALANT 4DR SEDAN FWD /RALLIART-V6": {
+      "years": [
+        2007
+      ]
+    },
+    "GALANT 4DR SEDAN FWD ES": {
       "years": [
         2008,
         2009,
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015
+        2010
       ]
     },
-    "OUTLANDER 4DR SUV AWD ES": {
+    "GALANT 4DR SEDAN FWD LS": {
       "years": [
-        2010,
-        2011,
-        2012,
-        2013,
-        2014,
-        2015
+        2008,
+        2009
       ]
     },
-    "OUTLANDER 4DR SUV AWD LS/XLS": {
+    "GALANT 4DR SEDAN FWD RALLIART": {
       "years": [
-        2010,
-        2011
-      ]
-    },
-    "OUTLANDER 4DR SUV AWD LS/XLS S-AWC": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "OUTLANDER 4DR SUV AWD SE/GT": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "OUTLANDER 4DR SUV ES AWC": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
-      ]
-    },
-    "OUTLANDER 4DR SUV ES FWD": {
-      "years": [
-        2016,
-        2017
-      ]
-    },
-    "OUTLANDER 4DR SUV SE/GT S AWC": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019
+        2008,
+        2009
       ]
     }
   },
@@ -241,161 +373,68 @@
       ]
     }
   },
-  "Galant": {
-    "GALANT 4DR SEDAN FWD /DE/ES": {
+  "Lancer Evolution": {},
+  "Lancer SportBack": {
+    "LANCER SPORTBACK 4DR WAGON FWD LS/RALLIART": {
       "years": [
-        2003,
-        2004,
-        2005,
-        2006
+        2004
       ]
     },
-    "GALANT 4DR SEDAN FWD /ES V6/ LS V6/ GTZ": {
+    "LANCER SPORTBACK GTS 4DR FWD": {
       "years": [
-        2003
-      ]
-    },
-    "GALANT 4DR SEDAN FWD /GTS-V6": {
-      "years": [
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "GALANT 4DR SEDAN FWD /LS-V6": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "GALANT 4DR SEDAN FWD /ES": {
-      "years": [
-        2007
-      ]
-    },
-    "GALANT 4DR SEDAN FWD /RALLIART-V6": {
-      "years": [
-        2007
-      ]
-    },
-    "GALANT 4DR SEDAN FWD ES": {
-      "years": [
-        2008,
-        2009,
         2010
       ]
     },
-    "GALANT 4DR SEDAN FWD LS": {
+    "LANCER SPORTBACK RALLIART 4DR AWD": {
       "years": [
-        2008,
-        2009
+        2010,
+        2011
       ]
     },
-    "GALANT 4DR SEDAN FWD RALLIART": {
+    "LANCER SPORTBACK 4DR HATCH SE/GT FWD": {
       "years": [
-        2008,
-        2009
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018
       ]
     }
   },
-  "Eclipse": {
-    "ECLIPSE RS MT/GS MT/GT MT": {
+  "Mighty Max": {},
+  "Mirage": {
+    "MIRAGE COUPE": {
       "years": [
         2002
       ]
     },
-    "ECLIPSE COUPE 2DR COUPE GT/GT PREMIUM": {
+    "MIRAGE 4DR HATCHBACK ES/SE": {
       "years": [
-        2003,
-        2004,
-        2005
+        2014,
+        2015
       ]
     },
-    "ECLIPSE COUPE 2DR COUPE RS/GS": {
+    "MIRAGE 5DR HATCH": {
       "years": [
-        2003,
-        2004,
-        2005
-      ]
-    },
-    "ECLIPSE COUPE 2DR COUPE GS": {
-      "years": [
-        2006
-      ]
-    },
-    "ECLIPSE COUPE 2DR COUPE GT": {
-      "years": [
-        2006
-      ]
-    },
-    "ECLIPSE GS 2DR COUPE": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "ECLIPSE GT-P 2DR COUPE": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
+        2017,
+        2018,
+        2019
       ]
     }
   },
-  "Endeavor": {
-    "ENDEAVOR 4DR SUV AWD LIMITED": {
+  "Mirage G4": {
+    "MIRAGE G4 SEDAN": {
       "years": [
-        2004,
-        2005,
-        2006,
-        2007
-      ]
-    },
-    "ENDEAVOR 4DR SUV FWD LS/XLS": {
-      "years": [
-        2004,
-        2005
-      ]
-    },
-    "ENDEAVOR 4DR SUV FWD LS": {
-      "years": [
-        2006,
-        2007
-      ]
-    },
-    "ENDEAVOR 4DR SUV AWD LTD": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "ENDEAVOR 4DR SUV FWD BASE": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "ENDEAVOR 4DR SUV FWD SE": {
-      "years": [
-        2008,
-        2009
-      ]
-    },
-    "ENDEAVOR 4DR SUV AWD SE": {
-      "years": [
-        2010,
-        2011,
-        2012
+        2017,
+        2018,
+        2019
       ]
     }
   },
+  "Mirage Station Wagon": {},
   "Montero": {
     "MONTERO XLS/LIMITED": {
       "years": [
@@ -411,51 +450,136 @@
       ]
     }
   },
-  "Eclipse Spyder": {
-    "ECLIPSE SPYDER GS MT/GT MT": {
+  "Montero Sport": {
+    "MONTERO SPORT ES/LS": {
       "years": [
         2002
       ]
     },
-    "ECLIPSE SPYDER 2DR CONV GS": {
+    "MONTERO SPORT XLS/LTD": {
       "years": [
-        2003,
-        2007,
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
+        2002
       ]
     },
-    "ECLIPSE SPYDER 2DR CONV GT PREMIUM": {
+    "MONTERO SPORT ES": {
       "years": [
         2003
       ]
     },
-    "ECLIPSE SPYDER 2DR CONV FWD /GS": {
+    "MONTERO SPORT LS/XLS/LTD": {
       "years": [
+        2003
+      ]
+    }
+  },
+  "Outlander": {
+    "OUTLANDER LS 4DR SUV RWD": {
+      "years": [
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "OUTLANDER XLS 4DR SUV AWD": {
+      "years": [
+        2003,
         2004,
         2005
       ]
     },
-    "ECLIPSE SPYDER 2DR CONV FWD /GT PREMIUM": {
+    "OUTLANDER SE/LIMITED 4DR SUV AWD": {
       "years": [
-        2004,
-        2005
+        2006
       ]
     },
-    "ECLIPSE SPYDER 2DR CONV GT-P": {
+    "OUTLANDER 4DR SUV AWD XLS": {
       "years": [
         2007,
+        2008,
+        2009
+      ]
+    },
+    "OUTLANDER 4DR SUV FWD LS": {
+      "years": [
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "OUTLANDER 4DR SUV FWD ES": {
+      "years": [
         2008,
         2009,
         2010,
         2011,
-        2012
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "OUTLANDER 4DR SUV AWD ES": {
+      "years": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "OUTLANDER 4DR SUV AWD LS/XLS": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "OUTLANDER 4DR SUV AWD LS/XLS S-AWC": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
+    "OUTLANDER 4DR SUV AWD SE/GT": {
+      "years": [
+        2014,
+        2015
+      ]
+    },
+    "OUTLANDER 4DR SUV ES AWC": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "OUTLANDER 4DR SUV ES FWD": {
+      "years": [
+        2016,
+        2017
+      ]
+    },
+    "OUTLANDER 4DR SUV SE/GT S AWC": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019
       ]
     }
   },
+  "Outlander - PHEV": {
+    "OUTLANDER PHEV 4DR SUV": {
+      "years": [
+        2018,
+        2019
+      ]
+    }
+  },
+  "Outlander Sport": {},
+  "Precis": {},
   "RVR": {
     "RVR 4 DR SUV ES 2WD/SE 2WD": {
       "years": [
@@ -504,6 +628,16 @@
       ]
     }
   },
+  "Raider": {},
+  "SP": {},
+  "SPX": {},
+  "Sigma": {},
+  "Space Wagon": {},
+  "Starion": {},
+  "Tredia": {},
+  "Truck": {},
+  "Van": {},
+  "Wagon": {},
   "i-MiEV": {
     "iMiEV": {
       "years": [
@@ -518,140 +652,6 @@
         2016,
         2017,
         2018
-      ]
-    }
-  },
-  "Outlander - PHEV": {
-    "OUTLANDER PHEV 4DR SUV": {
-      "years": [
-        2018,
-        2019
-      ]
-    }
-  },
-  "Mirage": {
-    "MIRAGE COUPE": {
-      "years": [
-        2002
-      ]
-    },
-    "MIRAGE 4DR HATCHBACK ES/SE": {
-      "years": [
-        2014,
-        2015
-      ]
-    },
-    "MIRAGE 5DR HATCH": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Expo": {},
-  "3000 GT": {},
-  "3000 GT Spyder": {},
-  "Diamante": {
-    "DIAMANTE ES": {
-      "years": [
-        2002
-      ]
-    },
-    "DIAMANTE LS": {
-      "years": [
-        2002
-      ]
-    },
-    "DIAMANTE 4DR SEDAN FWD ES/LS/VR-X": {
-      "years": [
-        2004
-      ]
-    }
-  },
-  "Truck": {},
-  "Montero Sport": {
-    "MONTERO SPORT ES/LS": {
-      "years": [
-        2002
-      ]
-    },
-    "MONTERO SPORT XLS/LTD": {
-      "years": [
-        2002
-      ]
-    },
-    "MONTERO SPORT ES": {
-      "years": [
-        2003
-      ]
-    },
-    "MONTERO SPORT LS/XLS/LTD": {
-      "years": [
-        2003
-      ]
-    }
-  },
-  "Lancer SportBack": {
-    "LANCER SPORTBACK 4DR WAGON FWD LS/RALLIART": {
-      "years": [
-        2004
-      ]
-    },
-    "LANCER SPORTBACK GTS 4DR FWD": {
-      "years": [
-        2010
-      ]
-    },
-    "LANCER SPORTBACK RALLIART 4DR AWD": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "LANCER SPORTBACK 4DR HATCH SE/GT FWD": {
-      "years": [
-        2011,
-        2012,
-        2013,
-        2014,
-        2015,
-        2016,
-        2017,
-        2018
-      ]
-    }
-  },
-  "Lancer Evolution": {},
-  "Mirage G4": {
-    "MIRAGE G4 SEDAN": {
-      "years": [
-        2017,
-        2018,
-        2019
-      ]
-    }
-  },
-  "Outlander Sport": {},
-  "Expo LRV": {},
-  "Precis": {},
-  "Sigma": {},
-  "Starion": {},
-  "Tredia": {},
-  "Cordia": {},
-  "Raider": {},
-  "Mirage Station Wagon": {},
-  "Space Wagon": {},
-  "Wagon": {},
-  "Van": {},
-  "Mighty Max": {},
-  "SPX": {},
-  "SP": {},
-  "ECLIPSE CROSS": {
-    "ECLIPSE CROSS 4DR SUV": {
-      "years": [
-        2018,
-        2019
       ]
     }
   }
