@@ -8,14 +8,24 @@
     },
     "CAPRI GS": {
       "years": [
+        1983,
+        1984,
         1985,
         1986
       ]
     },
     "CAPRI RS": {
       "years": [
+        1983,
+        1984,
         1985,
         1986
+      ]
+    },
+    "CAPRI RS TURBO": {
+      "years": [
+        1983,
+        1984
       ]
     }
   },
@@ -45,6 +55,17 @@
     "COUGAR XR 7": {
       "years": [
         1982
+      ]
+    },
+    "COUGAR & COUGAR LS": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "COUGAR XR-7 TURBO": {
+      "years": [
+        1984
       ]
     },
     "COUGAR BASE": {
@@ -107,6 +128,18 @@
     }
   },
   "Grand Marquis": {
+    "GRAND MARQUIS 2 DR & 4 DR": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "GRAND MARQUIS STAT. WAGON": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
     "GRAND MARQUIS WAGON": {
       "years": [
         1985,
@@ -182,7 +215,27 @@
     "LYNX WAGON": {
       "years": [
         1981,
-        1982
+        1982,
+        1983,
+        1984
+      ]
+    },
+    "LYNX L HB 4 DR": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "LYNX L-FS & L HB 2 DR": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "LYNX RS & RS TURBO": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "LYNX GS 2 DR": {
@@ -240,6 +293,20 @@
         1982
       ]
     },
+    "MARQUIS": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "MARQUIS STATION WAGON": {
+      "years": [
+        1983,
+        1984,
+        1985,
+        1986
+      ]
+    },
     "GRAND 2 DR MARQUIS": {
       "years": [
         1985,
@@ -260,12 +327,6 @@
     "MARQUIS LTS 4 DR": {
       "years": [
         1985
-      ]
-    },
-    "MARQUIS STATION WAGON": {
-      "years": [
-        1985,
-        1986
       ]
     },
     "MARQUIS BASE/BROUGHAM 4 DR": {
@@ -354,6 +415,16 @@
     }
   },
   "Topaz": {
+    "TOPAZ L & ES & LS 4 DR": {
+      "years": [
+        1984
+      ]
+    },
+    "TOPAZ L & GS & L 2 DR": {
+      "years": [
+        1984
+      ]
+    },
     "TOPAZ GS 2 DR": {
       "years": [
         1985,

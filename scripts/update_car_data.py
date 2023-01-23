@@ -1,11 +1,12 @@
 import json
 import os
+import re
 import sys
 from collections import OrderedDict
 from datetime import datetime
 
-import re
 import requests
+from tqdm import tqdm
 
 VEHICLE_TYPE_ID_MAP = {
   1: {'VehicleTypeName': 'Motorcycle'},
@@ -305,47 +306,56 @@ def fetch_vehicle_details(year=None, model=None, make=None):
   return vehicle_specifications
 
 
-def update_makes_file():
+def update_makes_file(target_make=None):
   """
   Update makes.json with all of the NHTSA makes which currently produces cars or trucks.
 
   This takes roughly an hour or two to run.
   """
-  filtered_makes = []
+  persisted_makes = load_make_models_json()
+  persisted_makes_by_slug = {make["make_slug"]: make for make in persisted_makes}
+
   all_makes = fetch_all_makes()
-  for count, make in enumerate(all_makes):
-    print(f"update_makes_file() progress: {count + 1} / {len(all_makes)}")
+  for make in tqdm(all_makes):
     if make["make_name"] == "FISKER AUTOMOTIVE":
       # This is a dumb name that doesn't match canada's name.
       make["make_name"] = "Fisker"
       make["make_slug"] = "fisker"
+    if make["make_id"] == 1033:
+      # Skip the generic "FISKER" make, which lists no cars for some reason.
+      continue
+    if target_make and target_make != make["make_slug"]:
+      continue
 
-    if make_is_whitelisted(make, warn_if_unlisted=False):
-      filtered_makes.append(make)
+    if make_is_whitelisted(make, warn_if_unlisted=True):
+      persisted_makes_by_slug[make["make_slug"]] = make
       print(f"{make['make_name']} produces passenger vehicles: {make}")
     else:
       continue
 
     if not make_produces_passenger_vehicles(make["make_id"]):
-      # There are too many random car brands so we focus on just those makings cars and/or trucks
+      # There are too many random car brands, so we focus on just those makings cars and/or trucks
       continue
 
-  persist_json_file(filtered_makes, "data", "makes_and_models.json")
+  makes_and_models = list(sorted(persisted_makes_by_slug.values(), key=lambda make: make["make_slug"]))
+  persist_json_file(makes_and_models, "data", "makes_and_models.json")
 
 
 def load_make_models_json():
   return load_json("data", "makes_and_models.json")
 
 
-def update_models_files():
+def update_models_files(target_make=None):
   """
-  Update makes_and_models.json with the latest of makes and models from the
+  Update makes_and_models.json with the latest of makes and models.
   """
   all_makes = load_make_models_json()
-  for count, make in enumerate(all_makes):
+  for make in tqdm(all_makes):
+    if target_make and make.get("make_slug") != target_make:
+      continue
     print("=" * 120)
     print("=" * 120)
-    print(f"Updating Model {count + 1} / {len(all_makes)}: {make}")
+    print(f"Updating Make id={make['make_id']} name={make['make_name']}")
     print("=" * 120)
     print("=" * 120)
     models = fetch_models_for_make_id(make["make_id"])
@@ -415,12 +425,13 @@ def choose_matching_model_for_style(model_style_name, model_choices):
 
 
 def update_styles():
-  all_makes = load_json("data", "makes_and_models.json")
+  all_makes = load_make_models_json()
   all_orphaned_styles = {}
 
   for count, make in enumerate(all_makes):
-    # if make['make_name'] != 'BMW':
-    #   continue
+    if not (make["first_year"] and make["last_year"]):
+      print(f"BAD MAKE missing first_year or last_year: {make}")
+      continue
     print("Cool starting stuff now...")
     model_choices = make["models"].keys()
     all_orphaned_styles[make["make_name"]] = {
@@ -489,7 +500,9 @@ def update_stats():
 
 
 def update_everything():
+  # update_makes_file(target_make="fisker")
   update_makes_file()
+  # update_models_files(target_make="fisker")
   update_models_files()
   update_styles()
   update_stats()

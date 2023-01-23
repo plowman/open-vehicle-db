@@ -69,12 +69,30 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "CADENZA 4DR SEDAN PREMIUM": {
       "years": [
-        2019
+        2019,
+        2020
+      ]
+    }
+  },
+  "Carnival": {
+    "CARNIVAL MINIVAN": {
+      "years": [
+        2022,
+        2023
+      ]
+    }
+  },
+  "EV6": {
+    "EV6 4DR HATCH": {
+      "years": [
+        2022,
+        2023
       ]
     }
   },
@@ -161,7 +179,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "FORTE5 LX/EX 5DR HATCHBACK": {
@@ -181,6 +202,27 @@
     "FORTE5 5DR HATCH": {
       "years": [
         2019
+      ]
+    },
+    "FORTE GT 4DR SEDAN": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "FORTE5 EX 5DR HATCH": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "FORTE5 GT 5DR HATCH": {
+      "years": [
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -232,7 +274,26 @@
       ]
     }
   },
-  "K5": {},
+  "K5": {
+    "K5 EX / GT-LINE 4DR SEDAN": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "K5 GT 4DR SEDAN": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "K5 LX 4DR SEDAN": {
+      "years": [
+        2021,
+        2022
+      ]
+    }
+  },
   "K900": {
     "K900 V6 4DR SEDAN": {
       "years": [
@@ -260,12 +321,25 @@
     "NIRO 4DR SUV HYBRID": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "NIRO PHEV 4DR SUV HYBRID": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "NIRO EV 4DR SUV": {
+      "years": [
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -330,26 +404,30 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "OPTIMA HYBRID 4DR SEDAN": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "OPTIMA PHEV 4DR SEDAN": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "OPTIMA LX/LX+/EX/EX TECH 4DR SEDAN": {
       "years": [
-        2019
+        2019,
+        2020
       ]
     }
   },
@@ -456,7 +534,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "RIO 5DR HATCHBACK": {
@@ -468,7 +549,10 @@
     "RIO 5DR HATCH": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -580,21 +664,46 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021
       ]
     },
     "SEDONA L 5DR VAN FWD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021
       ]
     },
     "SEDONA LX/SX 5DR VAN FWD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021
       ]
     }
   },
-  "Seltos": {},
+  "Seltos": {
+    "SELTOS AWD 4DR SUV": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "SELTOS AWD TURBO 4DR SUV": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "SELTOS FWD 4DR SUV": {
+      "years": [
+        2021,
+        2022
+      ]
+    }
+  },
   "Sephia": {
     "SEPHIA 4DR SEDAN BASE/LS": {
       "years": [
@@ -717,7 +826,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "SORENTO V6 FWD": {
@@ -729,12 +839,30 @@
     },
     "SORENTO 2.4L AWD": {
       "years": [
-        2019
+        2019,
+        2020
       ]
     },
     "SORENTO LX FWD": {
       "years": [
         2019
+      ]
+    },
+    "SORENTO 2.5L SUV": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "SORENTO 2.5L TURBO SUV": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "SORENTO HYBRID SUV": {
+      "years": [
+        2022
       ]
     }
   },
@@ -794,7 +922,9 @@
     },
     "SOUL 5DR HATCH": {
       "years": [
-        2020
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -810,6 +940,20 @@
         2017,
         2018,
         2019
+      ]
+    },
+    "SOUL EV LIMITED 5DR HATCH": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "SOUL EV PREMIUM 5DR HATCH": {
+      "years": [
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -983,21 +1127,30 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SPORTAGE AWD TURBO 4DR SUV": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SPORTAGE FWD 4DR SUV": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1014,14 +1167,19 @@
     },
     "STINGER V6 4DR SEDAN": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
   "Telluride": {
     "TELLURIDE 4DR SUV": {
       "years": [
-        2020
+        2020,
+        2021,
+        2022
       ]
     }
   }

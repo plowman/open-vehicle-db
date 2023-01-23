@@ -8,12 +8,39 @@
     "ACCORD LX SD": {
       "years": [
         1981,
-        1982
+        1982,
+        1984
       ]
     },
     "ACCORD HB": {
       "years": [
-        1982
+        1982,
+        1984
+      ]
+    },
+    "ACCORD 2 DR AUTO.": {
+      "years": [
+        1983
+      ]
+    },
+    "ACCORD 2 DR HB 5SP": {
+      "years": [
+        1983
+      ]
+    },
+    "ACCORD 4 DR SD 5SP": {
+      "years": [
+        1983
+      ]
+    },
+    "ACCORD 4 DR SD AUTO.": {
+      "years": [
+        1983
+      ]
+    },
+    "ACCORD EX SD": {
+      "years": [
+        1984
       ]
     },
     "ACCORD EX SEDAN": {
@@ -103,14 +130,6 @@
         1993
       ]
     },
-    "ACCORD 2DR COUPE EX-R": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997
-      ]
-    },
     "ACCORD 2DR COUPE LX": {
       "years": [
         1994,
@@ -149,6 +168,14 @@
       "years": [
         1994,
         1995
+      ]
+    },
+    "ACCORD 2DR COUPE EX-R": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997
       ]
     },
     "ACCORD 4DR SEDAN V6 EX": {
@@ -434,7 +461,10 @@
     "ACCORD 4DR SEDAN LX CVT": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "ACCORD 4DR SEDAN SPORT 2.0 / TOURING 2.0 AUTO": {
@@ -450,40 +480,68 @@
     "ACCORD 4DR SEDAN SPORT/EX-L/TOURING CVT": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "ACCORD 4DR SEDAN 2.0 AUTOMATIC": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "ACCORD 4DR SEDAN 2.0 MANUAL": {
       "years": [
-        2019
+        2019,
+        2020
       ]
     },
     "ACCORD 4DR SEDAN HYBRID": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "ACCORD 4DR SEDAN MANUAL": {
       "years": [
-        2019
+        2019,
+        2020
       ]
     }
   },
   "Accord Crosstour": {},
-  "CLARITY": {
-    "CLARITY": {
+  "CIVIC SI": {
+    "CIVIC SI HATCHBACK": {
       "years": [
-        2018,
-        2019
+        1989,
+        1990,
+        1991
+      ]
+    },
+    "CIVIC Si HATCHBACK": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "CIVIC SIR HATCHBACK 3DR HATCH FWD": {
+      "years": [
+        2002,
+        2003
+      ]
+    },
+    "CIVIC SIR 3DR HATCH FWD": {
+      "years": [
+        2004
       ]
     }
   },
-  "CLARITY ELECTRIC": {},
   "CR-V": {
     "CR-V 4DR SUV": {
       "years": [
@@ -568,14 +626,20 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CR-V 4DR SUV FWD": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -617,13 +681,15 @@
     "CIVIC GL SD": {
       "years": [
         1981,
-        1982
+        1982,
+        1984
       ]
     },
     "CIVIC WAGON": {
       "years": [
         1981,
         1982,
+        1984,
         1985,
         1986,
         1987
@@ -646,7 +712,63 @@
     },
     "CIVIC HB": {
       "years": [
-        1982
+        1982,
+        1984
+      ]
+    },
+    "CIVIC 1500 4 DR 5SP": {
+      "years": [
+        1983
+      ]
+    },
+    "CIVIC 1500 4 DR AUTO.": {
+      "years": [
+        1983
+      ]
+    },
+    "CIVIC 2 DR HB 4SP": {
+      "years": [
+        1983
+      ]
+    },
+    "CIVIC 2 DR HB 5SP": {
+      "years": [
+        1983
+      ]
+    },
+    "CIVIC 2 DR HB AUTO.": {
+      "years": [
+        1983
+      ]
+    },
+    "CIVIC 4 DR AUTO.": {
+      "years": [
+        1983
+      ]
+    },
+    "CIVIC WAGON 5SP": {
+      "years": [
+        1983
+      ]
+    },
+    "CIVIC WAGON AUTO.": {
+      "years": [
+        1983
+      ]
+    },
+    "CIVIC 1500S HB": {
+      "years": [
+        1984
+      ]
+    },
+    "CIVIC CRX CP": {
+      "years": [
+        1984
+      ]
+    },
+    "CIVIC HB DELUXE": {
+      "years": [
+        1984
       ]
     },
     "CIVIC 1500 S HATCHBACK": {
@@ -735,13 +857,6 @@
         1990
       ]
     },
-    "CIVIC SI HATCHBACK": {
-      "years": [
-        1989,
-        1990,
-        1991
-      ]
-    },
     "CIVIC STANDARD/CX/DX/2 DR HATCHBACK": {
       "years": [
         1989,
@@ -761,12 +876,6 @@
       ]
     },
     "CIVIC EX/LX/EX-V 4 DR SEDAN": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "CIVIC Si HATCHBACK": {
       "years": [
         1992,
         1993
@@ -887,12 +996,6 @@
         2002
       ]
     },
-    "CIVIC SIR HATCHBACK 3DR HATCH FWD": {
-      "years": [
-        2002,
-        2003
-      ]
-    },
     "CIVIC 4DR SEDAN DX": {
       "years": [
         2003,
@@ -945,11 +1048,6 @@
       "years": [
         2004,
         2005
-      ]
-    },
-    "CIVIC SIR 3DR HATCH FWD": {
-      "years": [
-        2004
       ]
     },
     "CIVIC 2DR COUPE FWD DX/DG-G/LX/EX": {
@@ -1082,7 +1180,9 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021
       ]
     },
     "CIVIC EX-T/TOURING 2DR COUPE": {
@@ -1104,29 +1204,74 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021
       ]
     },
     "CIVIC 5DR HATCH": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021
       ]
     },
     "CIVIC SPORT/TOURING 4DR SEDAN": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021
       ]
     },
     "CIVIC SPORT/TOURING/Si 2DR COUPE": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021
       ]
     },
     "CIVIC TYPE R 5DR HATCH": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021
+      ]
+    },
+    "CIVIC 1.5L 4DR SEDAN": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "CIVIC 1.5L 5DR HATCH": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "CIVIC 2.0L 4DR SEDAN": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "CIVIC 2.0L 5DR HATCH": {
+      "years": [
+        2022,
+        2023
+      ]
+    }
+  },
+  "Clarity": {
+    "CLARITY": {
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1228,7 +1373,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "FIT 4DR HATCH FWD EX/EX-L NAVI": {
@@ -1241,7 +1389,10 @@
     },
     "FIT 4DR HATCH FWD SPORT/EX//EX-L NAVI": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1270,12 +1421,18 @@
     },
     "HR-V 4DR SUV AWD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "HR-V 4DR SUV FWD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1304,7 +1461,10 @@
     },
     "INSIGHT 4DR SEDAN": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1414,20 +1574,31 @@
     "ODYSSEY EX-L/TOURING": {
       "years": [
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "ODYSSEY LX/EX": {
       "years": [
         2018,
-        2019
+        2019,
+        2020
+      ]
+    },
+    "ODYSSEY MINIVAN": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },
   "Passport": {
     "PASSPORT 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1496,7 +1667,10 @@
     },
     "PILOT 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1505,6 +1679,7 @@
       "years": [
         1981,
         1982,
+        1984,
         1985
       ]
     },
@@ -1631,7 +1806,10 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },

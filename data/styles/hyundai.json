@@ -190,20 +190,23 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "ACCENT 4DR SEDAN (manual)": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "ACCENT 5DR HATCH": {
       "years": [
         2018,
-        2019
+        2019,
+        2020
       ]
     }
   },
@@ -353,7 +356,15 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "ELANTRA HYBRID": {
+      "years": [
+        2022
       ]
     }
   },
@@ -375,7 +386,8 @@
       "years": [
         2016,
         2017,
-        2019
+        2019,
+        2020
       ]
     },
     "ELANTRA GT 1.6T 5DR HATCHBACK": {
@@ -386,6 +398,14 @@
     "ELANTRA GT 2.0L 5DR HATCHBACK": {
       "years": [
         2018
+      ]
+    }
+  },
+  "Elantra N": {
+    "ELANTRA N-LINE 4DR SEDAN": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },
@@ -609,6 +629,26 @@
     }
   },
   "Genesis Coupe": {},
+  "IONIQ 5": {
+    "IONIQ 5 4DR HATCH RWD": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "IONIQ 5 LONG RANGE 4DR HATCH AWD": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "IONIQ 5 LONG RANGE 4DR HATCH RWD": {
+      "years": [
+        2022,
+        2023
+      ]
+    }
+  },
   "Ioniq": {
     "IONIQ 4DR HATCH": {
       "years": [
@@ -618,15 +658,28 @@
     },
     "IONIQ HYBRID ESSENTIAL 4DR HATCH": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "IONIQ HYBRID PREFERRED/LUXURY4DR HATCH": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "IONIQ ELECTRIC 4DR HATCH": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },
+  "Ioniq 6": {},
   "Kona": {
     "KONA 1.6T AWD 4DR SUV": {
       "years": [
@@ -636,34 +689,72 @@
     "KONA 2.0 AWD 4DR SUV": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021
       ]
     },
     "KONA 2.0 FWD 4DR SUV": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021
+      ]
+    },
+    "KONA 1.6L AWD 4DR SUV": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "KONA 2.0L AWD 4DR SUV": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "KONA 2.0L FWD 4DR SUV": {
+      "years": [
+        2022,
+        2023
       ]
     }
   },
   "Kona Electric": {
     "KONA ELECTRIC 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
       ]
     }
   },
   "Nexo": {
     "NEXO 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
   "Palisade": {
-    "PALISADE 4DR SUV": {
+    "PALISADE 4DR SUV AWD": {
       "years": [
-        2020
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "PALISADE 4DR SUV FWD": {
+      "years": [
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -691,6 +782,14 @@
     "PONY L 1.4 4 DR HATCHBACK": {
       "years": [
         1987
+      ]
+    }
+  },
+  "Santa Cruz": {
+    "SANTA CRUZ 4DR PICKUP": {
+      "years": [
+        2022,
+        2023
       ]
     }
   },
@@ -806,17 +905,34 @@
     },
     "SANTA FE 4DR SUV 2.0L AWD": {
       "years": [
-        2019
+        2019,
+        2020
       ]
     },
     "SANTA FE 4DR SUV AWD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SANTA FE 4DR SUV FWD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "SANTA FE HEV 4DR SUV": {
+      "years": [
+        2022
+      ]
+    },
+    "SANTA FE PHEV 4DR SUV": {
+      "years": [
+        2022
       ]
     }
   },
@@ -1134,6 +1250,25 @@
       "years": [
         2019
       ]
+    },
+    "SONATA 4DR SEDAN": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "SONATA HYBRID 4DR SEDAN": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "SONATA N-LINE 4DR SEDAN": {
+      "years": [
+        2021,
+        2022
+      ]
     }
   },
   "Stellar": {
@@ -1343,7 +1478,11 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
       ]
     },
     "TUCSON 4DR SUV FWD": {
@@ -1351,7 +1490,23 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ]
+    },
+    "TUCSON 4DR SUV AWD HEV": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "TUCSON 4DR SUV AWD PHEV": {
+      "years": [
+        2022,
+        2023
       ]
     }
   },
@@ -1394,21 +1549,40 @@
     },
     "VELOSTER 3DR COUPE": {
       "years": [
-        2019
-      ]
-    },
-    "VELOSTER N 3DR COUPE": {
-      "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "VELOSTER TURBO 3DR COUPE": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
-  "Venue": {},
+  "Veloster N": {
+    "VELOSTER N 3DR COUPE": {
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    }
+  },
+  "Venue": {
+    "VENUE 4DR SUV": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    }
+  },
   "Veracruz": {
     "VERACRUZ GLS/LIMITED": {
       "years": [
@@ -1460,5 +1634,6 @@
         2001
       ]
     }
-  }
+  },
+  "Xcient": {}
 }

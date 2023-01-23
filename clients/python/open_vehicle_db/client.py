@@ -17,17 +17,17 @@ def get_make_data():
   return load_json("data", "makes.json")
 
 
-def get_model_data():
+def load_make_model_json():
   return load_json("data", "makes_and_models.json")
 
 
-def get_style_data(make_slug):
+def load_style_json(make_slug):
   return load_json("data", "styles", f"{make_slug}.json")
 
 
 def list_makes_for_year(year):
   makes_that_year = []
-  make_data = get_model_data()
+  make_data = load_make_model_json()
   for make in make_data:
     if make["first_year"] <= year <= make["last_year"]:
       makes_that_year.append(make)
@@ -37,9 +37,9 @@ def list_makes_for_year(year):
 
 def list_models_for_year_make(year=None, make_name=None):
   matching_models = []
-  model_data = get_model_data()
+  model_data = load_make_model_json()
   for make in model_data:
-    if make_name != make["make_name"]:
+    if make_name.upper() != make["make_name"]:
       continue
     for model_name, model_data in make["models"].items():
       if year in model_data["years"]:
@@ -49,9 +49,9 @@ def list_models_for_year_make(year=None, make_name=None):
 
 
 def get_make_by_name(make_name):
-  make_data = get_model_data()
+  make_data = load_make_model_json()
   for make in make_data:
-    if make["make_name"] == make_name:
+    if make["make_name"] in [make_name, make_name.upper()]:
       return make
 
   return None
@@ -60,7 +60,7 @@ def get_make_by_name(make_name):
 def list_styles_for_year_make_model(year=None, make=None, model=None):
   matching_styles = []
   make_data = get_make_by_name(make)
-  style_data = get_style_data(make_data["make_slug"])
+  style_data = load_style_json(make_data["make_slug"])
   for model_key in style_data:
     if model != model_key:
       continue

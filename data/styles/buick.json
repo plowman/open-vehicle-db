@@ -58,6 +58,23 @@
         1982
       ]
     },
+    "CENTURY & T-TYPE CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "CENTURY & T-TYPE SD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "CENTURY CUST. & ESTATE WAG.": {
+      "years": [
+        1984
+      ]
+    },
     "CENTURY CUSTOM COUPE": {
       "years": [
         1985,
@@ -225,6 +242,24 @@
         1982
       ]
     },
+    "ELECTRA EST. WAGON": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "ELECTRA LTD. & PARKAVE CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "ELECTRA LTD. & PARKAVE SD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
     "ELECTRA COUPE (BASE)": {
       "years": [
         1985,
@@ -338,7 +373,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "ENCLAVE 4DR SUV FWD": {
@@ -347,7 +385,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -360,7 +401,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "ENCORE 4DR SUV FWD": {
@@ -371,11 +415,29 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
-  "Encore GX": {},
+  "Encore GX": {
+    "ENCORE GX 4DR SUV AWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "ENCORE GX 4DR SUV FWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    }
+  },
   "Envision": {
     "ENVISION 4DR SUV": {
       "years": [
@@ -387,6 +449,28 @@
         2017,
         2018,
         2019
+      ]
+    },
+    "ENVISION 2.0L 4DR SUV AWD": {
+      "years": [
+        2020
+      ]
+    },
+    "ENVISION 2.5L 4DR SUV AWD": {
+      "years": [
+        2020
+      ]
+    },
+    "ENVISION SUV AWD": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "ENVISION SUV FWD": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },
@@ -418,7 +502,8 @@
         2012,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "LACROSSE 4DR SEDAN eAssist": {
@@ -433,7 +518,8 @@
         2012,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "LACROSSE 4DR SEDAN V-6 AWD": {
@@ -492,6 +578,18 @@
     "LE SABRE EST. WAGON": {
       "years": [
         1982
+      ]
+    },
+    "LE SABRE CUST. & LTD. CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "LE SABRE CUST. LTD. SD": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "LESABRE CUSTOM COUPE": {
@@ -744,6 +842,18 @@
         1982
       ]
     },
+    "REGAL & LTD. SD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "REGAL & T-TYPE CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
     "REGAL COUPE (BASE)": {
       "years": [
         1985,
@@ -877,7 +987,8 @@
     "REGAL SPORTBACK": {
       "years": [
         2018,
-        2019
+        2019,
+        2020
       ]
     }
   },
@@ -885,7 +996,8 @@
     "REGAL TOUR X WAGON": {
       "years": [
         2018,
-        2019
+        2019,
+        2020
       ]
     }
   },
@@ -919,6 +1031,18 @@
       "years": [
         1981,
         1982
+      ]
+    },
+    "RIVIERA & T-TYPE CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "RIVIERA CONV.": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "RIVIERA CONVERTIBLE": {
@@ -1016,6 +1140,28 @@
     "SKYHAWK 4 DR SD LTD.": {
       "years": [
         1982
+      ]
+    },
+    "SKYHAWK & T-TYPE CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "SKYHAWK CUST. & LTD. SD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "SKYHAWK CUST. LTD. WAG": {
+      "years": [
+        1983
+      ]
+    },
+    "SKYHAWK CUST. LTD. WAG.": {
+      "years": [
+        1984
       ]
     },
     "SKYHAWK 2 DR COUPE": {
@@ -1163,6 +1309,18 @@
     "SKYLARK SPT. 4 DR SD": {
       "years": [
         1982
+      ]
+    },
+    "SKYLARK & T-TYPE CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "SKYLARK CUST. & LTD. SD": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "SKYLARK CUSTOM": {

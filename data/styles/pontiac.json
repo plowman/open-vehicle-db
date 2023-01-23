@@ -20,6 +20,23 @@
         1982
       ]
     },
+    "6000 & 6000 LE CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "6000 & 6000 STE SD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "6000 & 6000 STAT. WAGON": {
+      "years": [
+        1984
+      ]
+    },
     "6000 COUPE": {
       "years": [
         1985,
@@ -142,6 +159,18 @@
         1981
       ]
     },
+    "ACADIAN SCOOTER & ACADIAN 2 DR": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "ACADIAN SCOOTER & ACADIAN 4 DR": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
     "ACADIAN 2 DR": {
       "years": [
         1985,
@@ -185,6 +214,12 @@
     }
   },
   "Bonneville": {
+    "BONNEVILLE & LE & BROUGH. SD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
     "BONNEVILLE BROUGHAM SEDAN": {
       "years": [
         1985
@@ -297,6 +332,11 @@
   },
   "Catalina": {},
   "Fiero": {
+    "FIERO & FIERO SE": {
+      "years": [
+        1984
+      ]
+    },
     "FIERO 2.4L": {
       "years": [
         1985
@@ -368,19 +408,29 @@
         1982
       ]
     },
-    "FIREBIRD (BASE)": {
+    "FIREBIRD": {
       "years": [
-        1985,
-        1986
+        1983,
+        1984
       ]
     },
     "FIREBIRD SE": {
       "years": [
+        1983,
+        1984,
         1985,
         1986
       ]
     },
     "FIREBIRD TRANS AM": {
+      "years": [
+        1983,
+        1984,
+        1985,
+        1986
+      ]
+    },
+    "FIREBIRD (BASE)": {
       "years": [
         1985,
         1986
@@ -804,13 +854,13 @@
         1989
       ]
     },
-    "GRAND AM LE/SE 2DR COUPE": {
+    "GRAND AM LE/SE 4DR SEDAN": {
       "years": [
         1990,
         1991
       ]
     },
-    "GRAND AM LE/SE 4DR SEDAN": {
+    "GRAND AM LE/SE 2DR COUPE": {
       "years": [
         1990,
         1991
@@ -922,6 +972,12 @@
     "GRAND PRIX LJ 2 DR CP": {
       "years": [
         1982
+      ]
+    },
+    "GRAND PRIX & LE & BROUGH.": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "GRAND PRIX (BASE)": {
@@ -1232,6 +1288,18 @@
         1982
       ]
     },
+    "PARISIENNE & BROUGHAM": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "PARISIENNE STAT. WAGON": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
     "PARISIENNE": {
       "years": [
         1985,
@@ -1274,6 +1342,28 @@
       "years": [
         1982
       ]
+    },
+    "PHOENIX PJ & LE CP & PHOENIX": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "PHOENIX PJ & LE HB SD & PHONENIX": {
+      "years": [
+        1983
+      ]
+    },
+    "PHOENIX SG CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "PHOENIX PJ & LE HB SD & PHOENIX": {
+      "years": [
+        1984
+      ]
     }
   },
   "Pursuit": {
@@ -1314,6 +1404,42 @@
     }
   },
   "Sunbird": {
+    "2000 SUNBIRD & LE & SE CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "2000 SUNBIRD & LE WAGON": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "2000 SUNBIRD & SE SD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "2000 SUNBIRD CONV.": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "2000 SUNBIRD HB & SE HB": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "2000 SUNBIRD HB CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
     "SUNBIRD CONVERTIBLE": {
       "years": [
         1985,

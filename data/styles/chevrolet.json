@@ -373,21 +373,45 @@
     },
     "BLAZER 2.0L FWD 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "BLAZER 3.6L AWD 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "BLAZER 3.6L FWD 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
-  "Bolt EV": {},
+  "Bolt EUV": {
+    "BOLT EUV 4DR HATCHBACK": {
+      "years": [
+        2022,
+        2023
+      ]
+    }
+  },
+  "Bolt EV": {
+    "BOLT EV 4DR HATCHBACK": {
+      "years": [
+        2022,
+        2023
+      ]
+    }
+  },
   "Bus Chassis": {},
   "C/K Pickup": {},
   "C5": {},
@@ -406,6 +430,18 @@
       "years": [
         1981,
         1982
+      ]
+    },
+    "CAMARO SPORT CP & BERLINETTA": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "CAMARO Z28": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "CAMARO BERLINETTA": {
@@ -478,13 +514,13 @@
         1990
       ]
     },
-    "CAMARO RS/Z28  2DR COUPE": {
+    "CAMARO RS/Z28 CONVERTIBLE": {
       "years": [
         1991,
         1992
       ]
     },
-    "CAMARO RS/Z28 CONVERTIBLE": {
+    "CAMARO RS/Z28  2DR COUPE": {
       "years": [
         1991,
         1992
@@ -615,7 +651,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CAMARO 2.0L 2DR COUPE": {
@@ -623,7 +662,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CAMARO 3.6L 2DR CONVERTIBLE": {
@@ -631,7 +673,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CAMARO 3.6L 2DR COUPE": {
@@ -639,7 +684,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CAMARO 6.2L 2DR CONVERTIBLE": {
@@ -647,7 +695,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CAMARO 6.2L 2DR COUPE": {
@@ -655,7 +706,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -682,6 +736,18 @@
     "CAPRICE EST. 4 DR WAGON": {
       "years": [
         1982
+      ]
+    },
+    "CAPRICE CLASSIC SD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "CAPRICE STAT. WAGON": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "CAPRICE CLASSIC 4 DR": {
@@ -791,6 +857,40 @@
     "CAVALIER 4 DR WAGON": {
       "years": [
         1982
+      ]
+    },
+    "CAVALIER & CS WAGON": {
+      "years": [
+        1983
+      ]
+    },
+    "CAVALIER CONV. & BLE": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "CAVALIER SD & CS 4 DR SD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "CAVALIER TYPE 10 2 DR HB & TBI HB": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "CAVALIER TYPE 10 CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "CAVALIER & CS  WAGON": {
+      "years": [
+        1984
       ]
     },
     "CAVALIER 2 DR HATCHBACK COUPE": {
@@ -1056,12 +1156,21 @@
   "Celebrity": {
     "CELEBRITY 2 DR CP": {
       "years": [
-        1982
+        1982,
+        1983,
+        1984
       ]
     },
     "CELEBRITY 4 DR SD": {
       "years": [
-        1982
+        1982,
+        1983,
+        1984
+      ]
+    },
+    "CELEBRITY STAT. WAGON": {
+      "years": [
+        1983
       ]
     },
     "CELEBRITY COUPE": {
@@ -1130,7 +1239,9 @@
     "CHEVETTE 2 DR HB": {
       "years": [
         1981,
-        1982
+        1982,
+        1983,
+        1984
       ]
     },
     "CHEVETTE 4 DR SD": {
@@ -1141,18 +1252,24 @@
     "CHEVETTE SCOOTER 2 DR HB": {
       "years": [
         1981,
-        1982
+        1982,
+        1983,
+        1984
       ]
     },
     "CHEVETTE SCOOTER 4 DR HB": {
       "years": [
-        1981
+        1981,
+        1983,
+        1984
       ]
     },
     "CHEVETTE 4 DR HB": {
       "years": [
         1982,
-        1982
+        1982,
+        1983,
+        1984
       ]
     },
     "CHEVETTE 2 DR HATCHBACK": {
@@ -1200,6 +1317,30 @@
         1982
       ]
     },
+    "CITATION II 2 DR CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "CITATION II PJ & II 2 DR HB": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "CITATION II PJ & II 4 DR HB": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "CITATION II X-II CP 2 DR HB": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
     "CITATION 11 PJ 2 DR HATCHBACK": {
       "years": [
         1985
@@ -1223,7 +1364,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1333,7 +1477,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "COLORADO CREW CAB S/BOX 4X4": {
@@ -1351,7 +1498,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "COLORADO EXT CAB S/BOX 2WD": {
@@ -1428,7 +1578,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "COLORADO CREW CAB L/BOX 4X4": {
@@ -1437,7 +1590,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "COLORADO EXTENDED CAB L/BOX 2WD": {
@@ -1446,7 +1602,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "COLORADO EXTENDED CAB L/BOX 4X4": {
@@ -1455,7 +1614,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1506,6 +1668,8 @@
       "years": [
         1981,
         1982,
+        1983,
+        1984,
         1985
       ]
     },
@@ -1713,6 +1877,20 @@
         2018,
         2019
       ]
+    },
+    "CORVETTE STINGRAY CONVERTIBLE": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "CORVETTE STINGRAY COUPE": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
     }
   },
   "Cruze": {
@@ -1869,7 +2047,10 @@
     },
     "EQUINOX 4DR SUV 1.5L AWD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "EQUINOX 4DR SUV DIESEL FWD": {
@@ -1880,6 +2061,23 @@
     "EQUINOX 4DR SUV DIESEL/2.0L AWD": {
       "years": [
         2019
+      ]
+    },
+    "EQUINOX 4DR SUV 1.5L FWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "EQUINOX 4DR SUV 2.0L AWD": {
+      "years": [
+        2020
+      ]
+    },
+    "EQUINOX 4DR SUV 2.0L FWD": {
+      "years": [
+        2020
       ]
     }
   },
@@ -2121,7 +2319,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "2500 EXPRESS CARGO VAN SWB": {
@@ -2134,7 +2335,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "2500 EXPRESS PASSENGER VAN LWB": {
@@ -2153,7 +2357,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "3500 EXPRESS CARGO VAN LWB": {
@@ -2166,7 +2373,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "3500 EXPRESS CARGO VAN SWB": {
@@ -2179,7 +2389,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "3500 EXPRESS PASSENGER VAN LWB": {
@@ -2192,7 +2405,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "3500 EXPRESS PASSENGER VAN SWB": {
@@ -2205,7 +2421,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -2254,6 +2473,12 @@
     "IMPALA 4 DR  WAGON": {
       "years": [
         1982
+      ]
+    },
+    "IMPALA": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "IMPALA SS 4DR SEDAN": {
@@ -2319,7 +2544,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "IMPALA 4DR SEDAN 3.6L LT/LTZ": {
@@ -2329,7 +2555,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     }
   },
@@ -2588,7 +2815,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "MALIBU LIMITED 4DR SEDAN LS/LT/LTZ": {
@@ -2602,6 +2830,19 @@
         2017,
         2018,
         2019
+      ]
+    },
+    "MALIBU PREMIER 4DR SEDAN": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "MALIBU LS/RS/LT 4DR SEDAN": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },
@@ -2691,13 +2932,21 @@
         1982
       ]
     },
-    "MONTE CARLO SPORT COUPE": {
+    "MONTE CARLO SPT. CP": {
       "years": [
+        1983,
+        1984
+      ]
+    },
+    "MONTE CARLO SS": {
+      "years": [
+        1983,
+        1984,
         1985,
         1986
       ]
     },
-    "MONTE CARLO SS": {
+    "MONTE CARLO SPORT COUPE": {
       "years": [
         1985,
         1986
@@ -2849,12 +3098,7 @@
   "P - Series": {},
   "P6S": {},
   "R Conventional": {},
-  "S-10": {
-    "S10": {
-      "years": [
-        1982
-      ]
-    },
+  "S-10 Blazer": {
     "S-10 BLAZER 2DR 4 X 2": {
       "years": [
         1985,
@@ -2871,48 +3115,6 @@
         1990
       ]
     },
-    "S-10 EXTENDED CAB 4 X 4 PICK-UP": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "S-10 EXTENDED CAB PICK-UP": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "S-10 LONG BED 4 X 4 PICK-UP": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "S-10 LONG BED PICK-UP": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "S-10 SHORT BED 4 X 4 PICK-UP": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
-    "S-10 SHORT BED PICK-UP": {
-      "years": [
-        1985,
-        1986,
-        1987
-      ]
-    },
     "S-10 BLAZER 2DR 2X2": {
       "years": [
         1988
@@ -2926,65 +3128,12 @@
         1993
       ]
     },
-    "S-10 P.U. LONG W.B. REGULAR CAB": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "S-10 P.U. LONG W.B. REGULAR CAB 4X4": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "S-10 P.U. MAXI-CAB": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "S-10 P.U. MAXI-CAB 4X4": {
-      "years": [
-        1988,
-        1989,
-        1990,
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "S-10 P.U. SHORT W.B. REGULAR CAB": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
-    "S-10 P.U. SHORT W.B. REGULAR CAB 4X4": {
-      "years": [
-        1988,
-        1989,
-        1990
-      ]
-    },
     "S-10 BLAZER 2DR 4X2": {
       "years": [
         1989,
         1991,
         1992,
         1993
-      ]
-    },
-    "S-10 BAHA PICKUP 4X4": {
-      "years": [
-        1991
       ]
     },
     "S-10 BLAZER 4DR 4X2": {
@@ -2999,277 +3148,6 @@
         1991,
         1992,
         1993
-      ]
-    },
-    "S-10 P.U. REGULAR CAB LONG BOX": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "S-10 P.U. REGULAR CAB LONG BOX 4X4": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "S-10 P.U. REGULAR CAB SHORT BOX": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "S-10 P.U. REGULAR CAB SHORT BOX 4X4": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "S-10 P/U EXT CAB S/BOX": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        2003
-      ]
-    },
-    "S-10 P/U EXT CAB S/BOX 4X4": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        2003
-      ]
-    },
-    "S-10 P/U REG CAB L/BOX": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        2003
-      ]
-    },
-    "S-10 P/U REG CAB L/BOX 4X4": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        2003
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX 4X4": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX 4X4 ZR2": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX SS": {
-      "years": [
-        1994,
-        1995,
-        1996
-      ]
-    },
-    "S-10 P/U EXT CAB S/BOX 4X4 ZR2": {
-      "years": [
-        1995,
-        1996
-      ]
-    },
-    "S-10 P/U EXT CAB S/BOX F/SIDE": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U EXT CAB S/BOX F/SIDE 4X4": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U EXT CAB S/BOX F/SIDE 4X4 ZR2": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U EXT CAB S/BOX S/SIDE": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U EXT CAB S/BOX S/SIDE 4X4": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U REG CAB L/BOX F/SIDE": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U REG CAB L/BOX F/SIDE 4X4": {
-      "years": [
-        1997,
-        1998,
-        1999
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX F/SIDE": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX F/SIDE 4X4": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX F/SIDE SS": {
-      "years": [
-        1997,
-        1998
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX S/SIDE": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX S/SIDE 4X4": {
-      "years": [
-        1997,
-        1998,
-        1999,
-        2000
-      ]
-    },
-    "S-10 R/U REG CAB S/BOX F/SIDE 4X4 ZR2": {
-      "years": [
-        1997
-      ]
-    },
-    "S-10 P/U EXT CAB S/BOX F/SIDE SS": {
-      "years": [
-        1998
-      ]
-    },
-    "S-10 P/U EXT CAB S/BOX S/SIDE SS": {
-      "years": [
-        1998
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX F/SIDE 4X4 ZR2": {
-      "years": [
-        1998,
-        1999
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX S/SIDE SS": {
-      "years": [
-        1998
-      ]
-    },
-    "S-10 P/U EXT CAB S/BOX F/SIDE XTREME": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U EXT CAB S/BOX S/SIDE XTREME": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX F/SIDE XTREME": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S-10 P/U REG CAB S/BOX S/SIDE XTREME": {
-      "years": [
-        1999,
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "S10 P/U CREW CAB Reg/BOX 4WD": {
-      "years": [
-        2002
-      ]
-    },
-    "S-10 P/U CREW CAB S/BOX 4WD": {
-      "years": [
-        2003
       ]
     }
   },
@@ -3345,22 +3223,11 @@
         1992
       ]
     },
-    "C1500 P/U EXT CAB S/BOX S/SIDE": {
+    "S-10 P/U REG CAB S/BOX SS": {
       "years": [
         1994,
         1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "C1500 P/U REG CAB S/BOX S/SIDE": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
+        1996
       ]
     },
     "K1500 P/U EXT CAB S/BOX S/SIDE 4X4": {
@@ -3379,6 +3246,99 @@
         1996,
         1997,
         1998
+      ]
+    },
+    "C1500 P/U EXT CAB S/BOX S/SIDE": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "C1500 P/U REG CAB S/BOX S/SIDE": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "S-10 P/U EXT CAB S/BOX S/SIDE": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "S-10 P/U EXT CAB S/BOX S/SIDE 4X4": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "S-10 P/U REG CAB S/BOX F/SIDE SS": {
+      "years": [
+        1997,
+        1998
+      ]
+    },
+    "S-10 P/U REG CAB S/BOX S/SIDE": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "S-10 P/U REG CAB S/BOX S/SIDE 4X4": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000
+      ]
+    },
+    "S-10 P/U EXT CAB S/BOX F/SIDE SS": {
+      "years": [
+        1998
+      ]
+    },
+    "S-10 P/U EXT CAB S/BOX S/SIDE SS": {
+      "years": [
+        1998
+      ]
+    },
+    "S-10 P/U REG CAB S/BOX S/SIDE SS": {
+      "years": [
+        1998
+      ]
+    },
+    "S-10 P/U EXT CAB S/BOX S/SIDE XTREME": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "S-10 P/U REG CAB S/BOX S/SIDE XTREME": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002
       ]
     }
   },
@@ -3558,7 +3518,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 2500HD CREW CAB S/BOX": {
@@ -3644,7 +3607,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 3500 CREW CAB L/BOX DRW": {
@@ -3953,7 +3919,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 2500HD EXT CAB M/BOX": {
@@ -4355,7 +4324,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 1500 EXT CAB L/BOX 2WD": {
@@ -4410,7 +4382,10 @@
         2015,
         2016,
         2017,
-        2018
+        2018,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 2500HD CREW CAB L/BOX 2WD": {
@@ -4426,7 +4401,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 2500HD CREW CAB M/BOX 2WD": {
@@ -4442,7 +4420,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 2500HD EXT CAB L/BOX 2WD": {
@@ -4478,7 +4459,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 3500 CREW CAB L/BOX 2WD DRW": {
@@ -4650,7 +4634,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 1500 CREW CAB M/BOX 4X4": {
@@ -4669,7 +4656,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 1500 DOUBLE CAB M/BOX 4X4": {
@@ -4687,7 +4677,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 2500HD DOUBLE CAB L/BOX 4X4": {
@@ -4696,7 +4689,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 2500HD DOUBLE CAB M/BOX 2WD": {
@@ -4705,7 +4701,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 2500HD DOUBLE CAB M/BOX 4X4": {
@@ -4714,7 +4713,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 3500HD CREW CAB L/BOX DRW 2WD": {
@@ -4723,7 +4725,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 3500HD CREW CAB L/BOX DRW 4X4": {
@@ -4732,7 +4737,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 3500HD CREW CAB L/BOX SRW 2WD": {
@@ -4741,7 +4749,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 3500HD CREW CAB L/BOX SRW 4X4": {
@@ -4750,7 +4761,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 3500HD CREW CAB M/BOX 2WD": {
@@ -4759,7 +4773,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 3500HD CREW CAB M/BOX 4X4": {
@@ -4768,7 +4785,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 3500HD DOUBLE CAB L/BOX DRW 2WD": {
@@ -4777,7 +4797,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 3500HD DOUBLE CAB L/BOX DRW 4X4": {
@@ -4786,7 +4809,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 3500HD DOUBLE CAB L/BOX SRW 2WD": {
@@ -4795,7 +4821,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 3500HD DOUBLE CAB L/BOX SRW 4X4": {
@@ -4804,7 +4833,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 3500HD REG CAB L/BOX DRW 2WD": {
@@ -4813,7 +4845,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 3500HD REG CAB L/BOX DRW 4X4": {
@@ -4822,7 +4857,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 3500HD REG CAB L/BOX SRW 2WD": {
@@ -4831,7 +4869,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 3500HD REG CAB L/BOX SRW 4X4": {
@@ -4840,22 +4881,34 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 1500 CREW CAB M/BOX 4WD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 1500 CREW CAB S/BOX 4WD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 1500 DOUBLE CAB M/BOX 4WD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SILVERADO 1500 LD 2WD": {
@@ -4867,16 +4920,18 @@
       "years": [
         2019
       ]
-    }
-  },
-  "Silverado HD": {
-    "SILVERADO HD CREW CAB STANDARD BOX": {
+    },
+    "SILVERADO 1500 REG CAB M/BOX 4WD": {
       "years": [
-        2020
+        2020,
+        2021,
+        2022
       ]
     }
   },
+  "Silverado HD": {},
   "Silverado LD": {},
+  "Silverado LTD": {},
   "Sonic": {
     "SONIC 4DR SEDAN LS/LT/LTZ": {
       "years": [
@@ -4908,14 +4963,16 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "SONIC 5DR HATCHBACK": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     }
   },
@@ -4937,14 +4994,18 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SPARK EV 4DR HATCHBACK": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     }
   },
@@ -4983,6 +5044,18 @@
         1987
       ]
     },
+    "V10 SUBURBAN": {
+      "years": [
+        1988
+      ]
+    },
+    "V20 SUBURBAN 4X4": {
+      "years": [
+        1988,
+        1989,
+        1990
+      ]
+    },
     "R10 SUBURBAN": {
       "years": [
         1988
@@ -4993,14 +5066,8 @@
         1988
       ]
     },
-    "V10 SUBURBAN": {
+    "V10 SUBURBAN 4X4": {
       "years": [
-        1988
-      ]
-    },
-    "V20 SUBURBAN 4X4": {
-      "years": [
-        1988,
         1989,
         1990
       ]
@@ -5017,10 +5084,14 @@
         1990
       ]
     },
-    "V10 SUBURBAN 4X4": {
+    "V1500 SUBURBAN 4X4": {
       "years": [
-        1989,
-        1990
+        1991
+      ]
+    },
+    "V2500 SUBURBAN 4X4": {
+      "years": [
+        1991
       ]
     },
     "R1500 SUBURBAN  2WD": {
@@ -5033,23 +5104,7 @@
         1991
       ]
     },
-    "V1500 SUBURBAN 4X4": {
-      "years": [
-        1991
-      ]
-    },
-    "V2500 SUBURBAN 4X4": {
-      "years": [
-        1991
-      ]
-    },
-    "C1500 SUBURBAN  4X2": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "C2500 SUBURBAN 4X2": {
+    "K2500 SUBURBAN 4X4": {
       "years": [
         1992,
         1993
@@ -5061,7 +5116,13 @@
         1993
       ]
     },
-    "K2500 SUBURBAN 4X4": {
+    "C2500 SUBURBAN 4X2": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "C1500 SUBURBAN  4X2": {
       "years": [
         1992,
         1993
@@ -5209,7 +5270,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "SUBURBAN 4DR SUV RWD": {
@@ -5218,7 +5282,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -5367,7 +5434,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TAHOE 4DR SUV RWD": {
@@ -5376,7 +5446,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -5568,6 +5641,24 @@
         2008,
         2009
       ]
+    },
+    "TRAILBLAZER 4DR SUV 1.2L FWD": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "TRAILBLAZER 4DR SUV 1.3L FWD": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "TRAILBLAZER 4DR SUV AWD": {
+      "years": [
+        2021,
+        2022
+      ]
     }
   },
   "Traverse": {
@@ -5611,13 +5702,21 @@
     "TRAVERSE 4DR SUV AWD": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
       ]
     },
     "TRAVERSE 4DR SUV FWD": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
       ]
     }
   },
@@ -5650,14 +5749,20 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRAX FWD 4DR SUV": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -5814,7 +5919,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     }
   }

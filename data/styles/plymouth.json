@@ -36,17 +36,23 @@
     },
     "CARAVELLE 2 DR": {
       "years": [
+        1983,
+        1984,
         1985,
         1986
       ]
     },
     "CARAVELLE 4 DR": {
       "years": [
+        1983,
+        1984,
         1985
       ]
     },
     "CARAVELLE SALON": {
       "years": [
+        1983,
+        1984,
         1985,
         1986
       ]
@@ -83,6 +89,18 @@
       "years": [
         1981,
         1982
+      ]
+    },
+    "COLT E & DL HB 2 DR": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "COLT E & DL HB 4 DR": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "COLT 2DR COUPE GL": {
@@ -179,6 +197,12 @@
     "HORIZON TYPE-E": {
       "years": [
         1982
+      ]
+    },
+    "HORIZON & HORIZON SE": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "HORIZON SE": {
@@ -294,6 +318,24 @@
     "RELIANT K 4 DR SD": {
       "years": [
         1982
+      ]
+    },
+    "RELIANT & RELIANT SE 2 DR": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "RELIANT & RELIANT SE 4 DR": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "RELIANT CUST. & SE STAT. WAGON": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "RELIANT (BASE) 2 DR": {
@@ -435,16 +477,20 @@
   "TURISMO": {
     "TURISMO": {
       "years": [
-        1982
+        1982,
+        1983,
+        1984
       ]
     },
-    "TURISMO (BASE)": {
+    "TURISMO 2.2": {
       "years": [
+        1983,
+        1984,
         1985,
         1986
       ]
     },
-    "TURISMO 2.2": {
+    "TURISMO (BASE)": {
       "years": [
         1985,
         1986
@@ -458,6 +504,11 @@
   },
   "Trailduster": {},
   "Voyager": {
+    "VOYAGER & SE LIMITED": {
+      "years": [
+        1984
+      ]
+    },
     "VOYAGER": {
       "years": [
         1985,

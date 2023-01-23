@@ -7,6 +7,24 @@
     }
   },
   "600": {
+    "600 & 600 ES 4 DR": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "600 CONV.": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "600 CP 2 DR": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
     "600 2 DR": {
       "years": [
         1985,
@@ -67,6 +85,24 @@
       "years": [
         1981,
         1982
+      ]
+    },
+    "ARIES CUST. & SE STATION WAGON": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "ARIES SE & 4 DR": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "ARIES SE & ARIES 2 DR": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "ARIES (BASE) 2 DR": {
@@ -239,6 +275,11 @@
     }
   },
   "Caravan": {
+    "CARAVAN & SE LIMITED": {
+      "years": [
+        1984
+      ]
+    },
     "CARAVAN": {
       "years": [
         1985,
@@ -296,12 +337,6 @@
         1991
       ]
     },
-    "CARAVAN C/V EXTENDED VAN FWD/AWD": {
-      "years": [
-        1991,
-        1993
-      ]
-    },
     "CARAVAN C/V FWD/AWD": {
       "years": [
         1991,
@@ -311,6 +346,12 @@
     "CARAVAN SE/LE AWD WAGON": {
       "years": [
         1991
+      ]
+    },
+    "CARAVAN C/V EXTENDED VAN FWD/AWD": {
+      "years": [
+        1991,
+        1993
       ]
     },
     "CARAVAN C/V AWD": {
@@ -477,7 +518,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CHALLENGER 2DR COUPE RWD V6": {
@@ -485,7 +529,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CHALLENGER 2DR COUPE RWD V8": {
@@ -493,7 +540,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CHALLENGER GT 2DR COUPE AWD V6": {
@@ -509,19 +559,26 @@
     },
     "CHALLENGER 2DR COUPE AWD V6": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
   "Charger": {
     "CHARGER": {
       "years": [
-        1981
+        1981,
+        1983,
+        1984
       ]
     },
     "CHARGER 2.2": {
       "years": [
         1982,
+        1983,
+        1984,
         1985,
         1986
       ]
@@ -629,7 +686,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CHARGER 4DR SEDAN RWD R/T / R/T ROAD AND TRAC": {
@@ -647,7 +707,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CHARGER 4DR SEDAN RWD R/T SCAT PACK/SRT392": {
@@ -655,7 +718,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CHARGER 4DR SEDAN RWD V6": {
@@ -663,7 +729,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CHARGER 4DR SEDAN RWD V8": {
@@ -671,7 +740,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -694,6 +766,18 @@
     "COLT 5 DR HB": {
       "years": [
         1982
+      ]
+    },
+    "COLT E & D4 & GTS 2 DR HB": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "COLT E & DL 4 DR HB": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "COLT 100 DL 2 DR HATCHBACK": {
@@ -783,7 +867,9 @@
     },
     "DIPLOMAT": {
       "years": [
-        1982
+        1982,
+        1983,
+        1984
       ]
     },
     "DIPLOMAT SALON": {
@@ -1067,26 +1153,22 @@
     },
     "DAKOTA P/U CLUB CAB 2WD ST/SLT/SXT": {
       "years": [
-        2010,
-        2011
+        2010
       ]
     },
     "DAKOTA P/U CLUB CAB 4WD ST/SLT/SXT": {
       "years": [
-        2010,
-        2011
+        2010
       ]
     },
     "DAKOTA P/U QUAD CAB 2WD ST/SLT/SXT": {
       "years": [
-        2010,
-        2011
+        2010
       ]
     },
     "DAKOTA P/U QUAD CAB 4WD ST/SLT/SXT": {
       "years": [
-        2010,
-        2011
+        2010
       ]
     }
   },
@@ -1225,7 +1307,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "DURANGO 4DR SUV AWD V8": {
@@ -1233,7 +1318,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1383,10 +1471,12 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     }
   },
+  "HORNET": {},
   "Intrepid": {},
   "Journey": {
     "JOURNEY 4DR CUV AWD SXT/RT": {
@@ -1473,7 +1563,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "JOURNEY 4DR SUV FWD I4": {
@@ -1482,7 +1573,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "JOURNEY 4DR SUV FWD V6": {
@@ -1491,7 +1583,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     }
   },
@@ -1656,6 +1749,12 @@
     "OMNI 5 DR": {
       "years": [
         1982
+      ]
+    },
+    "OMNI & OMNI SE": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "OMNI GLH": {
@@ -2045,6 +2144,12 @@
         1991
       ]
     },
+    "RAM W350 SHORT WB 4X4": {
+      "years": [
+        1989,
+        1990
+      ]
+    },
     "RAM B150/B250 WAGON LONG WB": {
       "years": [
         1989,
@@ -2060,10 +2165,16 @@
         1990
       ]
     },
-    "RAM W350 SHORT WB 4X4": {
+    "RAM W150S LONG WB 4X4": {
       "years": [
-        1989,
-        1990
+        1990,
+        1991
+      ]
+    },
+    "RAM W150S SHORT WB 4X4": {
+      "years": [
+        1990,
+        1991
       ]
     },
     "RAM D150S LONG WB": {
@@ -2073,18 +2184,6 @@
       ]
     },
     "RAM D150S SHORT WB": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "RAM W150S LONG WB 4X4": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "RAM W150S SHORT WB 4X4": {
       "years": [
         1990,
         1991
@@ -2182,26 +2281,6 @@
         1993
       ]
     },
-    "RAM 1500 LONG BOX 2WD": {
-      "years": [
-        1994
-      ]
-    },
-    "RAM 1500 LONG BOX 4WD": {
-      "years": [
-        1994
-      ]
-    },
-    "RAM 1500 SHORT BOX 2WD": {
-      "years": [
-        1994
-      ]
-    },
-    "RAM 1500 SHORT BOX 4WD": {
-      "years": [
-        1994
-      ]
-    },
     "RAM 2500 LONG BOX 2WD": {
       "years": [
         1994
@@ -2278,6 +2357,26 @@
       ]
     },
     "RAM B350 LONG WB WAGON": {
+      "years": [
+        1994
+      ]
+    },
+    "RAM 1500 LONG BOX 2WD": {
+      "years": [
+        1994
+      ]
+    },
+    "RAM 1500 LONG BOX 4WD": {
+      "years": [
+        1994
+      ]
+    },
+    "RAM 1500 SHORT BOX 2WD": {
+      "years": [
+        1994
+      ]
+    },
+    "RAM 1500 SHORT BOX 4WD": {
       "years": [
         1994
       ]
@@ -2456,8 +2555,7 @@
         2007,
         2008,
         2009,
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 2500 REG CAB L/BOX 4WD": {
@@ -2477,8 +2575,7 @@
         2007,
         2008,
         2009,
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 2500 SHORT WB VAN": {
@@ -2547,8 +2644,7 @@
         2007,
         2008,
         2009,
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 3500 REG CAB L/BOX 4WD DRW": {
@@ -2568,8 +2664,7 @@
         2007,
         2008,
         2009,
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 2500 CLUB CAB S/BOX 2WD": {
@@ -3047,129 +3142,109 @@
     "RAM 1500 CREW CAB 5.7-FT BOX 2WD": {
       "years": [
         2009,
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 1500 CREW CAB 5.7-FT BOX 4X4": {
       "years": [
         2009,
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 1500 QUAD CAB 6.4-FT BOX 2WD": {
       "years": [
         2009,
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 1500 QUAD CAB 6.4-FT BOX 4X4": {
       "years": [
         2009,
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 1500 REG CAB 6.4-FT BOX 2WD": {
       "years": [
         2009,
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 1500 REG CAB 6.4-FT BOX 4X4": {
       "years": [
         2009,
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 1500 REG CAB 8-FT BOX 2WD": {
       "years": [
         2009,
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 1500 REG CAB 8-FT BOX 4X4": {
       "years": [
         2009,
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 2500 CREW CAB L/BOX 2WD": {
       "years": [
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 2500 CREW CAB L/BOX 4WD": {
       "years": [
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 2500 CREW CAB S/BOX 2WD": {
       "years": [
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 2500 CREW CAB S/BOX 4WD": {
       "years": [
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 2500 MEGA CAB S/BOX 2WD": {
       "years": [
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 2500 MEGA CAB S/BOX 4WD": {
       "years": [
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 3500 CREW CAB L/BOX 2WD DRW": {
       "years": [
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 3500 CREW CAB L/BOX 4WD DRW": {
       "years": [
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 3500 CREW CAB S/BOX 2WD": {
       "years": [
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 3500 CREW CAB S/BOX 4WD": {
       "years": [
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 3500 MEGA CAB S/BOX 2WD DRW": {
       "years": [
-        2010,
-        2011
+        2010
       ]
     },
     "RAM 3500 MEGA CAB S/BOX 4WD DRW": {
       "years": [
-        2010,
-        2011
+        2010
       ]
     }
   },
@@ -3369,6 +3444,8 @@
   "SHELBY": {
     "SHELBY CHARGER": {
       "years": [
+        1983,
+        1984,
         1985,
         1986
       ]

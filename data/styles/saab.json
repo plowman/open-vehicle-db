@@ -339,6 +339,24 @@
         1985
       ]
     },
+    "900 2 DR & 2 DR HB TURBO": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "900 4 DR SD & 4 DR TURBO": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "900S 4 DR": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
     "900 S 4 DR": {
       "years": [
         1985,
@@ -415,6 +433,11 @@
         1987
       ]
     },
+    "900 TURBO SPG HATCHBACK": {
+      "years": [
+        1988
+      ]
+    },
     "900 S 2 DR SEDAN": {
       "years": [
         1988
@@ -426,11 +449,6 @@
         1989
       ]
     },
-    "900 TURBO SPG HATCHBACK": {
-      "years": [
-        1988
-      ]
-    },
     "900 S 2 DR HATCHBACK": {
       "years": [
         1989
@@ -439,6 +457,18 @@
     "900 TURBO 4 DR SEDAN": {
       "years": [
         1989
+      ]
+    },
+    "900S 2DR HATCHBACK": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "900S 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
       ]
     },
     "900 2DR HATCHBACK": {
@@ -469,18 +499,6 @@
         1991,
         1992,
         1993
-      ]
-    },
-    "900S 2DR HATCHBACK": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
-    "900S 4DR SEDAN": {
-      "years": [
-        1990,
-        1991
       ]
     },
     "900 2DR CONVERTIBLE TURBO": {
@@ -545,12 +563,6 @@
         1989
       ]
     },
-    "9000 SPG 4DR HATCHBACK": {
-      "years": [
-        1990,
-        1991
-      ]
-    },
     "9000S/9000 TURBO 4DR HATCHBACK": {
       "years": [
         1990,
@@ -558,6 +570,12 @@
       ]
     },
     "9000S/9000CD 4DR SEDAN": {
+      "years": [
+        1990,
+        1991
+      ]
+    },
+    "9000 SPG 4DR HATCHBACK": {
       "years": [
         1990,
         1991

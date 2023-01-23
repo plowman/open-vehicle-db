@@ -180,7 +180,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "300 4DR SEDAN V6 AWD": {
@@ -188,7 +191,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "300 4DR SEDAN V6 RWD": {
@@ -196,7 +202,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -347,6 +356,12 @@
     }
   },
   "Daytona": {
+    "DAYTONA TURBO": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
     "DAYTONA 2 DR HATCHBACK": {
       "years": [
         1987,
@@ -450,11 +465,25 @@
       ]
     }
   },
-  "E-CLASS": {},
-  "EXECUTIVE": {},
+  "E-CLASS": {
+    "E CLASS SD": {
+      "years": [
+        1984
+      ]
+    }
+  },
+  "EXECUTIVE": {
+    "EXECUTIVE SD": {
+      "years": [
+        1983,
+        1984
+      ]
+    }
+  },
   "FIFTH AVENUE": {
     "FIFTH AVENUE": {
       "years": [
+        1984,
         1985,
         1986
       ]
@@ -464,6 +493,14 @@
         1987,
         1988,
         1989
+      ]
+    }
+  },
+  "Grand Caravan": {
+    "GRAND CARAVAN / VOYAGER 4DR MINIVAN": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },
@@ -521,6 +558,11 @@
     }
   },
   "LASER": {
+    "LASER & LASER XE": {
+      "years": [
+        1984
+      ]
+    },
     "LASER (BASE)": {
       "years": [
         1985,
@@ -567,7 +609,33 @@
     },
     "LE BARON CONV.": {
       "years": [
-        1982
+        1982,
+        1983,
+        1984
+      ]
+    },
+    "LE BARON 2 DR CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "LE BARON 4 DR SD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "LE BARON TOWN & COUN. CONV.": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "LE BARON TOWN & COUN. WAGON": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "LeBARON CONVERTIBLE": {
@@ -757,6 +825,8 @@
     "NEW YORKER": {
       "years": [
         1981,
+        1983,
+        1984,
         1985,
         1986
       ]
@@ -899,14 +969,30 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "PACIFICA HYBRID 4DR MINIVAN": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "PACIFICA 4DR MINIVAN AWD": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "PACIFICA 4DR MINIVAN FWD": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },

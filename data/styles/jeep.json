@@ -16,6 +16,12 @@
         1985
       ]
     },
+    "JEEP CJ-7": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
     "CJ-7 4X4": {
       "years": [
         1986
@@ -28,6 +34,7 @@
       "years": [
         1981,
         1982,
+        1984,
         1985,
         1986,
         1988,
@@ -44,6 +51,7 @@
       "years": [
         1981,
         1982,
+        1984,
         1985,
         1988
       ]
@@ -119,6 +127,19 @@
         1990
       ]
     },
+    "CHEROKEE BASE/SPORT 2DR 4X2": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "CHEROKEE LIMITED/BRIARWOOD 4DR 4x4": {
+      "years": [
+        1991,
+        1992
+      ]
+    },
     "CHEROKEE BASE/LAREDO/SPORT 2DR 4X4": {
       "years": [
         1991
@@ -136,19 +157,6 @@
         1991,
         1992,
         1993
-      ]
-    },
-    "CHEROKEE BASE/SPORT 2DR 4X2": {
-      "years": [
-        1991,
-        1992,
-        1993
-      ]
-    },
-    "CHEROKEE LIMITED/BRIARWOOD 4DR 4x4": {
-      "years": [
-        1991,
-        1992
       ]
     },
     "CHEROKEE BASE/SPORT 2DR 4X4": {
@@ -325,22 +333,34 @@
     },
     "CHEROKEE 4DR SUV 2WD I4": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CHEROKEE 4DR SUV 2WD V6": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CHEROKEE 4DR SUV 4WD I4": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CHEROKEE 4DR SUV 4WD V6": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -445,7 +465,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "COMPASS 4DR SUV FWD": {
@@ -453,20 +476,42 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "COMPASS 4DR SUV TRAILHAWK 4X4": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
   "Gladiator": {
-    "GLADIATOR 4DR PICKUP": {
+    "GLADIATOR 4DR PICKUP OVERLAND": {
       "years": [
-        2020
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "GLADIATOR 4DR PICKUP RUBICON": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "GLADIATOR 4DR PICKUP SPORT": {
+      "years": [
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -694,7 +739,9 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021
       ]
     },
     "GRAND CHEROKEE 4DR SUV LIMITED 4X4": {
@@ -703,7 +750,9 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021
       ]
     },
     "GRAND CHEROKEE 4DR SUV OVERLAND/SUMMIT 4X4": {
@@ -712,7 +761,9 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021
       ]
     },
     "GRAND CHEROKEE SRT 4DR SUV": {
@@ -721,11 +772,76 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "GRAND CHEROKEE L 4DR SUV AWD V6": {
+      "years": [
+        2021,
+        2022,
+        2023
+      ]
+    },
+    "GRAND CHEROKEE L 4DR SUV AWD V8": {
+      "years": [
+        2021,
+        2022,
+        2023
+      ]
+    },
+    "GRAND CHEROKEE L 4DR SUV RWD": {
+      "years": [
+        2021,
+        2022,
+        2023
+      ]
+    },
+    "GRAND CHEROKEE LAREDO/LIMITED 4DR SUV 2WD": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "GRAND CHEROKEE LAREDO/LIMITED 4DR SUV 4WD": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "GRAND CHEROKEE OVERLAND/SUMMIT 4DR SUV 2WD": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "GRAND CHEROKEE OVERLAND/SUMMIT/TRAILHAWK V6 4DR SUV 4WD": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "GRAND CHEROKEE OVERLAND/SUMMIT/TRAILHAWK V8 4DR SUV 4WD": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "GRAND CHEROKEE WK 4DR SUV": {
+      "years": [
+        2022
       ]
     }
   },
   "Grand Wagoneer": {
+    "GRAND WAGONEER 4 DR": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
     "GRAND WAGONEER": {
       "years": [
         1985
@@ -752,7 +868,9 @@
     },
     "GRAND WAGONEER 4DR SUV 4WD": {
       "years": [
-        1994
+        1994,
+        2022,
+        2023
       ]
     }
   },
@@ -777,6 +895,18 @@
     "J-10 SPORTSIDE": {
       "years": [
         1982
+      ]
+    },
+    "J10 LONG BOX": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "J10 SHORT BOX": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "J-10 PICK-UP": {
@@ -902,7 +1032,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2021
       ]
     },
     "RENEGADE SPORT/LATITUDE/LIMITED FWD": {
@@ -911,7 +1042,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2021
       ]
     },
     "RENEGADE TRAILHAWK 4X4": {
@@ -920,7 +1052,22 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "RENEGADE 2.5L 4DR SUV 4WD": {
+      "years": [
+        2020,
+        2022
+      ]
+    },
+    "RENEGADE 2.5L 4WD SUV FWD": {
+      "years": [
+        2020,
+        2022
       ]
     }
   },
@@ -934,6 +1081,7 @@
     },
     "WAGONEER 4 DR": {
       "years": [
+        1984,
         1985
       ]
     },
@@ -956,6 +1104,18 @@
     "WAGONEER LIMITED 4DR 4x4": {
       "years": [
         1990
+      ]
+    },
+    "WAGONEER 4DR SUV 2WD": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "WAGONEER 4DR SUV 4WD": {
+      "years": [
+        2022,
+        2023
       ]
     }
   },
@@ -1080,31 +1240,98 @@
     "WRANGLER JL 3.6L RUBICON 2DR SUV": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "WRANGLER JL 3.6L RUBICON 4DR SUV": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "WRANGLER JL 3.6L SAHARA 4DR SUV": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "WRANGLER JL 3.6L SPORT 2DR SUV": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "WRANGLER JL 3.6L SPORT 4DR SUV": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "WRANGLER JL 2.0L RUBICON 2DR SUV": {
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "WRANGLER JL 2.0L RUBICON 4DR SUV": {
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "WRANGLER JL 2.0L SAHARA 4DR SUV": {
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "WRANGLER JL 2.0L SPORT 2DR SUV": {
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "WRANGLER JL 2.0L SPORT 4DR SUV": {
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "WRANGLER 4xe / SAHARA 4xe 4DR SUV": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "WRANGLER Rubicon 4xe 4DR SUV": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },

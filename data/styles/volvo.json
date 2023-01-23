@@ -28,6 +28,14 @@
       ]
     }
   },
+  "C40": {
+    "C40 RECHARGE": {
+      "years": [
+        2021,
+        2022
+      ]
+    }
+  },
   "C70": {
     "C70 2DR COUPE": {
       "years": [
@@ -83,12 +91,10 @@
       ]
     }
   },
+  "C70 / C30": {},
+  "Cab Behind Engine": {},
   "Cab Over Engine HT": {},
   "Cab Over Engine LT": {},
-  "Cab Over Engine Prod. Class 03": {},
-  "Cab Over Engine Prod. Class 07": {},
-  "Cab Over Engine Prod. Class 07 (USA)": {},
-  "Cab behind engine": {},
   "F12 w/F7 Cab": {},
   "F6 w/F7 Cab": {},
   "S40": {
@@ -134,7 +140,8 @@
     "S60 4DR SEDAN": {
       "years": [
         2001,
-        2019
+        2019,
+        2020
       ]
     },
     "S60 4DR SEDAN T-5": {
@@ -160,7 +167,9 @@
         2004,
         2005,
         2006,
-        2007
+        2007,
+        2021,
+        2022
       ]
     },
     "S60R 4DR SEDAN AWD": {
@@ -220,6 +229,24 @@
         2016,
         2017,
         2018
+      ]
+    },
+    "S60 4DR SEDAN FWD": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "S60 POLESTAR 4DR SEDAN": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "S60 RECHARGE 4DR SEDAN": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },
@@ -360,28 +387,40 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "S90 4DR SEDAN T5 FWD": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "S90 4DR SEDAN T6 AWD": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "S90 4DR SEDAN T8 eAWD PHEV": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
+      ]
+    },
+    "S90 RECHARGE 4DR SEDAN": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },
@@ -454,12 +493,40 @@
     },
     "V60 4DR WAGON": {
       "years": [
-        2019
+        2019,
+        2020
       ]
     },
     "V60 CROSS COUNTRY 4DR WAGON": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "V60 POLESTAR 4DR WAGON": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "V60 RECHARGE 4DR WAGON": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "V60 T5 4DR WAGON": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "V60 T6 AWD 4DR WAGON": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },
@@ -577,14 +644,20 @@
         1998,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "V90 CROSSCOUNTRY 4DR WAGON": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -594,7 +667,16 @@
   "XC40": {
     "XC40 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "XC40 RECHARGE 4DR SUV": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },
@@ -656,7 +738,22 @@
     },
     "XC60 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "XC60 POLESTAR 4DR SUV": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "XC60 RECHARGE 4DR SUV": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },
@@ -756,28 +853,44 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "XC90 4DR SUV AWD T5": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "XC90 4DR SUV AWD T8 PHEV": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "XC90 4DR SUV FWD T5": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
+      ]
+    },
+    "XC90 4DR SUV AWD T5 / T6": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "XC90 RECHARGE 4DR SUV": {
+      "years": [
+        2021,
+        2022
       ]
     }
   }

@@ -115,11 +115,38 @@
         2018,
         2019
       ]
+    },
+    "BENTAYGA 4DR SUV": {
+      "years": [
+        2020
+      ]
+    },
+    "BENTAYGA DIESEL 4DR SUV": {
+      "years": [
+        2020
+      ]
+    },
+    "BENTAYGA HYBRID 4DR SUV": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "BENTAYGA V8 4DR SUV": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "BENTAYGA SPEED 4DR SUV": {
+      "years": [
+        2021,
+        2022
+      ]
     }
   },
-  "Bentayga Hybrid": {},
-  "Bentayga Speed": {},
-  "Bentayga V8": {},
   "Brooklands": {
     "BROOKLANDS 4DR SEDAN": {
       "years": [
@@ -313,9 +340,58 @@
         2018,
         2019
       ]
+    },
+    "NEW CONTINENTAL GT": {
+      "years": [
+        2020
+      ]
+    },
+    "NEW CONTINENTAL GT CONVERTIBLE": {
+      "years": [
+        2020
+      ]
+    },
+    "NEW CONTINENTAL GT V8": {
+      "years": [
+        2020
+      ]
+    },
+    "NEW CONTINENTAL GT V8 CONVERTIBLE": {
+      "years": [
+        2020
+      ]
+    },
+    "CONTINENTAL GT": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "CONTINENTAL GT CONVERTIBLE": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "CONTINENTAL GT V8": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "CONTINENTAL GT V8 CONVERTIBLE": {
+      "years": [
+        2021,
+        2022
+      ]
     }
   },
   "Corniche": {
+    "CORNICHE": {
+      "years": [
+        1984
+      ]
+    },
     "CORNICHE/BENTLEY CONTINENTAL CONVERTIBLE": {
       "years": [
         1990
@@ -340,8 +416,36 @@
     }
   },
   "Eight": {},
-  "Flying Spur": {},
+  "Flying Spur": {
+    "NEW FLYING SPUR 4DR SEDAN AWD": {
+      "years": [
+        2020
+      ]
+    },
+    "FLYING SPUR 4DR SEDAN AWD": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "FLYING SPUR V8 4DR SEDAN AWD": {
+      "years": [
+        2021,
+        2022
+      ]
+    }
+  },
   "Mulsanne": {
+    "MULSANNE": {
+      "years": [
+        1984
+      ]
+    },
+    "MULSANNE TURBO": {
+      "years": [
+        1984
+      ]
+    },
     "BENTLEY MULSANNE/TURBO R 4DR SEDAN": {
       "years": [
         1990,
@@ -368,17 +472,20 @@
     "MULSANNE 4DR SEDAN LWB": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021
       ]
     },
     "MULSANNE 4DR SEDAN SWB": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021
       ]
     }
   },
-  "Mulsanne Speed": {},
   "Roll Royce Silver Seraph": {},
   "Rolls-Royce Park Ward": {},
   "Turbo": {

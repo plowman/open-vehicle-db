@@ -119,7 +119,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "4RUNNER 4DR SUV 4WD BASE": {
@@ -207,7 +210,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "4RUNNER 4DR SUV 4WD TRAIL EDITION V6": {
@@ -221,7 +227,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -230,7 +239,9 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021
       ]
     }
   },
@@ -273,7 +284,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -281,7 +295,24 @@
     "C-HR 4DR SUV": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    }
+  },
+  "COROLLA CROSS": {
+    "COROLLA CROSS 4DR SUV AWD": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "COROLLA CROSS 4DR SUV FWD": {
+      "years": [
+        2022,
+        2023
       ]
     }
   },
@@ -293,7 +324,20 @@
       ]
     }
   },
+  "CROWN": {},
   "Camry": {
+    "CAMRY LE LB": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "CAMRY LE SD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
     "CAMRY LIFTBACK LE": {
       "years": [
         1985,
@@ -578,30 +622,45 @@
     "CAMRY 4DR SEDAN SE/XSE/XLE": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CAMRY 4DR SEDAN XSE V6/XLE V6": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CAMRY HYBRID 4DR SEDAN LE": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CAMRY HYBRID 4DR SEDAN SE/XLE": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CAMRY 4DR SEDAN LE": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -682,6 +741,30 @@
     "CELICA LIFTBACK": {
       "years": [
         1982
+      ]
+    },
+    "CELICA GT CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "CELICA GT LB": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "CELICA GTS CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "CELICA GTS LB": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "CELICA GT COUPE": {
@@ -826,7 +909,8 @@
     "COROLLA LIFTBACK": {
       "years": [
         1981,
-        1982
+        1982,
+        1983
       ]
     },
     "COROLLA SPIRIT CP": {
@@ -864,7 +948,51 @@
     },
     "COROLLA SR5 SPT. CP": {
       "years": [
-        1982
+        1982,
+        1983,
+        1984
+      ]
+    },
+    "COROLLA 2 DR SD": {
+      "years": [
+        1983
+      ]
+    },
+    "COROLLA 4 DR SD": {
+      "years": [
+        1983
+      ]
+    },
+    "COROLLA DEL./LE LB": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "COROLLA SR5 CP": {
+      "years": [
+        1983
+      ]
+    },
+    "COROLLA SR5 HB": {
+      "years": [
+        1983
+      ]
+    },
+    "COROLLA SR5 SPT. LB": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "COROLLA STATION WAGON": {
+      "years": [
+        1983
+      ]
+    },
+    "COROLLA DEL./LE SD": {
+      "years": [
+        1984
       ]
     },
     "COROLLA COUPE GT-S": {
@@ -1117,13 +1245,36 @@
         2016,
         2017,
         2018,
-        2019,
-        2020
+        2019
       ]
     },
     "COROLLA 5DR HATCH": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "COROLLA 4DR SEDAN HYBRID": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "COROLLA 4DR SEDAN L/LE": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "COROLLA 4DR SEDAN SE/XLE/XSE": {
+      "years": [
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1153,13 +1304,17 @@
   "Cressida": {
     "CRESSIDA SD": {
       "years": [
-        1981
+        1981,
+        1983,
+        1984
       ]
     },
     "CRESSIDA WAGON": {
       "years": [
         1981,
         1982,
+        1983,
+        1984,
         1985,
         1986
       ]
@@ -1256,6 +1411,15 @@
         2012,
         2013,
         2014
+      ]
+    }
+  },
+  "GR COROLLA": {},
+  "GR86": {
+    "GR86 3DR COUPE": {
+      "years": [
+        2022,
+        2023
       ]
     }
   },
@@ -1388,9 +1552,44 @@
         2018,
         2019
       ]
+    },
+    "HIGHLANDER 4DR SUV L FWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "HIGHLANDER 4DR SUV LE/XLE AWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "HIGHLANDER 4DR SUV LE/XLE HYBRID AWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "HIGHLANDER 4DR SUV LIMITED AWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "HIGHLANDER 4DR SUV LIMITED HYBRID AWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
     }
   },
-  "LAND CRUISER": {
+  "Land Cruiser": {
     "LAND CRUISER HARDTOP": {
       "years": [
         1981
@@ -1399,6 +1598,22 @@
     "LAND CRUISER 4 DR": {
       "years": [
         1982
+      ]
+    },
+    "LANDCRUISER HT": {
+      "years": [
+        1983
+      ]
+    },
+    "LANDCRUISER WAGON": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "LANDCRUISER HD": {
+      "years": [
+        1984
       ]
     },
     "LANDCRUISER HARDTOP 2 DR": {
@@ -1448,7 +1663,14 @@
       ]
     }
   },
-  "Mirai": {},
+  "Mirai": {
+    "MIRAI 4DR SEDAN": {
+      "years": [
+        2021,
+        2022
+      ]
+    }
+  },
   "PRIUS": {
     "PRIUS 4DR SEDAN": {
       "years": [
@@ -1490,7 +1712,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1662,7 +1887,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     }
   },
@@ -1678,7 +1904,10 @@
   "Prius Prime": {
     "PRIUS PRIME 5DR LIFTBACK": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1696,7 +1925,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     }
   },
@@ -1870,25 +2100,38 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "RAV4 AWD LE / XLE 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "RAV4 AWD TRAIL / LIMITED 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "RAV4 HYBRID 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
+  "RAV4 Prime": {},
   "SCION tC": {},
   "SCION xA": {},
   "SCION xB": {},
@@ -1926,7 +2169,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -2059,21 +2305,36 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "SIENNA BASE/LE FWD": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "SIENNA SE/LIMITED FWD": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
+      ]
+    },
+    "SIENNA MINIVAN AWD": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "SIENNA MINIVAN FWD": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },
@@ -2081,7 +2342,8 @@
     "STARLET": {
       "years": [
         1981,
-        1982
+        1982,
+        1983
       ]
     }
   },
@@ -2093,6 +2355,8 @@
     },
     "SUPRA GTS": {
       "years": [
+        1983,
+        1984,
         1985,
         1986
       ]
@@ -2137,6 +2401,13 @@
     "SUPRA TURBO 2DR HATCH": {
       "years": [
         1997
+      ]
+    },
+    "GR SUPRA 2DR COUPE": {
+      "years": [
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -2420,7 +2691,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TACOMA ACCESS CAB L/BOX 4WD V-6": {
@@ -2458,6 +2732,20 @@
         2018,
         2019
       ]
+    },
+    "TACOMA DOUBLE CAB L/BOX 4WD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "TACOMA DOUBLE CAB S/BOX 4WD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
     }
   },
   "Tercel": {
@@ -2485,6 +2773,48 @@
     "TERCEL 4 DR SD": {
       "years": [
         1982
+      ]
+    },
+    "TERCEL 2 DR LB STD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "TERCEL DELUXE 4 DR LB": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "TERCEL DELUXE WAG. 4WD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "TERCEL DELUXE WAGON": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "TERCEL SPECIAL 2 DR LB": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "TERCEL SR5 2 DR LB": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "TERCEL SR5 WAG. 4WD": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "TERCEL LIFTBACK DELUXE 4 DR": {
@@ -2873,7 +3203,11 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
       ]
     },
     "TUNDRA DOUBLE CAB M/BOX 2WD SR5": {
@@ -2953,11 +3287,52 @@
         2018,
         2019
       ]
+    },
+    "TUNDRA CREW MAX S/BOX 4WD": {
+      "years": [
+        2020,
+        2021
+      ]
+    },
+    "TUNDRA DOUBLE CAB L/BOX 2WD": {
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023
+      ]
+    },
+    "TUNDRA DOUBLE CAB M/BOX 4WD": {
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023
+      ]
+    },
+    "TUNDRA CREWMAX L/BOX 4WD": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "TUNDRA CREWMAX M/BOX 4WD": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "TUNDRA DOUBLE CAB M/BOX 2WD": {
+      "years": [
+        2022,
+        2023
+      ]
     }
   },
   "Van": {
     "VAN LE": {
       "years": [
+        1984,
         1985,
         1986,
         1987
@@ -3029,6 +3404,12 @@
       "years": [
         2016,
         2017
+      ]
+    },
+    "VENZA 4DR SUV": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },
@@ -3121,7 +3502,22 @@
         2018,
         2019
       ]
+    },
+    "YARIS 5DR HATCHBACK": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
     }
   },
-  "Yaris iA": {}
+  "Yaris iA": {},
+  "bZ4X": {
+    "bZ4X EV 4DR SUV": {
+      "years": [
+        2022,
+        2023
+      ]
+    }
+  }
 }

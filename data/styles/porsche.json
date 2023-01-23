@@ -1,31 +1,53 @@
 {
-  "718": {
+  "718 Boxster": {
     "718 BOXSTER BASE/S 2DR CONVERTIBLE": {
       "years": [
         2016,
         2017,
         2018,
-        2019
-      ]
-    },
-    "718 CAYMAN BASE/S 2DR COUPE RWD": {
-      "years": [
-        2017,
-        2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "718 BOXSTER GTS 2DR CONVERTIBLE": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    }
+  },
+  "718 Boxster Spyder": {},
+  "718 Cayman": {
+    "718 CAYMAN BASE/S 2DR COUPE RWD": {
+      "years": [
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "718 CAYMAN GTS 2DR COUPE RWD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "718 CAYMAN GT4 2DR COUPE RWD": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },
+  "718 Spyder": {},
   "911": {
     "911SC": {
       "years": [
@@ -39,15 +61,25 @@
     },
     "911 CABRIOLET": {
       "years": [
+        1983,
+        1984,
+        1985
+      ]
+    },
+    "911 CP & TARGA": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "911 SC TURBO": {
+      "years": [
+        1983,
+        1984,
         1985
       ]
     },
     "911 COUPE": {
-      "years": [
-        1985
-      ]
-    },
-    "911 SC TURBO": {
       "years": [
         1985
       ]
@@ -331,7 +363,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "911 TARGA 2DR COUPE RWD": {
@@ -485,7 +520,8 @@
     },
     "911 CARRERA 4 GTS 2DR COUPE AWD": {
       "years": [
-        2012
+        2012,
+        2020
       ]
     },
     "911 CARRERA BASE/S 2DR COUP RWD": {
@@ -517,7 +553,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "911 CARRERA GTS CABRIOLET 2DR CONVERTIBLE RWD": {
@@ -613,7 +650,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "911 TARGA 4/4S/4GTS 2DR COUPE AWD": {
@@ -622,12 +660,89 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
+      ]
+    },
+    "911 CARRERA 2DR CABRIOLET": {
+      "years": [
+        2020,
+        2021,
+        2022
       ]
     },
     "911 CARRERA 2DR COUPE": {
       "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "911 CARRERA 4 2DR CABRIOLET": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "911 CARRERA 4 2DR COUPE": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "911 CARRERA 4 GTS CABRIOLET AWD": {
+      "years": [
         2020
+      ]
+    },
+    "911 CARRERA 4S 2DR CABRIOLET": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "911 CARRERA 4S 2DR COUPE": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "911 CARRERA S 2DR CABRIOLET": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "911 CARRERA S 2DR COUPE": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "911 TURBO S 2DR CABRIOLET": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "911 TURBO S 2DR COUPE": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "911 TARGA 4/4S 2DR COUPE": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },
@@ -668,6 +783,8 @@
     },
     "928S": {
       "years": [
+        1983,
+        1984,
         1985,
         1986
       ]
@@ -706,6 +823,8 @@
     "944": {
       "years": [
         1982,
+        1983,
+        1984,
         1985,
         1986
       ]
@@ -804,7 +923,25 @@
         2004
       ]
     },
+    "BOXSTER S CABRIOLET 3.2L": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004
+      ]
+    },
     "BOXSTER 2DR CONVERTIBLE RWD": {
+      "years": [
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "BOXSTER S 2DR CONVERTIBLE RWD": {
       "years": [
         2005,
         2006,
@@ -824,6 +961,11 @@
         2012
       ]
     },
+    "BOXSTER SPYDER 2DR CONVERTIBLE RWD": {
+      "years": [
+        2011
+      ]
+    },
     "BOXSTER BASE/S 2DR CONVERTIBLE": {
       "years": [
         2013,
@@ -834,31 +976,6 @@
     "BOXSTER GTS 2DR CONVERTIBLE": {
       "years": [
         2015
-      ]
-    }
-  },
-  "Boxster S": {
-    "BOXSTER S CABRIOLET 3.2L": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003,
-        2004
-      ]
-    },
-    "BOXSTER S 2DR CONVERTIBLE RWD": {
-      "years": [
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "BOXSTER SPYDER 2DR CONVERTIBLE RWD": {
-      "years": [
-        2011
       ]
     }
   },
@@ -903,7 +1020,10 @@
         2008,
         2009,
         2010,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CAYENNE 4DR SUV": {
@@ -994,12 +1114,53 @@
     },
     "CAYENNE BASE / S 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "CAYENNE E-HYBRID 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "CAYENNE BASE/S COUPE 4DR SUV": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "CAYENNE E-HYBRID COUPE 4DR SUV": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "CAYENNE TURBO COUPE 4DR SUV": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "CAYENNE TURBO S E-HYBRID 4DR SUV": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "CAYENNE TURBO S E-HYBRID COUPE 4DR SUV": {
+      "years": [
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1063,7 +1224,24 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "MACAN S  4DR SUV AWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "MACAN TURBO / GTS 4DR SUV AWD": {
+      "years": [
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1236,31 +1414,46 @@
     "PANAMERA 4 / 4S 4DR SEDAN": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "PANAMERA 4 / 4S EXECUTIVE 4DR SEDAN": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "PANAMERA 4 E-HYBRID 4DR SEDAN": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "PANAMERA 4 E-HYBRID EXECUTIVE 4DR SEDAN": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "PANAMERA 4DR SEDAN": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "PANAMERA SPORT TURISMO 4DR WAGON": {
@@ -1278,31 +1471,119 @@
     "PANAMERA SPORT TURISMO TURBO S E-HYBRID 4DR WAGON": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "PANAMERA TURBO 4DR SEDAN 4DR SEDAN": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "PANAMERA TURBO EXECUTIVE 4DR SEDAN": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "PANAMERA TURBO S E-HYBRID 4DR SEDAN": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "PANAMERA TURBO S E-HYBRID EXECUTIVE 4DR SEDAN": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "PANAMERA 4 SPORT TURISMO 4DR WAGON": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "PANAMERA 4 SPORT TURISMO E-HYBRID 4DR WAGON": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "PANAMERA 4S SPORT TURISMO 4DR WAGON": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "PANAMERA GTS 4DR SEDAN": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "PANAMERA GTS SPORT TURISMO 4DR WAGON": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "PANAMERA TURBO SPORT TURISMO 4DR WAGON": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    }
+  },
+  "Taycan": {
+    "TAYCAN TURBO / TURBO S 4DR SEDAN": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "TAYCAN 4 / 4S 4DR SEDAN": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "TAYCAN 4 / 4S CROSS TURISMO": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "TAYCAN TURBO / TURBO S CROSS TURISMO": {
+      "years": [
+        2021
+      ]
+    },
+    "TAYCAN TURBO / TURBO S CROSS TURISMO / SPORT TURISMO": {
+      "years": [
+        2022
       ]
     }
   }

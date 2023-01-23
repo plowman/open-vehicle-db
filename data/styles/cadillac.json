@@ -140,8 +140,76 @@
       ]
     }
   },
-  "CT4": {},
-  "CT5": {},
+  "CT4": {
+    "CT4 2.0L 4DR SEDAN AWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "CT4 2.0L 4DR SEDAN RWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "CT4 2.7L / V-SERIES 4DR SEDAN AWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "CT4 2.7L / V-SERIES 4DR SEDAN RWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "CT4-V BLACKWING 4DR SEDAN RWD": {
+      "years": [
+        2022
+      ]
+    }
+  },
+  "CT5": {
+    "CT5 4DR SEDAN AWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "CT5 4DR SEDAN RWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "CT5 V-SERIES 4DR SEDAN AWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "CT5 V-SERIES 4DR SEDAN RWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "CT5-V BLACKWING 4DR SEDAN RWD": {
+      "years": [
+        2022
+      ]
+    }
+  },
   "CT6": {
     "CT6 2.0L 4DR SEDAN": {
       "years": [
@@ -180,22 +248,30 @@
     },
     "CT6 LUXURY AWD 4DR SEDAN": {
       "years": [
-        2019
+        2019,
+        2020
       ]
     },
     "CT6 PLATINUM AWD 4DR SEDAN": {
       "years": [
-        2019
+        2019,
+        2020
       ]
     },
     "CT6 PREMIUM LUXURY AWD 4DR SEDAN": {
       "years": [
-        2019
+        2019,
+        2020
       ]
     },
     "CT6 SPORT AWD 4DR SEDAN": {
       "years": [
         2019
+      ]
+    },
+    "CT6 V-SERIES AWD 4DR SEDAN": {
+      "years": [
+        2020
       ]
     }
   },
@@ -226,7 +302,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "CTS VVT/DI 4DR SEDAN RWD": {
@@ -351,7 +428,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "CTS 4DR SEDAN 2.0L RWD": {
@@ -360,7 +438,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "CTS 4DR SEDAN 3.6L AWD": {
@@ -369,7 +448,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "CTS 4DR SEDAN 3.6L RWD": {
@@ -378,7 +458,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "CTS VSPORT 4DR SEDAN RWD": {
@@ -391,7 +472,8 @@
     },
     "CTS V-SPORT 4DR SEDAN RWD": {
       "years": [
-        2019
+        2019,
+        2020
       ]
     }
   },
@@ -415,6 +497,8 @@
     },
     "CIMARRON": {
       "years": [
+        1983,
+        1984,
         1985,
         1986
       ]
@@ -444,6 +528,18 @@
       "years": [
         1981,
         1982
+      ]
+    },
+    "DE VILLE CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "DE VILLE SD": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "COUPE DE VILLE 2 DR": {
@@ -519,6 +615,18 @@
     "ELDORADO 2 DR CP": {
       "years": [
         1982
+      ]
+    },
+    "ELDORADO": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "ELDORADO BIARITZ CONV.": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "ELDORADO CONVERTIBLE": {
@@ -640,7 +748,26 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
+      ]
+    },
+    "ESCALADE LUXURY 4DR SUV": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "ESCALADE SPORT / PREMIUM LUXURY 4DR SUV": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "ESCALADE SPORT PLATINUM / PREMIUM LUXURY PLATFORM 4DR SUV": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },
@@ -667,7 +794,26 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
+      ]
+    },
+    "ESCALADE ESV LUXURY 4DR SUV": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "ESCALADE ESV SPORT / PREMIUM LUXURY 4DR SUV": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "ESCALADE ESV SPORT PLATINUM / PREMIUM LUXURY PLATFORM 4DR SUV": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },
@@ -682,6 +828,18 @@
       "years": [
         1981,
         1982
+      ]
+    },
+    "FLEETWOOD BROUGH. CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "FLEETWOOD BROUGH. SD": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "FLEETWOOD COUPE": {
@@ -758,6 +916,7 @@
   },
   "Hearse": {},
   "Limousine": {},
+  "Lyriq": {},
   "SRX": {
     "SRX 4DR SUV RWD V6": {
       "years": [
@@ -858,6 +1017,8 @@
     },
     "SEVILLE": {
       "years": [
+        1983,
+        1984,
         1985,
         1986
       ]
@@ -935,12 +1096,18 @@
   "XT4": {
     "XT4 4DR SUV AWD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "XT4 4DR SUV FWD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -949,21 +1116,29 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "XT5 4DR SUV FWD": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
   "XT6": {
     "XT6 4DR SUV": {
       "years": [
-        2020
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -994,7 +1169,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "XTS 4DR SEDAN FWD": {
@@ -1003,7 +1179,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     }
   }

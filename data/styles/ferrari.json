@@ -134,7 +134,20 @@
     }
   },
   "488 GTS": {},
-  "488 Pista": {},
+  "488 Pista": {
+    "488 PISTA": {
+      "years": [
+        2020
+      ]
+    }
+  },
+  "488 Pista Spider": {
+    "488 PISTA SPIDER": {
+      "years": [
+        2020
+      ]
+    }
+  },
   "488 Spider": {
     "488 SPIDER": {
       "years": [
@@ -190,7 +203,18 @@
     "812 SUPERFAST": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021
+      ]
+    }
+  },
+  "812GTS": {
+    "812 GTS": {
+      "years": [
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -239,6 +263,7 @@
   },
   "F12 Special Series": {},
   "F12 tdf (Tour de France)": {},
+  "F164BCB": {},
   "F355": {
     "F355 2DR COUPE": {
       "years": [
@@ -317,7 +342,24 @@
     }
   },
   "F60 America": {},
-  "F8 Tributo": {},
+  "F8 Spider": {
+    "F8 SPIDER": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    }
+  },
+  "F8 Tributo": {
+    "F8 TRIBUTO": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    }
+  },
   "FF": {
     "FF 2DR COUPE AWD": {
       "years": [
@@ -338,7 +380,8 @@
     "GTC4 LUSSO / LUSSO T": {
       "years": [
         2018,
-        2019
+        2019,
+        2020
       ]
     }
   },
@@ -368,7 +411,31 @@
     "PORTOFINO": {
       "years": [
         2018,
-        2019
+        2019,
+        2020
+      ]
+    },
+    "PORTOFINO M": {
+      "years": [
+        2021,
+        2022
+      ]
+    }
+  },
+  "Roma": {
+    "ROMA": {
+      "years": [
+        2021,
+        2022
+      ]
+    }
+  },
+  "SF 90 STradale": {
+    "SF90 STRADALE": {
+      "years": [
+        2020,
+        2021,
+        2022
       ]
     }
   },

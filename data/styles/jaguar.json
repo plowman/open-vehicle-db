@@ -3,7 +3,20 @@
     "E-PACE 4DR SUV": {
       "years": [
         2018,
-        2019
+        2019,
+        2020
+      ]
+    },
+    "E-PACE P250 4DR SUV": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "E-PACE P300 MHEV 4DR SUV": {
+      "years": [
+        2021,
+        2022
       ]
     }
   },
@@ -13,7 +26,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-PACE 3.0L V6 4DR SUV": {
@@ -21,18 +37,27 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-PACE 2.0L 4DR SUV": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-PACE SVR V8 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -72,7 +97,9 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021
       ]
     },
     "F-TYPE V6 RWD 2DR COUPE/CONVERTIBLE": {
@@ -80,7 +107,9 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021
       ]
     },
     "F-TYPE V8 AWD 2DR COUPE/CONVERTIBLE": {
@@ -88,20 +117,37 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021
       ]
     },
     "F-TYPE 2.0L RWD 2DR COUPE/CONVERTIBLE": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021
+      ]
+    },
+    "F-TYPE AWD 2DR COUPE/CONVERTIBLE": {
+      "years": [
+        2022
+      ]
+    },
+    "F-TYPE RWD 2DR COUPE/CONVERTIBLE": {
+      "years": [
+        2022
       ]
     }
   },
   "I-PACE": {
     "I-PACE 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -173,6 +219,8 @@
   "Vanden Plas": {
     "XJ12 VANDEN PLAS": {
       "years": [
+        1983,
+        1984,
         1985,
         1986
       ]
@@ -330,7 +378,9 @@
     },
     "XE 4DR SEDAN": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021
       ]
     }
   },
@@ -395,19 +445,26 @@
     "XF 2.0L 4DR SEDAN": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021
       ]
     },
     "XF 2.0L DIESEL 4DR SEDAN": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021
       ]
     },
     "XF 3.0L V6 4DR SEDAN": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -508,12 +565,14 @@
     },
     "XJL LWB 4DR SEDAN V6": {
       "years": [
-        2019
+        2019,
+        2020
       ]
     },
     "XJL LWB 4DR SEDAN V8": {
       "years": [
-        2019
+        2019,
+        2020
       ]
     }
   },
@@ -530,6 +589,12 @@
     "XJ6 SERIES III": {
       "years": [
         1981
+      ]
+    },
+    "XJ6/SOVEREIGN": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "SOVEREIGN XJ-6": {
@@ -644,6 +709,12 @@
     }
   },
   "XJS": {
+    "XJS": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
     "XJ-S": {
       "years": [
         1985,
@@ -727,11 +798,34 @@
     },
     "XJ SWB 4DR SEDAN": {
       "years": [
-        2019
+        2019,
+        2020
       ]
     }
   },
   "XK": {
+    "XKR 2DR CONVERTIBLE": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
+    "XKR 2DR COUPE": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006
+      ]
+    },
     "XK/XKR CONVERTIBLE": {
       "years": [
         2007
@@ -760,6 +854,12 @@
         2011
       ]
     },
+    "XKR COUPE/CABRIO": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
     "XK CABRIO": {
       "years": [
         2012
@@ -772,9 +872,33 @@
         2014
       ]
     },
+    "XKR CABRIO": {
+      "years": [
+        2012
+      ]
+    },
+    "XKR COUPE/XKR-S COUPE": {
+      "years": [
+        2012,
+        2013,
+        2015
+      ]
+    },
     "XK CONVERTIBLE": {
       "years": [
         2013,
+        2014
+      ]
+    },
+    "XKR CONVERTIBLE/XKR-S CONVERTIBLE": {
+      "years": [
+        2013,
+        2014,
+        2015
+      ]
+    },
+    "XKR COUPE/XKR-S COUPE/XKR-S GT COUPE": {
+      "years": [
         2014
       ]
     }
@@ -810,60 +934,6 @@
         2004,
         2005,
         2006
-      ]
-    }
-  },
-  "XKR": {
-    "XKR 2DR CONVERTIBLE": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "XKR 2DR COUPE": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003,
-        2004,
-        2005,
-        2006
-      ]
-    },
-    "XKR COUPE/CABRIO": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "XKR CABRIO": {
-      "years": [
-        2012
-      ]
-    },
-    "XKR COUPE/XKR-S COUPE": {
-      "years": [
-        2012,
-        2013,
-        2015
-      ]
-    },
-    "XKR CONVERTIBLE/XKR-S CONVERTIBLE": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "XKR COUPE/XKR-S COUPE/XKR-S GT COUPE": {
-      "years": [
-        2014
       ]
     }
   }

@@ -120,6 +120,12 @@
   },
   "Ciera": {},
   "Custom Cruiser": {
+    "CUSTOM CRUISER": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
     "CUSTOM CRUISER WAGON": {
       "years": [
         1985,
@@ -164,6 +170,18 @@
         1982
       ]
     },
+    "CUTLASS SUP. & SUP. BROUGH. CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "CUTLASS SUP. & SUP. BROUGH. SD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
     "CUTLASS 2 DR CIERA LS COUPE": {
       "years": [
         1985,
@@ -175,6 +193,12 @@
     "CUTLASS CALAIS 2 DR": {
       "years": [
         1982
+      ]
+    },
+    "CUTLASS CALAIS CP": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "CUTLASS CALAIS 2 DR COUPE": {
@@ -236,6 +260,23 @@
     "CUTLASS CIERA": {
       "years": [
         1982
+      ]
+    },
+    "CUTLASS CIERA LS & BROUGH. CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "CUTLASS CIERA LS & BROUGH. SD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "CUTLASS CIERA CRUISER WAGON": {
+      "years": [
+        1984
       ]
     },
     "CUTLASS CIERA BROUGHAM COUPE": {
@@ -469,20 +510,6 @@
         1989
       ]
     },
-    "CUTLASS SUPREME BASE/SL 2DR COUPE": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
-    "CUTLASS SUPREME BASE/SL 4DR SEDAN": {
-      "years": [
-        1990,
-        1991,
-        1992
-      ]
-    },
     "CUTLASS SUPREME CONVERTIBLE": {
       "years": [
         1990,
@@ -499,6 +526,20 @@
       ]
     },
     "CUTLASS SUPREME INTERNAT'L SERIES SEDAN": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "CUTLASS SUPREME BASE/SL 2DR COUPE": {
+      "years": [
+        1990,
+        1991,
+        1992
+      ]
+    },
+    "CUTLASS SUPREME BASE/SL 4DR SEDAN": {
       "years": [
         1990,
         1991,
@@ -575,6 +616,18 @@
     "DELTA 88 ROYAL BROUGH. 4 DR": {
       "years": [
         1982
+      ]
+    },
+    "DELTA 88 ROYALE & ROY. BROU. CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "DELTA 88 ROYALE & ROY. BROU. SD": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "DELTA 88 ROYALE BROUGHAM COUPE": {
@@ -660,6 +713,24 @@
     "FIRENZA 4 DR": {
       "years": [
         1982
+      ]
+    },
+    "FIRENZA & LX SD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "FIRENZA & LX WAGON": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "FIRENZA SX HB CP": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "FIRENZA (BASE) SEDAN 4 DR": {
@@ -809,9 +880,33 @@
         1981,
         1982
       ]
+    },
+    "OMEGA & BROUGHAM CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "OMEGA & BROUGHAM SD": {
+      "years": [
+        1983,
+        1984
+      ]
     }
   },
   "Regency": {
+    "NINETY-EIGHT REGENCY & REG. BROU. SD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "NINETY-EIGHT REGENCY CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
     "98 REGENCY COUPE": {
       "years": [
         1985
@@ -911,6 +1006,8 @@
     },
     "TORONADO BROUGHAM": {
       "years": [
+        1983,
+        1984,
         1985,
         1986
       ]

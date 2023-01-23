@@ -2,17 +2,26 @@
   "Ascent": {
     "ASCENT CONVENIENCE 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "ASCENT LIMITED / PREMIER 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "ASCENT TOURING 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -41,7 +50,11 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
       ]
     }
   },
@@ -62,7 +75,44 @@
       ]
     }
   },
-  "Crosstrek": {},
+  "Crosstrek": {
+    "CROSSTREK 4DR SUV CONVENIENCE": {
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "CROSSTREK 4DR SUV LIMITED": {
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "CROSSTREK 4DR SUV SPORT": {
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "CROSSTREK 4DR SUV TOURING": {
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    }
+  },
   "DL": {
     "HARDTOP DL": {
       "years": [
@@ -199,12 +249,18 @@
     },
     "FORESTER 2.5i / CONVENIENCE / TOURING 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "FORESTER SPORT / LIMITED / PREMIER 4DR SUV": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -227,6 +283,36 @@
     "GL WAGON": {
       "years": [
         1982
+      ]
+    },
+    "GL 2 DR HB": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "GL 2 DR HB 4WD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "GL 4WD STAT. WAGON": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "GL/GL-G 4 DR SD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "GL/GL-G STAT. WAGON": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "GL 2 WD WAGON": {
@@ -342,6 +428,12 @@
     "SUBARU GLF 2 DR": {
       "years": [
         1982
+      ]
+    },
+    "GLF/GLF-G 2 DR HD": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "GL FWD 4 DR SEDAN": {
@@ -719,14 +811,20 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "IMPREZA 5DR HATCH": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1074,6 +1172,20 @@
         2018,
         2019
       ]
+    },
+    "LEGACY 4DR SEDAN": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "LEGACY GT 4DR SEDAN": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
     }
   },
   "Loyale": {
@@ -1249,6 +1361,27 @@
         2018,
         2019
       ]
+    },
+    "OUTBACK 4DR WAGON CONVIENCE/TOURING/LIMITED": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "OUTBACK 4DR WAGON LIMITED XT/PREMIER XT": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "OUTBACK 4DR WAGON PREMIER/OUTDOOR XT": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
     }
   },
   "RX": {},
@@ -1263,6 +1396,13 @@
       ]
     }
   },
+  "Solterra": {
+    "SOLTERRA SUV": {
+      "years": [
+        2023
+      ]
+    }
+  },
   "Standard": {},
   "WRX": {
     "WRX 4DR SEDAN": {
@@ -1271,7 +1411,11 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
       ]
     },
     "WRX STI 4DR SEDAN": {
@@ -1280,7 +1424,21 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021
+      ]
+    },
+    "WRX SPORT 4DR SEDAN": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "WRX SPORT EyeSight 4DR SEDAN": {
+      "years": [
+        2022,
+        2023
       ]
     }
   },
@@ -1345,9 +1503,7 @@
         2014,
         2015,
         2016,
-        2017,
-        2018,
-        2019
+        2017
       ]
     },
     "XV CROSSTREK TOURING/SPORT/LIMITED": {
@@ -1355,9 +1511,7 @@
         2014,
         2015,
         2016,
-        2017,
-        2018,
-        2019
+        2017
       ]
     }
   }

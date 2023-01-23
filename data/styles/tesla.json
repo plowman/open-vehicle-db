@@ -8,22 +8,34 @@
     "MODEL 3 4DR SEDAN STANDARD": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "MODEL 3 4DR SEDAN LONG RANGE AWD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "MODEL 3 4DR SEDAN LONG RANGE RWD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "MODEL 3 4DR SEDAN MID RANGE": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -87,7 +99,10 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "MODEL S 4DR SEDAN RWD": {
@@ -107,10 +122,27 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
-  "Model Y": {},
-  "Roadster": {}
+  "Model Y": {
+    "MODEL Y 4DR SUV AWD": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "MODEL Y 4DR SUV RWD": {
+      "years": [
+        2021,
+        2022
+      ]
+    }
+  },
+  "Roadster": {},
+  "Semi": {}
 }

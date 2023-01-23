@@ -15,6 +15,27 @@
       "years": [
         1997
       ]
+    },
+    "DEFENDER 110 5 SEAT": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "DEFENDER 110 5+2 SEAT": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "DEFENDER 90": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
     }
   },
   "Discovery": {
@@ -53,7 +74,10 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -65,6 +89,20 @@
         2017,
         2018,
         2019
+      ]
+    },
+    "DISCOVERY SPORT 5 SEAT": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "DISCOVERY SPORT 7 SEAT": {
+      "years": [
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -183,6 +221,7 @@
       ]
     }
   },
+  "New Range Rover": {},
   "Range Rover": {
     "RANGE ROVER/COUNTY": {
       "years": [
@@ -305,7 +344,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "RANGE ROVER SWB 4DR SUV": {
@@ -313,7 +355,39 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021
+      ]
+    },
+    "RANGE ROVER SWB 2.0L PHEV 4DR SUV": {
+      "years": [
+        2020,
+        2021
+      ]
+    },
+    "RANGE ROVER SWB 3.0L 4DR SUV": {
+      "years": [
+        2020,
+        2021
+      ]
+    },
+    "RANGE ROVER SWB 5.0L V8 4DR SUV": {
+      "years": [
+        2020,
+        2021
+      ]
+    },
+    "RANGE ROVER 4DR SUV EWB": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "RANGE ROVER 4DR SUV SWB": {
+      "years": [
+        2022,
+        2023
       ]
     }
   },
@@ -355,7 +429,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "RANGE ROVER EVOQUE COUPE 3DR SUV": {
@@ -419,13 +496,44 @@
         2018,
         2019
       ]
+    },
+    "RANGE ROVER SPORT 2.0L PHEV": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "RANGE ROVER SPORT 3.0L DIESEL": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "RANGE ROVER SPORT 3.0L GAS": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "RANGE ROVER SPORT 5.0L V8": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
     }
   },
   "Range Rover Velar": {
     "RANGE ROVER VELAR 4DR SUV": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   }

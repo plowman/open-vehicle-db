@@ -171,6 +171,8 @@
       "years": [
         1981,
         1982,
+        1983,
+        1984,
         1985,
         1986
       ]
@@ -200,11 +202,41 @@
         1995,
         1996
       ]
+    },
+    "BRONCO 2DR 2.3L SUV": {
+      "years": [
+        2021,
+        2022,
+        2023
+      ]
+    },
+    "BRONCO 2DR 2.7L SUV": {
+      "years": [
+        2021,
+        2022,
+        2023
+      ]
+    },
+    "BRONCO 4DR 2.3L SUV": {
+      "years": [
+        2021,
+        2022,
+        2023
+      ]
+    },
+    "BRONCO 4DR 2.7L SUV": {
+      "years": [
+        2021,
+        2022,
+        2023
+      ]
     }
   },
   "Bronco II": {
     "BRONCO II": {
       "years": [
+        1983,
+        1984,
         1985,
         1986
       ]
@@ -242,7 +274,20 @@
       ]
     }
   },
-  "Bronco Sport": {},
+  "Bronco Sport": {
+    "BRONCO SPORT SUV 1.5L": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "BRONCO SPORT SUV 2.0L": {
+      "years": [
+        2021,
+        2022
+      ]
+    }
+  },
   "C-max": {
     "C-MAX ENERGI 4DR HATCHBACK": {
       "years": [
@@ -406,6 +451,17 @@
         1982
       ]
     },
+    "ECONOLINE E150 REGULAR": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "ECONOLINE E150 SHORT WB": {
+      "years": [
+        1984
+      ]
+    },
     "E-150 CLUB WAGON": {
       "years": [
         1985,
@@ -443,11 +499,6 @@
         1990
       ]
     },
-    "E-150 ECONOLINE SUPER VAN": {
-      "years": [
-        1991
-      ]
-    },
     "E-150 ECONOLINE VAN": {
       "years": [
         1991,
@@ -474,6 +525,11 @@
         2012,
         2013,
         2014
+      ]
+    },
+    "E-150 ECONOLINE SUPER VAN": {
+      "years": [
+        1991
       ]
     },
     "E-150 CLUB WAGON XL": {
@@ -524,6 +580,26 @@
       "years": [
         1982,
         1982
+      ]
+    },
+    "ECONOLINE E150 & E250 REGULAR": {
+      "years": [
+        1983
+      ]
+    },
+    "ECONOLINE E250 & E350 SUPER": {
+      "years": [
+        1983
+      ]
+    },
+    "ECONOLINE E250 REGULAR": {
+      "years": [
+        1984
+      ]
+    },
+    "ECONOLINE E250 SUPER": {
+      "years": [
+        1984
       ]
     },
     "E-250 CLUB WAGON": {
@@ -644,6 +720,11 @@
       "years": [
         1982,
         1982
+      ]
+    },
+    "ECONOLINE E350 SUPER": {
+      "years": [
+        1984
       ]
     },
     "E-350 SUPER WAGON": {
@@ -798,12 +879,16 @@
     },
     "ECOSPORT 4DR CUV AWD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021
       ]
     },
     "ECOSPORT 4DR CUV FWD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021
       ]
     }
   },
@@ -863,17 +948,26 @@
     },
     "EDGE 4DR SUV 2.0L AWD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "EDGE 4DR SUV 2.0L FWD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "EDGE 4DR SUV 2.7L AWD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1017,6 +1111,48 @@
         2018,
         2019
       ]
+    },
+    "ESCAPE 4DR SUV 1.5L AWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "ESCAPE 4DR SUV 1.5L FWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "ESCAPE 4DR SUV 2.0L AWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "ESCAPE 4DR SUV 2.5L HYBRID AWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "ESCAPE 4DR SUV 2.5L HYBRID FWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "ESCAPE 4DR SUV 2.5L PHEV AWD": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
     }
   },
   "Escort": {
@@ -1033,7 +1169,9 @@
     "ESCORT WAGON": {
       "years": [
         1981,
-        1982
+        1982,
+        1983,
+        1984
       ]
     },
     "ESCORT 2 DR HB": {
@@ -1044,6 +1182,24 @@
     "ESCORT 4 DR HB": {
       "years": [
         1982
+      ]
+    },
+    "ESCORT GT & GT TURBO": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "ESCORT L HB 4 DR": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "ESCORT L-FS & L HB": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "ESCORT GL 2 DR": {
@@ -1408,7 +1564,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1435,7 +1594,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1663,7 +1825,16 @@
     },
     "EXPLORER 4DR SUV": {
       "years": [
-        2020
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "EXPLORER 4DR SUV HYBRID": {
+      "years": [
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -1775,6 +1946,38 @@
     "F150 SUPER CAB LONG": {
       "years": [
         1982
+      ]
+    },
+    "F150 STYLESIDE 4 X 4 LONG BED": {
+      "years": [
+        1983
+      ]
+    },
+    "F150 STYLESIDE 4 X 4 SHORT BED": {
+      "years": [
+        1983
+      ]
+    },
+    "F150 STYLESIDE LONG BED": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "F150 STYLESIDE SHORT BED": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "F150 STYLESIDE 4 X 4 LONGBED": {
+      "years": [
+        1984
+      ]
+    },
+    "F150 STYLESIDE 4 X 4 SHORTBED": {
+      "years": [
+        1984
       ]
     },
     "F-150 FLARESIDE PICK-UP": {
@@ -1896,24 +2099,6 @@
         1991
       ]
     },
-    "F-150 FLARESIDE P.U. REG. CAB 4X2": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "F-150 FLARESIDE P.U. REG. CAB 4X4": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "F-150 FLARESIDE P.U. SUPER CAB 4X2": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
     "F-150 FLARESIDE P.U. SUPER CAB 4X4": {
       "years": [
         1992,
@@ -1966,6 +2151,48 @@
       "years": [
         1992,
         1993
+      ]
+    },
+    "F-150 FLARESIDE P.U. REG. CAB 4X2": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "F-150 FLARESIDE P.U. REG. CAB 4X4": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "F-150 FLARESIDE P.U. SUPER CAB 4X2": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "F-150 P/U SUPER CAB S/BOX STYLESIDE": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
+      ]
+    },
+    "F-150 P/U SUPER CAB S/BOX STYLESIDE 4X4": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998,
+        1999,
+        2000,
+        2001
       ]
     },
     "F-150 P/U REG CAB L/BOX STYLESIDE": {
@@ -2091,30 +2318,6 @@
         2000,
         2001,
         2002
-      ]
-    },
-    "F-150 P/U SUPER CAB S/BOX STYLESIDE": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001
-      ]
-    },
-    "F-150 P/U SUPER CAB S/BOX STYLESIDE 4X4": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998,
-        1999,
-        2000,
-        2001
       ]
     },
     "F-150 P/U REG CAB S/BOX FLARESIDE SVT": {
@@ -2363,7 +2566,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-150 P/U REG CAB 6.5-FT BOX 4X4": {
@@ -2378,7 +2584,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-150 P/U REG CAB 8-FT BOX 2WD": {
@@ -2393,7 +2602,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-150 P/U REG CAB 8-FT BOX 4X4": {
@@ -2408,7 +2620,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-150 P/U SUPER CAB 5.5-FT BOX 2WD": {
@@ -2547,70 +2762,111 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-150 P/U SUPERCAB 6.5-FT BOX 4X4": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-150 P/U SUPERCAB 8-FT BOX 2WD": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-150 P/U SUPERCAB 8-FT BOX 4X4": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-150 P/U SUPERCREW 5.5-FT BOX 2WD": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-150 P/U SUPERCREW 5.5-FT BOX 4X4": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-150 P/U SUPERCREW 6.5-FT BOX 2WD": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-150 P/U SUPERCREW 6.5-FT BOX 4X4": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-150 RAPTOR SUPERCAB 5.5-FT BOX 4X4": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "F-150 RAPTOR SUPERCREW 5.5-FT BOX 4X4": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "F-150 POLICE RESPONDER": {
+      "years": [
+        2020,
+        2021,
+        2022
+      ]
+    },
+    "F-150 LIGHTNING": {
+      "years": [
+        2022,
+        2023
       ]
     }
   },
@@ -2917,7 +3173,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-250 SD P/U CREW CAB L/BOX 4X4": {
@@ -2941,7 +3200,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-250 SD P/U CREW CAB S/BOX": {
@@ -2966,7 +3228,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-250 SD P/U CREW CAB S/BOX 4X4": {
@@ -2991,7 +3256,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-250 SD P/U REG CAB L/BOX": {
@@ -3015,7 +3283,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-250 SD P/U REG CAB L/BOX 4X4": {
@@ -3039,7 +3310,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-250 SD P/U SUPER CAB L/BOX": {
@@ -3166,28 +3440,40 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-250 SD P/U SUPERCAB L/BOX 4x4": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-250 SD P/U SUPERCAB S/BOX": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-250 SD P/U SUPERCAB S/BOX 4X4": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -3399,7 +3685,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-350 SD P/U CREW CAB L/BOX 4X4": {
@@ -3424,7 +3713,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-350 SD P/U CREW CAB L/BOX DRW": {
@@ -3448,7 +3740,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-350 SD P/U CREW CAB L/BOX DRW 4X4": {
@@ -3472,7 +3767,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-350 SD P/U CREW CAB S/BOX": {
@@ -3497,7 +3795,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-350 SD P/U CREW CAB S/BOX 4X4": {
@@ -3522,7 +3823,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-350 SD P/U CREW CAB S/BOX DRW": {
@@ -3578,7 +3882,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-350 SD P/U REG CAB L/BOX 4X4": {
@@ -3602,7 +3909,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-350 SD P/U REG CAB L/BOX DRW": {
@@ -3627,7 +3937,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-350 SD P/U REG CAB L/BOX DRW 4X4": {
@@ -3652,7 +3965,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-350 SD P/U SUPER CAB L/BOX": {
@@ -3819,42 +4135,60 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-350 SD P/U SUPERCAB L/BOX 4X4": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-350 SD P/U SUPERCAB L/BOX DRW": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-350 SD P/U SUPERCAB L/BOX DRW 4X4": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-350 SD P/U SUPERCAB S/BOX": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "F-350 SD P/U SUPERCAB S/BOX 4X4": {
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -3869,7 +4203,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -4320,7 +4657,8 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     },
     "FUSION 4DR SEDAN ENERGI PHEV": {
@@ -4336,7 +4674,13 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020
+      ]
+    },
+    "FUSION 4DR SEDAN PHEV": {
+      "years": [
+        2020
       ]
     }
   },
@@ -4377,7 +4721,8 @@
       "years": [
         2017,
         2018,
-        2019
+        2019,
+        2020
       ]
     }
   },
@@ -4456,6 +4801,30 @@
         1982,
         1985,
         1986
+      ]
+    },
+    "LTD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "LTD CROWN VICTORIA 2 DR & 4 DR": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "LTD CROWN VICTORIA STAT. WAGON": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "LTD STATION WAGON": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "LTD (BASE) 4 DR": {
@@ -4537,6 +4906,26 @@
   "LTS8000": {},
   "LTS9000": {},
   "Laser": {},
+  "Maverick": {
+    "MAVERICK 4DR PICKUP AWD": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "MAVERICK 4DR PICKUP FWD": {
+      "years": [
+        2022,
+        2023
+      ]
+    },
+    "MAVERICK FHEV 4DR PICKUP": {
+      "years": [
+        2022,
+        2023
+      ]
+    }
+  },
   "Motorhome Chassis": {},
   "Mustang": {
     "MUSTANG 2 DR HB": {
@@ -4549,6 +4938,38 @@
       "years": [
         1981,
         1982
+      ]
+    },
+    "MUSTANG GT & TURBO GT": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "MUSTANG L CP": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "MUSTANG L HB": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "MUSTANG LX & GT CONV. & GT TURBO CONV.": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "MUSTANG SVO": {
+      "years": [
+        1984,
+        1985,
+        1986,
+        1987
       ]
     },
     "MUSTANG COBRA GT CONVERTIBLE": {
@@ -4582,13 +5003,6 @@
       "years": [
         1985,
         1986
-      ]
-    },
-    "MUSTANG SVO": {
-      "years": [
-        1985,
-        1986,
-        1987
       ]
     },
     "MUSTANG GT CONVERTIBLE": {
@@ -4631,6 +5045,14 @@
         1989
       ]
     },
+    "MUSTANG LX/LX 5.0L/COBRA GT CONVERTIBLE": {
+      "years": [
+        1990,
+        1991,
+        1992,
+        1993
+      ]
+    },
     "MUSTANG LX/LX 5.0L 2DR COUPE": {
       "years": [
         1990,
@@ -4642,14 +5064,6 @@
     "MUSTANG LX/LX 5.0L/COBRA GT 2DR HTCHBACK": {
       "years": [
         1990
-      ]
-    },
-    "MUSTANG LX/LX 5.0L/COBRA GT CONVERTIBLE": {
-      "years": [
-        1990,
-        1991,
-        1992,
-        1993
       ]
     },
     "MUSTANG LX/LX 5.0L/GT 2DR HTCHBACK": {
@@ -4808,7 +5222,10 @@
       "years": [
         2005,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "MUSTANG 2DR CONVERTIBLE RWD": {
@@ -4893,29 +5310,64 @@
     "MUSTANG ECOBOOST 2DR CONVERTIBLE": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "MUSTANG ECOBOOST 2DR COUPE": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "MUSTANG GT 2DR CONVERTIBLE": {
       "years": [
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "MUSTANG GT350/350R 2DR COUPE": {
       "years": [
         2018,
-        2019
+        2019,
+        2020
+      ]
+    },
+    "MUSTANG SHELBY GT500 2DR COUPE": {
+      "years": [
+        2021,
+        2022,
+        2022
+      ]
+    },
+    "MUSTANG MACH 1 2DR COUPE": {
+      "years": [
+        2022
       ]
     }
   },
-  "Mustang Mach-E": {},
+  "Mustang Mach-E": {
+    "MUSTANG MACH E 4DR SUV AWD": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "MUSTANG MACH E 4DR SUV RWD": {
+      "years": [
+        2021,
+        2022
+      ]
+    }
+  },
   "P600": {},
   "P700": {},
   "P800": {},
@@ -4991,6 +5443,30 @@
     "RANGER SHORT": {
       "years": [
         1982
+      ]
+    },
+    "RANGER 4 X 4 LONG BED": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "RANGER 4 X 4 SHORT BED": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "RANGER LONG BED": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "RANGER SHORT BED": {
+      "years": [
+        1983,
+        1984
       ]
     },
     "RANGER LONG BED 4 X 4 PICK-UP": {
@@ -5120,6 +5596,33 @@
         1993
       ]
     },
+    "RANGER SUPER CAB SHORT BOX 4X4": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "RANGER SUPER CAB SPLASH": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "RANGER SUPER CAB SPLASH 4X4": {
+      "years": [
+        1994,
+        1995,
+        1996,
+        1997,
+        1998
+      ]
+    },
     "RANGER REG CAB LONG BOX": {
       "years": [
         1994,
@@ -5175,33 +5678,6 @@
       ]
     },
     "RANGER SUPER CAB SHORT BOX": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "RANGER SUPER CAB SHORT BOX 4X4": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "RANGER SUPER CAB SPLASH": {
-      "years": [
-        1994,
-        1995,
-        1996,
-        1997,
-        1998
-      ]
-    },
-    "RANGER SUPER CAB SPLASH 4X4": {
       "years": [
         1994,
         1995,
@@ -5395,12 +5871,18 @@
     },
     "RANGER SUPERCAB 4WD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "RANGER SUPERCREW 4WD": {
       "years": [
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -5594,6 +6076,16 @@
     }
   },
   "Tempo": {
+    "TEMPO L & GL & GLX 2 DR": {
+      "years": [
+        1984
+      ]
+    },
+    "TEMPO L & GL & GLX 4 DR": {
+      "years": [
+        1984
+      ]
+    },
     "TEMPO GL 2 DR": {
       "years": [
         1985,
@@ -5738,6 +6230,17 @@
     }
   },
   "Thunderbird": {
+    "THUNDERBIRD": {
+      "years": [
+        1983,
+        1984
+      ]
+    },
+    "THUNDERBIRD TURBO CP": {
+      "years": [
+        1984
+      ]
+    },
     "THUNDERBIRD (BASE)": {
       "years": [
         1985,
@@ -5841,7 +6344,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT VAN 150 LONG WB MEDIUM ROOF": {
@@ -5850,7 +6356,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT VAN 150 REGULAR WB LOW ROOF": {
@@ -5859,7 +6368,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT VAN 150 REGULAR WB MEDIUM ROOF": {
@@ -5868,7 +6380,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT VAN 250 LONG WB EL HIGH ROOF": {
@@ -5877,7 +6392,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT VAN 250 LONG WB HIGH ROOF": {
@@ -5886,7 +6404,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT VAN 250 LONG WB LOW ROOF": {
@@ -5895,7 +6416,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT VAN 250 LONG WB MEDIUM ROOF": {
@@ -5904,7 +6428,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT VAN 250 REGULAR WB LOW ROOF": {
@@ -5913,7 +6440,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT VAN 250 REGULAR WB MEDIUM ROOF": {
@@ -5922,7 +6452,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT VAN 350 LONG WB EL HIGH ROOF": {
@@ -5931,7 +6464,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT VAN 350 LONG WB HIGH ROOF": {
@@ -5940,7 +6476,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT VAN 350 LONG WB LOW ROOF": {
@@ -5949,7 +6488,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT VAN 350 LONG WB MEDIUM ROOF": {
@@ -5958,7 +6500,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT VAN 350HD DRW EL HIGH ROOF": {
@@ -5967,7 +6512,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT WAGON 150 LOW ROOF": {
@@ -5976,7 +6524,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT WAGON 150 MID ROOF": {
@@ -5985,7 +6536,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT WAGON 350 HIGH ROOF": {
@@ -5994,7 +6548,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT WAGON 350 LOW ROOF": {
@@ -6003,7 +6560,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT WAGON 350 MID ROOF": {
@@ -6012,7 +6572,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT WAGON 350HD DRW HIGH ROOF": {
@@ -6021,7 +6584,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
@@ -6057,7 +6623,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     },
     "TRANSIT CONNECT WAGON XL/XLT/TITANIUM": {
@@ -6067,7 +6636,10 @@
         2016,
         2017,
         2018,
-        2019
+        2019,
+        2020,
+        2021,
+        2022
       ]
     }
   },
