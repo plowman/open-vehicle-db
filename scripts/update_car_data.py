@@ -158,7 +158,7 @@ def load_json(*json_path_segments):
 def persist_json_file(data_dict, *json_path_segments):
     json_path = os.path.join(project_root, *json_path_segments)
     with open(json_path, mode="w") as json_file:
-        json_file.write(json.dumps(data_dict, indent=2, sort_keys=False))
+        json_file.write(json.dumps(data_dict, indent=2, sort_keys=True))
 
 
 grey_list = set()
