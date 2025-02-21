@@ -8525,6 +8525,14 @@
     "last_year": 1983
   },
   {
+    "first_year": null,
+    "last_year": null,
+    "make_name": "DELOREAN",
+    "make_slug": "delorean",
+    "make_id": 13022,
+    "models": {}
+  },
+  {
     "make_id": 476,
     "make_name": "DODGE",
     "make_slug": "dodge",
@@ -20190,6 +20198,14 @@
     "last_year": 2026
   },
   {
+    "first_year": null,
+    "last_year": null,
+    "make_name": "LUCID",
+    "make_slug": "lucid",
+    "make_id": 10919,
+    "models": {}
+  },
+  {
     "make_id": 443,
     "make_name": "MASERATI",
     "make_slug": "maserati",
@@ -28770,6 +28786,14 @@
     "last_year": 2026
   },
   {
+    "first_year": null,
+    "last_year": null,
+    "make_name": "RIVIAN",
+    "make_slug": "rivian",
+    "make_id": 10887,
+    "models": {}
+  },
+  {
     "make_id": 445,
     "make_name": "ROLLS-ROYCE",
     "make_slug": "rolls_royce",
@@ -29536,6 +29560,14 @@
     },
     "first_year": 1991,
     "last_year": 2010
+  },
+  {
+    "first_year": null,
+    "last_year": null,
+    "make_name": "SHELBY",
+    "make_slug": "shelby",
+    "make_id": 11832,
+    "models": {}
   },
   {
     "make_id": 504,

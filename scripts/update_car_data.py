@@ -1,3 +1,4 @@
+import functools
 import json
 import os
 import re
@@ -22,7 +23,7 @@ VEHICLE_TYPE_ID_MAP = {
 
 PASSENGER_VEHICLE_TYPE_IDS = {2, 3, 7}
 
-CURRENT_YEAR = datetime.utcnow().year
+CURRENT_YEAR = datetime.now().year
 YEAR_RANGE = range(1981, CURRENT_YEAR + 2)
 
 
@@ -125,6 +126,7 @@ def fetch_model_ids_for_make_and_year(make_id, year):
     return model_ids
 
 
+@functools.cache
 def make_produces_passenger_vehicles(make_id):
     """
     Return true if this make produces cars or trucks.
@@ -156,75 +158,75 @@ def load_json(*json_path_segments):
 def persist_json_file(data_dict, *json_path_segments):
     json_path = os.path.join(project_root, *json_path_segments)
     with open(json_path, mode="w") as json_file:
-        json_file.write(json.dumps(data_dict, indent=2))
+        json_file.write(json.dumps(data_dict, indent=2, sort_keys=False))
 
 
 grey_list = set()
 
+# Makes which create "mass market" cars or are otherwise well known
+white_list = {
+    "smart", "yugo", "volkwagen", "volvo", "triumph", "toyota", "tesla", "suzuki", "subaru", "spyker",
+    "saturn", "saab", "rolls_royce", "ram", "porsche", "pontiac", "plymouth", "peterbilt", "peugeot",
+    "oldsmobile", "nissan", "mitsubishi", "mercury", "mercedes_benz", "mclaren", "mazda", "maybach",
+    "maserati", "mini", "lotus", "lincoln", "lexus", "lamborghini", "karma", "kia", "jeep", "jaguar",
+    "isuzu", "infiniti", "hyundai", "hummer", "honda", "honda", "gmc", "geo", "ford", "fiat", "ferrari",
+    "fisker", "dodge", "datsun", "daimler", "daewoo", "chrysler", "chevrolet", "cadillac",
+    "buick", "bugatti", "bentley", "bmw", "audi", "aston_martin", "alfa_romeo", "acura", "am_general", "land_rover",
+    "daihatsu", "rivian", "delorean", "shelby", "lucid"
+}
 
-def make_is_whitelisted(make, warn_if_unlisted=True):
-    # Makes which create "mass market" cars or are otherwise well known
-    white_list = {
-        "smart", "yugo", "volkwagen", "volvo", "triumph", "toyota", "tesla", "suzuki", "subaru", "spyker",
-        "saturn", "saab", "rolls_royce", "ram", "porsche", "pontiac", "plymouth", "peterbilt", "peugeot",
-        "oldsmobile", "nissan", "mitsubishi", "mercury", "mercedes_benz", "mclaren", "mazda", "maybach",
-        "maserati", "mini", "lotus", "lincoln", "lexus", "lamborghini", "karma", "kia", "jeep", "jaguar",
-        "isuzu", "infiniti", "hyundai", "hummer", "honda", "honda", "gmc", "geo", "ford", "fiat", "ferrari",
-        "fisker", "dodge", "datsun", "daimler", "daewoo", "chrysler", "chevrolet", "cadillac",
-        "buick", "bugatti", "bentley", "bmw", "audi", "aston_martin", "alfa_romeo", "acura", "am_general", "land_rover",
-        "daihatsu",
-    }
+# This should contain all of the other makes which technically produce cars but which nobody has heard of
+black_list = {
+    'sterling_motor_car', 'saw', 'bxr', 'zeligson', 'lancia', 'global_environmental_products_inc',
+    'vintage_microbus',
+    'ives_motors_corporation_imc', 'phoenix', 'protected_vehicles', 'laforza', 'western_star', 'volvo_truck',
+    'sutphen',
+    'panther', 'thnk', 'mycar', 'frontline', 'thomas_built', 'consulier', 'grumman', 'autocar', 'morgan',
+    'azure_dynamic_inc', 'vector_aeromotive_corporation', 'blue_bird', 'spartan_motors',
+    'utilimaster_motor_corporation', 'freightliner', 'osprey_custom_4x4', 'mack', 'gruppe_b', 'crane_carrier',
+    'consulier_gtp', 'engine_connection', 'scammell', 'winnebago', 'outabout', 'ema', 'care_industries_ltd',
+    'autocar_industries', 'avanti', 'xos', 'wheatridge', 'rocket_sled_motors', 'bug_motors', 'badger_equipment',
+    'saleen', 'wausau_equipment_company', 'formula_1_street_com', 'alkane', 'pininfarina', 'london', 'california',
+    'indiana_phoenix_inc', 'excalibur_automobile_corporation', 'international', 'rs_spider', 'lodal', 'polestar',
+    'autokad', 'mosler', 'capacity_trucks', 'clenet', 'patriot_energy_services', 'jaspers_hot_rods_llc',
+    'vision_industries', 'white', 'electric_mobile_cars', 'yester_year_auto', 'vironex', 'azure_dynamics',
+    'matrix_motor_company', 'phoenix_sports_cars_inc', 'asuna', 'usa_motor_corporation',
+    'mgs_grand_sport_mardikian',
+    'pas', 'chanje', 'hmc', 'ev_innovations', 'beyond_roads', 'transpower', 'efficient_drivetrains_inc',
+    'national_oilwell_varco', 'lite_car', 'precedent', 'envirotech_drive_systems_incorporated', 'renaissance',
+    'fortunesport_ves', 'hino', 'workhorse', 'electric_vehicles_international', 'mini_big_trucks', 'autocar_ltd',
+    'rage', 'mitsubishi_fuso', 'kalmar_industries_llc', 'nina', 'londoncoach_inc', 'service_king_manufacturing',
+    'sprinter_dodge_or_freightliner', 'desoto_motors', 'execucoach_inc', 'ccc', 'american_lafrance', 'la_exotics',
+    'tiger_truck_manufacturing', 'opel', 'moke_america', 'glickenhaus', 'cobra_cars', 'greenkraft',
+    'global_fabricators', 'genesis', 'elgin_sweeper_co', 'truck_equipment_corporationtec',
+    'hunter_automotive_group_inc', 'holden', 'sterling_truck', 'equus_automotive', 'collins', 'pagani',
+    'marmon_motor_co', 'mahindra', 'american_motors', 'faw_jiaxing_happy_messenger', 'simon_duplex', 'ic_bus',
+    'inzuro',
+    'orange_ev_llc', 'iron_guru_customs', 'bbc', 'scuderia_cameron_glickenhaus_scg', 'oshkosh',
+    'smith_electric_vehicles', 'njd_automotive_llc', 'federal_motors_inc', 'jlg', 'warhawk_performance',
+    'westfall_motors_corp', 'contemporary_classic_cars_ccc', 'maxim_inc', 'zhejiang_kangdi_vehicles_co',
+    'ottawa_brimont_corporation', 'jac_427', 'cx_automotive', 'whitegmc', 'e_one', 'boulder_electric_vehicle',
+    'lumen',
+    'korando', 'falcon', 'nanchang_freedom_technology_limited_company', 'heritage', 'merkur', 'caterpillar',
+    'phoenix_motorcars', 'eagle', 'kimble_chassis', 'mcneilus', 'terrafugia', 'american_truck_company',
+    'penske', 'rainier_truck_and_chassis', 'pierce_manufacturing', 'dennis', 'vintage_auto', 'byd', 'trident_motor',
+    'steamroller_motorcycle_company_llc', 'winnebago_industries_inc', 'spv', 'brain_unlimited', 'koenigsegg',
+    'allianz_sweeper_company', 'blackwater', 'us_specialty_vehicles_llc', 'jerr_dan', 'kimble', 'navistar',
+    'avera_motors', 'creative_coachworks', 'general_purpose_vehicles', 'stanford_customs', 'coda', 'coachworks',
+    'smit',
+    'crane_carrier_company', 'ud', 'czinger', 'classic_roadsters', 'faradayfuture_inc',
+    'gullwing_international_motors_ltd', 'canadian_electric_vehicles', 'cami', 'kovatch_mobile_equipment',
+    'diamond_reo', 'ucc', 'vintage_cruiser', 'crown_energy_technologies', 'spartan_motors_chassis', 'kubvan',
+    'revology', 'kenworth', 'armbruster_stageway', 'volkswagen', 'autodelta_usa_inc',
+    'atlanta_fabricating__equipment_co', 'mana', 'terex_advance_mixer', 'hunter_design_group_llc',
+    'the_vehicle_production_group', 'sti', 'ukeycheyma', 'orion_bus', 'panoz',
+    'diamond_heavy_vehicle_solutions', 'daytona_coach_builders', 'kepler_motors', 'stoutbilt', 'superior_coaches',
+    'vintage_rover', 'mobile_armoured_vehicle', 'humvee', 'making_you_mobile', 'c_r_cheetah_race_cars',
+    'calaveras_mfg_inc', 'world_transport_authority', 'costin_sports_car', 'solectria', 'rig_works',
+    'snowblast_sicard_inc', 'classic_sports_cars', 'bakkura_mobility', 'bluecar', 'sf_motors_inc'}
 
-    # This should contain all of the other makes which technically produce cars but which nobody has heard of
-    black_list = {
-        'sterling_motor_car', 'saw', 'bxr', 'zeligson', 'lancia', 'global_environmental_products_inc',
-        'vintage_microbus',
-        'ives_motors_corporation_imc', 'phoenix', 'protected_vehicles', 'laforza', 'western_star', 'volvo_truck',
-        'sutphen',
-        'panther', 'thnk', 'mycar', 'frontline', 'thomas_built', 'consulier', 'grumman', 'autocar', 'morgan',
-        'azure_dynamic_inc', 'vector_aeromotive_corporation', 'blue_bird', 'spartan_motors',
-        'utilimaster_motor_corporation', 'freightliner', 'osprey_custom_4x4', 'mack', 'gruppe_b', 'crane_carrier',
-        'consulier_gtp', 'engine_connection', 'scammell', 'winnebago', 'outabout', 'ema', 'care_industries_ltd',
-        'autocar_industries', 'avanti', 'xos', 'wheatridge', 'rocket_sled_motors', 'bug_motors', 'badger_equipment',
-        'saleen', 'wausau_equipment_company', 'formula_1_street_com', 'alkane', 'pininfarina', 'london', 'california',
-        'indiana_phoenix_inc', 'excalibur_automobile_corporation', 'international', 'rs_spider', 'lodal', 'polestar',
-        'autokad', 'mosler', 'capacity_trucks', 'clenet', 'patriot_energy_services', 'jaspers_hot_rods_llc',
-        'vision_industries', 'white', 'electric_mobile_cars', 'yester_year_auto', 'vironex', 'azure_dynamics',
-        'matrix_motor_company', 'phoenix_sports_cars_inc', 'asuna', 'usa_motor_corporation',
-        'mgs_grand_sport_mardikian',
-        'pas', 'chanje', 'hmc', 'ev_innovations', 'beyond_roads', 'transpower', 'efficient_drivetrains_inc',
-        'national_oilwell_varco', 'lite_car', 'precedent', 'envirotech_drive_systems_incorporated', 'renaissance',
-        'fortunesport_ves', 'hino', 'workhorse', 'electric_vehicles_international', 'mini_big_trucks', 'autocar_ltd',
-        'rage', 'mitsubishi_fuso', 'kalmar_industries_llc', 'nina', 'londoncoach_inc', 'service_king_manufacturing',
-        'sprinter_dodge_or_freightliner', 'desoto_motors', 'execucoach_inc', 'ccc', 'american_lafrance', 'la_exotics',
-        'tiger_truck_manufacturing', 'opel', 'moke_america', 'glickenhaus', 'cobra_cars', 'greenkraft',
-        'global_fabricators', 'genesis', 'elgin_sweeper_co', 'truck_equipment_corporationtec',
-        'hunter_automotive_group_inc', 'holden', 'sterling_truck', 'equus_automotive', 'collins', 'pagani',
-        'marmon_motor_co', 'mahindra', 'american_motors', 'faw_jiaxing_happy_messenger', 'simon_duplex', 'ic_bus',
-        'inzuro',
-        'orange_ev_llc', 'iron_guru_customs', 'bbc', 'scuderia_cameron_glickenhaus_scg', 'oshkosh',
-        'smith_electric_vehicles', 'njd_automotive_llc', 'federal_motors_inc', 'jlg', 'warhawk_performance',
-        'westfall_motors_corp', 'contemporary_classic_cars_ccc', 'maxim_inc', 'zhejiang_kangdi_vehicles_co',
-        'ottawa_brimont_corporation', 'jac_427', 'cx_automotive', 'whitegmc', 'e_one', 'boulder_electric_vehicle',
-        'lumen',
-        'korando', 'falcon', 'nanchang_freedom_technology_limited_company', 'heritage', 'merkur', 'caterpillar',
-        'phoenix_motorcars', 'eagle', 'kimble_chassis', 'mcneilus', 'terrafugia', 'american_truck_company',
-        'penske', 'rainier_truck_and_chassis', 'pierce_manufacturing', 'dennis', 'vintage_auto', 'byd', 'trident_motor',
-        'steamroller_motorcycle_company_llc', 'winnebago_industries_inc', 'spv', 'brain_unlimited', 'koenigsegg',
-        'allianz_sweeper_company', 'blackwater', 'us_specialty_vehicles_llc', 'jerr_dan', 'kimble', 'navistar',
-        'avera_motors', 'creative_coachworks', 'general_purpose_vehicles', 'stanford_customs', 'coda', 'coachworks',
-        'smit',
-        'crane_carrier_company', 'ud', 'czinger', 'classic_roadsters', 'faradayfuture_inc',
-        'gullwing_international_motors_ltd', 'canadian_electric_vehicles', 'cami', 'kovatch_mobile_equipment',
-        'diamond_reo', 'ucc', 'vintage_cruiser', 'crown_energy_technologies', 'spartan_motors_chassis', 'kubvan',
-        'revology', 'kenworth', 'armbruster_stageway', 'volkswagen', 'autodelta_usa_inc',
-        'atlanta_fabricating__equipment_co', 'mana', 'terex_advance_mixer', 'hunter_design_group_llc',
-        'the_vehicle_production_group', 'sti', 'ukeycheyma', 'orion_bus', 'panoz',
-        'diamond_heavy_vehicle_solutions', 'daytona_coach_builders', 'kepler_motors', 'stoutbilt', 'superior_coaches',
-        'vintage_rover', 'mobile_armoured_vehicle', 'humvee', 'making_you_mobile', 'c_r_cheetah_race_cars',
-        'calaveras_mfg_inc', 'world_transport_authority', 'costin_sports_car', 'solectria', 'rig_works',
-        'snowblast_sicard_inc', 'classic_sports_cars', 'bakkura_mobility', 'bluecar', 'sf_motors_inc'}
 
+def make_is_whitelisted(make, warn_if_unlisted=False):
     make_slug = make["make_slug"]
     if make_slug in white_list:
         return True
@@ -235,7 +237,7 @@ def make_is_whitelisted(make, warn_if_unlisted=True):
     if warn_if_unlisted:
         print(f"ERROR: unrecognized make needs to be whitelisted or blacklisted: {make}")
         grey_list.add(make_slug)
-        print(f"Unclassified makes: {grey_list}")
+        # print(f"Unclassified makes: {grey_list}")
 
     return False
 
@@ -316,6 +318,24 @@ def fetch_vehicle_details(year=None, model=None, make=None):
     return vehicle_specifications
 
 
+def fetch_passenger_makes():
+    make_id_make_map = {}
+    for vehicle_type in ["car", "truck", "mpv"]:
+        results = _make_api_request(f"/GetMakesForVehicleType/{vehicle_type}")
+
+        for result in results:
+            make_id_make_map[result["MakeId"]] = {
+                "first_year": None,
+                "last_year": None,
+                "make_name": result["MakeName"].strip(),
+                "make_slug": slugify_string(result["MakeName"]),
+                "make_id": result["MakeId"],
+                "models": {},
+            }
+
+    return make_id_make_map.values()
+
+
 def update_makes_file(target_make=None):
     """
     Update makes.json with all of the NHTSA makes which currently produces cars or trucks.
@@ -324,9 +344,10 @@ def update_makes_file(target_make=None):
     """
     persisted_makes = load_make_models_json()
     persisted_makes_by_slug = {make["make_slug"]: make for make in persisted_makes}
+    possible_new_makes = []
 
-    all_makes = fetch_all_makes()
-    for make in tqdm(all_makes):
+    makes_producing_passenger_vehicles = fetch_passenger_makes()
+    for make in tqdm(makes_producing_passenger_vehicles):
         if make["make_name"] == "FISKER AUTOMOTIVE":
             # This is a dumb name that doesn't match canada's name.
             make["make_name"] = "Fisker"
@@ -337,18 +358,22 @@ def update_makes_file(target_make=None):
         if target_make and target_make != make["make_slug"]:
             continue
 
-        if make_is_whitelisted(make, warn_if_unlisted=True):
-            persisted_makes_by_slug[make["make_slug"]] = make
-            print(f"{make['make_name']} produces passenger vehicles: {make}")
-        else:
-            continue
-
-        if not make_produces_passenger_vehicles(make["make_id"]):
-            # There are too many random car brands, so we focus on just those makings cars and/or trucks
-            continue
+        make_slug = make["make_slug"]
+        if make_slug not in persisted_makes_by_slug:
+            if make_slug in white_list:
+                # New make which was not previously known
+                print(f"Adding a new make: {make}")
+                persisted_makes_by_slug[make_slug] = make
+            elif make_slug not in black_list:
+                # Make which is not yet blacklisted
+                possible_new_makes.append(make)
+                print(f"Found an unlisted make which makes passenger vehicles: {make}")
 
     makes_and_models = list(sorted(persisted_makes_by_slug.values(), key=lambda make: make["make_slug"]))
     persist_json_file(makes_and_models, "data", "makes_and_models.json")
+
+    for new_make in possible_new_makes:
+        print(f"Found a possible new make: {new_make}")
 
 
 def load_make_models_json():
@@ -534,9 +559,9 @@ def update_everything():
     # update_makes_file(target_make="fisker")
     update_makes_file()
     # update_models_files(target_make="fisker")
-    update_models_files()
-    update_styles()
-    update_readme()
+    # update_models_files()
+    # update_styles()
+    # update_readme()
 
 
 def main(args):
