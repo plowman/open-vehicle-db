@@ -5,7 +5,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "ASCENT LIMITED / PREMIER 4DR SUV": {
@@ -13,7 +15,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "ASCENT TOURING 4DR SUV": {
@@ -21,7 +25,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -54,7 +60,8 @@
         2020,
         2021,
         2022,
-        2023
+        2023,
+        2024
       ]
     }
   },
@@ -82,7 +89,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "CROSSTREK 4DR SUV LIMITED": {
@@ -91,7 +99,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "CROSSTREK 4DR SUV SPORT": {
@@ -100,7 +109,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "CROSSTREK 4DR SUV TOURING": {
@@ -109,7 +119,26 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
+      ]
+    },
+    "CROSSTREK CONVENIENCE/TOURING 4DR SUV": {
+      "years": [
+        2024,
+        2025
+      ]
+    },
+    "CROSSTREK ONYX/LIMITED 4DR SUV": {
+      "years": [
+        2024,
+        2025
+      ]
+    },
+    "CROSSTREK WILDERNESS 4DR SUV": {
+      "years": [
+        2024,
+        2025
       ]
     }
   },
@@ -142,26 +171,6 @@
     "DL SD": {
       "years": [
         1982
-      ]
-    },
-    "4WD GL/DL WAGON": {
-      "years": [
-        1988
-      ]
-    },
-    "FWD DL/GL COUPE": {
-      "years": [
-        1988
-      ]
-    },
-    "FWD DL/GL WAGON": {
-      "years": [
-        1989
-      ]
-    },
-    "FWD GL/DL 4 DR SEDAN": {
-      "years": [
-        1989
       ]
     }
   },
@@ -252,7 +261,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "FORESTER SPORT / LIMITED / PREMIER 4DR SUV": {
@@ -260,7 +271,14 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "FORESTER 4DR SUV": {
+      "years": [
+        2025
       ]
     }
   },
@@ -366,7 +384,27 @@
         1988
       ]
     },
+    "4WD GL/DL WAGON": {
+      "years": [
+        1988
+      ]
+    },
+    "FWD DL/GL COUPE": {
+      "years": [
+        1988
+      ]
+    },
+    "FWD DL/GL WAGON": {
+      "years": [
+        1989
+      ]
+    },
     "FWD GL COUPE": {
+      "years": [
+        1989
+      ]
+    },
+    "FWD GL/DL 4 DR SEDAN": {
       "years": [
         1989
       ]
@@ -814,7 +852,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "IMPREZA 5DR HATCH": {
@@ -824,7 +863,20 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
+      ]
+    },
+    "IMPREZA CONVENIENCE/TOURING 4DR SEDAN": {
+      "years": [
+        2024,
+        2025
+      ]
+    },
+    "IMPREZA RS/SPORT-TECH 4DR SEDAN": {
+      "years": [
+        2024,
+        2025
       ]
     }
   },
@@ -1177,14 +1229,18 @@
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "LEGACY GT 4DR SEDAN": {
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -1382,6 +1438,18 @@
         2021,
         2022
       ]
+    },
+    "OUTBACK 4DR WAGON": {
+      "years": [
+        2023,
+        2024
+      ]
+    },
+    "OUTBACK 4DR WGAON WILDERNESS/XT": {
+      "years": [
+        2023,
+        2024
+      ]
     }
   },
   "RX": {},
@@ -1399,7 +1467,8 @@
   "Solterra": {
     "SOLTERRA SUV": {
       "years": [
-        2023
+        2023,
+        2024
       ]
     }
   },
@@ -1415,7 +1484,8 @@
         2020,
         2021,
         2022,
-        2023
+        2023,
+        2024
       ]
     },
     "WRX STI 4DR SEDAN": {
@@ -1432,13 +1502,15 @@
     "WRX SPORT 4DR SEDAN": {
       "years": [
         2022,
-        2023
+        2023,
+        2024
       ]
     },
     "WRX SPORT EyeSight 4DR SEDAN": {
       "years": [
         2022,
-        2023
+        2023,
+        2024
       ]
     }
   },

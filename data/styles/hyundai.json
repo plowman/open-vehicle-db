@@ -359,12 +359,18 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024,
+        2025
       ]
     },
     "ELANTRA HYBRID": {
       "years": [
-        2022
+        2022,
+        2023,
+        2024,
+        2025
       ]
     }
   },
@@ -405,7 +411,10 @@
     "ELANTRA N-LINE 4DR SEDAN": {
       "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024,
+        2025
       ]
     }
   },
@@ -611,11 +620,6 @@
         2014
       ]
     },
-    "GENESIS 4DR SEDAN AWD 3.8 PREMIUM/3.8 LUX/3.8": {
-      "years": [
-        2015
-      ]
-    },
     "GENESIS 4DR SEDAN AWD 5.0 ULTIMATE": {
       "years": [
         2015,
@@ -624,31 +628,13 @@
     },
     "GENESIS 4DR SEDAN AWD 3.8 PREMIUM/3.8 LUX/3.8 TEC": {
       "years": [
+        2015,
         2016
       ]
     }
   },
   "Genesis Coupe": {},
-  "IONIQ 5": {
-    "IONIQ 5 4DR HATCH RWD": {
-      "years": [
-        2022,
-        2023
-      ]
-    },
-    "IONIQ 5 LONG RANGE 4DR HATCH AWD": {
-      "years": [
-        2022,
-        2023
-      ]
-    },
-    "IONIQ 5 LONG RANGE 4DR HATCH RWD": {
-      "years": [
-        2022,
-        2023
-      ]
-    }
-  },
+  "IONIQ 5 N": {},
   "Ioniq": {
     "IONIQ 4DR HATCH": {
       "years": [
@@ -679,7 +665,37 @@
       ]
     }
   },
-  "Ioniq 6": {},
+  "Ioniq 5": {
+    "IONIQ 5 4DR HATCH RWD": {
+      "years": [
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "IONIQ 5 LONG RANGE 4DR HATCH AWD": {
+      "years": [
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "IONIQ 5 LONG RANGE 4DR HATCH RWD": {
+      "years": [
+        2022,
+        2023,
+        2024
+      ]
+    }
+  },
+  "Ioniq 6": {
+    "IONIQ 6 4DR SEDAN": {
+      "years": [
+        2023,
+        2024
+      ]
+    }
+  },
   "Kona": {
     "KONA 1.6T AWD 4DR SUV": {
       "years": [
@@ -719,6 +735,18 @@
         2022,
         2023
       ]
+    },
+    "KONA 4DR SUV AWD": {
+      "years": [
+        2024,
+        2025
+      ]
+    },
+    "KONA 4DR SUV FWD": {
+      "years": [
+        2024,
+        2025
+      ]
     }
   },
   "Kona Electric": {
@@ -728,7 +756,17 @@
         2020,
         2021,
         2022,
-        2023
+        2023,
+        2024,
+        2025
+      ]
+    }
+  },
+  "Kona N": {
+    "KONA N-SERIES 4DR SUV": {
+      "years": [
+        2024,
+        2025
       ]
     }
   },
@@ -740,6 +778,12 @@
         2021,
         2022
       ]
+    },
+    "NEXOS": {
+      "years": [
+        2024,
+        2025
+      ]
     }
   },
   "Palisade": {
@@ -747,14 +791,18 @@
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "PALISADE 4DR SUV FWD": {
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -789,7 +837,8 @@
     "SANTA CRUZ 4DR PICKUP": {
       "years": [
         2022,
-        2023
+        2023,
+        2024
       ]
     }
   },
@@ -914,7 +963,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2024,
+        2025
       ]
     },
     "SANTA FE 4DR SUV FWD": {
@@ -922,17 +973,31 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2024,
+        2025
       ]
     },
     "SANTA FE HEV 4DR SUV": {
       "years": [
-        2022
+        2022,
+        2023
       ]
     },
     "SANTA FE PHEV 4DR SUV": {
       "years": [
-        2022
+        2022,
+        2023
+      ]
+    },
+    "SANTA FE 4DR SUV AWD PREFERRED": {
+      "years": [
+        2023
+      ]
+    },
+    "SANTA FE 4DR SUV AWD URBAN / ULTIMATE": {
+      "years": [
+        2023
       ]
     }
   },
@@ -949,13 +1014,17 @@
     },
     "SANTA FE SPORT AWD 2.4L PREMIUM/2.4L LUXURY/2": {
       "years": [
-        2014,
-        2015
+        2014
       ]
     },
     "SANTA FE SPORT FWD 2.4L/2.4L PREMIUM/2.0T": {
       "years": [
         2014,
+        2015
+      ]
+    },
+    "SANTA FE SPORT AWD 2.4L PREMIUM/2.4L LUXURY/2.0T PREMIUM/2.0T SE/2.0T LIMITED": {
+      "years": [
         2015
       ]
     },
@@ -995,11 +1064,6 @@
         2014
       ]
     },
-    "SANTA FE XL AWD 4DR SUV PREMIUM/LUXURY/LIMITE": {
-      "years": [
-        2015
-      ]
-    },
     "SANTA FE XL FWD 4DR SUV": {
       "years": [
         2015,
@@ -1007,6 +1071,11 @@
         2017,
         2018,
         2019
+      ]
+    },
+    "SANTA FE XL AWD 4DR SUV PREMIUM/LUXURY/LIMITED": {
+      "years": [
+        2015
       ]
     },
     "SANTA FE XL AWD 4DR SUV": {
@@ -1255,19 +1324,40 @@
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "SONATA HYBRID 4DR SEDAN": {
       "years": [
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "SONATA N-LINE 4DR SEDAN": {
       "years": [
         2021,
-        2022
+        2022,
+        2023
+      ]
+    },
+    "SONATA 4DR SEDAN AWD": {
+      "years": [
+        2024,
+        2025
+      ]
+    },
+    "SONATA 4DR SEDAN FWD": {
+      "years": [
+        2024,
+        2025
+      ]
+    },
+    "SONATA 4DR SEDAN FWD N-LINE": {
+      "years": [
+        2024,
+        2025
       ]
     }
   },
@@ -1482,7 +1572,8 @@
         2020,
         2021,
         2022,
-        2023
+        2023,
+        2024
       ]
     },
     "TUCSON 4DR SUV FWD": {
@@ -1494,19 +1585,22 @@
         2020,
         2021,
         2022,
-        2023
+        2023,
+        2024
       ]
     },
     "TUCSON 4DR SUV AWD HEV": {
       "years": [
         2022,
-        2023
+        2023,
+        2024
       ]
     },
     "TUCSON 4DR SUV AWD PHEV": {
       "years": [
         2022,
-        2023
+        2023,
+        2024
       ]
     }
   },
@@ -1579,7 +1673,9 @@
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -1618,20 +1714,20 @@
       ]
     }
   },
-  "XG 350": {
+  "XG300": {
+    "XG300 4DR SEDAN": {
+      "years": [
+        2001
+      ]
+    }
+  },
+  "XG350": {
     "XG350 4DR SEDAN FWD": {
       "years": [
         2002,
         2003,
         2004,
         2005
-      ]
-    }
-  },
-  "XG300": {
-    "XG300 4DR SEDAN": {
-      "years": [
-        2001
       ]
     }
   },

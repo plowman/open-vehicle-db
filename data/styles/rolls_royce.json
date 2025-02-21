@@ -1,16 +1,339 @@
 {
-  "Camargue": {},
-  "Corniche": {},
-  "Cullinan": {},
-  "Dawn": {},
+  "Camargue": {
+    "CAMARGUE": {
+      "years": [
+        1986
+      ]
+    }
+  },
+  "Corniche": {
+    "CORNICHE CONV.": {
+      "years": [
+        1981,
+        1982
+      ]
+    },
+    "CORNICHE COUPE": {
+      "years": [
+        1981
+      ]
+    },
+    "CORNICHE CP": {
+      "years": [
+        1982
+      ]
+    },
+    "CORNICHE": {
+      "years": [
+        1983,
+        1984,
+        1985
+      ]
+    },
+    "CORNICHE II": {
+      "years": [
+        1986
+      ]
+    },
+    "CORNICHE/BENTLEY CONTINENTAL CONVERTABLE": {
+      "years": [
+        1987
+      ]
+    },
+    "CORNICHE/BENTLEY CONTINENTAL CONVERTIBLE": {
+      "years": [
+        1988,
+        1990
+      ]
+    },
+    "CORNICHE/BENTLEY CONTINENTAL CONVER": {
+      "years": [
+        1989
+      ]
+    },
+    "CORNICHE/CONTINENTAL CONVERTIBLE": {
+      "years": [
+        1991
+      ]
+    },
+    "CORNICHE IV/CONTINENTAL CONVERTIBLE": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "CORNICHE IV 2DR CONVERTIBLE": {
+      "years": [
+        1994,
+        1995
+      ]
+    }
+  },
+  "Cullinan": {
+    "CULLINAN 4DR SUV": {
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    }
+  },
+  "Dawn": {
+    "DAWN": {
+      "years": [
+        2017,
+        2018
+      ]
+    },
+    "DAWN 2DR CONVERTIBLE": {
+      "years": [
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ]
+    }
+  },
   "Flying Spur": {},
-  "Ghost": {},
+  "Ghost": {
+    "GHOST 4DR SEDAN RWD": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "GHOST EXTENDED 4DR SEDAN RWD": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    }
+  },
   "Park Ward": {},
-  "Phantom": {},
-  "Silver Dawn": {},
-  "Silver Seraph": {},
-  "Silver Spirit": {},
-  "Silver Spur": {},
+  "Phantom": {
+    "PHANTOM 4DR SEDAN RWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "PHANTOM DROPHEAD 2DR COUPE RWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ]
+    },
+    "PHANTOM EXTENDED 4DR SEDAN RWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "PHANTOM COUPE 2DR COUPE RWD": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    },
+    "PHANTOM DROPHEAD COUPE 2DR CONVERTIBLE RWD": {
+      "years": [
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019
+      ]
+    }
+  },
+  "Silver Dawn": {
+    "SILVER DAWN 4DR SEDAN": {
+      "years": [
+        1995,
+        1996,
+        1997
+      ]
+    }
+  },
+  "Silver Seraph": {
+    "SILVER SERAPH 4DR SEDAN": {
+      "years": [
+        1999,
+        2000,
+        2001,
+        2002
+      ]
+    }
+  },
+  "Silver Spirit": {
+    "SILVER SPIRIT": {
+      "years": [
+        1981,
+        1982,
+        1983,
+        1984,
+        1985,
+        1986
+      ]
+    },
+    "SILVER SPIRIT 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "SILVER SPIRIT 4DR SEDAN": {
+      "years": [
+        1990
+      ]
+    },
+    "SILVER SPIRIT II 4DR SEDAN": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "SILVER SPIRIT III 4DR SEDAN": {
+      "years": [
+        1994
+      ]
+    }
+  },
+  "Silver Spur": {
+    "SILVER SPUR": {
+      "years": [
+        1981,
+        1982,
+        1983,
+        1984,
+        1985,
+        1986
+      ]
+    },
+    "SILVER SPUR 4 DR SEDAN": {
+      "years": [
+        1987,
+        1988,
+        1989
+      ]
+    },
+    "SILVER SPUR 4DR SEDAN": {
+      "years": [
+        1990,
+        1996,
+        1997,
+        1998
+      ]
+    },
+    "SILVER SPUR II 4DR SEDAN": {
+      "years": [
+        1991,
+        1992,
+        1993
+      ]
+    },
+    "SILVER SPUR III 4DR SEDAN": {
+      "years": [
+        1994,
+        1995
+      ]
+    }
+  },
+  "Spectre": {
+    "SPECTRE 2DR COUPE": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
   "Touring Limousine": {},
-  "Wraith": {}
+  "Wraith": {
+    "WRAITH 2DR COUPE RWD": {
+      "years": [
+        2014,
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023
+      ]
+    }
+  }
 }

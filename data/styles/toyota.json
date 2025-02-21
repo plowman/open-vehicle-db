@@ -122,7 +122,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "4RUNNER 4DR SUV 4WD BASE": {
@@ -213,7 +215,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "4RUNNER 4DR SUV 4WD TRAIL EDITION V6": {
@@ -230,7 +234,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -287,7 +293,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     }
   },
@@ -298,21 +305,9 @@
         2019,
         2020,
         2021,
-        2022
-      ]
-    }
-  },
-  "COROLLA CROSS": {
-    "COROLLA CROSS 4DR SUV AWD": {
-      "years": [
         2022,
-        2023
-      ]
-    },
-    "COROLLA CROSS 4DR SUV FWD": {
-      "years": [
-        2022,
-        2023
+        2023,
+        2024
       ]
     }
   },
@@ -324,7 +319,6 @@
       ]
     }
   },
-  "CROWN": {},
   "Camry": {
     "CAMRY LE LB": {
       "years": [
@@ -625,7 +619,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "CAMRY 4DR SEDAN XSE V6/XLE V6": {
@@ -634,7 +630,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "CAMRY HYBRID 4DR SEDAN LE": {
@@ -643,7 +641,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "CAMRY HYBRID 4DR SEDAN SE/XLE": {
@@ -652,7 +652,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "CAMRY 4DR SEDAN LE": {
@@ -660,7 +662,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -1253,28 +1257,52 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "COROLLA 4DR SEDAN HYBRID": {
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "COROLLA 4DR SEDAN L/LE": {
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "COROLLA 4DR SEDAN SE/XLE/XSE": {
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
+      ]
+    }
+  },
+  "Corolla Cross": {
+    "COROLLA CROSS 4DR SUV AWD": {
+      "years": [
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "COROLLA CROSS 4DR SUV FWD": {
+      "years": [
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -1342,6 +1370,27 @@
         1990,
         1991,
         1992
+      ]
+    }
+  },
+  "Crown": {
+    "CROWN 4DR SEDAN PLATINUM": {
+      "years": [
+        2023,
+        2024
+      ]
+    },
+    "CROWN 4DR SEDAN XLE / LIMITED": {
+      "years": [
+        2023,
+        2024
+      ]
+    }
+  },
+  "Crown Signia": {
+    "CROWN SIGNIA 4DR WAGON": {
+      "years": [
+        2025
       ]
     }
   },
@@ -1414,12 +1463,40 @@
       ]
     }
   },
-  "GR COROLLA": {},
+  "GR Corolla": {
+    "GR COROLLA 5DR HATCH": {
+      "years": [
+        2023,
+        2024
+      ]
+    }
+  },
   "GR86": {
     "GR86 3DR COUPE": {
       "years": [
         2022,
-        2023
+        2023,
+        2024
+      ]
+    }
+  },
+  "Grand Highlander": {
+    "GRAND HIGHLANDER 4DR SUV": {
+      "years": [
+        2024,
+        2025
+      ]
+    },
+    "GRAND HIGHLANDER 4DR SUV HYBRID": {
+      "years": [
+        2024,
+        2025
+      ]
+    },
+    "GRAND HIGHLANDER 4DR SUV PLATINUM MAX HYBRID": {
+      "years": [
+        2024,
+        2025
       ]
     }
   },
@@ -1557,35 +1634,45 @@
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "HIGHLANDER 4DR SUV LE/XLE AWD": {
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "HIGHLANDER 4DR SUV LE/XLE HYBRID AWD": {
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "HIGHLANDER 4DR SUV LIMITED AWD": {
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "HIGHLANDER 4DR SUV LIMITED HYBRID AWD": {
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -1635,6 +1722,12 @@
       "years": [
         1989
       ]
+    },
+    "LAND CRUISER 4DR SUV": {
+      "years": [
+        2024,
+        2025
+      ]
     }
   },
   "MR2": {
@@ -1667,55 +1760,9 @@
     "MIRAI 4DR SEDAN": {
       "years": [
         2021,
-        2022
-      ]
-    }
-  },
-  "PRIUS": {
-    "PRIUS 4DR SEDAN": {
-      "years": [
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "PRIUS 4DR HATCH FWD": {
-      "years": [
-        2004,
-        2005,
-        2006,
-        2007,
-        2008,
-        2009
-      ]
-    },
-    "PRIUS 4DR HATCH PREMIUM/TOURING/NAV": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
-    "PRIUS 4DR LIFTBACK PREMIUM/TOURING/NAV": {
-      "years": [
-        2012
-      ]
-    },
-    "PRIUS 4DR LIFTBACK": {
-      "years": [
-        2013,
-        2014,
-        2015
-      ]
-    },
-    "PRIUS 5DR LIFTBACK": {
-      "years": [
-        2016,
-        2017,
-        2018,
-        2019,
-        2020,
-        2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -1869,6 +1916,56 @@
       ]
     }
   },
+  "Prius": {
+    "PRIUS 4DR SEDAN": {
+      "years": [
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "PRIUS 4DR HATCH FWD": {
+      "years": [
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009
+      ]
+    },
+    "PRIUS 4DR HATCH PREMIUM/TOURING/NAV": {
+      "years": [
+        2010,
+        2011
+      ]
+    },
+    "PRIUS 4DR LIFTBACK PREMIUM/TOURING/NAV": {
+      "years": [
+        2012
+      ]
+    },
+    "PRIUS 4DR LIFTBACK": {
+      "years": [
+        2013,
+        2014,
+        2015,
+        2023,
+        2024
+      ]
+    },
+    "PRIUS 5DR LIFTBACK": {
+      "years": [
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022
+      ]
+    }
+  },
   "Prius C": {
     "PRIUS C 4DR HATCHBACK/TECHNOLOGY": {
       "years": [
@@ -1907,7 +2004,13 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
+      ]
+    },
+    "PRIUS PRIME 4DR LIFTBACK": {
+      "years": [
+        2024
       ]
     }
   },
@@ -2103,7 +2206,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "RAV4 AWD LE / XLE 4DR SUV": {
@@ -2111,7 +2216,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "RAV4 AWD TRAIL / LIMITED 4DR SUV": {
@@ -2119,7 +2226,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "RAV4 HYBRID 4DR SUV": {
@@ -2127,19 +2236,27 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
-  "RAV4 Prime": {},
-  "SCION tC": {},
-  "SCION xA": {},
-  "SCION xB": {},
-  "SCION xD": {},
+  "RAV4 Prime": {
+    "RAV4 PRIME PHEV 4DR SUV": {
+      "years": [
+        2024
+      ]
+    }
+  },
   "Scion FR-S": {},
   "Scion iA": {},
   "Scion iM": {},
   "Scion iQ": {},
+  "Scion tC": {},
+  "Scion xA": {},
+  "Scion xB": {},
+  "Scion xD": {},
   "Sequoia": {
     "SEQUOIA 4DR SUV 4WD SR5/LTD": {
       "years": [
@@ -2172,7 +2289,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -2328,13 +2447,17 @@
     "SIENNA MINIVAN AWD": {
       "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SIENNA MINIVAN FWD": {
       "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -2407,7 +2530,9 @@
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -2694,7 +2819,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "TACOMA ACCESS CAB L/BOX 4WD V-6": {
@@ -2737,14 +2863,44 @@
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024,
+        2025
       ]
     },
     "TACOMA DOUBLE CAB S/BOX 4WD": {
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "TACOMA DOUBLE CAB L/BOX 2WD": {
+      "years": [
+        2024,
+        2025
+      ]
+    },
+    "TACOMA DOUBLE CAB S/BOX 2WD": {
+      "years": [
+        2024,
+        2025
+      ]
+    },
+    "TACOMA XTRA CAB L/BOX 2WD": {
+      "years": [
+        2024,
+        2025
+      ]
+    },
+    "TACOMA XTRA CAB L/BOX 4WD": {
+      "years": [
+        2024,
+        2025
       ]
     }
   },
@@ -3207,7 +3363,8 @@
         2020,
         2021,
         2022,
-        2023
+        2023,
+        2024
       ]
     },
     "TUNDRA DOUBLE CAB M/BOX 2WD SR5": {
@@ -3299,7 +3456,8 @@
         2020,
         2021,
         2022,
-        2023
+        2023,
+        2024
       ]
     },
     "TUNDRA DOUBLE CAB M/BOX 4WD": {
@@ -3307,25 +3465,29 @@
         2020,
         2021,
         2022,
-        2023
+        2023,
+        2024
       ]
     },
     "TUNDRA CREWMAX L/BOX 4WD": {
       "years": [
         2022,
-        2023
+        2023,
+        2024
       ]
     },
     "TUNDRA CREWMAX M/BOX 4WD": {
       "years": [
         2022,
-        2023
+        2023,
+        2024
       ]
     },
     "TUNDRA DOUBLE CAB M/BOX 2WD": {
       "years": [
         2022,
-        2023
+        2023,
+        2024
       ]
     }
   },
@@ -3409,7 +3571,9 @@
     "VENZA 4DR SUV": {
       "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -3507,16 +3671,26 @@
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
   "Yaris iA": {},
   "bZ4X": {
-    "bZ4X EV 4DR SUV": {
+    "bZ4X L/LE EV 4DR SUV": {
       "years": [
         2022,
-        2023
+        2023,
+        2024
+      ]
+    },
+    "bZ4X XLE AWD EV 4DR SUV": {
+      "years": [
+        2022,
+        2023,
+        2024
       ]
     }
   }

@@ -440,6 +440,12 @@
       "years": [
         1999
       ]
+    },
+    "SLK300/350 2DR COVERTIBLE RWD": {
+      "years": [
+        2010,
+        2011
+      ]
     }
   },
   "350": {
@@ -533,12 +539,6 @@
         2007
       ]
     },
-    "SLK300/350 2DR COVERTIBLE RWD": {
-      "years": [
-        2010,
-        2011
-      ]
-    },
     "GLE COUPE 350D / 450AMG 4MATIC": {
       "years": [
         2016
@@ -548,7 +548,9 @@
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -893,7 +895,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     }
   },
@@ -1001,7 +1004,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "A-CLASS 4MATIC 5DR HATCH": {
@@ -1018,14 +1023,18 @@
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "A-CLASS AMG A 35 5DR HATCH": {
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -1212,8 +1221,7 @@
         2018,
         2019,
         2020,
-        2021,
-        2022
+        2021
       ]
     },
     "C CLASS C 450 AMG 4MATIC 4DR SEDAN": {
@@ -1251,8 +1259,7 @@
         2018,
         2019,
         2020,
-        2021,
-        2022
+        2021
       ]
     },
     "C CLASS C300 4MATIC 2DR CONVERTIBLE": {
@@ -1262,7 +1269,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "C CLASS C300 4MATIC 2DR COUPE": {
@@ -1272,7 +1281,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "C CLASS C43 4MATIC 2DR CONVERTIBLE": {
@@ -1282,7 +1293,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "C CLASS C43 4MATIC 2DR COUPE": {
@@ -1292,7 +1304,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "C CLASS C 300 4MATIC 4DR WAGON": {
@@ -1301,7 +1314,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "C CLASS AMG C 63 S 2DR CONVERTIBLE": {
@@ -1309,7 +1323,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "C CLASS AMG C 63 S 2DR COUPE": {
@@ -1317,7 +1332,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "C CLASS C 43 AMG 4MATIC 4DR WAGON": {
@@ -1325,7 +1341,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "C CLASS C 63 / C 63 S AMG 4DR SEDAN": {
@@ -1334,6 +1351,28 @@
         2020,
         2021,
         2022
+      ]
+    },
+    "C CLASS C300 4MATIC 4DR SEDAN": {
+      "years": [
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "C CLASS AMG C43 4MATIC 2DR CONVERTIBLE": {
+      "years": [
+        2024
+      ]
+    },
+    "C CLASS AMG C43 4MATIC 2DR COUPE": {
+      "years": [
+        2024
+      ]
+    },
+    "C CLASS AMG C43 4MATIC 4DR SEDAN": {
+      "years": [
+        2024
       ]
     }
   },
@@ -1445,24 +1484,31 @@
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "CLA CLASS AMG CLA 35 4DR COUPE": {
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "CLA CLASS AMG CLA 45 4DR COUPE": {
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
+  "CLE": {},
   "CLK-Class": {},
   "CLS-Class": {
     "CLS-CLASS CLS550 4DR COUPE RWD": {
@@ -1756,7 +1802,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "E CLASS AMG E63 S 4DR SEDAN": {
@@ -1779,7 +1826,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "E CLASS AMG E 53 4MATIC COUPE": {
@@ -1787,7 +1835,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "E CLASS AMG E53 4 MATIC 4DR WAGON": {
@@ -1795,7 +1845,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "E CLASS AMG E53 4MATIC 4DR SEDAN": {
@@ -1803,7 +1854,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "E CLASS E450 4MATIC 4DR SEDAN": {
@@ -1811,7 +1863,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "E CLASS E450 4MATIC 4DR WAGON": {
@@ -1819,7 +1872,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "E CLASS E450 4MATIC CABRIOLET": {
@@ -1827,7 +1881,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "E CLASS E450 4MATIC COUPE": {
@@ -1835,25 +1891,88 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "E CLASS AMG E63S 4MATIC 4DR SEDAN": {
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "E CLASS E350 4MATIC 4DR SEDAN": {
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024,
+        2024
+      ]
+    },
+    "EQE CLASS 300 / 350 4DR SEDAN": {
+      "years": [
+        2023
+      ]
+    },
+    "EQE CLASS 350 4MATIC 4DR SUV": {
+      "years": [
+        2023,
+        2024
+      ]
+    },
+    "EQE CLASS AMG 53 4MATIC 4DR SEDAN": {
+      "years": [
+        2023
+      ]
+    },
+    "EQE CLASS 350 4MATIC 4DR SEDAN": {
+      "years": [
+        2024
+      ]
+    },
+    "EQE CLASS 500 4MATIC 4DR SEDAN": {
+      "years": [
+        2024
+      ]
+    },
+    "EQE CLASS 500 4MATIC 4DR SUV": {
+      "years": [
+        2024
+      ]
+    },
+    "EQE CLASS AMG 4DR SEDAN": {
+      "years": [
+        2024
+      ]
+    },
+    "EQE CLASS AMG 4MATIC 4DR SUV": {
+      "years": [
+        2024
       ]
     }
   },
-  "EQB-Class": {},
+  "EQB-Class": {
+    "EQB CLASS 4DR SUV": {
+      "years": [
+        2023
+      ]
+    },
+    "EQB CLASS 250 4DR SUV": {
+      "years": [
+        2024
+      ]
+    },
+    "EQB CLASS 350 4MATIC 4DR SUV": {
+      "years": [
+        2024
+      ]
+    }
+  },
   "EQE-Class SUV": {},
   "EQE-Class Sedan": {},
   "EQS-Class SUV": {},
@@ -1899,7 +2018,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "G-CLASS 63 AMG 4DR SUV": {
@@ -1907,7 +2028,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -1958,8 +2081,7 @@
     },
     "GL CLASS GL350 BLUETEC/GL450/GL550 4MATIC 4DR": {
       "years": [
-        2014,
-        2015
+        2014
       ]
     },
     "GL CLASS GL 63 AMG 4DR SUV AWD": {
@@ -1970,6 +2092,7 @@
     },
     "GL CLASS GL350 BLUETEC/GL450/GL550 4MATIC 4DR SUV": {
       "years": [
+        2015,
         2016
       ]
     }
@@ -1984,7 +2107,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "GLA CLASS GLA 45 AMG 4MATIC 4DR SUV AWD": {
@@ -1999,13 +2124,16 @@
     "GLA CLASS AMG 35 4MATIC 4DR SUV AWD": {
       "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "GLA CLASS AMG 45 4MATIC 4DR SUV AWD": {
       "years": [
         2021,
-        2022
+        2022,
+        2023
       ]
     }
   },
@@ -2018,13 +2146,17 @@
     "GLB CLASS 250 4MATIC 4DR SUV": {
       "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "GLB CLASS AMG 35 4DR SUV": {
       "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -2037,7 +2169,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "GLC CLASS 300 4MATIC COUPE": {
@@ -2047,7 +2181,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "GLC CLASS 43 4MATIC 4DR SUV": {
@@ -2083,7 +2218,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "GLC CLASS 63 S AMG 4MATIC 4DR SUV": {
@@ -2100,6 +2236,23 @@
         2020,
         2021,
         2022
+      ]
+    },
+    "GLC CLASS 300e 4MATIC 4DR SUV": {
+      "years": [
+        2023
+      ]
+    },
+    "GLC CLASS 300 4MATIC COUPE 4DR SUV": {
+      "years": [
+        2024,
+        2025
+      ]
+    },
+    "GLC CLASS AMG 43 4MATIC COUPE 4DR SUV": {
+      "years": [
+        2024,
+        2025
       ]
     }
   },
@@ -2206,7 +2359,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "GLS CLASS GLS 550 4MATIC 4DR SUV": {
@@ -2216,11 +2371,36 @@
         2019
       ]
     },
+    "AMG GLS CLASS GLS 63 4MATIC 4DR SUV": {
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "MAYBACH GLS CLASS GLS 600 4MATIC 4DR SUV": {
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    },
     "GLS CLASS GLS 580 4MATIC 4DR SUV": {
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "GLS CLASS AMG 63 4MATIC 4DR SUV": {
+      "years": [
+        2024
       ]
     }
   },
@@ -2336,7 +2516,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "METRIS PASSENGER VAN": {
@@ -2347,7 +2529,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -2596,7 +2780,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "S CLASS S65 AMG 2DR COUPE": {
@@ -2630,7 +2816,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "S CLASS S65 AMG CABRIOLET": {
@@ -2666,7 +2854,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "S CLASS S560 CABRIOLET": {
@@ -2674,19 +2864,24 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "S CLASS S500 4MATIC 4DR SEDAN SWB": {
       "years": [
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "S CLASS S580 4MATIC 4DR SEDAN LWB": {
       "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "EQS CLASS EV 4DR SEDAN": {
@@ -2700,9 +2895,45 @@
         2023
       ]
     },
-    "S CLASS 4MATIC 4DR SEDAN SWB": {
+    "EQS CLASS 450 4MATIC 4DR SUV": {
       "years": [
-        2023
+        2023,
+        2024
+      ]
+    },
+    "EQS CLASS 450 4DR SEDAN": {
+      "years": [
+        2024
+      ]
+    },
+    "EQS CLASS 580 4DR SEDAN": {
+      "years": [
+        2024
+      ]
+    },
+    "EQS CLASS 580 4MATIC 4DR SUV": {
+      "years": [
+        2024
+      ]
+    },
+    "EQS CLASS AMG 4DR SEDAN": {
+      "years": [
+        2024
+      ]
+    },
+    "EQS CLASS MAYBACH 4DR SUV": {
+      "years": [
+        2024
+      ]
+    },
+    "S CLASS S500 4MATIC 4DR SEDAN LWB": {
+      "years": [
+        2024
+      ]
+    },
+    "S CLASS S580e 4MATIC 4DR SEDAN LWB": {
+      "years": [
+        2024
       ]
     }
   },
@@ -2793,7 +3024,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SLC CLASS SLC 43 AMG 2DR CONVERTIBLE": {
@@ -2803,7 +3036,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -3065,43 +3300,9 @@
         2018
       ]
     },
-    "SPRINTER 2500 CARGO VAN 4X4 144-IN WB STANDAR": {
-      "years": [
-        2015
-      ]
-    },
-    "SPRINTER 2500 CARGO VAN 4X4 170-IN WB EXTRALO": {
-      "years": [
-        2015
-      ]
-    },
-    "SPRINTER 2500 PASSENGER VAN  4X4 144-IN WB HI": {
-      "years": [
-        2015
-      ]
-    },
-    "SPRINTER 2500 PASSENGER VAN 4X4 144-IN WB STA": {
-      "years": [
-        2015
-      ]
-    },
-    "SPRINTER 2500 PASSENGER VAN 4X4 170-IN WB HIG": {
-      "years": [
-        2015
-      ]
-    },
-    "SPRINTER 3500 CARGO VAN 4X4 144-IN WB HIGH RO": {
-      "years": [
-        2015
-      ]
-    },
-    "SPRINTER 3500 CARGO VAN 4X4 170-IN WB EXTRALO": {
-      "years": [
-        2015
-      ]
-    },
     "SPRINTER 2500 CARGO VAN 4X4 144-IN WB STANDARD RO": {
       "years": [
+        2015,
         2016,
         2017,
         2018
@@ -3109,6 +3310,7 @@
     },
     "SPRINTER 2500 CARGO VAN 4X4 170-IN WB EXTRALONG H": {
       "years": [
+        2015,
         2016,
         2017,
         2018
@@ -3116,6 +3318,7 @@
     },
     "SPRINTER 2500 PASSENGER VAN  4X4 144-IN WB HIGH RO": {
       "years": [
+        2015,
         2016,
         2017,
         2018
@@ -3123,6 +3326,7 @@
     },
     "SPRINTER 2500 PASSENGER VAN 4X4 144-IN WB STANDAR": {
       "years": [
+        2015,
         2016,
         2017,
         2018
@@ -3130,6 +3334,7 @@
     },
     "SPRINTER 2500 PASSENGER VAN 4X4 170-IN WB HIGH RO": {
       "years": [
+        2015,
         2016,
         2017,
         2018
@@ -3137,6 +3342,7 @@
     },
     "SPRINTER 3500 CARGO VAN 4X4 144-IN WB HIGH ROOF": {
       "years": [
+        2015,
         2016,
         2017,
         2018
@@ -3144,6 +3350,7 @@
     },
     "SPRINTER 3500 CARGO VAN 4X4 170-IN WB EXTRALONG H": {
       "years": [
+        2015,
         2016,
         2017,
         2018
@@ -3154,7 +3361,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 1500 CARGO 144-IN WB STANDARD ROOF": {
@@ -3162,7 +3371,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 1500 PASSENGER 144-IN WB HIGH ROOF": {
@@ -3170,7 +3381,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 2500 CARGO 144-IN WB HIGH ROOF": {
@@ -3178,7 +3391,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 2500 CARGO 144-IN WB HIGH ROOF 4WD": {
@@ -3186,7 +3401,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 2500 CARGO 144-IN WB STANDARD ROOF": {
@@ -3194,7 +3411,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 2500 CARGO 144-IN WB STANDARD ROOF 4WD": {
@@ -3202,7 +3421,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 2500 CARGO 170-IN WB HIGH ROOF": {
@@ -3210,7 +3431,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 2500 CARGO 170-IN WB HIGH ROOF 4WD": {
@@ -3218,7 +3441,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 2500 CREW 144-IN WB HIGH ROOF": {
@@ -3226,7 +3451,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 2500 CREW 170-IN WB HIGH ROOF": {
@@ -3234,7 +3461,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 2500 EXT CARGO 170-IN WB HIGH ROOF": {
@@ -3242,7 +3471,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 2500 EXT CARGO 170-IN WB HIGH ROOF 4WD": {
@@ -3250,7 +3481,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 2500 PASSENGER 144-IN WB HIGH ROOF": {
@@ -3258,7 +3491,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 2500 PASSENGER 144-IN WB HIGH ROOF 4WD": {
@@ -3266,7 +3501,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 2500 PASSENGER 170-IN WB HIGH ROOF": {
@@ -3274,7 +3511,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 3500 CARGO 144-IN WB HIGH ROOF": {
@@ -3282,7 +3521,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 3500 CARGO 170-IN WB HIGH ROOF": {
@@ -3290,7 +3531,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 3500 CREW 144-IN WB HIGH ROOF": {
@@ -3298,7 +3541,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 3500 CREW 170-IN WB HIGH ROOF": {
@@ -3306,7 +3551,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 3500 EXT CARGO 170-IN WB HIGH ROOF": {
@@ -3314,7 +3561,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 3500XD CARGO 144-IN WB HIGH ROOF": {
@@ -3322,7 +3571,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 3500XD CARGO 144-IN WB HIGH ROOF 4WD": {
@@ -3330,7 +3581,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 3500XD CARGO 144-IN WB STANDARD ROOF": {
@@ -3338,7 +3591,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 3500XD CARGO 144-IN WB STANDARD ROOF 4WD": {
@@ -3346,7 +3601,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 3500XD CARGO 170-IN WB HIGH ROOF": {
@@ -3354,7 +3611,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 3500XD CARGO 170-IN WB HIGH ROOF 4WD": {
@@ -3362,7 +3621,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 3500XD CREW 144-IN WB HIGH ROOF": {
@@ -3370,7 +3631,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 3500XD CREW 170-IN WB HIGH ROOF": {
@@ -3378,7 +3641,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 3500XD EXT CARGO 170-IN WB HIGH ROOF": {
@@ -3386,7 +3651,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 3500XD EXT CARGO 170-IN WB HIGH ROOF 4WD": {
@@ -3394,7 +3661,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 4500 CARGO 144-IN WB HIGH ROOF": {
@@ -3402,7 +3671,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 4500 CARGO 144-IN WB STANDARD ROOF": {
@@ -3410,7 +3681,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 4500 CARGO 170-IN WB HIGH ROOF": {
@@ -3418,7 +3691,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 4500 CREW 144-IN WB HIGH ROOF": {
@@ -3426,7 +3701,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 4500 CREW 170-IN WB HIGH ROOF": {
@@ -3434,7 +3711,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "SPRINTER 4500 EXT CARGO 170-IN WB HIGH ROOF": {
@@ -3442,8 +3721,11 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
-  }
+  },
+  "eSprinter": {}
 }

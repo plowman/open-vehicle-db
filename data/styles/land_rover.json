@@ -18,23 +18,47 @@
     },
     "DEFENDER 110 5 SEAT": {
       "years": [
-        2020,
-        2021,
-        2022
+        2020
       ]
     },
     "DEFENDER 110 5+2 SEAT": {
       "years": [
-        2020,
-        2021,
-        2022
+        2020
       ]
     },
     "DEFENDER 90": {
       "years": [
-        2020,
+        2020
+      ]
+    },
+    "DEFENDER 110 5 SEAT 4DR SUV": {
+      "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "DEFENDER 110 5+2 SEAT 4DR SUV": {
+      "years": [
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "DEFENDER 90 4DR SUV": {
+      "years": [
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "DEFENDER 130 4DR SUV": {
+      "years": [
+        2023,
+        2024
       ]
     }
   },
@@ -75,9 +99,22 @@
         2017,
         2018,
         2019,
-        2020,
+        2020
+      ]
+    },
+    "DISCOVERY 4DR SUV": {
+      "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "DISCOVERY MHEV 4DR SUV": {
+      "years": [
+        2024,
+        2025
       ]
     }
   },
@@ -94,13 +131,25 @@
     "DISCOVERY SPORT 5 SEAT": {
       "years": [
         2020,
-        2021,
-        2022
+        2023,
+        2024
       ]
     },
     "DISCOVERY SPORT 7 SEAT": {
       "years": [
         2020,
+        2023,
+        2024
+      ]
+    },
+    "DISCOVERY SPORT 5 SEAT 4DR SUV": {
+      "years": [
+        2021,
+        2022
+      ]
+    },
+    "DISCOVERY SPORT 7 SEAT 4DR SUV": {
+      "years": [
         2021,
         2022
       ]
@@ -330,11 +379,15 @@
     },
     "RANGE ROVER LWB SUPERCHARGED/AUTOBIOGRAPHY4DR": {
       "years": [
-        2014,
+        2014
+      ]
+    },
+    "RANGE ROVER LWB SUPERCHARGED/AUTOBIOGRAPHY4DR SUV": {
+      "years": [
         2015
       ]
     },
-    "RANGE ROVER SWB HSE/SUPERCHARGED/AUTOBIOGRAPH": {
+    "RANGE ROVER SWB HSE/SUPERCHARGED/AUTOBIOGRAPHY4DR SUV": {
       "years": [
         2015
       ]
@@ -381,13 +434,26 @@
     "RANGE ROVER 4DR SUV EWB": {
       "years": [
         2022,
-        2023
+        2023,
+        2024
       ]
     },
     "RANGE ROVER 4DR SUV SWB": {
       "years": [
         2022,
-        2023
+        2023,
+        2024
+      ]
+    },
+    "RANGE ROVER 4DR SUV EWB 7 SEAT": {
+      "years": [
+        2024
+      ]
+    },
+    "RANGE ROVER MHEV VELAR 4DR SUV": {
+      "years": [
+        2024,
+        2025
       ]
     }
   },
@@ -414,13 +480,21 @@
     },
     "RANGE ROVER EVOQUE 4DR SUV PURE/PRESTIGE/DYNA": {
       "years": [
-        2014,
-        2015
+        2014
       ]
     },
     "RANGE ROVER EVOQUE COUPE 3DR SUV PURE/PRESTIG": {
       "years": [
-        2014,
+        2014
+      ]
+    },
+    "RANGE ROVER EVOQUE 4DR SUV PURE/PRESTIGE/DYNAMIC/AUTOBIOGRAPHY": {
+      "years": [
+        2015
+      ]
+    },
+    "RANGE ROVER EVOQUE COUPE 3DR SUV PURE/PRESTIGE/DYNAMIC/AUTOBIOGRAPHY": {
+      "years": [
         2015
       ]
     },
@@ -432,7 +506,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "RANGE ROVER EVOQUE COUPE 3DR SUV": {
@@ -524,6 +600,22 @@
         2021,
         2022
       ]
+    },
+    "RANGE ROVER SPORT MHEV 4DR SUV": {
+      "years": [
+        2023
+      ]
+    },
+    "RANGE ROVER SPORT PHEV 4DR SUV": {
+      "years": [
+        2023
+      ]
+    },
+    "RANGE ROVER SPORT 4DR SUV": {
+      "years": [
+        2024,
+        2025
+      ]
     }
   },
   "Range Rover Velar": {
@@ -533,7 +625,10 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024,
+        2025
       ]
     }
   }

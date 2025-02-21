@@ -152,9 +152,15 @@
         2001
       ]
     },
-    "ACURA INTEGRA": {
+    "INTEGRA 5DR SEDAN": {
       "years": [
-        2023
+        2023,
+        2024
+      ]
+    },
+    "INTEGRA TYPE S 5DR SEDAN": {
+      "years": [
+        2024
       ]
     }
   },
@@ -246,15 +252,15 @@
         2020,
         2021,
         2022,
-        2023
+        2023,
+        2024
       ]
-    }
-  },
-  "MDX Type S": {
+    },
     "MDX TYPE S 4DR SUV AWD": {
       "years": [
         2022,
-        2023
+        2023,
+        2024
       ]
     }
   },
@@ -291,9 +297,13 @@
       "years": [
         2005
       ]
+    },
+    "NSX 2DR COUPE": {
+      "years": [
+        2023
+      ]
     }
   },
-  "NSX Type S": {},
   "RDX": {
     "RDX 4DR SUV AWD /TECHNOLOGY": {
       "years": [
@@ -327,8 +337,21 @@
       "years": [
         2019,
         2020,
-        2021,
-        2022
+        2021
+      ]
+    },
+    "RDX A-SPEC 4DR SUV": {
+      "years": [
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "RDX BASE/TECH 4DR SUV": {
+      "years": [
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -529,7 +552,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "TLX 4DR SEDAN SH-AWD": {
@@ -544,11 +568,21 @@
     "TLX 4DR SEDAN AWD": {
       "years": [
         2021,
-        2022
+        2022,
+        2023
+      ]
+    },
+    "TLX 4DR SEDAN": {
+      "years": [
+        2024
+      ]
+    },
+    "TLX TYPE S 4DR SEDAN": {
+      "years": [
+        2024
       ]
     }
   },
-  "TLX TYPE S": {},
   "TSX": {
     "TSX 4DR SEDAN FWD": {
       "years": [
@@ -606,6 +640,24 @@
     "ZDX 4DR SUV AWD/TECH ELITE": {
       "years": [
         2013
+      ]
+    },
+    "ZDX 4DR SUV A-SPEC AWD": {
+      "years": [
+        2024,
+        2025
+      ]
+    },
+    "ZDX 4DR SUV A-SPEC RWD": {
+      "years": [
+        2024,
+        2025
+      ]
+    },
+    "ZDX 4DR SUV TYPE S AWD": {
+      "years": [
+        2024,
+        2025
       ]
     }
   }

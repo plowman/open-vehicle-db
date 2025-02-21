@@ -417,7 +417,9 @@
       "years": [
         2014,
         2015,
-        2017
+        2017,
+        2023,
+        2024
       ]
     },
     "ACCORD LX/SPORT/EX-L/TOURING 4DR SEDAN": {
@@ -435,7 +437,6 @@
       "years": [
         2015,
         2016,
-        2017,
         2017
       ]
     },
@@ -443,7 +444,6 @@
       "years": [
         2015,
         2016,
-        2017,
         2017
       ]
     },
@@ -513,35 +513,15 @@
         2019,
         2020
       ]
+    },
+    "ACCORD BASE 4DR SEDAN": {
+      "years": [
+        2023,
+        2024
+      ]
     }
   },
   "Accord Crosstour": {},
-  "CIVIC SI": {
-    "CIVIC SI HATCHBACK": {
-      "years": [
-        1989,
-        1990,
-        1991
-      ]
-    },
-    "CIVIC Si HATCHBACK": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "CIVIC SIR HATCHBACK 3DR HATCH FWD": {
-      "years": [
-        2002,
-        2003
-      ]
-    },
-    "CIVIC SIR 3DR HATCH FWD": {
-      "years": [
-        2004
-      ]
-    }
-  },
   "CR-V": {
     "CR-V 4DR SUV": {
       "years": [
@@ -629,7 +609,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "CR-V 4DR SUV FWD": {
@@ -639,7 +621,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -1232,35 +1216,67 @@
         2021
       ]
     },
-    "CIVIC TYPE R 5DR HATCH": {
-      "years": [
-        2019,
-        2020,
-        2021
-      ]
-    },
     "CIVIC 1.5L 4DR SEDAN": {
       "years": [
         2022,
-        2023
+        2023,
+        2024
       ]
     },
     "CIVIC 1.5L 5DR HATCH": {
       "years": [
         2022,
-        2023
+        2023,
+        2024
       ]
     },
     "CIVIC 2.0L 4DR SEDAN": {
       "years": [
         2022,
-        2023
+        2023,
+        2024
       ]
     },
     "CIVIC 2.0L 5DR HATCH": {
       "years": [
         2022,
-        2023
+        2023,
+        2024
+      ]
+    }
+  },
+  "Civic Si": {
+    "CIVIC SI HATCHBACK": {
+      "years": [
+        1989,
+        1990,
+        1991
+      ]
+    },
+    "CIVIC Si HATCHBACK": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
+    "CIVIC SIR HATCHBACK 3DR HATCH FWD": {
+      "years": [
+        2002,
+        2003
+      ]
+    },
+    "CIVIC SIR 3DR HATCH FWD": {
+      "years": [
+        2004
+      ]
+    }
+  },
+  "Civic Type R": {
+    "CIVIC TYPE R 5DR HATCH": {
+      "years": [
+        2019,
+        2020,
+        2021
       ]
     }
   },
@@ -1424,7 +1440,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "HR-V 4DR SUV FWD": {
@@ -1432,7 +1450,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -1553,8 +1573,7 @@
     },
     "ODYSSEY 4DR MINIVAN EX-L RES/EX-L NAVI/TOURIN": {
       "years": [
-        2014,
-        2015
+        2014
       ]
     },
     "ODYSSEY 4DR MINIVAN LX/SE/EX/EX RES": {
@@ -1567,6 +1586,7 @@
     },
     "ODYSSEY 4DR MINIVAN EX-L RES/EX-L NAVI/TOURING": {
       "years": [
+        2015,
         2016,
         2017
       ]
@@ -1588,7 +1608,9 @@
     "ODYSSEY MINIVAN": {
       "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -1598,7 +1620,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -1646,7 +1670,7 @@
         2015
       ]
     },
-    "PILOT 4DR SUV AWD LX/SPECIAL EDITION/EX-L RES": {
+    "PILOT 4DR SUV AWD LX/SPECIAL EDITION/EX-L RES/TOURING": {
       "years": [
         2015
       ]
@@ -1671,6 +1695,24 @@
         2020,
         2021,
         2022
+      ]
+    },
+    "PILOT SPORT /EX-L 4DR SUV": {
+      "years": [
+        2023,
+        2024
+      ]
+    },
+    "PILOT TOURING / BLACK EDITION 4DR SUV": {
+      "years": [
+        2023,
+        2024
+      ]
+    },
+    "PILOT TRAILSPORT 4DR SUV": {
+      "years": [
+        2023,
+        2024
       ]
     }
   },
@@ -1776,6 +1818,20 @@
       ]
     }
   },
+  "Prologue": {
+    "PROLOGUE 4DR SUV AWD": {
+      "years": [
+        2024,
+        2025
+      ]
+    },
+    "PROLOGUE 4DR SUV FWD": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
   "Ridgeline": {
     "RIDGELINE PICKUP": {
       "years": [
@@ -1809,7 +1865,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },

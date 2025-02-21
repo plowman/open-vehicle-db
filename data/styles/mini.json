@@ -40,7 +40,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "CLUBMAN COOPER S": {
@@ -56,7 +58,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -245,7 +249,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "3 DOOR COOPER S HATCH FWD": {
@@ -257,7 +263,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "3 DOOR JOHN COOPER WORKS HATCH FWD": {
@@ -269,7 +277,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "5 DOOR COOPER HATCH FWD": {
@@ -281,7 +291,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "5 DOOR COOPER S HATCH FWD": {
@@ -293,30 +305,9 @@
         2019,
         2020,
         2021,
-        2022
-      ]
-    },
-    "CONVERTIBLE COOPER 2DR FWD": {
-      "years": [
-        2015,
-        2016,
-        2017,
-        2018,
-        2019,
-        2020,
-        2021,
-        2022
-      ]
-    },
-    "CONVERTIBLE COOPER S 2DR FWD": {
-      "years": [
-        2015,
-        2016
-      ]
-    },
-    "CONVERTIBLE JOHN COOPER WORKS 2DR FWD": {
-      "years": [
-        2015
+        2022,
+        2023,
+        2024
       ]
     },
     "COUPE COOPER S 2DR COUPE": {
@@ -341,6 +332,31 @@
         2015
       ]
     },
+    "CONVERTIBLE COOPER 2DR FWD": {
+      "years": [
+        2015,
+        2016,
+        2017,
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "CONVERTIBLE COOPER S 2DR FWD": {
+      "years": [
+        2015,
+        2016
+      ]
+    },
+    "CONVERTIBLE JOHN COOPER WORKS 2DR FWD": {
+      "years": [
+        2015
+      ]
+    },
     "CONVERTIBLE COOPER S / JOHN COOPER WORKS 2DR FWD": {
       "years": [
         2017,
@@ -348,12 +364,16 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "3 DOOR COOPER ELECTRIC HATCH FWD": {
       "years": [
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -425,7 +445,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "COUNTRYMAN COOPER S / JOHN COOPER WORKS ALL4 4DR SUV": {
@@ -439,7 +461,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "COUNTRYMAN COOPER S E ALL4": {
@@ -451,7 +475,9 @@
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },

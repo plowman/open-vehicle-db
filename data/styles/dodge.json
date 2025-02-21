@@ -499,8 +499,7 @@
     },
     "CHALLENGER 2DR COUPE RWD SXT/SXT PLUS/RALLY R": {
       "years": [
-        2014,
-        2015
+        2014
       ]
     },
     "CHALLENGER 2DR COUPE RWD R/T / R/T CLASSIC": {
@@ -513,6 +512,11 @@
         2015
       ]
     },
+    "CHALLENGER 2DR COUPE RWD SXT/SXT PLUS/RALLY REDLINE": {
+      "years": [
+        2015
+      ]
+    },
     "CHALLENGER 2DR COUPE RWD SRT 392 / HELLCAT": {
       "years": [
         2016,
@@ -521,7 +525,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "CHALLENGER 2DR COUPE RWD V6": {
@@ -532,7 +538,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "CHALLENGER 2DR COUPE RWD V8": {
@@ -543,7 +551,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "CHALLENGER GT 2DR COUPE AWD V6": {
@@ -562,7 +572,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -590,6 +602,11 @@
       ]
     },
     "CHARGER 2 DR HATCHBACK": {
+      "years": [
+        1987
+      ]
+    },
+    "SHELBY TURBO CHARGER 2 DR HATCHBACK": {
       "years": [
         1987
       ]
@@ -689,15 +706,17 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
-    "CHARGER 4DR SEDAN RWD R/T / R/T ROAD AND TRAC": {
+    "CHARGER 4DR SEDAN RWD RT SCAT PACK/SRT392": {
       "years": [
         2015
       ]
     },
-    "CHARGER 4DR SEDAN RWD RT SCAT PACK/SRT392": {
+    "CHARGER 4DR SEDAN RWD R/T / R/T ROAD AND TRACK/": {
       "years": [
         2015
       ]
@@ -710,7 +729,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "CHARGER 4DR SEDAN RWD R/T SCAT PACK/SRT392": {
@@ -721,7 +742,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "CHARGER 4DR SEDAN RWD V6": {
@@ -732,7 +755,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "CHARGER 4DR SEDAN RWD V8": {
@@ -743,7 +768,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -1179,7 +1206,7 @@
         2014
       ]
     },
-    "DART SE/SXT/AERO/BLACKTOP/LIMITED/GT 4DR SEDA": {
+    "DART SE/SXT/AERO/BLACKTOP/LIMITED/GT 4DR SEDAN": {
       "years": [
         2015
       ]
@@ -1310,7 +1337,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "DURANGO 4DR SUV AWD V8": {
@@ -1321,7 +1350,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -1476,7 +1507,20 @@
       ]
     }
   },
-  "HORNET": {},
+  "Hornet": {
+    "HORNET GT 4DR SUV": {
+      "years": [
+        2023,
+        2024
+      ]
+    },
+    "HORNET R/T PHEV 4DR SUV": {
+      "years": [
+        2023,
+        2024
+      ]
+    }
+  },
   "Intrepid": {},
   "Journey": {
     "JOURNEY 4DR CUV AWD SXT/RT": {
@@ -3354,7 +3398,14 @@
     }
   },
   "Royal Mini Ram Van": {},
-  "SHADOW": {
+  "ST.REGIS": {
+    "ST. REGIS": {
+      "years": [
+        1981
+      ]
+    }
+  },
+  "Shadow": {
     "SHADOW 2 DR HATCHBACK": {
       "years": [
         1987
@@ -3441,25 +3492,13 @@
       ]
     }
   },
-  "SHELBY": {
+  "Shelby Charger": {
     "SHELBY CHARGER": {
       "years": [
         1983,
         1984,
         1985,
         1986
-      ]
-    },
-    "SHELBY TURBO CHARGER 2 DR HATCHBACK": {
-      "years": [
-        1987
-      ]
-    }
-  },
-  "ST.REGIS": {
-    "ST. REGIS": {
-      "years": [
-        1981
       ]
     }
   },

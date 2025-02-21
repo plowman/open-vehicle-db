@@ -130,20 +130,32 @@
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "BENTAYGA V8 4DR SUV": {
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "BENTAYGA SPEED 4DR SUV": {
       "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "BENTAYGA V8 EWB 4DR SUV": {
+      "years": [
+        2024,
+        2025
       ]
     }
   },
@@ -180,6 +192,22 @@
     }
   },
   "Continental": {
+    "CORNICHE/BENTLEY CONTINENTAL CONVERTIBLE": {
+      "years": [
+        1990
+      ]
+    },
+    "CORNICHE/CONTINENTAL CONVERTIBLE": {
+      "years": [
+        1991
+      ]
+    },
+    "CORNICHE IV/CONTINENTAL CONVERTIBLE": {
+      "years": [
+        1992,
+        1993
+      ]
+    },
     "BENTLEY CONTINENTAL R 2DR COUPE": {
       "years": [
         1995,
@@ -311,18 +339,17 @@
     },
     "CONTINENTAL 2DR CONV AWD GTC/GTC V-8/GTC SPEE": {
       "years": [
-        2014,
-        2015
+        2014
       ]
     },
     "CONTINENTAL 2DR COUPE AWD GT/GT V-8/GT SPEED/": {
       "years": [
-        2014,
-        2015
+        2014
       ]
     },
     "CONTINENTAL 2DR CONV AWD GTC/GTC V-8/GTC SPEED/GTC V-8S": {
       "years": [
+        2015,
         2016,
         2017,
         2018,
@@ -331,6 +358,7 @@
     },
     "CONTINENTAL 2DR COUPE AWD GT/GT V-8/GT SPEED/GT V-8S": {
       "years": [
+        2015,
         2016,
         2017
       ]
@@ -364,54 +392,33 @@
     "CONTINENTAL GT": {
       "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "CONTINENTAL GT CONVERTIBLE": {
       "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "CONTINENTAL GT V8": {
       "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "CONTINENTAL GT V8 CONVERTIBLE": {
       "years": [
         2021,
-        2022
-      ]
-    }
-  },
-  "Corniche": {
-    "CORNICHE": {
-      "years": [
-        1984
-      ]
-    },
-    "CORNICHE/BENTLEY CONTINENTAL CONVERTIBLE": {
-      "years": [
-        1990
-      ]
-    },
-    "CORNICHE/CONTINENTAL CONVERTIBLE": {
-      "years": [
-        1991
-      ]
-    },
-    "CORNICHE IV/CONTINENTAL CONVERTIBLE": {
-      "years": [
-        1992,
-        1993
-      ]
-    },
-    "CORNICHE IV 2DR CONVERTIBLE": {
-      "years": [
-        1994,
-        1995
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -425,13 +432,17 @@
     "FLYING SPUR 4DR SEDAN AWD": {
       "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "FLYING SPUR V8 4DR SEDAN AWD": {
       "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },

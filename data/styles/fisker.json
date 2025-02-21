@@ -12,5 +12,12 @@
     }
   },
   "Nina": {},
-  "Ocean": {}
+  "Ocean": {
+    "OCEAN 4DR SUV": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  }
 }

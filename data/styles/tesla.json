@@ -1,4 +1,18 @@
 {
+  "Cybertruck": {
+    "CYBERTRUCK 4DR PICKUP AWD": {
+      "years": [
+        2024,
+        2025
+      ]
+    },
+    "CYBERTRUCK 4DR PICKUP CYBERBEAST": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
   "Model 3": {
     "MODEL 3 4DR SEDAN LONG RANGE": {
       "years": [
@@ -11,7 +25,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "MODEL 3 4DR SEDAN LONG RANGE AWD": {
@@ -19,7 +34,10 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024,
+        2025
       ]
     },
     "MODEL 3 4DR SEDAN LONG RANGE RWD": {
@@ -27,7 +45,8 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     },
     "MODEL 3 4DR SEDAN MID RANGE": {
@@ -35,7 +54,14 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
+      ]
+    },
+    "MODEL 3 4DR SEDAN RWD": {
+      "years": [
+        2024,
+        2025
       ]
     }
   },
@@ -102,7 +128,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "MODEL S 4DR SEDAN RWD": {
@@ -125,7 +153,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -133,13 +163,17 @@
     "MODEL Y 4DR SUV AWD": {
       "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "MODEL Y 4DR SUV RWD": {
       "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },

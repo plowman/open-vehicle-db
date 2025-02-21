@@ -205,6 +205,11 @@
     }
   },
   "SC1": {
+    "SATURN SC1/SC2 2DR COUPE": {
+      "years": [
+        1993
+      ]
+    },
     "SC1 2DR COUPE": {
       "years": [
         1994,
@@ -232,11 +237,6 @@
     }
   },
   "SC2": {
-    "SATURN SC1/SC2 2DR COUPE": {
-      "years": [
-        1993
-      ]
-    },
     "SC2 2DR COUPE SPORT (HIDDEN HEADLIGHTS)": {
       "years": [
         1994,
@@ -310,11 +310,6 @@
   },
   "SL3": {},
   "SW1": {
-    "SATURN SW1/SW2 4DR WAGON": {
-      "years": [
-        1993
-      ]
-    },
     "SW1 4DR WAGON": {
       "years": [
         1994,
@@ -327,6 +322,11 @@
     }
   },
   "SW2": {
+    "SATURN SW1/SW2 4DR WAGON": {
+      "years": [
+        1993
+      ]
+    },
     "SW2 4DR WAGON SPORT": {
       "years": [
         1994,

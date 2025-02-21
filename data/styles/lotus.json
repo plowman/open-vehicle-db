@@ -1,6 +1,14 @@
 {
   "2-Eleven": {},
   "340R": {},
+  "ELETRE": {
+    "ELETRE 4DR HATCH": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
   "Eagle": {},
   "Eclat": {
     "ECLAT": {
@@ -52,6 +60,14 @@
       "years": [
         1981,
         1982
+      ]
+    }
+  },
+  "Emira": {
+    "EMIRA 2DR COUPE": {
+      "years": [
+        2023,
+        2024
       ]
     }
   },

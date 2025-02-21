@@ -1,6 +1,5 @@
 {
-  "3000 GT": {},
-  "3000 GT Spyder": {},
+  "3000GT": {},
   "Cordia": {},
   "Diamante": {
     "DIAMANTE ES": {
@@ -19,20 +18,13 @@
       ]
     }
   },
-  "ECLIPSE CROSS": {
-    "ECLIPSE CROSS 4DR SUV": {
-      "years": [
-        2018,
-        2019,
-        2020,
-        2021,
-        2022,
-        2023
-      ]
-    }
-  },
   "Eclipse": {
     "ECLIPSE RS MT/GS MT/GT MT": {
+      "years": [
+        2002
+      ]
+    },
+    "ECLIPSE SPYDER GS MT/GT MT": {
       "years": [
         2002
       ]
@@ -49,41 +41,6 @@
         2003,
         2004,
         2005
-      ]
-    },
-    "ECLIPSE COUPE 2DR COUPE GS": {
-      "years": [
-        2006
-      ]
-    },
-    "ECLIPSE COUPE 2DR COUPE GT": {
-      "years": [
-        2006
-      ]
-    },
-    "ECLIPSE GS 2DR COUPE": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
-      ]
-    },
-    "ECLIPSE GT-P 2DR COUPE": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011,
-        2012
-      ]
-    }
-  },
-  "Eclipse Spyder": {
-    "ECLIPSE SPYDER GS MT/GT MT": {
-      "years": [
-        2002
       ]
     },
     "ECLIPSE SPYDER 2DR CONV GS": {
@@ -114,6 +71,16 @@
         2005
       ]
     },
+    "ECLIPSE COUPE 2DR COUPE GS": {
+      "years": [
+        2006
+      ]
+    },
+    "ECLIPSE COUPE 2DR COUPE GT": {
+      "years": [
+        2006
+      ]
+    },
     "ECLIPSE SPYDER 2DR CONV GT-P": {
       "years": [
         2007,
@@ -122,6 +89,37 @@
         2010,
         2011,
         2012
+      ]
+    },
+    "ECLIPSE GS 2DR COUPE": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    },
+    "ECLIPSE GT-P 2DR COUPE": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011,
+        2012
+      ]
+    }
+  },
+  "Eclipse Cross": {
+    "ECLIPSE CROSS 4DR SUV": {
+      "years": [
+        2018,
+        2019,
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -427,7 +425,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -585,13 +585,17 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024,
+        2025
       ]
     },
     "OUTLANDER 4DR SUV": {
       "years": [
         2022,
-        2023
+        2023,
+        2024
       ]
     }
   },
@@ -637,7 +641,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     },
     "RVR 4DR SUV ES/SE FWD": {
@@ -647,7 +653,9 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -658,7 +666,6 @@
   "Space Wagon": {},
   "Starion": {},
   "Tredia": {},
-  "Truck": {},
   "Van": {},
   "Wagon": {},
   "i-MiEV": {

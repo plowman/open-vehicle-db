@@ -9,6 +9,74 @@
         2021,
         2022
       ]
+    },
+    "DB11 2DR COUPE": {
+      "years": [
+        2023
+      ]
+    }
+  },
+  "DB12": {
+    "DB12 2DR COUPE": {
+      "years": [
+        2024,
+        2025
+      ]
+    },
+    "DB12 VOLANTE 2DR CONVERTIBLE": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "DB7": {
+    "DB7": {
+      "years": [
+        1996
+      ]
+    },
+    "DB7 2DR COUPE": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "DB7 2DR VOLANTE (CONVERTIBLE)": {
+      "years": [
+        1997,
+        1998,
+        1999,
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "DB7 VANTAGE 2DR COUPE": {
+      "years": [
+        2000,
+        2001,
+        2002
+      ]
+    },
+    "DB7 VANTAGE 2DR VOLANTE (CONVERTIBLE)": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "DB7 VANTAGE 2DR COUPE/GT": {
+      "years": [
+        2003
+      ]
     }
   },
   "DB9": {
@@ -72,7 +140,18 @@
         2019,
         2020,
         2021,
-        2022
+        2022,
+        2023
+      ]
+    },
+    "DBS 2DR COUPE": {
+      "years": [
+        2024
+      ]
+    },
+    "DBS VOLANTE 2DR CONVERTIBLE": {
+      "years": [
+        2024
       ]
     }
   },
@@ -81,7 +160,9 @@
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -141,6 +222,8 @@
       ]
     }
   },
+  "Valiant": {},
+  "Valour": {},
   "Vanquish": {
     "VANQUISH 2DR COUPE RWD": {
       "years": [
@@ -177,26 +260,6 @@
   },
   "Vanquish Zagato": {},
   "Vantage": {
-    "DB7 VANTAGE 2DR COUPE": {
-      "years": [
-        2000,
-        2001,
-        2002
-      ]
-    },
-    "DB7 VANTAGE 2DR VOLANTE (CONVERTIBLE)": {
-      "years": [
-        2000,
-        2001,
-        2002,
-        2003
-      ]
-    },
-    "DB7 VANTAGE 2DR COUPE/GT": {
-      "years": [
-        2003
-      ]
-    },
     "VANTAGE 2DR COUPE RWD V8/V8 S/V12": {
       "years": [
         2011,
@@ -232,6 +295,28 @@
       "years": [
         2021,
         2022
+      ]
+    },
+    "VANTAGE V12": {
+      "years": [
+        2023
+      ]
+    },
+    "VANTAGE V12 ROADSTER": {
+      "years": [
+        2023
+      ]
+    },
+    "VANTAGE V8": {
+      "years": [
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "VANTAGE V8 ROADSTER": {
+      "years": [
+        2023
       ]
     }
   },

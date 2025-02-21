@@ -1,4 +1,23 @@
 {
+  "12Cilindri": {},
+  "12Cilindri Spider": {},
+  "296 GTB": {
+    "296GTB": {
+      "years": [
+        2022,
+        2023,
+        2024
+      ]
+    }
+  },
+  "296 GTS": {
+    "296GTS": {
+      "years": [
+        2023,
+        2024
+      ]
+    }
+  },
   "3.2 Mondial": {},
   "308 Convertible": {},
   "308GTB": {},
@@ -50,8 +69,39 @@
   "355 Berlinetta": {},
   "355 GTS": {},
   "355 Spider": {},
-  "360 Modena/360 Modena F1": {},
-  "360 Spider/360 Spider F1": {},
+  "360 Modena": {
+    "F360 MODENA 2DR COUPE": {
+      "years": [
+        2000,
+        2001,
+        2002,
+        2003
+      ]
+    },
+    "F360 MODENA 2DR COUPE RWD": {
+      "years": [
+        2004,
+        2005
+      ]
+    },
+    "F360 MODENA 2DR COUPE RWD / CHALLENGE STRADAL": {
+      "years": [
+        2004,
+        2005
+      ]
+    }
+  },
+  "360 Spider": {
+    "F360 SPIDER 2DR CONVERTIBLE": {
+      "years": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2005
+      ]
+    }
+  },
   "430 Scuderia": {},
   "430 Scuderia Spider": {},
   "456 GT": {
@@ -159,6 +209,7 @@
     }
   },
   "512 TR": {},
+  "550 Barchetta": {},
   "550 Maranello": {
     "F550 MARANELLO 2DR COUPE": {
       "years": [
@@ -170,7 +221,15 @@
       ]
     }
   },
-  "575 M Maranello/575 M Maranello F1": {},
+  "575 M Maranello": {
+    "575M MARANELLO 2DR COUPE RWD": {
+      "years": [
+        2003,
+        2004,
+        2005
+      ]
+    }
+  },
   "599 GTB": {},
   "599 GTB Fiorano": {
     "599 GTB FIORANO 2DR COUPE RWD": {
@@ -199,6 +258,19 @@
       ]
     }
   },
+  "812 Competizione": {},
+  "812 Competizione A": {},
+  "812 GTS": {
+    "812 GTS": {
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    }
+  },
   "812 Superfast": {
     "812 SUPERFAST": {
       "years": [
@@ -206,15 +278,6 @@
         2019,
         2020,
         2021
-      ]
-    }
-  },
-  "812GTS": {
-    "812 GTS": {
-      "years": [
-        2020,
-        2021,
-        2022
       ]
     }
   },
@@ -236,6 +299,15 @@
         2015,
         2016,
         2017
+      ]
+    }
+  },
+  "Challenge Stradale": {},
+  "Daytona SP3": {
+    "DAYTONA SP3": {
+      "years": [
+        2023,
+        2024
       ]
     }
   },
@@ -341,13 +413,15 @@
       ]
     }
   },
+  "F50": {},
   "F60 America": {},
   "F8 Spider": {
     "F8 SPIDER": {
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     }
   },
@@ -356,7 +430,8 @@
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023
       ]
     }
   },
@@ -407,6 +482,7 @@
     }
   },
   "Mondial T": {},
+  "Monza SP1/SP2": {},
   "Portofino": {
     "PORTOFINO": {
       "years": [
@@ -414,30 +490,59 @@
         2019,
         2020
       ]
-    },
+    }
+  },
+  "Portofino M": {
     "PORTOFINO M": {
       "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
+  "Purosangue": {},
   "Roma": {
     "ROMA": {
       "years": [
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
-  "SF 90 STradale": {
+  "Roma Spider": {
+    "ROMA SPIDER": {
+      "years": [
+        2024,
+        2025
+      ]
+    }
+  },
+  "SF90 Spider": {
+    "SF90 SPIDER": {
+      "years": [
+        2021,
+        2022,
+        2023,
+        2024
+      ]
+    }
+  },
+  "SF90 Stradale": {
     "SF90 STRADALE": {
       "years": [
         2020,
         2021,
-        2022
+        2022,
+        2023,
+        2024
       ]
     }
   },
+  "SF90 XX Spider": {},
+  "SF90 XX Stradale": {},
   "Testarossa": {}
 }

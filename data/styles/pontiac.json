@@ -1213,7 +1213,58 @@
     }
   },
   "Matiz": {},
-  "Montana/ SV6": {
+  "Montana": {
+    "MONTANA": {
+      "years": [
+        2000
+      ]
+    },
+    "MONTANA EXTENDED W/B": {
+      "years": [
+        2000
+      ]
+    },
+    "MONTANA EWB BASE/SE/GT/VISION": {
+      "years": [
+        2001
+      ]
+    },
+    "MONTANA RWB BASE/SE/GT": {
+      "years": [
+        2001
+      ]
+    },
+    "MONTANA EWB BASE/SE/GT/VISION/THUNDER": {
+      "years": [
+        2002
+      ]
+    },
+    "MONTANA SWB BASE/SE/GT": {
+      "years": [
+        2002,
+        2003,
+        2004
+      ]
+    },
+    "MONTANA EWB BASE/SE/GT": {
+      "years": [
+        2003,
+        2004
+      ]
+    },
+    "MONTANA EWB BASE/SE/GT AWD": {
+      "years": [
+        2003,
+        2004
+      ]
+    },
+    "MONTANA 4DR MINIVAN /SE/GT": {
+      "years": [
+        2005
+      ]
+    }
+  },
+  "Montana SV6": {
     "MONTANA SV6 EWB AWD MINIVAN /UPLEVEL 1/UPLEVE": {
       "years": [
         2005,
