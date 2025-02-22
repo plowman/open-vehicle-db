@@ -1,0 +1,25 @@
+{
+  "Air": {
+    "AIR GRAND TOURING 4DR SEDAN": {
+      "years": [
+        2022,
+        2023,
+        2024
+      ]
+    },
+    "AIR PURE 4DR SEDAN": {
+      "years": [
+        2023,
+        2024
+      ]
+    },
+    "AIR TOURING 4DR SEDAN": {
+      "years": [
+        2022,
+        2023,
+        2024
+      ]
+    }
+  },
+  "Gravity": {}
+}

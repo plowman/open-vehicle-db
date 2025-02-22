@@ -3,9 +3,9 @@
 Vehicle database with makes / models / years / styles database for cars, trucks, SUV's, and other vehicles.
 
 ## What it contains
-* 65 makes, e.g.'Toyota'
-* 1669 models, e.g. 'Prius V'
-* 9725 styles, e.g. 'PRIUS V 5DR HATCHBACK'
+* 69 makes, e.g.'Toyota'
+* 1678 models, e.g. 'Prius V'
+* 9730 styles, e.g. 'PRIUS V 5DR HATCHBACK'
 * Supports years from 1981 to 2026
 * Last updated February 21, 2025
 

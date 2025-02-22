@@ -459,15 +459,16 @@ def choose_matching_model_for_style(model_style_name, model_choices):
     return None
 
 
-def update_styles():
+def update_styles(target_make=None):
     all_makes = load_make_models_json()
     all_orphaned_styles = {}
 
-    for count, make in enumerate(all_makes):
+    for make in tqdm(all_makes):
+        if target_make and make["make_slug"] != target_make:
+            continue
         if not (make["first_year"] and make["last_year"]):
             print(f"BAD MAKE missing first_year or last_year: {make}")
             continue
-        print("Cool starting stuff now...")
         model_choices = make["models"].keys()
         all_orphaned_styles[make["make_name"]] = {
             "model_choices": list(model_choices),
@@ -556,17 +557,25 @@ def update_readme():
 
 
 def update_everything():
-    # update_makes_file(target_make="fisker")
     update_makes_file()
-    # update_models_files(target_make="fisker")
-    # update_models_files()
-    # update_styles()
-    # update_readme()
+    update_models_files()
+    update_styles()
+    update_readme()
+
+
+def update_single_make(make):
+    update_makes_file(make)
+    update_models_files(make)
+    update_styles(make)
 
 
 def main(args):
     print(f"Running update_car_data with args: {args}")
-    update_everything()
+    # update_everything()
+    # update_single_make("delorean")
+    # update_single_make("shelby")
+    update_single_make("rivian")
+    update_readme()
 
 
 if __name__ == "__main__":

@@ -8525,12 +8525,27 @@
     }
   },
   {
-    "first_year": null,
-    "last_year": null,
+    "first_year": 1981,
+    "last_year": 1986,
     "make_id": 13022,
     "make_name": "DELOREAN",
     "make_slug": "delorean",
-    "models": {}
+    "models": {
+      "DMC-12": {
+        "model_id": 34304,
+        "model_name": "DMC-12",
+        "model_styles": {},
+        "vehicle_type": "car",
+        "years": [
+          1981,
+          1982,
+          1983,
+          1984,
+          1985,
+          1986
+        ]
+      }
+    }
   },
   {
     "first_year": 1981,
@@ -20198,12 +20213,36 @@
     }
   },
   {
-    "first_year": null,
-    "last_year": null,
+    "first_year": 2022,
+    "last_year": 2026,
     "make_id": 10919,
     "make_name": "LUCID",
     "make_slug": "lucid",
-    "models": {}
+    "models": {
+      "Air": {
+        "model_id": 28593,
+        "model_name": "Air",
+        "model_styles": {},
+        "vehicle_type": "car",
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      "Gravity": {
+        "model_id": 35254,
+        "model_name": "Gravity",
+        "model_styles": {},
+        "vehicle_type": "mpv",
+        "years": [
+          2025,
+          2026
+        ]
+      }
+    }
   },
   {
     "first_year": 1981,
@@ -28786,12 +28825,64 @@
     }
   },
   {
-    "first_year": null,
-    "last_year": null,
+    "first_year": 2022,
+    "last_year": 2026,
     "make_id": 10887,
     "make_name": "RIVIAN",
     "make_slug": "rivian",
-    "models": {}
+    "models": {
+      "EDV": {
+        "model_id": 29437,
+        "model_name": "EDV",
+        "model_styles": {},
+        "vehicle_type": "truck",
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      "R1S": {
+        "model_id": 29173,
+        "model_name": "R1S",
+        "model_styles": {},
+        "vehicle_type": "mpv",
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      "R1T": {
+        "model_id": 28467,
+        "model_name": "R1T",
+        "model_styles": {},
+        "vehicle_type": "truck",
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      "RCV": {
+        "model_id": 29345,
+        "model_name": "RCV",
+        "model_styles": {},
+        "vehicle_type": "truck",
+        "years": [
+          2022,
+          2024,
+          2025,
+          2026
+        ]
+      }
+    }
   },
   {
     "first_year": 1981,
@@ -29562,12 +29653,38 @@
     }
   },
   {
-    "first_year": null,
-    "last_year": null,
+    "first_year": 2022,
+    "last_year": 2026,
     "make_id": 11832,
     "make_name": "SHELBY",
     "make_slug": "shelby",
-    "models": {}
+    "models": {
+      "Cobra": {
+        "model_id": 30569,
+        "model_name": "Cobra",
+        "model_styles": {},
+        "vehicle_type": "car",
+        "years": [
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      },
+      "GT": {
+        "model_id": 33560,
+        "model_name": "GT",
+        "model_styles": {},
+        "vehicle_type": "car",
+        "years": [
+          2022,
+          2023,
+          2024,
+          2025,
+          2026
+        ]
+      }
+    }
   },
   {
     "first_year": 2000,
