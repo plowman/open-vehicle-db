@@ -7,7 +7,9 @@
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025,
+        2026
       ]
     },
     "ASCENT LIMITED / PREMIER 4DR SUV": {
@@ -17,7 +19,9 @@
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025,
+        2026
       ]
     },
     "ASCENT TOURING 4DR SUV": {
@@ -27,7 +31,9 @@
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025,
+        2026
       ]
     }
   },
@@ -61,7 +67,9 @@
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025,
+        2026
       ]
     }
   },
@@ -126,19 +134,22 @@
     "CROSSTREK CONVENIENCE/TOURING 4DR SUV": {
       "years": [
         2024,
-        2025
+        2025,
+        2026
       ]
     },
     "CROSSTREK ONYX/LIMITED 4DR SUV": {
       "years": [
         2024,
-        2025
+        2025,
+        2026
       ]
     },
     "CROSSTREK WILDERNESS 4DR SUV": {
       "years": [
         2024,
-        2025
+        2025,
+        2026
       ]
     }
   },
@@ -278,7 +289,8 @@
     },
     "FORESTER 4DR SUV": {
       "years": [
-        2025
+        2025,
+        2026
       ]
     }
   },
@@ -870,13 +882,15 @@
     "IMPREZA CONVENIENCE/TOURING 4DR SEDAN": {
       "years": [
         2024,
-        2025
+        2025,
+        2026
       ]
     },
     "IMPREZA RS/SPORT-TECH 4DR SEDAN": {
       "years": [
         2024,
-        2025
+        2025,
+        2026
       ]
     }
   },
@@ -1231,7 +1245,9 @@
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025,
+        2026
       ]
     },
     "LEGACY GT 4DR SEDAN": {
@@ -1240,7 +1256,9 @@
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025,
+        2026
       ]
     }
   },
@@ -1442,17 +1460,42 @@
     "OUTBACK 4DR WAGON": {
       "years": [
         2023,
-        2024
+        2024,
+        2025
       ]
     },
     "OUTBACK 4DR WGAON WILDERNESS/XT": {
       "years": [
         2023,
-        2024
+        2024,
+        2025
+      ]
+    },
+    "OUTBACK 4DR WAGON LIMITED/WILDERNESS/PREMIER": {
+      "years": [
+        2026,
+        2027
+      ]
+    },
+    "OUTBACK 4DR WAGON TOURING": {
+      "years": [
+        2026,
+        2027
       ]
     }
   },
-  "RX": {},
+  "RX": {
+    "4WD GL/4WD RX TURBO COUPE": {
+      "years": [
+        1988
+      ]
+    },
+    "4WD GL/4WD RX TURBO COUPE/FWDGL": {
+      "years": [
+        1989
+      ]
+    }
+  },
   "SVX": {
     "SVX 2DR COUPE": {
       "years": [
@@ -1468,11 +1511,35 @@
     "SOLTERRA SUV": {
       "years": [
         2023,
-        2024
+        2024,
+        2025,
+        2026
       ]
     }
   },
   "Standard": {},
+  "Trailseeker": {
+    "TRAILSEEKER 4DR  WAGON": {
+      "years": [
+        2026,
+        2027
+      ]
+    }
+  },
+  "Uncharted": {
+    "UNCHARTED 4DR SUV AWD": {
+      "years": [
+        2026,
+        2027
+      ]
+    },
+    "UNCHARTED 4DR SUV FWD": {
+      "years": [
+        2026,
+        2027
+      ]
+    }
+  },
   "WRX": {
     "WRX 4DR SEDAN": {
       "years": [
@@ -1485,7 +1552,9 @@
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025,
+        2026
       ]
     },
     "WRX STI 4DR SEDAN": {
@@ -1503,14 +1572,18 @@
       "years": [
         2022,
         2023,
-        2024
+        2024,
+        2025,
+        2026
       ]
     },
     "WRX SPORT EyeSight 4DR SEDAN": {
       "years": [
         2022,
         2023,
-        2024
+        2024,
+        2025,
+        2026
       ]
     }
   },
@@ -1528,16 +1601,6 @@
     "XT GL-10 TURBO 4WD COUPE (2 DR)": {
       "years": [
         1987
-      ]
-    },
-    "4WD GL/4WD RX TURBO COUPE": {
-      "years": [
-        1988
-      ]
-    },
-    "4WD GL/4WD RX TURBO COUPE/FWDGL": {
-      "years": [
-        1989
       ]
     },
     "XT COUPE FWD/4WD": {

@@ -20,13 +20,15 @@
     "DB12 2DR COUPE": {
       "years": [
         2024,
-        2025
+        2025,
+        2026
       ]
     },
     "DB12 VOLANTE 2DR CONVERTIBLE": {
       "years": [
         2024,
-        2025
+        2025,
+        2026
       ]
     }
   },
@@ -162,7 +164,9 @@
         2021,
         2022,
         2023,
-        2024
+        2024,
+        2025,
+        2026
       ]
     }
   },
@@ -222,6 +226,15 @@
       ]
     }
   },
+  "Valhalla": {
+    "VALHALLA": {
+      "years": [
+        2024,
+        2025,
+        2026
+      ]
+    }
+  },
   "Valiant": {},
   "Valour": {},
   "Vanquish": {
@@ -255,6 +268,17 @@
         2016,
         2017,
         2018
+      ]
+    },
+    "VANQUISH 2DR COUPE": {
+      "years": [
+        2025,
+        2026
+      ]
+    },
+    "VANQUISH 2DR VOLANTE": {
+      "years": [
+        2026
       ]
     }
   },
@@ -317,6 +341,16 @@
     "VANTAGE V8 ROADSTER": {
       "years": [
         2023
+      ]
+    },
+    "VANTAGE 2DR COUPE": {
+      "years": [
+        2026
+      ]
+    },
+    "VANTAGE ROADSTER": {
+      "years": [
+        2026
       ]
     }
   },

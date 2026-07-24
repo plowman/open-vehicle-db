@@ -82,7 +82,6 @@
       ]
     }
   },
-  "CONQUEST": {},
   "Champ": {},
   "Colt": {
     "COLT 2 DR HB": {
@@ -110,6 +109,7 @@
       ]
     }
   },
+  "Conquest": {},
   "GRAN FURY": {},
   "Grand Voyager": {
     "GRAND VOYAGER LE": {
@@ -293,7 +293,7 @@
       ]
     }
   },
-  "RELIANT": {
+  "Reliant": {
     "RELIANT K SD 2 DR": {
       "years": [
         1981
@@ -407,7 +407,7 @@
       ]
     }
   },
-  "SAPPORO": {
+  "Sapporo": {
     "SAPPORO": {
       "years": [
         1981,

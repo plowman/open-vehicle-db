@@ -375,6 +375,29 @@
         2023,
         2024
       ]
+    },
+    "COOPER 2DR CONVERTIBLE": {
+      "years": [
+        2025,
+        2026
+      ]
+    },
+    "COOPER 2DR HATCHBACK": {
+      "years": [
+        2025,
+        2026
+      ]
+    },
+    "COOPER 4DR HATCHBACK": {
+      "years": [
+        2025,
+        2026
+      ]
+    },
+    "COOPER SE BEV 4DR HATCHBACK": {
+      "years": [
+        2026
+      ]
     }
   },
   "Cooper Convertible": {
@@ -478,6 +501,22 @@
         2022,
         2023,
         2024
+      ]
+    },
+    "COUNTRYMAN 4DR SUV": {
+      "years": [
+        2025,
+        2026
+      ]
+    },
+    "COUNTRYMAN SE 4DR SUV": {
+      "years": [
+        2025
+      ]
+    },
+    "COUNTRYMAN BEV 4DR SUV": {
+      "years": [
+        2026
       ]
     }
   },

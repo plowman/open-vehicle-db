@@ -3,11 +3,12 @@
 Vehicle database with makes / models / years / styles database for cars, trucks, SUV's, and other vehicles.
 
 ## What it contains
-* 69 makes, e.g.'Toyota'
-* 1678 models, e.g. 'Prius V'
-* 9730 styles, e.g. 'PRIUS V 5DR HATCHBACK'
-* Supports years from 1981 to 2026
-* Last updated February 21, 2025
+
+* 70 makes, e.g. "Toyota"
+* 1,678 models, e.g. "Prius V"
+* 9,960 styles, e.g. "PRIUS V 5DR HATCHBACK"
+* Supports years from 1981 to 2027
+* Last updated July 24, 2026
 
 ## Setup
 
@@ -69,8 +70,8 @@ print([make["make_name"] for make in makes_2003])
  'CHRYSLER', 'DAEWOO', 'DAIHATSU', 'DODGE', 'FERRARI', 'FIAT', 'FORD', 'GMC', 'HONDA', 'HUMMER', 'HYUNDAI', 'INFINITI',
  'ISUZU', 'JAGUAR', 'JEEP', 'KIA', 'LAMBORGHINI', 'LAND ROVER', 'LEXUS', 'LINCOLN', 'LOTUS', 'MASERATI', 'MAYBACH',
  'MAZDA', 'MERCEDES-BENZ', 'MERCURY', 'MINI', 'MITSUBISHI', 'NISSAN', 'OLDSMOBILE', 'PETERBILT', 'PEUGEOT', 'PLYMOUTH',
- 'PONTIAC', 'PORSCHE', 'ROLLS ROYCE', 'SAAB', 'SATURN', 'SMART', 'SUBARU', 'SUZUKI', 'TOYOTA', 'TRIUMPH', 'VOLVO',
- 'YUGO']
+ 'PONTIAC', 'PORSCHE', 'ROLLS-ROYCE', 'SAAB', 'SATURN', 'SMART', 'SPYKER', 'SUBARU', 'SUZUKI', 'TOYOTA', 'TRIUMPH',
+ 'VOLVO', 'YUGO']
 ```
 
 ### Get all the models for a given year and make

@@ -16,7 +16,8 @@
       "ZDX",
       "RDX",
       "MDX",
-      "SLX"
+      "SLX",
+      "ADX"
     ],
     "orphaned_styles": [
       "1.6 EL 4DR SEDAN SPORT/PREMIUM",
@@ -75,7 +76,11 @@
       "GUILIA QUADRIFOGLIO 4DR SEDAN",
       "GUILIA BASE/Ti AWD 4DR SEDAN",
       "GUILIA BASE/Ti RWD 4DR SEDAN",
-      "GUILIA QUADRIFOGLIO 4DR SEDAN"
+      "GUILIA QUADRIFOGLIO 4DR SEDAN",
+      "GUILIA BASE/Ti AWD 4DR SEDAN",
+      "GUILIA BASE/Ti RWD 4DR SEDAN",
+      "GUILIA QUADRIFOGLIO 4DR SEDAN",
+      "GUILIA AWD 4DR SEDAN"
     ]
   },
   "AM GENERAL": {
@@ -102,7 +107,8 @@
       "DB12",
       "Valour",
       "DB7",
-      "Valiant"
+      "Valiant",
+      "Valhalla"
     ],
     "orphaned_styles": [
       "VOLANTE CONV.",
@@ -111,9 +117,9 @@
       "VANQUIS 2DR COUPE RWD",
       "VALKYRIE",
       "VALKYRIE",
-      "VALHALLA",
       "VALKYRIE",
-      "VALHALLA"
+      "VALKYRIE",
+      "VALKYRIE"
     ]
   },
   "AUDI": {
@@ -158,6 +164,7 @@
       "A7 e",
       "A8 L e",
       "RS 6 Avant",
+      "S e-tron GT",
       "Q5",
       "Q3",
       "SQ5",
@@ -326,7 +333,7 @@
       "440i",
       "B7",
       "740e",
-      "750i / ALPINA B7",
+      "750i, Alpina B7",
       "533i",
       "633 csi",
       "733i",
@@ -335,12 +342,12 @@
       "530e",
       "M550i",
       "M760i",
-      "650i / ALPINA B6",
-      "750Li / ALPINA B7",
-      "750Lxi / ALPINA B7",
-      "750xi / ALPINA B7",
-      "750i / B7",
-      "650i / B6",
+      "650i, Alpina B6",
+      "750Li, Alpina B7",
+      "750Lxi, Alpina B7",
+      "750xi, Alpina B7",
+      "750i, B7",
+      "650i, B6",
       "640xi",
       "M340i",
       "745e",
@@ -353,12 +360,13 @@
       "i4",
       "i7",
       "ActiveHybrid 7",
-      "ALPINA B8",
+      "Alpina B8",
       "750e",
       "i5",
       "325/325eS",
       "550e",
       "228",
+      "M235",
       "X6",
       "X4",
       "X2",
@@ -421,6 +429,12 @@
       "8-SERIES GRAN COUPE",
       "8-SERIES 2DR CONVERTIBLE",
       "8-SERIES 2DR COUPE",
+      "8-SERIES GRAN COUPE",
+      "8-SERIES 2DR CONVERTIBLE",
+      "8-SERIES 2DR COUPE",
+      "8-SERIES GRAN COUPE",
+      "8-SERIES 2DR CONVERTIBLE",
+      "8-SERIES 2DR COUPE",
       "8-SERIES GRAN COUPE"
     ]
   },
@@ -430,7 +444,8 @@
       "Chiron",
       "EB110",
       "Chiron Pur Sport",
-      "Chiron Supersport"
+      "Chiron Supersport",
+      "Mistral"
     ],
     "orphaned_styles": []
   },
@@ -502,7 +517,8 @@
       "Lyriq",
       "Escalade IQ",
       "Optiq",
-      "Vistiq"
+      "Vistiq",
+      "Escalade IQL"
     ],
     "orphaned_styles": [
       "BIARRITZ 2 DR COUPE",
@@ -552,6 +568,7 @@
       "Bolt EUV",
       "Cruze Limited",
       "Malibu Limited",
+      "Bolt",
       "Equinox",
       "Express",
       "Silverado",
@@ -595,10 +612,7 @@
       "Silverado HD",
       "Silverado LD",
       "Silverado LTD",
-      "Silverado EV",
-      "BrightDrop 400",
-      "BrightDrop 600",
-      "BrightDrop 400, BrightDrop 600",
+      "BrightDrop",
       "Captiva Sport",
       "Orlando",
       "Traverse",
@@ -606,8 +620,6 @@
       "Trailblazer",
       "Uplander",
       "Trax",
-      "Blazer EV",
-      "Equinox EV",
       "Traverse Limited",
       "Suburban HD"
     ],
@@ -1274,12 +1286,7 @@
       "ASTRO CARGO VAN AWD",
       "ASTRO CARGO VAN RWD",
       "ASTRO CARGO VAN AWD",
-      "ASTRO CARGO VAN RWD",
-      "BOLT 4DR HATCHBACK",
-      "BOLT 4DR HATCHBACK",
-      "BOLT 4DR HATCHBACK",
-      "BOLT 4DR HATCHBACK",
-      "BOLT 4DR HATCHBACK"
+      "ASTRO CARGO VAN RWD"
     ]
   },
   "CHRYSLER": {
@@ -1307,7 +1314,7 @@
       "Dynasty",
       "Imperial",
       "SALON",
-      "LASER",
+      "Laser",
       "NEWPORT",
       "FIFTH AVENUE",
       "Conquest",
@@ -1317,10 +1324,9 @@
       "300C",
       "Town and Country",
       "Grand Voyager",
-      "Caravan",
-      "Voyager",
       "Pacifica",
       "Aspen",
+      "Voyager",
       "Grand Caravan"
     ],
     "orphaned_styles": [
@@ -1533,18 +1539,13 @@
   "FERRARI": {
     "model_choices": [
       "612 Scaglietti",
-      "F430 Coupe",
-      "599 GTB",
-      "F430 Spider",
+      "599",
       "599 GTB Fiorano",
-      "430 Scuderia",
+      "430",
       "F430",
-      "430 Scuderia Spider",
-      "360 Modena",
-      "360 Spider",
-      "575 M Maranello",
-      "456 MGT",
-      "456 MGTA",
+      "360",
+      "575M Maranello",
+      "456M",
       "Enzo",
       "F355",
       "550 Maranello",
@@ -1553,18 +1554,15 @@
       "FF",
       "La Ferrari",
       "458 Italia",
-      "458 Speciale",
-      "458 Speciale Spider",
-      "458 Spider",
+      "458",
       "California",
-      "599 GTO",
       "348 tb",
       "348 ts",
       "512 TR",
       "355 Berlinetta",
       "355 GTS",
       "348 Spider",
-      "456 GT",
+      "456",
       "355 Spider",
       "Mondial T",
       "Testarossa",
@@ -1577,8 +1575,6 @@
       "308GTS Quattrovalvole",
       "Mondial 8",
       "308 Convertible",
-      "488 GTB",
-      "488 GTS",
       "F12 Special Series",
       "F60 America",
       "308GTBi",
@@ -1587,33 +1583,26 @@
       "308GTS",
       "F12 tdf (Tour de France)",
       "GTC4Lusso",
-      "488 Spider",
-      "812 Superfast",
+      "488",
       "Portofino",
-      "488 Pista",
-      "F8 Tributo",
-      "812 GTS",
-      "F8 Spider",
-      "SF90 Stradale",
+      "812",
+      "F8",
       "Roma",
-      "F164BCB",
-      "488 Pista Spider",
       "Challenge Stradale",
       "Portofino M",
-      "812 Competizione",
-      "SF90 Spider",
+      "SF90",
       "550 Barchetta",
       "F50",
-      "296 GTB",
       "Monza SP1/SP2",
       "Daytona SP3",
-      "812 Competizione A",
-      "296 GTS",
-      "SF90 XX Stradale",
-      "SF90 XX Spider",
-      "Roma Spider",
+      "296",
       "12Cilindri",
-      "12Cilindri Spider",
+      "F80",
+      "849 Testarossa",
+      "296 Speciale",
+      "296 Speciale A",
+      "Luce",
+      "Amalfi",
       "Purosangue"
     ],
     "orphaned_styles": [
@@ -1629,6 +1618,8 @@
       "F12tdf",
       "F12tdf",
       "F12tdf",
+      "PUROSANGQUE 4DR SUV",
+      "PUROSANGQUE 4DR SUV",
       "PUROSANGQUE 4DR SUV",
       "PUROSANGQUE 4DR SUV"
     ]
@@ -1869,7 +1860,9 @@
       "POLICE INTERCEPTOR UTILITY",
       "POLICE RESPONDER HYBRID SEDAN",
       "POLICE INTERCEPTOR UTILITY",
-      "POLICE RESPONDER HYBRID SEDAN"
+      "POLICE RESPONDER HYBRID SEDAN",
+      "POLICE INTERCEPTOR UTILITY",
+      "POLICE INTERCEPTOR UTILITY"
     ]
   },
   "GEO": {
@@ -1942,7 +1935,6 @@
       "Sierra HD",
       "Sierra Limited",
       "Hummer EV Pickup",
-      "Sierra EV",
       "Envoy",
       "P Truck Forward",
       "Rally",
@@ -2151,6 +2143,7 @@
       "HUMMER EV 4DR PICKUP",
       "HUMMER EV 4DR PICKUP",
       "HUMMER EV 4DR PICKUP",
+      "HUMMER EV 4DR PICKUP",
       "HUMMER EV 4DR PICKUP"
     ]
   },
@@ -2222,6 +2215,7 @@
       "Veloster N",
       "Elantra N",
       "Ioniq 6",
+      "Ioniq 6 N",
       "Santa Cruz",
       "Xcient",
       "Entourage",
@@ -2230,12 +2224,17 @@
       "Santa Fe XL",
       "Nexo",
       "Palisade",
-      "Kona Electric",
       "Ioniq 5",
       "Kona N",
-      "IONIQ 5 N"
+      "Ioniq 5 N",
+      "Ioniq 9"
     ],
-    "orphaned_styles": []
+    "orphaned_styles": [
+      "PALASADE 4DR SUV",
+      "PALASADE 4DR SUV HEV",
+      "PALASADE 4DR SUV",
+      "PALASADE 4DR SUV HEV"
+    ]
   },
   "INFINITI": {
     "model_choices": [
@@ -2271,7 +2270,8 @@
       "FX37",
       "JX35",
       "QX4",
-      "QX55"
+      "QX55",
+      "QX65"
     ],
     "orphaned_styles": [
       "G 4DR SEDAN RWD",
@@ -2377,7 +2377,8 @@
       "Grand Cherokee L",
       "Wagoneer L",
       "Grand Wagoneer L",
-      "Wagoneer S"
+      "Wagoneer S",
+      "Recon"
     ],
     "orphaned_styles": [
       "SCRAMBLER",
@@ -2476,19 +2477,18 @@
       "Sephia",
       "Spectra",
       "Amanti",
-      "Sephia II/Spectra",
       "Forte Koup",
       "Stinger",
       "K5",
       "K4",
       "Soul",
-      "Soul EV",
       "Niro",
       "Telluride",
       "Seltos",
       "Carnival",
       "EV6",
-      "EV9"
+      "EV9",
+      "EV3"
     ],
     "orphaned_styles": [
       "MAGENTIS 4DR SEDAN LX",
@@ -2508,7 +2508,19 @@
       "MAGENTIS 4DR SEDAN LX/LX PREMIUM",
       "MAGENTIS 4DR SEDAN LX-V6/LX-V6 LUXURY",
       "MAGENTIS 4DR SEDAN LX/LX PREMIUM/SX",
-      "MAGENTIS 4DR SEDAN LX-V6/LX-V6 LUXURY/SX-V6"
+      "MAGENTIS 4DR SEDAN LX-V6/LX-V6 LUXURY/SX-V6",
+      "EV5 4DR SUV AWD",
+      "EV5 4DR SUV FWD",
+      "EV4 GT-LINE FWD",
+      "EV4 LIGHT FWD",
+      "EV4 WIND FWD",
+      "EV5 4DR SUV AWD",
+      "EV5 4DR SUV FWD",
+      "PV5 CARGO VAN",
+      "EV4 GT-LINE FWD",
+      "EV4 LIGHT FWD",
+      "EV4 WIND FWD",
+      "PV5 CARGO VAN"
     ]
   },
   "LAMBORGHINI": {
@@ -2521,6 +2533,7 @@
       "Huracan",
       "Roadster",
       "Revuelto",
+      "Temerario",
       "URUS"
     ],
     "orphaned_styles": [
@@ -2546,6 +2559,8 @@
       "New Range Rover"
     ],
     "orphaned_styles": [
+      "EVOQUE 4DR SUV",
+      "EVOQUE 4DR SUV",
       "EVOQUE 4DR SUV",
       "EVOQUE 4DR SUV",
       "EVOQUE 4DR SUV",
@@ -2629,7 +2644,9 @@
       "EVIJA 2DR COUPE",
       "EVIJA 2DR COUPE",
       "EVIJA 2DR COUPE",
-      "EVIJA 2DR COUPE"
+      "EMEYA",
+      "EVIJA 2DR COUPE",
+      "EMEYA"
     ]
   },
   "MASERATI": {
@@ -2646,6 +2663,7 @@
       "228",
       "MC20",
       "Grancabrio",
+      "MCPura",
       "Levante",
       "Grecale"
     ],
@@ -2903,7 +2921,10 @@
       "750S",
       "GTS"
     ],
-    "orphaned_styles": []
+    "orphaned_styles": [
+      "W1 2DR COUPE",
+      "W1 2DR COUPE"
+    ]
   },
   "MERCEDES-BENZ": {
     "model_choices": [
@@ -3264,6 +3285,20 @@
       "GLE AMG 63 COUPE 4DR SUV",
       "MAYBACH S 580 4MATIC SEDAN",
       "MAYBACH S 680 SEDAN",
+      "GLE 450 4MATIC 4DR SUV",
+      "GLE 450e 4MATIC 4DR SUV",
+      "GLE AMG 53 4MATIC 4DR SUV",
+      "GLE AMG 53 COUPE 4DR SUV",
+      "GLE AMG 63 4MATIC 4DR SUV",
+      "GLE AMG 63 COUPE 4DR SUV",
+      "MAYBACH S 580 4MATIC SEDAN",
+      "MAYBACH S 680 SEDAN",
+      "GLE 450 4MATIC 4DR SUV",
+      "GLE 450e 4MATIC 4DR SUV",
+      "GLE AMG 53 4MATIC 4DR SUV",
+      "GLE AMG 53 COUPE 4DR SUV",
+      "GLE AMG 63 4MATIC 4DR SUV",
+      "GLE AMG 63 COUPE 4DR SUV",
       "MAYBACH S 580 4MATIC SEDAN",
       "MAYBACH S 680 SEDAN"
     ]
@@ -3377,8 +3412,8 @@
       "Altra",
       "Micra",
       "Kicks",
-      "NISSAN Z",
-      "ARIYA",
+      "Nissan Z",
+      "Ariya Hatchback",
       "Kicks Play",
       "Pathfinder",
       "Murano",
@@ -3396,7 +3431,8 @@
       "Rogue",
       "X-Trail",
       "Rogue Select",
-      "Kicks MPV"
+      "Kicks MPV",
+      "Ariya MPV"
     ],
     "orphaned_styles": [
       "KING CAB 4 X 2",
@@ -3519,12 +3555,18 @@
       "QASHQAI 4DR SUV FWD",
       "QASHQAI 4DR SUV AWD",
       "QASHQAI 4DR SUV FWD",
+      "ARIYA 4DR SUV",
       "QASHQAI 4DR SUV AWD",
       "QASHQAI 4DR SUV FWD",
       "Z 2DR COUPE",
+      "ARIYA 4DR SUV",
       "Z 2DR COUPE",
       "QASHQAI 4DR SUV AWD",
-      "QASHQAI 4DR SUV FWD"
+      "QASHQAI 4DR SUV FWD",
+      "ARIYA 4DR SUV",
+      "Z 2DR COUPE",
+      "ARIYA 4DR SUV",
+      "Z 2DR COUPE"
     ]
   },
   "OLDSMOBILE": {
@@ -3623,7 +3665,8 @@
       "535",
       "536",
       "537",
-      "548"
+      "548",
+      "250"
     ],
     "orphaned_styles": []
   },
@@ -3647,11 +3690,11 @@
       "Laser",
       "HORIZON",
       "TURISMO",
-      "RELIANT",
+      "Reliant",
       "CARAVELLE",
       "GRAN FURY",
-      "CONQUEST",
-      "SAPPORO",
+      "Conquest",
+      "Sapporo",
       "Champ",
       "Voyager",
       "Grand Voyager",
@@ -3751,7 +3794,9 @@
       "CARRERA GT 2DR CONV RWD",
       "CARRERA GT 2DR CONV RWD",
       "CARRERA GT 2DR CONV RWD",
-      "CARRERA GT 2DR CONV RWD"
+      "CARRERA GT 2DR CONV RWD",
+      "MECAN ELECTRIC",
+      "MECAN ELECTRIC"
     ]
   },
   "RAM": {
@@ -3769,6 +3814,32 @@
       "Promaster City"
     ],
     "orphaned_styles": []
+  },
+  "RENAULT": {
+    "model_choices": [
+      "LeCar",
+      "18i",
+      "Fuego",
+      "Alliance",
+      "Encore"
+    ],
+    "orphaned_styles": [
+      "18 4 DR",
+      "18 WAGON",
+      "18 4 DR",
+      "18 WAGON",
+      "18 SPORTWAGON",
+      "EAGLE WAGON",
+      "18 SPORTWAGON",
+      "EAGLE WAGON",
+      "EAGLE WAGON",
+      "SPORTWAGON",
+      "EAGLE WAGON",
+      "SPORTWAGON",
+      "EAGLE WAGON",
+      "MEDALLION 4 DR SEDAN",
+      "MEDALLION WAGON"
+    ]
   },
   "ROLLS-ROYCE": {
     "model_choices": [
@@ -3909,7 +3980,9 @@
       "B9 Tribeca",
       "Crosstrek",
       "Ascent",
-      "Solterra"
+      "Solterra",
+      "Trailseeker",
+      "Uncharted"
     ],
     "orphaned_styles": [
       "HATCHBACK 4 WD",
@@ -3981,6 +4054,7 @@
       "Model X",
       "Model 3",
       "Model Y",
+      "Cybercab",
       "Semi",
       "Cybertruck"
     ],
@@ -4014,20 +4088,19 @@
       "Scion iA",
       "Prius V",
       "Prius C",
-      "Prius Plug-in",
       "Pick-Up",
       "Starlet",
       "Corona",
       "COROLLA iM",
       "C-HR",
-      "Prius Prime",
+      "Prius Prime (PHEV)",
       "Yaris iA",
       "GR86",
       "Crown",
       "GR Corolla",
       "Crown Signia",
       "Land Cruiser",
-      "4-Runner",
+      "4Runner",
       "Tacoma",
       "Tundra",
       "Cargo Van",
@@ -4041,10 +4114,12 @@
       "Sequoia",
       "Venza",
       "Previa",
-      "RAV4 Prime",
+      "RAV4 Prime (PHEV)",
       "Corolla Cross",
       "bZ4X",
-      "Grand Highlander"
+      "Grand Highlander",
+      "bZ",
+      "bZ Woodland"
     ],
     "orphaned_styles": [
       "4 WD",
@@ -4216,7 +4291,9 @@
       "EX30",
       "EX90",
       "EC40",
-      "EX40"
+      "EX40",
+      "EX30 CC",
+      "EX60"
     ],
     "orphaned_styles": [
       "CPE",
