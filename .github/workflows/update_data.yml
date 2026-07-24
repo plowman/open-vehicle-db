@@ -11,15 +11,19 @@ jobs:
 
     steps:
     - name: Checkout
-      uses: actions/checkout@v1
+      uses: actions/checkout@v4
     - name: List local files
       run: find .
-    - name: Update apt and install python3
-      run: sudo apt-get update && sudo apt-get install python3
+    - name: Install uv
+      uses: astral-sh/setup-uv@v5
+      with:
+        enable-cache: true
+    - name: Install dependencies from uv.lock
+      run: uv sync --frozen
     - name: Check python version
-      run: python3 --version
+      run: uv run python --version
     - name: Run the script
-      run: python3 ./scripts/update_car_data.py
+      run: uv run ./scripts/update_car_data.py
 
 # LATER: Can we schedule this to run, say, once per month?
 # on:

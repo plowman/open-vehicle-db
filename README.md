@@ -9,7 +9,32 @@ Vehicle database with makes / models / years / styles database for cars, trucks,
 * Supports years from 1981 to 2026
 * Last updated February 21, 2025
 
+## Setup
+
+Dependencies are managed with [uv](https://docs.astral.sh/uv/). Install it, then create the
+environment from the lockfile:
+
+```shell
+uv sync
+```
+
+Run anything in the project with `uv run`, which keeps the environment in sync automatically:
+
+```shell
+uv run ./scripts/update_car_data.py
+```
+
+To add or change a dependency, use `uv add` / `uv remove` — both update `pyproject.toml` and
+`uv.lock`, which should be committed together.
+
 ## How to use it
+
+The client reads the JSON data relative to the repo, so run it from a checkout with
+`clients/python` on your `PYTHONPATH`:
+
+```shell
+PYTHONPATH=clients/python uv run python clients/python/open_vehicle_db/client_usage_example.py
+```
 
 ### Get all the makes from a given year
 

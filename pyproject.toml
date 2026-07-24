@@ -1,0 +1,16 @@
+[project]
+name = "open-vehicle-db"
+version = "0.1.0"
+description = "Vehicle database with makes / models / years / styles for cars, trucks, SUV's, and other vehicles."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  # Exact versions live in uv.lock, so these are floors rather than pins.
+  "requests>=2.24.0",
+  "tqdm>=4.0",
+]
+
+[tool.uv]
+# The data files are read relative to the repo, so this is a working repo rather
+# than an installable distribution.
+package = false
