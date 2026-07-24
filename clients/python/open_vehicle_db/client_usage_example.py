@@ -8,3 +8,10 @@ print([model["model_name"] for model in models_2003_mazda])
 
 styles_2003_mazda_protege = client.list_styles_for_year_make_model(year=2003, make="Mazda", model="Protege")
 print([style["style_name"] for style in styles_2003_mazda_protege])
+
+makes = client.list_all_makes()
+for make in makes:
+  print("=" * 300)
+  models = client.list_models_for_make(make_name=make["make_name"])
+  for model in models:
+    print(f"{make['make_name']}: {model['model_name']}")

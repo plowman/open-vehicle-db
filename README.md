@@ -27,6 +27,28 @@ uv run ./scripts/update_car_data.py
 To add or change a dependency, use `uv add` / `uv remove` — both update `pyproject.toml` and
 `uv.lock`, which should be committed together.
 
+## Formatting and linting
+
+Formatting and linting are handled by [ruff](https://docs.astral.sh/ruff/). **Run both of these
+every time you change any Python code, before committing:**
+
+```shell
+uv run ruff format
+uv run ruff check --fix
+```
+
+`ruff format` rewrites files in place; `ruff check --fix` applies the lint fixes it can and prints
+whatever is left for you to fix by hand. To see what they would do without changing anything:
+
+```shell
+uv run ruff format --check
+uv run ruff check
+```
+
+Both are configured in `pyproject.toml` to match this codebase: 2-space indents and a 120 character
+line limit. The curated make whitelist/blacklist in `scripts/update_car_data.py` is wrapped in
+`# fmt: off` / `# fmt: on` so it stays packed instead of exploding to one make per line.
+
 ## How to use it
 
 The client reads the JSON data relative to the repo, so run it from a checkout with

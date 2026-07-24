@@ -25,6 +25,11 @@ def load_style_json(make_slug):
   return load_json("data", "styles", f"{make_slug}.json")
 
 
+def list_all_makes():
+  make_data = load_make_model_json()
+  return make_data
+
+
 def list_makes_for_year(year):
   makes_that_year = []
   make_data = load_make_model_json()
@@ -35,13 +40,25 @@ def list_makes_for_year(year):
   return makes_that_year
 
 
+def list_models_for_make(make_name=None):
+  matching_models = []
+  model_data = load_make_model_json()
+  for make in model_data:
+    if make_name.upper() != make["make_name"]:
+      continue
+    for model_data in make["models"].values():
+      matching_models.append(model_data)
+
+  return matching_models
+
+
 def list_models_for_year_make(year=None, make_name=None):
   matching_models = []
   model_data = load_make_model_json()
   for make in model_data:
     if make_name.upper() != make["make_name"]:
       continue
-    for model_name, model_data in make["models"].items():
+    for model_data in make["models"].values():
       if year in model_data["years"]:
         matching_models.append(model_data)
 

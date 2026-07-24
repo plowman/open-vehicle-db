@@ -14,3 +14,28 @@ dependencies = [
 # The data files are read relative to the repo, so this is a working repo rather
 # than an installable distribution.
 package = false
+
+[dependency-groups]
+dev = [
+  "ruff>=0.16.0",
+]
+
+[tool.ruff]
+# Match the existing style of the codebase rather than ruff's defaults.
+line-length = 120
+indent-width = 4
+# The README's code blocks show illustrative REPL output, not real source.
+exclude = ["venv", ".venv", "*.md"]
+
+[tool.ruff.format]
+quote-style = "double"
+
+[tool.ruff.lint]
+# pycodestyle errors, pyflakes, isort, pyupgrade, flake8-bugbear, comprehensions.
+select = ["E", "F", "I", "UP", "B", "C4"]
+
+[tool.ruff.lint.pycodestyle]
+# The formatter still wraps code at 120. This only gives the column-aligned API
+# docs table in fetch_vehicle_details a little slack, since rewrapping it would
+# destroy the alignment.
+max-line-length = 130

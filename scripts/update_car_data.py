@@ -10,15 +10,15 @@ import requests
 from tqdm import tqdm
 
 VEHICLE_TYPE_ID_MAP = {
-    1: {'VehicleTypeName': 'Motorcycle'},
-    2: {'VehicleTypeName': 'Passenger Car'},
-    3: {'VehicleTypeName': 'Truck'},
-    5: {'VehicleTypeName': 'Bus'},
-    6: {'VehicleTypeName': 'Trailer'},
-    7: {'VehicleTypeName': 'Multipurpose Passenger Vehicle (MPV)'},
-    9: {'VehicleTypeName': 'Low Speed Vehicle (LSV)'},
-    10: {'VehicleTypeName': 'Incomplete Vehicle'},
-    13: {"VehicleTypeName": "Off Road Vehicle"}
+    1: {"VehicleTypeName": "Motorcycle"},
+    2: {"VehicleTypeName": "Passenger Car"},
+    3: {"VehicleTypeName": "Truck"},
+    5: {"VehicleTypeName": "Bus"},
+    6: {"VehicleTypeName": "Trailer"},
+    7: {"VehicleTypeName": "Multipurpose Passenger Vehicle (MPV)"},
+    9: {"VehicleTypeName": "Low Speed Vehicle (LSV)"},
+    10: {"VehicleTypeName": "Incomplete Vehicle"},
+    13: {"VehicleTypeName": "Off Road Vehicle"},
 }
 
 PASSENGER_VEHICLE_TYPE_IDS = {2, 3, 7}
@@ -56,14 +56,16 @@ def fetch_all_makes():
     for make_data in raw_makes_list:
         make_name = make_data["Make_Name"].strip()
         make_slug = slugify_string(make_name)
-        all_makes.append({
-            "make_id": make_data["Make_ID"],
-            "make_name": make_name,
-            "make_slug": make_slug,
-            "models": {},
-            "first_year": None,
-            "last_year": None,
-        })
+        all_makes.append(
+            {
+                "make_id": make_data["Make_ID"],
+                "make_name": make_name,
+                "make_slug": make_slug,
+                "models": {},
+                "first_year": None,
+                "last_year": None,
+            }
+        )
 
     return all_makes
 
@@ -78,10 +80,12 @@ def fetch_types_for_make_id(make_id):
 
     all_types = []
     for make_type in raw_types_list:
-        all_types.append({
-            'type_id': make_type.get("VehicleTypeId", "<missing>"),
-            'type_name': make_type["VehicleTypeName"].strip(),
-        })
+        all_types.append(
+            {
+                "type_id": make_type.get("VehicleTypeId", "<missing>"),
+                "type_name": make_type["VehicleTypeName"].strip(),
+            }
+        )
 
     return all_types
 
@@ -132,7 +136,7 @@ def make_produces_passenger_vehicles(make_id):
     Return true if this make produces cars or trucks.
     """
     make_types = fetch_types_for_make_id(make_id)
-    make_type_ids = set([make_type["type_id"] for make_type in make_types])
+    make_type_ids = {make_type["type_id"] for make_type in make_types}
 
     if not make_type_ids.issubset(VEHICLE_TYPE_ID_MAP.keys()):
         print(f"Found a new type?? {make_types}")
@@ -163,16 +167,18 @@ def persist_json_file(data_dict, *json_path_segments):
 
 grey_list = set()
 
+# These are hand-maintained lists, so they are kept packed rather than one make per line.
+# fmt: off
 # Makes which create "mass market" cars or are otherwise well known
 white_list = {
     "smart", "yugo", "volkwagen", "volvo", "triumph", "toyota", "tesla", "suzuki", "subaru", "spyker",
     "saturn", "saab", "rolls_royce", "ram", "porsche", "pontiac", "plymouth", "peterbilt", "peugeot",
     "oldsmobile", "nissan", "mitsubishi", "mercury", "mercedes_benz", "mclaren", "mazda", "maybach",
     "maserati", "mini", "lotus", "lincoln", "lexus", "lamborghini", "karma", "kia", "jeep", "jaguar",
-    "isuzu", "infiniti", "hyundai", "hummer", "honda", "honda", "gmc", "geo", "ford", "fiat", "ferrari",
+    "isuzu", "infiniti", "hyundai", "hummer", "honda", "gmc", "geo", "ford", "fiat", "ferrari",
     "fisker", "dodge", "datsun", "daimler", "daewoo", "chrysler", "chevrolet", "cadillac",
     "buick", "bugatti", "bentley", "bmw", "audi", "aston_martin", "alfa_romeo", "acura", "am_general", "land_rover",
-    "daihatsu", "rivian", "delorean", "shelby", "lucid"
+    "daihatsu", "renault", "rivian", "delorean", "shelby", "lucid",
 }
 
 # This should contain all of the other makes which technically produce cars but which nobody has heard of
@@ -224,6 +230,7 @@ black_list = {
     'vintage_rover', 'mobile_armoured_vehicle', 'humvee', 'making_you_mobile', 'c_r_cheetah_race_cars',
     'calaveras_mfg_inc', 'world_transport_authority', 'costin_sports_car', 'solectria', 'rig_works',
     'snowblast_sicard_inc', 'classic_sports_cars', 'bakkura_mobility', 'bluecar', 'sf_motors_inc'}
+# fmt: on
 
 
 def make_is_whitelisted(make, warn_if_unlisted=False):
@@ -296,24 +303,26 @@ def fetch_vehicle_details(year=None, model=None, make=None):
             # https://vpic.nhtsa.dot.gov/api/vehicles/GetCanadianVehicleSpecifications/?Year=1982&Make=Ford&Model=&units=&format=json
             continue
 
-        vehicle_specifications.append({
-            "model_style": raw_data["Model"],
-            "hood_length_cm": raw_data["A"],
-            "back_length_cm": raw_data["B"],
-            "side_glass_max_height_cm": raw_data["C"],
-            "door_height_cm": raw_data["D"],
-            "max_width_cm": raw_data["E"],
-            "front_overhang_cm": raw_data["F"],
-            "rear_overhang_cm": raw_data["G"],
-            "overall_length_cm": raw_data["OL"],
-            "overall_width_cm": raw_data["OW"],
-            "overall_height_cm": raw_data["OH"],
-            "wheelbase_cm": raw_data["WB"],
-            "front_track_width_cm": raw_data["TWF"],
-            "rear_track_width_cm": raw_data["TWR"],
-            "curb_weight_kg": raw_data["CW"],
-            "weight_distribution_pct": raw_data["WD"],
-        })
+        vehicle_specifications.append(
+            {
+                "model_style": raw_data["Model"],
+                "hood_length_cm": raw_data["A"],
+                "back_length_cm": raw_data["B"],
+                "side_glass_max_height_cm": raw_data["C"],
+                "door_height_cm": raw_data["D"],
+                "max_width_cm": raw_data["E"],
+                "front_overhang_cm": raw_data["F"],
+                "rear_overhang_cm": raw_data["G"],
+                "overall_length_cm": raw_data["OL"],
+                "overall_width_cm": raw_data["OW"],
+                "overall_height_cm": raw_data["OH"],
+                "wheelbase_cm": raw_data["WB"],
+                "front_track_width_cm": raw_data["TWF"],
+                "rear_track_width_cm": raw_data["TWR"],
+                "curb_weight_kg": raw_data["CW"],
+                "weight_distribution_pct": raw_data["WD"],
+            }
+        )
 
     return vehicle_specifications
 
@@ -369,7 +378,7 @@ def update_makes_file(target_make=None):
                 possible_new_makes.append(make)
                 print(f"Found an unlisted make which makes passenger vehicles: {make}")
 
-    makes_and_models = list(sorted(persisted_makes_by_slug.values(), key=lambda make: make["make_slug"]))
+    makes_and_models = sorted(persisted_makes_by_slug.values(), key=lambda make: make["make_slug"])
     persist_json_file(makes_and_models, "data", "makes_and_models.json")
 
     for new_make in possible_new_makes:
@@ -530,7 +539,7 @@ def update_readme():
             for _ in make_style_data[model]:
                 style_count += 1
 
-    readme_content = open(path_to_file("README.md"), "r").read()
+    readme_content = open(path_to_file("README.md")).read()
 
     # Replace the content after "## What it contains" but before "## How to use it" with new stats.
     old_data = readme_content.split("## What it contains")[1].split("## How to use it")[0]
