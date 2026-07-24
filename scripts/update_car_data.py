@@ -503,7 +503,9 @@ def choose_matching_model_for_style(model_style_name, model_choices):
     """
     Fuzzy matching to try to connect Canadian styles to American model names
     """
-    model_choices = set(model_choices)
+    # Sorted, not a set: iteration order decides which model a style ends up under when several
+    # match equally well, and set order varies between runs because string hashing is randomised.
+    model_choices = sorted(set(model_choices))
     matching_models = []
 
     # Remove punctuation and capitalize both terms for easier comparison
@@ -532,7 +534,9 @@ def choose_matching_model_for_style(model_style_name, model_choices):
 
     if len(matching_models) > 1:
         # If there are multiple matching, choose the largest match first. This mostly seems to work.
-        matching_models = sorted(matching_models, key=lambda x: len(x), reverse=True)
+        # Styles such as "SATURN SW1/SW2 4DR WAGON" name two models of the same length, so break
+        # that tie on the name to keep the choice stable from one run to the next.
+        matching_models = sorted(matching_models, key=lambda x: (-len(x), x))
         return matching_models[0]
 
     return None
@@ -600,12 +604,11 @@ def update_styles(target_make=None):
                 matching_model = choose_matching_model_for_style(model_style_name, model_choices)
                 if matching_model:
                     model_styles = make["models"][matching_model]["model_styles"]
-                    if model_style_name not in model_styles:
-                        model_styles[model_style_name] = {
-                            "years": [year],
-                        }
-                    else:
-                        model_styles[model_style_name]["years"].append(year)
+                    years = model_styles.setdefault(model_style_name, {"years": []})["years"]
+                    # The API sometimes lists the same style twice in one year, which used to add
+                    # that year twice. Years are visited in ascending order, so this stays sorted.
+                    if year not in years:
+                        years.append(year)
                 else:
                     all_orphaned_styles[make["make_name"]]["orphaned_styles"].append(model_style_name)
 
