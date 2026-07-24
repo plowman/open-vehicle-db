@@ -183,6 +183,26 @@
       "years": [
         1982
       ]
+    },
+    "4WD GL/DL WAGON": {
+      "years": [
+        1988
+      ]
+    },
+    "FWD DL/GL COUPE": {
+      "years": [
+        1988
+      ]
+    },
+    "FWD DL/GL WAGON": {
+      "years": [
+        1989
+      ]
+    },
+    "FWD GL/DL 4 DR SEDAN": {
+      "years": [
+        1989
+      ]
     }
   },
   "Forester": {
@@ -396,27 +416,17 @@
         1988
       ]
     },
-    "4WD GL/DL WAGON": {
+    "4WD GL/4WD RX TURBO COUPE": {
       "years": [
         1988
       ]
     },
-    "FWD DL/GL COUPE": {
-      "years": [
-        1988
-      ]
-    },
-    "FWD DL/GL WAGON": {
+    "4WD GL/4WD RX TURBO COUPE/FWDGL": {
       "years": [
         1989
       ]
     },
     "FWD GL COUPE": {
-      "years": [
-        1989
-      ]
-    },
-    "FWD GL/DL 4 DR SEDAN": {
       "years": [
         1989
       ]
@@ -1484,18 +1494,7 @@
       ]
     }
   },
-  "RX": {
-    "4WD GL/4WD RX TURBO COUPE": {
-      "years": [
-        1988
-      ]
-    },
-    "4WD GL/4WD RX TURBO COUPE/FWDGL": {
-      "years": [
-        1989
-      ]
-    }
-  },
+  "RX": {},
   "SVX": {
     "SVX 2DR COUPE": {
       "years": [

@@ -271,6 +271,14 @@
       "years": [
         2007
       ]
+    },
+    "3 SERIES 323i/328i 4DR SEDAN RWD": {
+      "years": [
+        2008,
+        2009,
+        2010,
+        2011
+      ]
     }
   },
   "323iC": {
@@ -468,14 +476,6 @@
     "328i 2DR COUPE RWD": {
       "years": [
         2007
-      ]
-    },
-    "3 SERIES 323i/328i 4DR SEDAN RWD": {
-      "years": [
-        2008,
-        2009,
-        2010,
-        2011
       ]
     },
     "3 SERIES CABRIOLET 328i RWD": {
@@ -2445,6 +2445,13 @@
         2019
       ]
     },
+    "5-SERIES i5 M60 xDRIVE 4DR SEDAN": {
+      "years": [
+        2024,
+        2025,
+        2026
+      ]
+    },
     "4 SERIES i4 M60 GRAN COUPE 4DR SEDAN": {
       "years": [
         2026
@@ -3317,13 +3324,6 @@
     }
   },
   "i5": {
-    "5-SERIES i5 M60 xDRIVE 4DR SEDAN": {
-      "years": [
-        2024,
-        2025,
-        2026
-      ]
-    },
     "5-SERIES i5 xDRIVE40 4DR SEDAN": {
       "years": [
         2024,

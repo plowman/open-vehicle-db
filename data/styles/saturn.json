@@ -310,6 +310,11 @@
   },
   "SL3": {},
   "SW1": {
+    "SATURN SW1/SW2 4DR WAGON": {
+      "years": [
+        1993
+      ]
+    },
     "SW1 4DR WAGON": {
       "years": [
         1994,
@@ -322,11 +327,6 @@
     }
   },
   "SW2": {
-    "SATURN SW1/SW2 4DR WAGON": {
-      "years": [
-        1993
-      ]
-    },
     "SW2 4DR WAGON SPORT": {
       "years": [
         1994,

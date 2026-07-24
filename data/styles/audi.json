@@ -282,6 +282,11 @@
       "years": [
         1995
       ]
+    },
+    "SPORT 90 QUATTRO 4DR SEDAN": {
+      "years": [
+        1995
+      ]
     }
   },
   "A3": {
@@ -1289,12 +1294,27 @@
         2024
       ]
     },
+    "TT RS 2DR COUPE 2.5 TFSI QUATTRO": {
+      "years": [
+        2012,
+        2013
+      ]
+    },
     "TTS 2DR COUPE 2.0 TFSI QUATTRO": {
       "years": [
         2012,
         2013,
         2014,
         2015
+      ]
+    },
+    "TT RS 2DR COUPE": {
+      "years": [
+        2020,
+        2021,
+        2022,
+        2023,
+        2024
       ]
     }
   },
@@ -2255,11 +2275,6 @@
         1985
       ]
     },
-    "SPORT 90 QUATTRO 4DR SEDAN": {
-      "years": [
-        1995
-      ]
-    },
     "TT 2DR HATCHBACK": {
       "years": [
         1999
@@ -2439,23 +2454,7 @@
       ]
     }
   },
-  "TT RS": {
-    "TT RS 2DR COUPE 2.5 TFSI QUATTRO": {
-      "years": [
-        2012,
-        2013
-      ]
-    },
-    "TT RS 2DR COUPE": {
-      "years": [
-        2020,
-        2021,
-        2022,
-        2023,
-        2024
-      ]
-    }
-  },
+  "TT RS": {},
   "TTS": {
     "TTS ROADSTER 2DR CONVERTIBLE": {
       "years": [
