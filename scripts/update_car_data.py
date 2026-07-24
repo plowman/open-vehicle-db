@@ -3,11 +3,14 @@ import json
 import os
 import re
 import sys
-from collections import OrderedDict
+from collections import Counter, OrderedDict
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 
 import requests
+from requests.adapters import HTTPAdapter
 from tqdm import tqdm
+from urllib3.util.retry import Retry
 
 VEHICLE_TYPE_ID_MAP = {
     1: {"VehicleTypeName": "Motorcycle"},
@@ -26,6 +29,34 @@ PASSENGER_VEHICLE_TYPE_IDS = {2, 3, 7}
 CURRENT_YEAR = datetime.now().year
 YEAR_RANGE = range(1981, CURRENT_YEAR + 2)
 
+# The API sits behind a rate limiter that answers with an HTML "403 Access Denied" page once it
+# decides you are pushing too hard, and then keeps doing so for around ten minutes. Getting blocked
+# costs far more than the parallelism saves, so keep this low. Measured over 100 requests: 1 worker
+# is 333 req/min and 2 is 726 req/min, both clean, while 16 workers got ~two thirds of requests
+# refused. Prefer sending fewer requests over sending them faster.
+MAX_CONCURRENT_REQUESTS = 2
+
+# Without a timeout a single stalled socket hangs the whole run indefinitely.
+REQUEST_TIMEOUT_SECONDS = 30
+
+_session = requests.Session()
+_session.mount(
+    "https://",
+    HTTPAdapter(
+        pool_maxsize=MAX_CONCURRENT_REQUESTS,
+        max_retries=Retry(
+            # Long enough to outlast a ~10 minute block: backoff doubles up to backoff_max, so this
+            # waits roughly 2s, 4s, 8s, ... 120s, 120s between attempts.
+            total=10,
+            backoff_factor=2,
+            backoff_max=120,
+            # 403 is how this API signals rate limiting, so it has to be retried rather than raised.
+            status_forcelist=[403, 429, 500, 502, 503, 504],
+            respect_retry_after_header=True,
+        ),
+    ),
+)
+
 
 def _make_api_request(path):
     url = f"https://vpic.nhtsa.dot.gov/api/vehicles{path}"
@@ -34,9 +65,30 @@ def _make_api_request(path):
     else:
         url += "?format=json"
 
-    print(url)
-    response = requests.get(url)
+    # Reuses the pooled connection, which avoids a fresh TLS handshake per request.
+    response = _session.get(url, timeout=REQUEST_TIMEOUT_SECONDS)
+
+    # Fail with something readable. The rate limiter replies with an HTML page rather than JSON, so
+    # otherwise this surfaces as a JSONDecodeError several frames from the actual cause.
+    if response.status_code != 200:
+        raise RuntimeError(f"{response.status_code} from {url}: {response.text[:200]!r}")
+
     return response.json().get("Results")
+
+
+def _fetch_in_parallel(fetch_one, items, description=None):
+    """
+    Map fetch_one over items concurrently, returning results in the original order of items.
+
+    Ordering matters: the JSON files are sorted so that changes are easy to read in a diff, so
+    results must not depend on which request happens to finish first.
+    """
+    items = list(items)
+    with ThreadPoolExecutor(max_workers=MAX_CONCURRENT_REQUESTS) as executor:
+        results = executor.map(fetch_one, items)
+        if description:
+            results = tqdm(results, total=len(items), desc=description)
+        return list(results)
 
 
 def slugify_string(input_string):
@@ -165,12 +217,10 @@ def persist_json_file(data_dict, *json_path_segments):
         json_file.write(json.dumps(data_dict, indent=2, sort_keys=True))
 
 
-grey_list = set()
-
 # These are hand-maintained lists, so they are kept packed rather than one make per line.
 # fmt: off
 # Makes which create "mass market" cars or are otherwise well known
-white_list = {
+WHITE_LIST = {
     "smart", "yugo", "volkwagen", "volvo", "triumph", "toyota", "tesla", "suzuki", "subaru", "spyker",
     "saturn", "saab", "rolls_royce", "ram", "porsche", "pontiac", "plymouth", "peterbilt", "peugeot",
     "oldsmobile", "nissan", "mitsubishi", "mercury", "mercedes_benz", "mclaren", "mazda", "maybach",
@@ -182,7 +232,7 @@ white_list = {
 }
 
 # This should contain all of the other makes which technically produce cars but which nobody has heard of
-black_list = {
+BLACK_LIST = {
     'sterling_motor_car', 'saw', 'bxr', 'zeligson', 'lancia', 'global_environmental_products_inc',
     'vintage_microbus',
     'ives_motors_corporation_imc', 'phoenix', 'protected_vehicles', 'laforza', 'western_star', 'volvo_truck',
@@ -232,19 +282,25 @@ black_list = {
     'snowblast_sicard_inc', 'classic_sports_cars', 'bakkura_mobility', 'bluecar', 'sf_motors_inc'}
 # fmt: on
 
+# Makes seen in the API that are on neither list.
+grey_list = set()
+
+# Unparseable spec values from the Canadian specs endpoint, tallied and reported once.
+bad_spec_values = Counter()
+
 
 def make_is_whitelisted(make, warn_if_unlisted=False):
     make_slug = make["make_slug"]
-    if make_slug in white_list:
+    if make_slug in WHITE_LIST:
         return True
 
-    if make_slug in black_list:
+    if make_slug in BLACK_LIST:
         return False
 
     if warn_if_unlisted:
-        print(f"ERROR: unrecognized make needs to be whitelisted or blacklisted: {make}")
+        # Only record it here. Printing the whole accumulated set on every miss is quadratic:
+        # /getallmakes returns ~12,300 makes and almost none of them are listed.
         grey_list.add(make_slug)
-        # print(f"Unclassified makes: {grey_list}")
 
     return False
 
@@ -291,7 +347,9 @@ def fetch_vehicle_details(year=None, model=None, make=None):
             elif spec_name not in ["Model", "Make", "WD"]:
                 spec_value = number_regex.sub("", spec_value)
                 if spec_value == "":
-                    print(f"BAD VALUE: {spec.get('Value')}")
+                    # Values like "***" or "NA". Counted rather than printed: one request now
+                    # covers every make, so printing each one buries the rest of the output.
+                    bad_spec_values[spec.get("Value")] += 1
                     spec_value = None
                 else:
                     spec_value = int(spec_value)
@@ -305,6 +363,7 @@ def fetch_vehicle_details(year=None, model=None, make=None):
 
         vehicle_specifications.append(
             {
+                "make_name": raw_data.get("Make"),
                 "model_style": raw_data["Model"],
                 "hood_length_cm": raw_data["A"],
                 "back_length_cm": raw_data["B"],
@@ -347,9 +406,10 @@ def fetch_passenger_makes():
 
 def update_makes_file(target_make=None):
     """
-    Update makes.json with all of the NHTSA makes which currently produces cars or trucks.
+    Update makes_and_models.json with all of the NHTSA makes which currently produce cars or trucks.
 
-    This takes roughly an hour or two to run.
+    Only the make identity is refreshed here. Models and years belong to update_models_files, so
+    they are carried over from the persisted file rather than being reset to empty.
     """
     persisted_makes = load_make_models_json()
     persisted_makes_by_slug = {make["make_slug"]: make for make in persisted_makes}
@@ -368,15 +428,19 @@ def update_makes_file(target_make=None):
             continue
 
         make_slug = make["make_slug"]
-        if make_slug not in persisted_makes_by_slug:
-            if make_slug in white_list:
-                # New make which was not previously known
-                print(f"Adding a new make: {make}")
-                persisted_makes_by_slug[make_slug] = make
-            elif make_slug not in black_list:
-                # Make which is not yet blacklisted
-                possible_new_makes.append(make)
-                print(f"Found an unlisted make which makes passenger vehicles: {make}")
+        persisted_make = persisted_makes_by_slug.get(make_slug)
+        if persisted_make:
+            # Keep whatever update_models_files / update_styles already worked out for this make.
+            persisted_make["make_id"] = make["make_id"]
+            persisted_make["make_name"] = make["make_name"]
+        elif make_slug in WHITE_LIST:
+            # New make which was not previously known
+            print(f"Adding a new make: {make}")
+            persisted_makes_by_slug[make_slug] = make
+        elif make_slug not in BLACK_LIST:
+            # Make which is not yet blacklisted
+            possible_new_makes.append(make)
+            print(f"Found an unlisted make which makes passenger vehicles: {make}")
 
     makes_and_models = sorted(persisted_makes_by_slug.values(), key=lambda make: make["make_slug"])
     persist_json_file(makes_and_models, "data", "makes_and_models.json")
@@ -392,36 +456,42 @@ def load_make_models_json():
 def update_models_files(target_make=None):
     """
     Update makes_and_models.json with the latest of makes and models.
+
+    The bulk of the work is one request per make per year, so those are issued concurrently. Years
+    are collected per model and sorted afterwards, since the requests do not finish in order.
     """
     all_makes = load_make_models_json()
-    for make in tqdm(all_makes):
-        if target_make and make.get("make_slug") != target_make:
-            continue
-        print("=" * 120)
-        print("=" * 120)
-        print(f"Updating Make id={make['make_id']} name={make['make_name']}")
-        print("=" * 120)
-        print("=" * 120)
+    targets = [make for make in all_makes if not target_make or make.get("make_slug") == target_make]
+
+    for make in tqdm(targets, desc="makes"):
         models = fetch_models_for_make_id(make["make_id"])
+
+        # 1981 is the earliest I see any models showing up in the API.
+        model_ids_per_year = _fetch_in_parallel(
+            lambda year, make_id=make["make_id"]: set(fetch_model_ids_for_make_and_year(make_id, year)),
+            YEAR_RANGE,
+        )
+
         first_year = None
         last_year = None
-        print(models)
-
-        for year in YEAR_RANGE:
-            # 1981 is the earliest I see any models showing up in the API.
-            model_ids_in_year = fetch_model_ids_for_make_and_year(make["make_id"], year)
+        for year, model_ids_in_year in zip(YEAR_RANGE, model_ids_per_year):
             if model_ids_in_year:
                 if not first_year:
                     first_year = year
                 last_year = year
 
             for model in models:
-                make["models"][model["model_name"]] = model
                 if model["model_id"] in model_ids_in_year:
                     model["years"].append(year)
+
+        # Rebuild from scratch so that models the API no longer returns get dropped.
+        make["models"] = {}
+        for model in models:
+            model["years"] = sorted(set(model["years"]))
+            make["models"][model["model_name"]] = model
+
         make["first_year"] = first_year
         make["last_year"] = last_year
-        print(models)
 
     persist_json_file(all_makes, "data", "makes_and_models.json")
 
@@ -468,26 +538,64 @@ def choose_matching_model_for_style(model_style_name, model_choices):
     return None
 
 
+def _fetch_styles_by_year(years):
+    """
+    Fetch the Canadian specs for every make, one request per year.
+
+    Passing an empty Make returns every make for that year, so this needs one request per year
+    rather than one per make per year. Returns {year: [detail, ...]}.
+    """
+    details_per_year = _fetch_in_parallel(
+        lambda year: fetch_vehicle_details(year=year),
+        years,
+        description="style years",
+    )
+    return dict(zip(years, details_per_year))
+
+
+def _make_name_matches(make_name, detail_make_name):
+    """
+    Replicate how the API's Make filter behaves, which is a case-insensitive substring match.
+
+    It matters: querying Make=RAM is how the API returns the rows it files under "RAM TRUCKS".
+    """
+    return make_name.upper() in (detail_make_name or "").upper()
+
+
 def update_styles(target_make=None):
     all_makes = load_make_models_json()
     all_orphaned_styles = {}
 
-    for make in tqdm(all_makes):
+    makes_with_years = []
+    for make in all_makes:
         if target_make and make["make_slug"] != target_make:
             continue
         if not (make["first_year"] and make["last_year"]):
             print(f"BAD MAKE missing first_year or last_year: {make}")
             continue
+        makes_with_years.append(make)
+
+    if not makes_with_years:
+        return
+
+    # One request per year covering every make, instead of one per make per year.
+    all_years = range(
+        min(make["first_year"] for make in makes_with_years),
+        max(make["last_year"] for make in makes_with_years) + 1,
+    )
+    details_by_year = _fetch_styles_by_year(all_years)
+
+    for make in makes_with_years:
         model_choices = make["models"].keys()
         all_orphaned_styles[make["make_name"]] = {
             "model_choices": list(model_choices),
             "orphaned_styles": [],
         }
         for year in range(make["first_year"], make["last_year"] + 1):
-            details = fetch_vehicle_details(year=year, make=make["make_name"])
-            for detail in details:
+            for detail in details_by_year[year]:
+                if not _make_name_matches(make["make_name"], detail["make_name"]):
+                    continue
                 model_style_name = detail["model_style"]
-                del detail["model_style"]
 
                 matching_model = choose_matching_model_for_style(model_style_name, model_choices)
                 if matching_model:
@@ -495,29 +603,21 @@ def update_styles(target_make=None):
                     if model_style_name not in model_styles:
                         model_styles[model_style_name] = {
                             "years": [year],
-                            # "details": {year: detail},
                         }
                     else:
                         model_styles[model_style_name]["years"].append(year)
                 else:
                     all_orphaned_styles[make["make_name"]]["orphaned_styles"].append(model_style_name)
-                    print(make["make_name"] + " could not find model style: " + model_style_name)
-
-        print(f"Found orphans for make {make['make_name']}: \n {all_orphaned_styles[make['make_name']]}")
 
         style_data = OrderedDict()
         for model_key in sorted(make["models"]):
             style_data[model_key] = OrderedDict(make["models"][model_key]["model_styles"])
         persist_json_file(style_data, "data", "styles", make["make_slug"] + ".json")
 
-    print("ALL MODELS WE COULD NOT FIND:")
-    for make, values in all_orphaned_styles.items():
-        print(f"For make {make}")
-        print(f"Model choices: {values['model_choices']}")
-        for orphaned_style in values["orphaned_styles"]:
-            print(orphaned_style)
-
-    print(all_orphaned_styles)
+    orphan_count = sum(len(values["orphaned_styles"]) for values in all_orphaned_styles.values())
+    print(f"Could not match {orphan_count} styles to a model. See data/all_orphaned_styles.json.")
+    if bad_spec_values:
+        print(f"Unparseable spec values, by value: {dict(bad_spec_values)}")
     persist_json_file(all_orphaned_styles, "data", "all_orphaned_styles.json")
 
 
@@ -566,6 +666,7 @@ def update_readme():
 
 
 def update_everything():
+    # Order matters: models needs the makes, styles needs the models, the readme counts the lot.
     update_makes_file()
     update_models_files()
     update_styles()
