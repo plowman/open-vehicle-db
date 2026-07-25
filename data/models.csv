@@ -1,0 +1,1679 @@
+make_slug,model_slug,model_name,model_id,vehicle_type,years
+acura,adx,ADX,35664,mpv,2025-2027
+acura,cl,CL,5145,car,"1987-1999,2001-2003"
+acura,ilx,ILX,2150,car,2013-2027
+acura,integra,Integra,5063,car,"1985-2001,2023-2027"
+acura,legend,Legend,5339,car,1986-1995
+acura,mdx,MDX,2147,mpv,2001-2027
+acura,nsx,NSX,5168,car,"1987-2005,2016-2022"
+acura,rdx,RDX,1871,mpv,2007-2027
+acura,rl,RL,1872,car,1987-2012
+acura,rlx,RLX,2149,car,2014-2027
+acura,rsx,RSX,3183,car,2002-2006
+acura,slx,SLX,6004,mpv,1996-1999
+acura,tl,TL,1873,car,1987-2014
+acura,tlx,TLX,5354,car,2015-2027
+acura,tsx,TSX,1874,car,2004-2014
+acura,vigor,Vigor,11495,car,1992-1994
+acura,zdx,ZDX,1867,mpv,"2010-2013,2024-2027"
+alfa_romeo,164,164,9953,car,"1985-1987,1990-1995"
+alfa_romeo,4c,4C,2035,car,2014-2020
+alfa_romeo,8c_competizione_spider,8C Competizione Spider,2344,car,2000-2013
+alfa_romeo,giulia_952,Giulia (952),10326,car,2016-2027
+alfa_romeo,gtv6,GTV6,14330,car,1981-1986
+alfa_romeo,milano,Milano,14328,car,1985-1990
+alfa_romeo,spider,Spider,14326,car,1981-1994
+alfa_romeo,stelvio,Stelvio,18005,mpv,2018-2027
+alfa_romeo,tonale,Tonale,31666,mpv,2024-2027
+am_general,mv_1,MV-1,3667,car,2013-2027
+aston_martin,db11,DB11,13751,car,2017-2024
+aston_martin,db12,DB12,32082,car,2024-2027
+aston_martin,db7,DB7,35163,car,1994-2003
+aston_martin,db9,DB9,1687,car,2005-2016
+aston_martin,dbs,DBS,1686,car,"2009-2012,2019-2024"
+aston_martin,dbx,DBX,27591,mpv,2021-2027
+aston_martin,lagonda,Lagonda,14157,car,"1981-1989,1991-1994"
+aston_martin,rapide,Rapide,1688,car,"2010-2012,2014-2019"
+aston_martin,v12_vantage,V12 Vantage,1695,car,"2011-2013,2015-2018"
+aston_martin,v8,V8,14164,car,1981-1989
+aston_martin,v8_vantage,V8 Vantage,1684,car,"1981-1989,2009-2018"
+aston_martin,valhalla,Valhalla,36621,car,2026-2027
+aston_martin,valiant,Valiant,35216,car,2024-2026
+aston_martin,valour,Valour,33264,car,2024
+aston_martin,vanquish,Vanquish,1701,car,"2001-2007,2014-2018,2025-2027"
+aston_martin,vanquish_zagato,Vanquish Zagato,19610,car,2018-2019
+aston_martin,vantage,Vantage,14162,car,"2006-2008,2019-2027"
+aston_martin,virage,Virage,1697,car,"1990-1994,2012"
+audi,100,100,8057,car,1989-1994
+audi,200,200,14343,car,1989-1991
+audi,4000,4000,14337,car,1981-1987
+audi,5000,5000,14336,car,1981-1988
+audi,80,80,14342,car,1988-1991
+audi,90,90,8056,car,1988-1995
+audi,a3,A3,3676,mpv,"2006-2013,2015-2020,2022-2027"
+audi,a4,A4,3146,mpv,1996-2027
+audi,a4_allroad,A4 allroad,13759,mpv,2013-2027
+audi,a5,A5,3787,mpv,2008-2027
+audi,a6,A6,3148,mpv,1995-2027
+audi,a6_allroad,A6 allroad,27028,car,2020-2026
+audi,a7,A7,4015,car,2012-2025
+audi,a7_e,A7 e,34061,car,2021-2022
+audi,a8,A8,3151,mpv,1997-2020
+audi,a8_e,A8 e,27122,car,2020
+audi,a8_l,A8 L,29708,car,2021-2027
+audi,a8_l_e,A8 L e,34062,car,2021
+audi,allroad,allroad,3150,mpv,2001-2005
+audi,cabriolet,Cabriolet,8059,car,1992-1998
+audi,coupe,Coupe,14348,car,1990-1991
+audi,e_tron,e-tron,25874,mpv,"2019,2021-2023"
+audi,e_tron_gt,e-tron GT,29994,car,2022-2027
+audi,e_tron_sportback,e-tron Sportback,27819,mpv,2020-2022
+audi,q3,Q3,4051,mpv,2015-2027
+audi,q4,Q4,29351,mpv,2022-2027
+audi,q5,Q5,3862,mpv,2009-2027
+audi,q5_e,Q5 e,27029,mpv,"2020-2021,2023-2025"
+audi,q6,Q6,34850,mpv,2025-2027
+audi,q7,Q7,3679,mpv,"2007-2015,2017-2027"
+audi,q8,Q8,25317,mpv,2019-2027
+audi,r8,R8,3789,mpv,"2008-2012,2014-2018,2020-2023"
+audi,rs_3,RS 3,16783,car,"2017-2020,2022-2027"
+audi,rs_4,RS 4,3675,mpv,2007-2008
+audi,rs_5,RS 5,4014,car,"2013-2015,2018-2019,2021-2025"
+audi,rs_6,RS 6,3149,mpv,2003-2004
+audi,rs_6_avant,RS 6 Avant,35165,car,2021-2026
+audi,rs_7,RS 7,8685,car,"2014-2018,2021-2027"
+audi,rs_e_tron_gt,RS e-tron GT,28998,car,2022-2027
+audi,rs_q8,RS Q8,27403,mpv,2020-2027
+audi,s3,S3,8173,car,"2015-2020,2022-2027"
+audi,s4,S4,3147,mpv,"1992-1994,2000-2002,2004-2016,2018-2027"
+audi,s5,S5,3788,mpv,2008-2027
+audi,s6,S6,3677,mpv,"1995-1997,2002-2003,2007-2011,2013-2018,2020-2025,2027"
+audi,s7,S7,8258,car,"2013-2018,2020-2025"
+audi,s8,S8,3678,mpv,"2001-2003,2007-2009,2013-2018,2020-2027"
+audi,s_e_tron_gt,S e-tron GT,35659,car,2025-2027
+audi,sq5,SQ5,4052,mpv,2014-2027
+audi,sq6,SQ6,34851,mpv,2025-2027
+audi,sq7,SQ7,27401,mpv,2020-2027
+audi,sq8,SQ8,27402,mpv,2020-2027
+audi,tt,TT,3145,mpv,"2000-2006,2008-2023"
+audi,tt_rs,TT RS,4016,car,"2013-2014,2018-2022"
+audi,tts,TTS,3861,car,2009-2023
+audi,v8,V8,8058,car,1991-1994
+bentley,armoured_arnage,ARMOURED ARNAGE,13081,car,2004-2009
+bentley,arnage,Arnage,9829,car,1999-2009
+bentley,azure,Azure,9789,car,1996-2010
+bentley,bentayga,Bentayga,14006,mpv,2017-2027
+bentley,brooklands,Brooklands,9788,car,"1993-1998,2009-2010"
+bentley,continental,Continental,33783,car,1984-2027
+bentley,eight,Eight,9824,car,1987-1992
+bentley,flying_spur,Flying Spur,9823,car,2014-2027
+bentley,mulsanne,Mulsanne,9822,car,"1984-1992,2011-2020"
+bentley,roll_royce_silver_seraph,Roll Royce Silver Seraph,13192,car,2009
+bentley,rolls_royce_park_ward,Rolls-Royce Park Ward,13193,car,2009
+bentley,turbo,Turbo,9791,car,1989-1998
+bmw,128i,128i,1707,mpv,2008-2014
+bmw,135i,135i,1708,mpv,2008-2014
+bmw,1m,1M,1970,car,2011
+bmw,228,228,35528,car,2026-2027
+bmw,228i,228i,2170,car,"2014-2018,2020-2025"
+bmw,230i,230i,13825,car,2017-2026
+bmw,318i,318i,5178,car,"1981-1985,1990-1998"
+bmw,318ic,318iC,5186,car,"1981-1985,1990-1996"
+bmw,318is,318iS,5185,car,"1981-1985,1990-1996"
+bmw,318ti,318ti,5217,car,"1981-1987,1990-1996,1999-2000"
+bmw,320i,320i,2172,car,"1981-1983,1987,2013-2018"
+bmw,323i,323i,5253,car,1999-2000
+bmw,323ic,323iC,5255,car,1998-2000
+bmw,323is,323is,5254,car,1998-2000
+bmw,325325e,325/325e,13431,car,1985-1988
+bmw,325325es,325/325eS,33706,car,1986-1988
+bmw,325ci,325Ci,2762,mpv,2000-2006
+bmw,325i,325i,2764,mpv,"1987-1995,2001-2006"
+bmw,325i325is,325i/325is,13459,car,1989
+bmw,325ic,325iC,5190,car,1987-1995
+bmw,325is,325iS,5187,car,"1987-1988,1990-1995"
+bmw,325ix,325ix,13429,car,"1986,1988-1991"
+bmw,325xi,325xi,2765,mpv,2002-2006
+bmw,328ci,328Ci,10587,car,1999-2000
+bmw,328d,328d,2173,car,2014-2018
+bmw,328i,328i,1709,mpv,"1996-2000,2007-2016"
+bmw,328ic,328iC,5237,car,1996-2000
+bmw,328is,328iS,5238,car,1996-2000
+bmw,328xi,328xi,2377,mpv,2007-2008
+bmw,330ci,330Ci,2763,mpv,2001-2006
+bmw,330e,330e,9569,car,"2016-2018,2021-2024"
+bmw,330i,330i,2777,mpv,"2001-2006,2017-2026"
+bmw,330xi,330xi,2778,mpv,2002-2006
+bmw,335,335,9253,car,2014
+bmw,335d,335d,1713,mpv,2009-2011
+bmw,335i,335i,1711,mpv,2007-2017
+bmw,335is,335is,1712,car,2011-2015
+bmw,335xi,335xi,2378,mpv,2007-2008
+bmw,340i,340i,9568,car,"2016-2019,2023-2024"
+bmw,428i,428i,2220,car,2014-2016
+bmw,430i,430i,13827,car,2017-2027
+bmw,435i,435i,2230,car,2014-2016
+bmw,440i,440i,13828,car,2017-2020
+bmw,524td,524td,13442,car,1981-1986
+bmw,525i,525i,2584,mpv,"1989-1995,2001-2007"
+bmw,525ia,525iA,5343,car,2003
+bmw,525xi,525xi,2587,mpv,2006-2007
+bmw,528e,528e,13448,car,1981-1988
+bmw,528i,528i,1715,mpv,"1981,1997-2000,2008-2016"
+bmw,528xi,528xi,1730,mpv,"2008,2012-2013"
+bmw,530e,530e,20813,car,2018-2023
+bmw,530i,530i,2585,mpv,"1994-1995,2001-2007,2017-2027"
+bmw,530ia,530iA,5347,car,2003
+bmw,530xi,530xi,2586,mpv,2006-2007
+bmw,533i,533i,14503,car,1981-1984
+bmw,535d,535d,2231,car,2014-2016
+bmw,535i,535i,1716,mpv,"1985,1987-1993,2008-2017"
+bmw,535i535is,535i/535is,13438,car,1986-1988
+bmw,535xi,535xi,2376,mpv,2008
+bmw,540d,540d,20811,car,2018-2019
+bmw,540i,540i,5195,car,"1994-1995,1997-2003,2017-2027"
+bmw,540ia,540iA,5348,car,2003
+bmw,545i,545i,3051,mpv,2004-2005
+bmw,550e,550e,34628,car,2025-2027
+bmw,550i,550i,1718,mpv,2006-2017
+bmw,633_csi,633 csi,14504,car,1981-1984
+bmw,635csi,635CSi,13437,car,1981-1989
+bmw,640i,640i,1731,car,2012-2019
+bmw,640xi,640xi,24944,car,2018-2019
+bmw,645ci,645Ci,3052,mpv,2004-2005
+bmw,645i,645i,5384,mpv,2004
+bmw,650i,650i,1732,mpv,"2006-2010,2012-2019"
+bmw,650i_alpina_b6,"650i, Alpina B6",21787,car,2015-2016
+bmw,650i_b6,"650i, B6",21793,car,2017-2019
+bmw,650xi,650xi,1733,car,2012-2015
+bmw,730i,730i,19172,car,1994
+bmw,733i,733i,14505,car,1981-1984
+bmw,735i,735i,13425,car,1981-1992
+bmw,735il,735iL,13426,car,"1981-1986,1988-1992"
+bmw,740e,740e,13835,car,2017-2019
+bmw,740i,740i,1720,car,"1993-1995,1997-2001,2011-2021,2023-2027"
+bmw,740il,740iL,9452,car,1993-2001
+bmw,740li,740Li,1721,car,"2011-2015,2022"
+bmw,745e,745e,26482,car,2020-2021
+bmw,745i,745i,3054,mpv,2002-2005
+bmw,745le,745Le,29051,car,2022
+bmw,745li,745Li,3055,mpv,2002-2005
+bmw,750e,750e,32327,car,2024-2026
+bmw,750i,750i,1722,mpv,"2001,2006-2016,2018-2022"
+bmw,750i_alpina_b7,"750i, Alpina B7",13868,car,2012-2015
+bmw,750i_b7,"750i, B7",21792,car,2017-2019
+bmw,750il,750iL,9453,car,1988-1999
+bmw,750li,750Li,1723,mpv,"2000,2006-2015,2022"
+bmw,750li_alpina_b7,"750Li, Alpina B7",21788,car,2012-2015
+bmw,750lxi,750Lxi,1728,mpv,"2010-2011,2013-2015"
+bmw,750lxi_alpina_b7,"750Lxi, Alpina B7",21790,car,2012
+bmw,750xi,750xi,1727,mpv,"2010-2011,2013-2015"
+bmw,750xi_alpina_b7,"750xi, Alpina B7",21791,car,2012
+bmw,760i,760i,2804,mpv,"2005-2006,2023-2026"
+bmw,760li,760Li,1724,mpv,"2003-2008,2010-2015"
+bmw,840ci,840Ci,5198,car,1981-1996
+bmw,840i,840i,26483,car,2020-2026
+bmw,850ci,850Ci,5199,car,1981-1996
+bmw,850csi,850CSi,5200,car,1981-1995
+bmw,850i,850i,13427,car,"1991-1992,2019"
+bmw,activee,ActiveE,1971,car,2012
+bmw,activehybrid_3,ActiveHybrid 3,2219,car,2014-2015
+bmw,activehybrid_5,ActiveHybrid 5,2240,car,"2012-2016,2018"
+bmw,activehybrid_7,ActiveHybrid 7,31534,car,2014-2015
+bmw,alpina,Alpina,5355,car,2003
+bmw,alpina_b8,Alpina B8,31653,car,2022-2025
+bmw,b7,B7,13834,car,2019-2022
+bmw,i3,i3,2178,car,2014-2021
+bmw,i4,i4,29579,car,2022-2026
+bmw,i5,i5,32328,car,2024-2027
+bmw,i7,i7,30512,car,2023-2027
+bmw,i8,i8,2179,car,"2014-2017,2019-2020"
+bmw,ix,iX,29578,mpv,2022-2027
+bmw,l7,L7,13439,car,1981-1988
+bmw,m2,M2,9567,car,2016-2027
+bmw,m235,M235,36379,car,2025-2027
+bmw,m235i,M235i,2171,car,"2014-2016,2020-2024"
+bmw,m240i,M240i,13826,car,2017-2027
+bmw,m3,M3,1710,car,"1988-1991,1995-1999,2001-2006,2008-2013,2015-2018,2021-2027"
+bmw,m340i,M340i,26481,car,2020-2026
+bmw,m3ci,M3Ci,9459,car,2001-2006
+bmw,m4,M4,9570,car,2015-2027
+bmw,m440i,M440i,28100,car,2021-2027
+bmw,m5,M5,2024,car,"1988,1991-1993,2000-2003,2006-2010,2013-2023,2025-2027"
+bmw,m550i,M550i,20814,car,2018-2023
+bmw,m6,M6,1729,car,"1981-1988,2006-2010,2012-2019"
+bmw,m760i,M760i,20815,car,2017-2021
+bmw,m760li,M760Li,29050,car,2022
+bmw,m8,M8,26485,car,2020-2025
+bmw,m850i,M850i,26484,car,2020-2026
+bmw,x1,X1,2300,mpv,2012-2027
+bmw,x2,X2,24940,mpv,2018-2027
+bmw,x3,X3,1719,mpv,2004-2027
+bmw,x4,X4,5992,mpv,2015-2025
+bmw,x5,X5,1717,mpv,2000-2026
+bmw,x6,X6,1714,mpv,2008-2027
+bmw,x7,X7,25884,mpv,2019-2027
+bmw,xm,XM,30516,mpv,2023-2027
+bmw,z3,Z3,5239,car,1996-2002
+bmw,z4,Z4,1725,mpv,"2003-2016,2019-2026"
+bmw,z8,Z8,5324,car,2001-2003
+bugatti,chiron,Chiron,19517,car,2018-2024
+bugatti,chiron_pur_sport,Chiron Pur Sport,32270,car,2020-2024
+bugatti,chiron_supersport,Chiron Supersport,32271,car,2020-2024
+bugatti,eb110,EB110,23703,car,1994-2027
+bugatti,mistral,Mistral,35729,car,2025-2027
+bugatti,veyron,Veyron,1734,car,2005-2017
+buick,allure,Allure,4287,car,2005-2009
+buick,cascada,Cascada,10290,car,2016-2019
+buick,century,Century,8843,car,1981-2005
+buick,coachbuilder,Coachbuilder,9119,car,1990-1996
+buick,electra,Electra,14422,car,1981-1990
+buick,enclave,Enclave,1841,mpv,2007-2027
+buick,encore,Encore,1842,mpv,2013-2027
+buick,encore_gx,Encore GX,26604,mpv,2020-2027
+buick,envision,Envision,11438,mpv,2016-2027
+buick,envista,Envista,32036,mpv,2024-2027
+buick,incomplete,Incomplete,9026,mpv,2001
+buick,lacrosse,LaCrosse,1821,car,2005-2019
+buick,lesabre,LeSabre,8842,car,1981-2005
+buick,lucerne,Lucerne,4267,car,2006-2011
+buick,park_avenue,Park Avenue,8841,car,1991-2005
+buick,rainier,Rainier,4954,mpv,2004-2007
+buick,reatta,Reatta,14362,car,1988-1991
+buick,regal,Regal,1822,car,"1981-2004,2011-2020"
+buick,regal_tourx,Regal TourX,17844,car,2018-2020
+buick,rendezvous,Rendezvous,4955,mpv,2001-2007
+buick,riviera,Riviera,9069,car,"1981-1993,1995-1999"
+buick,roadmaster,Roadmaster,9120,car,1990-1996
+buick,skyhawk,Skyhawk,14466,car,1981-1990
+buick,skylark,Skylark,9090,car,1981-1998
+buick,somerset,Somerset,14486,car,1985-1987
+buick,terraza,Terraza,4953,mpv,2005-2007
+buick,verano,Verano,1823,car,2012-2017
+cadillac,60_special,60 Special,14182,car,1991-1993
+cadillac,allante,Allante,14183,car,1987-1993
+cadillac,ats,ATS,1824,car,2013-2019
+cadillac,brougham,Brougham,14185,car,1987-1992
+cadillac,catera,Catera,9023,car,1997-2001
+cadillac,celestiq,Celestiq,34303,car,2025-2027
+cadillac,cimarron,Cimarron,14487,car,1981-1988
+cadillac,commercial_chassis,Commercial Chassis,9121,car,"1985,1989-2001"
+cadillac,ct4,CT4,26602,car,2020-2027
+cadillac,ct5,CT5,26603,car,2020-2027
+cadillac,ct6,CT6,10297,car,2016-2020
+cadillac,cts,CTS,1825,car,2003-2019
+cadillac,deville,Deville,8844,car,1981-2005
+cadillac,dts,DTS,4308,car,2006-2011
+cadillac,eldorado,Eldorado,8989,car,1981-2002
+cadillac,elr,ELR,1826,car,2014-2027
+cadillac,escalade,Escalade,1843,mpv,1999-2027
+cadillac,escalade_esv,Escalade ESV,4935,mpv,2017-2027
+cadillac,escalade_iq,Escalade IQ,34058,mpv,2025-2027
+cadillac,escalade_iql,Escalade IQL,35680,mpv,2026-2027
+cadillac,fleetwood,Fleetwood,9122,car,1981-1996
+cadillac,hearse,Hearse,4593,mpv,1997-2011
+cadillac,limousine,Limousine,4592,mpv,1998-2011
+cadillac,lyriq,Lyriq,30011,mpv,2023-2027
+cadillac,optiq,Optiq,34854,mpv,2025-2027
+cadillac,seville,Seville,9091,car,1981-2004
+cadillac,srx,SRX,1844,mpv,2004-2027
+cadillac,sts,STS,4300,car,2005-2011
+cadillac,vistiq,Vistiq,35294,mpv,2026-2027
+cadillac,xlr,XLR,4311,car,2003-2009
+cadillac,xt4,XT4,24948,mpv,2019-2027
+cadillac,xt5,XT5,11442,mpv,2017-2027
+cadillac,xt6,XT6,25856,mpv,2020-2027
+cadillac,xts,XTS,1827,car,2013-2019
+chevrolet,3_ton,3 ton,8881,mpv,2001-2004
+chevrolet,alero,Alero,9088,car,1999
+chevrolet,aluminum_tilt,Aluminum Tilt,14619,truck,1981-1988
+chevrolet,astro_van,Astro Van,8882,mpv,1985-2005
+chevrolet,avalanche,Avalanche,3876,mpv,2002-2013
+chevrolet,aveo,Aveo,1828,car,2004-2027
+chevrolet,b7,B7,9016,truck,1991-2002
+chevrolet,beretta,Beretta,9117,mpv,1985-1996
+chevrolet,blazer,Blazer,11502,mpv,"1981-2005,2019-2027"
+chevrolet,bolt,Bolt,36838,car,2027
+chevrolet,bolt_euv,Bolt EUV,30005,car,2022-2023
+chevrolet,bolt_ev,Bolt EV,13672,car,2017-2023
+chevrolet,brightdrop,BrightDrop,34740,truck,2025-2027
+chevrolet,bus_chassis,Bus Chassis,14616,truck,1981-1988
+chevrolet,c5,C5,14034,truck,"1981-1996,2003-2009"
+chevrolet,c6,C6,14035,truck,1981-2009
+chevrolet,c7,C7,14036,truck,1981-2009
+chevrolet,camaro,Camaro,1829,mpv,"1981-2002,2010-2027"
+chevrolet,caprice,Caprice,9115,mpv,1981-1996
+chevrolet,caprice_police_vehicle,Caprice Police Vehicle,1830,car,2011-2027
+chevrolet,captiva_sport,Captiva Sport,1846,mpv,2010-2027
+chevrolet,cavalier,Cavalier,8834,mpv,1981-2005
+chevrolet,celebrity,Celebrity,14460,car,1984-1990
+chevrolet,chevette,Chevette,14475,car,1981-1987
+chevrolet,citation,Citation,14547,car,1981-1985
+chevrolet,city_express,City Express,1921,truck,2015-2018
+chevrolet,ck_pickup,C/K Pickup,11489,truck,"1981-1986,2003-2006"
+chevrolet,cobalt,Cobalt,4234,car,2005-2010
+chevrolet,colorado,Colorado,4086,truck,"2004-2012,2015-2027"
+chevrolet,corsica,Corsica,9116,mpv,1985-1996
+chevrolet,corvette,Corvette,1831,mpv,"1981-1982,1984-2027"
+chevrolet,cruze,Cruze,1832,car,2010-2027
+chevrolet,cruze_limited,Cruze Limited,34069,car,2016
+chevrolet,cutaway_chassis,Cutaway Chassis,14464,truck,1990-1997
+chevrolet,el_camino,El Camino,14637,truck,1981-1988
+chevrolet,epica,Epica,4992,car,2004-2006
+chevrolet,equinox,Equinox,1847,mpv,2005-2027
+chevrolet,express,Express,1848,mpv,1997-2027
+chevrolet,forward_control,Forward Control,10983,truck,1981-1990
+chevrolet,g_series,G-Series,14462,mpv,1981-1996
+chevrolet,geo_prizm,Geo Prizm,3531,car,1998-2027
+chevrolet,geo_spectrum,Geo Spectrum,14461,car,1985-1989
+chevrolet,geo_sprint,Geo Sprint,14513,car,1985-1988
+chevrolet,gmt_400,GMT-400,10978,mpv,1987-2002
+chevrolet,hearselimo,Hearse/Limo,9139,mpv,1995
+chevrolet,hearselimo_commercial_chassis,Hearse/Limo Commercial Chassis,14166,car,1985-1993
+chevrolet,heavy_conventional,Heavy Conventional,14617,truck,1981-1988
+chevrolet,hhr,HHR,4586,mpv,2006-2011
+chevrolet,hi_cube,Hi-Cube,14501,truck,1992-1994
+chevrolet,impala,Impala,1833,car,"1981-1985,2000-2027"
+chevrolet,impala_limited,Impala Limited,13634,car,2014-2016
+chevrolet,kalos,Kalos,4255,car,2008
+chevrolet,lumina,Lumina,9064,mpv,1990-2001
+chevrolet,lumina_apv,Lumina APV,11497,mpv,1990-1996
+chevrolet,luv,LUV,15634,truck,1981-1982
+chevrolet,malibu,Malibu,1834,car,"1981-1983,1997-2027"
+chevrolet,malibu_classic,Malibu Classic,17528,car,2004-2005
+chevrolet,malibu_limited,Malibu Limited,34272,car,2016
+chevrolet,matiz,Matiz,4047,car,"2004-2006,2008,2012"
+chevrolet,metro,Metro,10043,car,1998-2001
+chevrolet,military_truck,Military Truck,10979,truck,1983-1987
+chevrolet,monte_carlo,Monte Carlo,4773,mpv,"1981-1988,1995-2007"
+chevrolet,motorhome_chassis,Motorhome Chassis,14465,truck,1990-1999
+chevrolet,nova,Nova,14515,car,1985-1988
+chevrolet,onix,Onix,27445,car,2021-2027
+chevrolet,optra,Optra,4251,car,2004-2009
+chevrolet,orlando,Orlando,1849,mpv,2009-2027
+chevrolet,p6s,P6S,14452,truck,1991-1996
+chevrolet,p___series,P - Series,11491,mpv,1981-1994
+chevrolet,r_conventional,R Conventional,14545,mpv,1987-1991
+chevrolet,s6,S6,14544,truck,1989-1991
+chevrolet,s7,S7,14506,truck,1989-1993
+chevrolet,s_10_blazer,S-10 Blazer,14457,truck,"1982-1995,1999-2000"
+chevrolet,s_10_pickup,S-10 Pickup,11483,mpv,1982-2005
+chevrolet,silverado,Silverado,1850,mpv,1999-2027
+chevrolet,silverado_hd,Silverado HD,24906,truck,2019-2027
+chevrolet,silverado_ld,Silverado LD,25279,truck,2019-2027
+chevrolet,silverado_ltd,Silverado LTD,29076,truck,2022-2027
+chevrolet,sonic,Sonic,1835,car,2012-2027
+chevrolet,spark,Spark,1836,car,"2008,2011-2027"
+chevrolet,ss,SS,1837,car,2014-2027
+chevrolet,ssr,SSR,4889,truck,2003-2006
+chevrolet,suburban,Suburban,1851,mpv,1981-2027
+chevrolet,suburban_hd,Suburban HD,35053,mpv,2024-2027
+chevrolet,tahoe,Tahoe,1852,mpv,1995-2027
+chevrolet,tracker,Tracker,1854,mpv,"1995-2004,2016-2020"
+chevrolet,trailblazer,Trailblazer,4548,mpv,"2002-2009,2021-2027"
+chevrolet,traverse,Traverse,1853,mpv,2009-2027
+chevrolet,traverse_limited,Traverse Limited,33684,mpv,2024-2027
+chevrolet,trax,Trax,10988,mpv,2013-2027
+chevrolet,u100,U100,8835,car,2004-2005
+chevrolet,uplander,Uplander,4588,mpv,2005-2009
+chevrolet,v_conventional,V Conventional,14546,mpv,1987-1991
+chevrolet,venture,Venture,8883,mpv,1997-2005
+chevrolet,volt,Volt,1838,car,2011-2027
+chrysler,200,200,2053,car,2011-2017
+chrysler,300,300,1878,car,1999-2027
+chrysler,300c,300C,25754,car,2005-2011
+chrysler,aspen,Aspen,3629,mpv,2007-2009
+chrysler,cirrus,Cirrus,1876,car,"1995-2000,2006"
+chrysler,concorde,Concorde,5875,car,1993-2004
+chrysler,concordelhs,Concorde/LHS,14345,car,1995
+chrysler,conquest,Conquest,14439,car,1987-1989
+chrysler,cordoba,Cordoba,14699,car,1981-1983
+chrysler,crossfire,Crossfire,3598,car,2004-2008
+chrysler,daytona,Daytona,14371,car,1984-1993
+chrysler,dynasty,Dynasty,14372,car,"1981-1986,1989-1993"
+chrysler,e_class,E-CLASS,14575,car,1981-1984
+chrysler,executive,EXECUTIVE,14574,car,1981-1984
+chrysler,fifth_avenue,FIFTH AVENUE,14413,car,1984-1989
+chrysler,grand_caravan,Grand Caravan,27830,mpv,2021-2027
+chrysler,grand_voyager,Grand Voyager,1937,mpv,2000
+chrysler,imperial,Imperial,14373,car,"1981-1983,1990-1993"
+chrysler,intrepid,Intrepid,5876,car,1993-2003
+chrysler,laser,Laser,14411,car,1981-1986
+chrysler,lebaron,LeBaron,14344,car,1981-1995
+chrysler,lhs,LHS,6475,car,"1994-1997,1999-2001"
+chrysler,neon,Neon,6485,car,1995-2002
+chrysler,new_yorker,New Yorker,6470,car,1981-1997
+chrysler,newport,NEWPORT,14412,car,1981-1988
+chrysler,pacifica,Pacifica,3628,mpv,"2004-2009,2017-2027"
+chrysler,prowler,Prowler,6813,car,2001-2002
+chrysler,pt_cruiser,PT Cruiser,3595,mpv,1995-2010
+chrysler,salon,SALON,14400,car,"1981,1983-1988,1990"
+chrysler,sebring,Sebring,1877,car,1995-2010
+chrysler,shadow,Shadow,6488,car,"1987-1988,1991-1994"
+chrysler,stratus,Stratus,6480,car,"1984-1986,1995-1997"
+chrysler,tc,TC,14338,car,1989-1991
+chrysler,town_and_country,Town and Country,1936,mpv,1990-2016
+chrysler,viper,Viper,6483,car,"1984-1988,1991-1997"
+chrysler,vision,Vision,6476,car,"1984-1988,1991-1997"
+chrysler,voyager,Voyager,15131,mpv,"1995-2003,2008-2009,2020-2026"
+daewoo,g2x,G2X,26519,car,2008
+daewoo,laganza_v_car,Laganza V-car,23793,car,2003-2007
+daewoo,lanos,LANOS,14902,car,1997-2002
+daewoo,leganza,LEGANZA,14904,car,1997-2002
+daewoo,leganza_v_200__variantsderivatives,Leganza V-200 & variants/derivatives,23794,car,2003-2007
+daewoo,nubira,NUBIRA,14903,car,1997-2002
+daihatsu,charade,Charade,12954,car,1985-2027
+daihatsu,rocky,Rocky,12955,mpv,1989-2027
+daimler,ds,DS,27193,truck,2019-2027
+daimler,dt,DT,27192,truck,2019-2027
+datsun,210,210,14563,car,1981-1982
+datsun,280zx,280ZX,14567,car,1981-1983
+datsun,310,310,14564,car,1981-1982
+datsun,510,510,14565,car,1981
+delorean,dmc_12,DMC-12,34304,car,1981-1986
+dodge,400,400,14766,car,1981-1983
+dodge,600,600,14416,car,1981-1988
+dodge,aries,ARIES,14415,car,1981-1989
+dodge,avenger,Avenger,1892,car,"1995-2000,2007-2014"
+dodge,caliber,Caliber,1896,car,2006-2012
+dodge,caravan,Caravan,14831,mpv,"1984-1995,2002,2004"
+dodge,caravangrand_caravan,Caravan/Grand Caravan,1942,mpv,"1995-2001,2003,2005-2008"
+dodge,challenger,Challenger,1893,car,"1981-1983,2008-2027"
+dodge,charger,Charger,1895,car,"1983-1987,2006-2027"
+dodge,colt,Colt,6250,mpv,"1981-1983,1985-1995"
+dodge,conquest,Conquest,14419,mpv,"1981-1983,1985-1988"
+dodge,d50,D50,15056,truck,1981-1986
+dodge,d_series,D-Series,14868,mpv,1981-1993
+dodge,dakota,Dakota,1941,mpv,1987-2012
+dodge,dart,Dart,2054,car,2013-2016
+dodge,daytona,Daytona,14376,car,1984-1993
+dodge,diplomat,DIPLOMAT,14417,car,1981-1989
+dodge,durango,Durango,3508,mpv,"1995-2009,2011-2027"
+dodge,dynasty,Dynasty,14375,car,1981-1993
+dodge,grand_caravan,Grand Caravan,14832,mpv,"1988-1994,2002,2004,2009-2023"
+dodge,hornet,Hornet,30576,mpv,2023-2027
+dodge,intrepid,Intrepid,5878,car,1993-2004
+dodge,journey,Journey,1939,mpv,2009-2023
+dodge,lancer,LANCER,14418,car,"1981,1984-1989"
+dodge,magnum,Magnum,3680,mpv,2005-2008
+dodge,mini_ram,Mini Ram,14969,mpv,1984-1988
+dodge,mirada,Mirada,14767,car,1981-1983
+dodge,monaco,Monaco,14389,car,"1981-1988,1990-1992"
+dodge,neon,Neon,5880,car,1994-2005
+dodge,nitro,Nitro,1940,mpv,2007-2012
+dodge,omni,OMNI,14402,car,1981-1990
+dodge,raider,Raider,14939,mpv,1985-1989
+dodge,ram,Ram,1938,mpv,1994-2012
+dodge,ram_50,RAM 50,14864,truck,1987-1993
+dodge,ram_chassis_cab,Ram Chassis Cab,1958,mpv,"1981-2002,2007-2012"
+dodge,ram_van,Ram Van,10962,mpv,1981-2003
+dodge,ram_wagon,Ram Wagon,10963,mpv,1981-2003
+dodge,ramcharger,Ramcharger,6356,mpv,"1981-1993,1996-1997"
+dodge,rampage,Rampage,15083,truck,1982-1984
+dodge,rd200__rd250,RD200 / RD250,15124,truck,1981
+dodge,royal_mini_ram_van,Royal Mini Ram Van,15003,truck,1984-1987
+dodge,shadow,Shadow,14363,car,1987-1994
+dodge,shelby_charger,Shelby Charger,14414,car,1983-1988
+dodge,spirit,Spirit,14351,car,1989-1995
+dodge,sprinter,Sprinter,3121,mpv,2005-2009
+dodge,stealth,Stealth,6254,car,1991-1996
+dodge,stratus,Stratus,5879,car,1995-2006
+dodge,stregis,ST.REGIS,14772,car,1981
+dodge,viper,Viper,1897,car,"1992-2006,2008-2010,2013-2017"
+dodge,w_series,W-Series,14869,mpv,1981-1993
+ferrari,12cilindri,12Cilindri,34095,car,2025-2027
+ferrari,296,296,31868,car,2022-2026
+ferrari,296_speciale,296 Speciale,38032,car,2026-2027
+ferrari,296_speciale_a,296 Speciale A,38033,car,2026-2027
+ferrari,308_convertible,308 Convertible,14056,car,1985
+ferrari,308gtb,308GTB,14600,car,1981
+ferrari,308gtb_quattrovalvole,308GTB Quattrovalvole,14052,car,1985
+ferrari,308gtbi,308GTBi,14598,car,1981-1984
+ferrari,308gts,308GTS,14601,car,1981
+ferrari,308gts_quattrovalvole,308GTS Quattrovalvole,14053,car,1985
+ferrari,308gtsi,308GTSi,14599,car,1981-1984
+ferrari,328,328,14050,car,1986-1989
+ferrari,328_gtb,328 GTB,14047,car,1986-1989
+ferrari,328_gts,328 GTS,14048,car,1986-1989
+ferrari,32_mondial,3.2 Mondial,14049,car,1985-1989
+ferrari,348_spider,348 Spider,14026,car,1994-1995
+ferrari,348_tb,348 tb,14016,car,1990-1995
+ferrari,348_ts,348 ts,14017,car,1990-1995
+ferrari,355_berlinetta,355 Berlinetta,14024,car,"1995,1997"
+ferrari,355_gts,355 GTS,14025,car,"1995,1997"
+ferrari,355_spider,355 Spider,14028,car,"1995,1997"
+ferrari,360,360,9940,car,2000-2005
+ferrari,430,430,3606,car,2007-2009
+ferrari,456,456,14027,car,1995-1999
+ferrari,456m,456M,9942,car,2000-2003
+ferrari,458,458,13855,car,2010-2017
+ferrari,458_italia,458 Italia,13852,car,2010-2017
+ferrari,488,488,26486,car,2016-2020
+ferrari,512_tr,512 TR,14020,car,1993-1995
+ferrari,550_barchetta,550 Barchetta,31833,car,2001
+ferrari,550_maranello,550 Maranello,9957,car,1997-2001
+ferrari,575m_maranello,575M Maranello,9941,car,2002-2005
+ferrari,599,599,3603,car,"2006,2010-2011"
+ferrari,599_gtb_fiorano,599 GTB Fiorano,3605,car,2007-2011
+ferrari,612_scaglietti,612 Scaglietti,3601,car,2005-2011
+ferrari,812,812,27823,car,2017-2024
+ferrari,849_testarossa,849 Testarossa,38031,car,2026-2027
+ferrari,amalfi,Amalfi,38116,car,2027
+ferrari,california,California,13856,car,2010-2014
+ferrari,california_t,California T,13849,car,2010-2018
+ferrari,challenge_stradale,Challenge Stradale,31617,car,2004
+ferrari,daytona_sp3,Daytona SP3,31866,car,2023-2025
+ferrari,enzo,Enzo,9944,car,2003
+ferrari,f12_berlinetta,F12 Berlinetta,13843,car,2010-2017
+ferrari,f12_special_series,F12 Special Series,14113,car,2016
+ferrari,f12_tdf_tour_de_france,F12 tdf (Tour de France),25180,car,2017
+ferrari,f355,F355,9954,car,"1996,1998-1999"
+ferrari,f40,F40,14039,car,1991-1992
+ferrari,f430,F430,3607,car,2006-2009
+ferrari,f50,F50,31836,car,1996
+ferrari,f60_america,F60 America,14114,car,2016
+ferrari,f8,F8,27825,car,2020-2023
+ferrari,f80,F80,38030,car,2026-2027
+ferrari,ff,FF,13850,car,2010-2016
+ferrari,gtc4lusso,GTC4Lusso,25181,car,2017-2020
+ferrari,la_ferrari,La Ferrari,13851,car,2010-2017
+ferrari,luce,Luce,38115,car,2027
+ferrari,mondial_8,Mondial 8,14055,car,1981-1985
+ferrari,mondial_t,Mondial T,14031,car,1986-1994
+ferrari,monza_sp1sp2,Monza SP1/SP2,31865,car,2023
+ferrari,portofino,Portofino,26488,car,2019-2021
+ferrari,portofino_m,Portofino M,31829,car,2021-2023
+ferrari,purosangue,Purosangue,31864,mpv,2023-2027
+ferrari,roma,Roma,27827,car,2021-2026
+ferrari,sf90,SF90,31831,car,2021-2025
+ferrari,testarossa,Testarossa,14038,car,1985-1992
+fiat,124_spider,124 Spider,11448,car,2017-2027
+fiat,500,500,2055,car,2012-2019
+fiat,500e,500e,33815,car,2024-2027
+fiat,500l,500L,2037,mpv,2014-2020
+fiat,500x,500X,10396,mpv,2016-2027
+fiat,brava,Brava,14605,car,1981-1982
+fiat,ducato,Ducato,25128,mpv,2019-2023
+fiat,freemont,Freemont,3490,mpv,2011-2016
+fiat,spider_2000,Spider 2000,14603,car,1981-1982
+fiat,strada,Strada,14606,car,1981-1982
+fiat,x_19,X 1/9,14604,car,1981-1982
+fisker,karma,Karma,4277,car,2011-2027
+fisker,nina,Nina,30788,car,2011-2027
+fisker,ocean,Ocean,30613,mpv,2023-2027
+ford,34,'34,14930,car,1985-2027
+ford,a8513,A8513,9227,mpv,1990-1998
+ford,a9513,A9513,9229,mpv,1981-1998
+ford,a9522,A9522,9231,mpv,1988-1998
+ford,aerostar,Aerostar,6857,mpv,1984-1997
+ford,aspire,Aspire,6703,car,1994-1997
+ford,at8513,AT8513,9228,mpv,1981-1998
+ford,at9513,AT9513,9230,mpv,1981-1998
+ford,at9522,AT9522,9232,mpv,1981-1998
+ford,b600,B600,13977,mpv,1981-1994
+ford,b6000,B6000,15205,mpv,1986
+ford,b700,B700,13978,mpv,1981-1994
+ford,b7000,B7000,15194,mpv,1981-1987
+ford,b800,B800,9268,mpv,1995-1997
+ford,b_750,B-750,5346,truck,2002
+ford,bronco,Bronco,6825,mpv,"1981-1996,2021-2027"
+ford,bronco_ii,Bronco II,14150,mpv,1983-1990
+ford,bronco_sport,Bronco Sport,27411,mpv,2021-2027
+ford,c600,C600,15206,mpv,1981-1986
+ford,c700,C700,15208,mpv,1981-1986
+ford,c7000,C7000,15195,mpv,1981-1987
+ford,c800,C800,14154,mpv,1981-1990
+ford,c8000,C8000,14155,mpv,1981-1990
+ford,c_max,C-Max,3462,car,2013-2018
+ford,cf6000,CF6000,15160,mpv,1981-1990
+ford,cf7000,CF7000,9312,mpv,1981-1996
+ford,cf8000,CF8000,9307,mpv,1981-1997
+ford,cft8000,CFT8000,9308,mpv,1981-1997
+ford,cl9000,CL9000,14148,mpv,1981-1992
+ford,clt9000,CLT9000,14149,mpv,1981-1990
+ford,contour,Contour,6731,car,1995-2000
+ford,courier,Courier,15204,truck,1981-1988
+ford,crown_victoria,Crown Victoria,1778,car,1987-2011
+ford,ct800,CT800,15291,mpv,1981-1983
+ford,ct8000,CT8000,14153,mpv,1981-1990
+ford,e_100,E-100,15273,mpv,1981-1983
+ford,e_150,E-150,1796,mpv,1981-2014
+ford,e_250,E-250,1817,mpv,1981-2014
+ford,e_350,E-350,1818,mpv,1981-2027
+ford,e_450,E-450,1819,mpv,1995-2027
+ford,e_550,E-550,5342,mpv,"2002-2003,2015"
+ford,ecosport,Ecosport,17774,mpv,2018-2027
+ford,edge,Edge,1797,mpv,2007-2027
+ford,escape,Escape,1798,mpv,2001-2027
+ford,escort,Escort,5181,car,1981-2002
+ford,excursion,Excursion,2370,mpv,2000-2005
+ford,expedition,Expedition,1799,mpv,1997-2027
+ford,expedition_el,Expedition EL,25742,mpv,2017
+ford,expedition_max,Expedition MAX,1820,mpv,"2007-2009,2015-2016,2018-2027"
+ford,explorer,Explorer,1800,mpv,1991-2027
+ford,explorer_sport,Explorer Sport,5868,mpv,2003
+ford,explorer_sport_trac,Explorer Sport Trac,1804,mpv,"2001-2005,2007-2010"
+ford,f6000,F6000,15209,mpv,1981-1985
+ford,f7000,F7000,15197,mpv,1981-1987
+ford,f8000,F8000,15198,mpv,1981-1987
+ford,f_100,F-100,15280,mpv,1981-1983
+ford,f_150,F-150,1801,mpv,1981-2027
+ford,f_150_heritage,F-150 Heritage,7331,truck,2004
+ford,f_250,F-250,1805,mpv,1981-2027
+ford,f_350,F-350,1806,mpv,"1981-1997,1999-2027"
+ford,f_450,F-450,1807,mpv,1999-2027
+ford,f_550,F-550,1808,mpv,1999-2027
+ford,f_590,F-590,13981,mpv,1981-1994
+ford,f_600,F-600,13979,mpv,"1981-1994,2020-2027"
+ford,f_650,F-650,1809,truck,2000-2027
+ford,f_700,F-700,9272,mpv,1981-1998
+ford,f_750,F-750,1810,truck,2000-2027
+ford,f_800,F-800,5361,mpv,1981-2002
+ford,f_super_duty,F-Super Duty,9270,mpv,1981-1997
+ford,fairmont,Fairmont,14614,car,1981-1983
+ford,festiva,Festiva,10378,car,1988-1994
+ford,fiesta,Fiesta,3267,car,2011-2027
+ford,five_hundred,Five Hundred,2347,car,2005-2007
+ford,flex,Flex,1802,mpv,2009-2027
+ford,focus,Focus,1779,car,2000-2027
+ford,freestar,Freestar,2384,mpv,2004-2007
+ford,freestyle,Freestyle,2379,mpv,2005-2007
+ford,ft800,FT800,14152,mpv,1981-1990
+ford,ft8000,FT8000,15203,mpv,1981-1987
+ford,ft900,FT900,9284,mpv,1981-1998
+ford,fusion,Fusion,1780,car,2006-2020
+ford,granada,Granada,14618,car,1981-1982
+ford,gt,GT,2346,car,"2004-2006,2017-2022"
+ford,gt_mkii,GT MKII,31551,car,2023-2027
+ford,l800,L800,15251,mpv,1981-1984
+ford,l8000,L8000,9285,mpv,1981-1997
+ford,l8501,L8501,9213,mpv,1997-1998
+ford,l8511,L8511,9217,mpv,1998
+ford,l8513,L8513,9221,mpv,1990-1998
+ford,l9000,L9000,9286,mpv,1981-1997
+ford,l9501,L9501,9215,mpv,1997-1998
+ford,l9511,L9511,9219,mpv,1998
+ford,l9513,L9513,9223,mpv,1981-1998
+ford,l9522,L9522,9225,mpv,1998
+ford,la8000,LA8000,9299,mpv,1981-1997
+ford,la9000,LA9000,9300,mpv,1981-1997
+ford,laser,Laser,14196,car,1981-1987
+ford,ll9000,LL9000,9287,mpv,1981-1997
+ford,lla9000,LLA9000,9288,mpv,1981-1997
+ford,lls9000,LLS9000,9289,mpv,1981-1997
+ford,ln600,LN600,15223,mpv,1981-1985
+ford,ln700,LN700,15225,mpv,1981-1986
+ford,ln7000,LN7000,9302,mpv,1981-1997
+ford,ln800,LN800,15254,mpv,1981-1984
+ford,ln8000,LN8000,9303,mpv,1981-1997
+ford,ln9000,LN9000,9304,mpv,1981-1997
+ford,lnt800,LNT800,15255,mpv,1981-1984
+ford,lnt8000,LNT8000,9305,mpv,1981-1997
+ford,lnt9000,LNT9000,9306,mpv,1981-1997
+ford,ls8000,LS8000,9290,mpv,1981-1997
+ford,ls9000,LS9000,9291,mpv,1981-1997
+ford,lt800,LT800,15252,mpv,1981-1984
+ford,lt8000,LT8000,9292,mpv,1981-1997
+ford,lt8501,LT8501,9214,mpv,1981-1998
+ford,lt8511,LT8511,9218,mpv,1998
+ford,lt8513,LT8513,9222,mpv,1981-1998
+ford,lt9000,LT9000,9293,mpv,1981-1997
+ford,lt9501,LT9501,9216,mpv,1981-1998
+ford,lt9511,LT9511,9220,mpv,1998
+ford,lt9513,LT9513,9224,mpv,1981-1998
+ford,lt9522,LT9522,9226,mpv,1981-1998
+ford,lta9000,LTA9000,9301,mpv,1981-1997
+ford,ltd,LTD,14199,car,1981-1986
+ford,ltl9000,LTL9000,9296,mpv,1981-1997
+ford,ltla9000,LTLA9000,9297,mpv,1981-1997
+ford,ltls9000,LTLS9000,9298,mpv,1981-1997
+ford,lts8000,LTS8000,9294,mpv,1981-1997
+ford,lts9000,LTS9000,9295,mpv,1981-1997
+ford,maverick,Maverick,28967,truck,2022-2027
+ford,motorhome_chassis,Motorhome Chassis,2737,mpv,"1999-2002,2004,2006-2027"
+ford,mustang,Mustang,1781,car,1981-2027
+ford,mustang_gtd,Mustang GTD,35300,car,2025-2027
+ford,mustang_mach_e,Mustang Mach-E,27440,mpv,2021-2027
+ford,p600,P600,13983,mpv,1981-1994
+ford,p700,P700,9282,mpv,1995-1997
+ford,p800,P800,9283,mpv,1995-1997
+ford,probe,Probe,6730,car,1988-1997
+ford,ranger,Ranger,1803,mpv,"1982-2011,2019-2027"
+ford,recreational_vehicle,Recreational Vehicle,13980,mpv,1981-1994
+ford,taurus,Taurus,1782,car,1986-2019
+ford,taurus_x,Taurus X,3160,mpv,2008-2009
+ford,tempo,Tempo,13958,car,1984-1994
+ford,thunderbird,Thunderbird,2345,car,"1981-1997,2002-2005"
+ford,transit,Transit,3608,mpv,2015-2027
+ford,transit_connect,Transit Connect,1811,truck,2010-2027
+ford,windstar,Windstar,5264,mpv,1995-2003
+ford,zx2,ZX2,5182,car,1999-2003
+geo,metro,Metro,13905,car,1989-1997
+geo,prizm,Prizm,14168,car,1989-1997
+geo,spectrum,Spectrum,22098,car,1989
+geo,sprint,Sprint,21535,car,1989-1993
+geo,storm,Storm,14167,car,1985-1993
+geo,tracker,Tracker,14483,mpv,1990-1994
+gmc,acadia,Acadia,1855,mpv,2007-2027
+gmc,aluminum_tilt,Aluminum Tilt,14571,truck,1981-1988
+gmc,bus_chassis,Bus Chassis,14602,truck,1981-1988
+gmc,c5,C5,14019,truck,"1981-1996,2003-2009"
+gmc,c6,C6,14021,truck,1981-2009
+gmc,c7,C7,14022,truck,1981-2009
+gmc,caballero,Caballero,14626,truck,1981-1987
+gmc,canyon,Canyon,4093,mpv,2004-2027
+gmc,ck_pickup,C/K Pickup,11490,mpv,1981-1986
+gmc,cruise_origin_av,Cruise Origin AV,32043,mpv,2024-2027
+gmc,electric_vehicle,Electric Vehicle,9044,car,1997-2000
+gmc,envoy,Envoy,4507,mpv,2002-2009
+gmc,forward_control,Forward Control,14555,truck,1981-1990
+gmc,geo_tracker,Geo Tracker,14533,truck,1989-1990
+gmc,gmt_400,GMT-400,10985,mpv,1987-1988
+gmc,heavy_conventional,Heavy Conventional,14596,truck,1981-1988
+gmc,hi_cube,Hi-Cube,14500,mpv,1981-1994
+gmc,hummer_ev_pickup,Hummer EV Pickup,32046,truck,2022-2027
+gmc,hummer_ev_suv,Hummer EV SUV,29077,mpv,2024-2027
+gmc,jimmy,Jimmy,14536,mpv,1987-1991
+gmc,jimmy_utility,Jimmy Utility,11503,mpv,"1981-1986,1995-2005"
+gmc,magna_van,Magna Van,14497,truck,1990-1993
+gmc,motorhome_chassis,Motorhome Chassis,14470,mpv,1981-1999
+gmc,p_truck_forward,P Truck Forward,14469,mpv,1981-1999
+gmc,r_conventional,R Conventional,14538,mpv,1987-1991
+gmc,rally,Rally,14481,mpv,1981-1996
+gmc,s15_pickup,S15 Pickup,14554,truck,1982-1990
+gmc,s15_utility,S15 Utility,14476,mpv,1981-1994
+gmc,s6,S6,14535,truck,1989-1991
+gmc,safari,Safari,8879,mpv,1985-2005
+gmc,savana,Savana,1856,mpv,1996-2027
+gmc,sierra,Sierra,1857,mpv,1989-2027
+gmc,sierra_hd,Sierra HD,24909,truck,"2019,2022-2027"
+gmc,sierra_limited,Sierra Limited,24910,truck,2019-2027
+gmc,sonoma,Sonoma,11073,mpv,1991-2004
+gmc,suburban,Suburban,11488,mpv,1981-2000
+gmc,terrain,Terrain,1858,mpv,2009-2027
+gmc,v_conventional,V Conventional,14539,mpv,1987-1991
+gmc,value_van,Value Van,14499,truck,1981-1993
+gmc,vandura,Vandura,14479,truck,1981-1996
+gmc,yukon,Yukon,1859,mpv,1992-2027
+gmc,yukon_xl,Yukon XL,4579,mpv,"1995,2000-2011,2015-2027"
+honda,accord,Accord,1861,mpv,1981-2027
+honda,accord_crosstour,Accord Crosstour,27165,mpv,2010-2011
+honda,civic,Civic,1863,car,"1981-1983,1985-2027"
+honda,civic_si,Civic Si,29417,car,"1990,2022-2027"
+honda,civic_type_r,Civic Type R,31535,car,"2017-2021,2023-2027"
+honda,clarity,Clarity,14249,car,2017-2021
+honda,cr_v,CR-V,1865,mpv,1997-2027
+honda,cr_z,CR-Z,2128,car,2011-2016
+honda,crosstour,Crosstour,9173,mpv,2012-2015
+honda,del_sol,del Sol,9577,car,1994-1997
+honda,element,Element,1868,mpv,2003-2011
+honda,ev_plus,EV Plus,11517,car,1997-1999
+honda,fcx_clarity,FCX Clarity,1875,car,2004-2014
+honda,fit,Fit,2127,car,2007-2020
+honda,hr_v,HR-V,9212,mpv,2016-2027
+honda,insight,Insight,1870,car,"2000-2014,2019-2022"
+honda,odyssey,Odyssey,1869,mpv,1995-2027
+honda,passport,Passport,5959,mpv,"1994-2002,2019-2027"
+honda,pilot,Pilot,1864,mpv,2003-2027
+honda,prelude,Prelude,5107,car,"1981-2001,2026-2027"
+honda,prologue,Prologue,33174,mpv,2024-2027
+honda,ridgeline,Ridgeline,1866,truck,2006-2027
+honda,s2000,S2000,3153,car,2000-2009
+hummer,h1,H1,14474,mpv,1991-2006
+hummer,h2,H2,4598,mpv,2003-2011
+hummer,h3,H3,4599,mpv,2006-2011
+hummer,h3t,H3T,25774,truck,2009
+hyundai,accent,Accent,2773,mpv,1995-2027
+hyundai,azera,Azera,2771,mpv,2006-2018
+hyundai,elantra,Elantra,2735,mpv,1992-2027
+hyundai,elantra_gt,Elantra GT,11447,car,2017-2020
+hyundai,elantra_n,Elantra N,29258,car,2022-2027
+hyundai,elantra_touring,Elantra Touring,5871,car,2010
+hyundai,entourage,Entourage,2736,mpv,2006-2014
+hyundai,equus,Equus,2056,car,2011-2016
+hyundai,excel,Excel,9242,car,1986-1994
+hyundai,genesis,Genesis,2774,car,2009-2016
+hyundai,genesis_coupe,Genesis Coupe,2458,car,2010-2016
+hyundai,ioniq,Ioniq,21961,car,2017-2022
+hyundai,ioniq_5,Ioniq 5,28983,mpv,2022-2027
+hyundai,ioniq_5_n,Ioniq 5 N,33664,mpv,2025-2027
+hyundai,ioniq_6,Ioniq 6,31360,car,2023-2027
+hyundai,ioniq_6_n,Ioniq 6 N,36896,car,2026-2027
+hyundai,ioniq_9,Ioniq 9,35749,mpv,2026-2027
+hyundai,kona,Kona,22249,mpv,2018-2027
+hyundai,kona_n,Kona N,32348,mpv,2022-2027
+hyundai,nexo,Nexo,25183,mpv,2019-2027
+hyundai,palisade,Palisade,25847,mpv,2020-2027
+hyundai,pony,Pony,14192,car,1986-1989
+hyundai,santa_cruz,Santa Cruz,28816,truck,2022-2027
+hyundai,santa_fe,Santa Fe,2057,mpv,2001-2027
+hyundai,santa_fe_sport,Santa Fe Sport,16694,mpv,2013-2018
+hyundai,santa_fe_xl,Santa Fe XL,24770,mpv,2019-2027
+hyundai,scoupe,Scoupe,9252,car,1991-1995
+hyundai,sonata,Sonata,2459,mpv,1989-2027
+hyundai,stellar,Stellar,14193,car,1986-1989
+hyundai,tiburon,Tiburon,5847,mpv,1997-2008
+hyundai,tucson,Tucson,2058,mpv,2005-2027
+hyundai,veloster,Veloster,2298,car,2012-2021
+hyundai,veloster_n,Veloster N,28077,car,2019-2022
+hyundai,venue,Venue,26441,car,2020-2027
+hyundai,veracruz,Veracruz,2772,mpv,2007-2013
+hyundai,xcient,Xcient,30756,truck,2023-2027
+hyundai,xg300,XG300,9319,car,2001
+hyundai,xg350,XG350,5872,mpv,2002-2005
+infiniti,ex35,EX35,2338,car,2008-2013
+infiniti,fx35,FX35,2324,mpv,"2003-2010,2012"
+infiniti,fx37,FX37,2373,mpv,2013
+infiniti,fx45,FX45,2325,mpv,2003-2008
+infiniti,fx50,FX50,2343,mpv,2009-2013
+infiniti,g20,G20,5573,car,"1991-1996,1999-2002"
+infiniti,g25,G25,2358,car,2011-2012
+infiniti,g35,G35,2305,car,2003-2009
+infiniti,g37,G37,2337,car,2008-2013
+infiniti,i30,I30,8702,car,1996-2001
+infiniti,i35,I35,5813,car,2002-2004
+infiniti,j30,J30,5572,car,1993-1997
+infiniti,jx35,JX35,2374,mpv,2013
+infiniti,m30,M30,11510,car,1990-1992
+infiniti,m35,M35,2306,car,2006-2010
+infiniti,m35h,M35h,2368,car,2012-2013
+infiniti,m37,M37,2357,car,2011-2013
+infiniti,m45,M45,2307,car,"2003-2004,2006-2010"
+infiniti,m56,M56,2356,car,2011-2013
+infiniti,q40,Q40,1900,car,2015-2016
+infiniti,q45,Q45,2304,car,1990-2007
+infiniti,q50,Q50,1901,car,2014-2027
+infiniti,q60,Q60,1902,car,"2014-2015,2017-2022"
+infiniti,q70,Q70,1903,car,2014-2022
+infiniti,q70l,Q70L,2038,car,2015-2022
+infiniti,qx30,QX30,13820,car,2017-2019
+infiniti,qx4,QX4,8717,mpv,1997-2003
+infiniti,qx50,QX50,1899,mpv,"2014-2017,2019-2027"
+infiniti,qx55,QX55,28424,mpv,2022-2027
+infiniti,qx56,QX56,2326,mpv,2003-2013
+infiniti,qx60,QX60,1910,mpv,2014-2027
+infiniti,qx65,QX65,37657,mpv,2027
+infiniti,qx70,QX70,1908,mpv,2014-2018
+infiniti,qx80,QX80,1909,mpv,2014-2027
+isuzu,amigo,Amigo,14576,mpv,1989-1994
+isuzu,ascender,Ascender,4601,mpv,2003-2008
+isuzu,axiom,Axiom,6009,mpv,2002-2004
+isuzu,f6,F6,14291,truck,1997-2002
+isuzu,f7,F7,14292,truck,1997-2002
+isuzu,frr,FRR,14132,truck,"1995-1998,2000-2004"
+isuzu,fsr,FSR,14437,truck,1989-1996
+isuzu,ftrfvr,FTR/FVR,14438,truck,1996
+isuzu,ftrfvrevr,FTR/FVR/EVR,14453,truck,1989-1995
+isuzu,h_series,H-Series,14204,truck,2005-2008
+isuzu,hombre,Hombre,11484,truck,1996-2000
+isuzu,i_280,i-280,11474,truck,2006
+isuzu,i_290,i-290,25827,truck,2007-2008
+isuzu,i_350,i-350,25826,truck,2006
+isuzu,i_370,i-370,25828,truck,2007-2008
+isuzu,i_mark,I-Mark,14355,car,1981-1989
+isuzu,impulse,IMPULSE,14354,car,1981-1992
+isuzu,npr,NPR,14203,truck,"1987,1989-1999,2006-2010,2016-2020,2022-2024,2027"
+isuzu,nprnpr_hd,NPR/NPR-HD,3641,truck,"2000-2005,2009-2019,2021,2025-2027"
+isuzu,nqr,NQR,14133,truck,"1999-2004,2016-2027"
+isuzu,nqrnrr,NQR/NRR,3642,truck,2005-2015
+isuzu,nrr,NRR,14582,truck,"1989-1994,2016-2027"
+isuzu,oasis,Oasis,5351,mpv,1996-1999
+isuzu,pickup,Pickup,5950,mpv,1981-1995
+isuzu,rodeo,Rodeo,2818,mpv,"1989-1997,1999-2004"
+isuzu,rodeoamigo,Rodeo/Amigo,9429,mpv,1998-1999
+isuzu,stylus,Stylus,14459,car,1987-1992
+isuzu,t6f,T6F,14041,truck,2003-2010
+isuzu,t7f,T7F,14042,truck,2003-2010
+isuzu,t8f,T8F,14043,truck,2003-2010
+isuzu,trooper,Trooper,2817,mpv,1984-2002
+isuzu,trooper_ii,Trooper II,14508,mpv,1987-1991
+isuzu,vehicross,VehiCross,2819,mpv,1999-2002
+jaguar,e_pace,E-PACE,22434,mpv,2018-2024
+jaguar,f_pace,F-PACE,11441,mpv,2017-2027
+jaguar,f_type,F-TYPE,2375,car,2014-2024
+jaguar,i_pace,I-PACE,24904,mpv,2019-2024
+jaguar,s_type,S-Type,2314,car,2000-2008
+jaguar,vanden_plas,Vanden Plas,6437,car,1988-2004
+jaguar,x_type,X-Type,2313,car,2002-2008
+jaguar,xe,XE,11440,car,2017-2021
+jaguar,xf,XF,2285,car,2009-2024
+jaguar,xj,XJ,2242,car,2002-2019
+jaguar,xj12,XJ12,25776,car,1991-1997
+jaguar,xj6,XJ6,14145,car,1981-1997
+jaguar,xj8,XJ8,13578,car,1998-2003
+jaguar,xjr,XJR,9340,car,1995-2007
+jaguar,xjs,XJS,14615,car,1981-1997
+jaguar,xk,XK,2286,car,2000-2015
+jaguar,xk8,XK8,9339,car,1997-2004
+jeep,cherokee,Cherokee,1945,mpv,"1981-2011,2014-2023,2026-2027"
+jeep,cj_5,CJ-5,15086,mpv,1981-1983
+jeep,cj_6,CJ-6,15090,mpv,1981-1982
+jeep,cj_7,CJ-7,15073,mpv,1981-1986
+jeep,cj_8_scrambler,CJ-8 Scrambler,15074,mpv,1981-1985
+jeep,comanche,Comanche,14905,mpv,1986-1992
+jeep,commander,Commander,1948,mpv,2006-2010
+jeep,compass,Compass,1946,mpv,2006-2027
+jeep,gladiator,Gladiator,25919,truck,2020-2027
+jeep,grand_cherokee,Grand Cherokee,1949,mpv,1993-2027
+jeep,grand_cherokee_l,Grand Cherokee L,32375,mpv,2021-2027
+jeep,grand_wagoneer,Grand Wagoneer,14871,mpv,"1984-1993,2022-2027"
+jeep,grand_wagoneer_l,Grand Wagoneer L,32378,mpv,2024-2027
+jeep,j_10,J-10,14978,mpv,1981-1988
+jeep,j_20,J-20,14979,mpv,1981-1988
+jeep,liberty,Liberty,1944,mpv,1993-2013
+jeep,patriot,Patriot,1947,mpv,2007-2018
+jeep,recon,Recon,37249,mpv,2026-2027
+jeep,renegade,Renegade,6160,mpv,2015-2027
+jeep,wagoneer,Wagoneer,14927,mpv,"1981-1990,2022-2025"
+jeep,wagoneer_l,Wagoneer L,32377,mpv,2024-2025
+jeep,wagoneer_s,Wagoneer S,34270,mpv,2024-2027
+jeep,wrangler,Wrangler,1943,mpv,1986-2027
+jeep,wrangler_jk,Wrangler JK,25197,mpv,2018
+karma,atlantic,Atlantic,12823,car,2015-2016
+karma,gs_6,GS-6,29210,car,2021-2027
+karma,gyesera,Gyesera,34581,car,2025-2027
+karma,karma,Karma,12822,car,2015
+karma,kaveya,Kaveya,34580,car,2025-2027
+karma,revero,Revero,13577,car,"2016-2020,2025-2027"
+karma,revero_gt,Revero GT,27981,car,2021-2024
+kia,amanti,Amanti,5500,mpv,2004-2009
+kia,borrego,Borrego,2461,mpv,2009-2011
+kia,cadenza,Cadenza,3071,car,2014-2020
+kia,carnival,Carnival,28294,mpv,2022-2027
+kia,ev3,EV3,38038,mpv,2027
+kia,ev6,EV6,29462,mpv,2022-2027
+kia,ev9,EV9,32587,mpv,2024-2027
+kia,forte,Forte,2462,car,2010-2027
+kia,forte_koup,Forte Koup,12815,car,2016-2017
+kia,k4,K4,34783,car,2025-2027
+kia,k5,K5,27527,car,2021-2027
+kia,k900,K900,3184,car,2015-2020
+kia,niro,Niro,15705,mpv,2017-2027
+kia,optima,Optima,2739,mpv,2001-2020
+kia,rio,Rio,2299,mpv,2001-2023
+kia,rondo,Rondo,2738,mpv,2007-2016
+kia,sedona,Sedona,2740,mpv,2001-2021
+kia,seltos,Seltos,26900,mpv,2021-2027
+kia,sephia,Sephia,5498,mpv,1993-2001
+kia,sorento,Sorento,2769,mpv,"2001-2009,2011-2027"
+kia,soul,Soul,2460,mpv,2010-2027
+kia,spectra,Spectra,5499,mpv,2000-2009
+kia,sportage,Sportage,2770,mpv,1995-2027
+kia,stinger,Stinger,21370,car,2018-2023
+kia,telluride,Telluride,25756,mpv,2020-2027
+lamborghini,147,147,8621,car,2002
+lamborghini,aventador,Aventador,9927,car,2011-2022
+lamborghini,diablo,Diablo,8619,car,1989-2001
+lamborghini,gallardo,Gallardo,2067,car,2004-2014
+lamborghini,huracan,Huracan,9928,car,2015-2027
+lamborghini,murcielago,Murcielago,2066,car,2004-2010
+lamborghini,revuelto,Revuelto,32362,car,2024-2027
+lamborghini,roadster,Roadster,27375,car,1989-2000
+lamborghini,temerario,Temerario,37318,car,2026-2027
+lamborghini,urus,URUS,25121,mpv,2019-2027
+land_rover,defender,Defender,9345,mpv,"1993-1995,1997,2020-2027"
+land_rover,discovery,Discovery,9337,mpv,"1994-2004,2017-2027"
+land_rover,discovery_sport,Discovery Sport,2241,mpv,2015-2027
+land_rover,freelander,Freelander,9338,mpv,2002-2005
+land_rover,lr2,LR2,2243,mpv,2008-2015
+land_rover,lr3,LR3,2301,mpv,2005-2009
+land_rover,lr4,LR4,2245,mpv,2010-2016
+land_rover,new_range_rover,New Range Rover,29480,mpv,2022
+land_rover,range_rover,Range Rover,2247,mpv,1985-2027
+land_rover,range_rover_evoque,Range Rover Evoque,2244,mpv,2012-2027
+land_rover,range_rover_sport,Range Rover Sport,2246,mpv,2006-2027
+land_rover,range_rover_velar,Range Rover Velar,19055,mpv,2018-2027
+lexus,ct,CT,3154,car,2011-2017
+lexus,es,ES,2475,car,1990-2027
+lexus,gs,GS,2180,car,1993-2027
+lexus,gx,GX,2215,mpv,2003-2027
+lexus,hs,HS,3185,car,2010-2012
+lexus,is,IS,2184,car,2001-2027
+lexus,lc,LC,24941,car,2018-2027
+lexus,lfa,LFA,3652,car,2012-2013
+lexus,ls,LS,2182,car,1990-2027
+lexus,lx,LX,2212,mpv,1996-2027
+lexus,nx,NX,3653,mpv,2015-2027
+lexus,rc,RC,3406,car,2015-2027
+lexus,rx,RX,2214,mpv,1999-2027
+lexus,rz,RZ,31443,mpv,2023-2027
+lexus,sc,SC,2183,car,1992-2027
+lexus,tx,TX,32636,mpv,2024-2027
+lexus,ux,UX,24984,car,2019-2027
+lincoln,aviator,Aviator,2653,mpv,"2003-2005,2020-2027"
+lincoln,blackwood,Blackwood,5273,truck,2002-2003
+lincoln,continental,Continental,5192,car,"1981-2002,2017-2027"
+lincoln,corsair,Corsair,25596,mpv,2020-2027
+lincoln,ls,LS,2367,car,2000-2006
+lincoln,mark,Mark,6794,car,1981-1998
+lincoln,mark_lt,Mark LT,2808,truck,2006-2008
+lincoln,mkc,MKC,3599,mpv,2015-2019
+lincoln,mks,MKS,1794,car,2009-2016
+lincoln,mkt,MKT,1812,mpv,2010-2019
+lincoln,mkx,MKX,1813,mpv,2007-2018
+lincoln,mkz,MKZ,1790,car,2007-2020
+lincoln,nautilus,Nautilus,24892,mpv,2019-2027
+lincoln,navigator,Navigator,1814,mpv,1998-2027
+lincoln,navigator_l,Navigator L,25741,mpv,2017-2027
+lincoln,town_car,Town Car,1791,car,1981-2011
+lincoln,zephyr,Zephyr,2776,car,2006
+lotus,2_eleven,2-Eleven,3421,car,"2008-2009,2011-2012"
+lotus,340r,340R,3124,car,2007-2008
+lotus,eagle,Eagle,3113,car,2008-2009
+lotus,eclat,Eclat,3118,car,"1981-1984,1990,1992-1997,2007-2008"
+lotus,elan,Elan,3119,car,"1990-1997,2007-2009"
+lotus,eletre,ELETRE,33994,mpv,2025-2027
+lotus,eleven,Eleven,3107,car,"2007,2010"
+lotus,elise,Elise,3106,car,2005-2012
+lotus,elite,Elite,3117,car,"1981-1984,1990,1992-1997,2007-2008"
+lotus,emira,Emira,33271,car,2024-2027
+lotus,esprit,Esprit,3112,car,"1981-1990,1992-1997,2001-2004,2007-2009"
+lotus,europa,Europa,3114,car,2007-2009
+lotus,evora,Evora,1795,car,2010-2027
+lotus,exige,Exige,3122,car,"2008,2010-2012"
+lotus,mel,MEL,3116,car,2007-2009
+lotus,monaco,Monaco,3115,car,2007-2008
+lotus,monza,Monza,3125,car,2007-2008
+lotus,spa,Spa,3123,car,2007-2008
+lotus,turbo_esprit,Turbo Esprit,12434,car,"1981-1984,1990-2000"
+lucid,air,Air,28593,car,2022-2026
+lucid,gravity,Gravity,35254,mpv,2025-2026
+maserati,228,228,23169,car,1981-1991
+maserati,430,430,23168,car,1981-1991
+maserati,biturbo,Biturbo,14623,car,1981-1991
+maserati,coupe,Coupe,9746,car,"2002-2004,2006"
+maserati,ghibli,Ghibli,11445,car,2014-2024
+maserati,grancabrio,Grancabrio,31539,car,2024-2027
+maserati,granturismo,Granturismo,1700,car,2008-2027
+maserati,grecale,Grecale,30381,mpv,2023-2027
+maserati,levante,Levante,11446,mpv,2017-2027
+maserati,mc20,MC20,28982,car,2022-2025
+maserati,mcpura,MCPura,38002,car,2026-2027
+maserati,merak,Merak,14622,car,1981-1991
+maserati,quattroporte,Quattroporte,1699,car,"1981-1991,2005-2024"
+maserati,spyder,Spyder,9747,car,"1981-1991,2002-2004,2006"
+maserati,tc,TC,23167,car,1981-1991
+maybach,57,57,31584,car,2003-2012
+maybach,62,62,2775,car,2003-2012
+mazda,323,323,5494,car,1986-1994
+mazda,626,626,5471,car,1981-2002
+mazda,929,929,5496,car,1988-1996
+mazda,b_series,B-Series,2741,mpv,1981-2010
+mazda,cx_3,CX-3,10202,car,2016-2022
+mazda,cx_30,CX-30,26914,mpv,2020-2027
+mazda,cx_5,CX-5,2369,mpv,2013-2027
+mazda,cx_50,CX-50,30046,mpv,2023-2027
+mazda,cx_7,CX-7,2076,mpv,2007-2012
+mazda,cx_70,CX-70,33867,mpv,2025-2027
+mazda,cx_9,CX-9,2077,mpv,2007-2027
+mazda,cx_90,CX-90,31832,mpv,2024-2027
+mazda,glc,GLC,13839,car,1981-1986
+mazda,mazda2,Mazda2,2153,car,2011-2021
+mazda,mazda3,Mazda3,2074,mpv,2004-2027
+mazda,mazda5,Mazda5,2075,car,2006-2015
+mazda,mazda6,Mazda6,2078,mpv,2003-2021
+mazda,millenia,Millenia,5470,car,1995-2002
+mazda,mpv,MPV,2322,mpv,1989-2006
+mazda,mx_3,MX-3,5495,car,1989-1996
+mazda,mx_30,MX-30,29125,car,2022-2027
+mazda,mx_5,MX-5,2072,mpv,"1990-1997,1999-2027"
+mazda,mx_6,MX-6,7791,car,"1988-1994,1996-1997"
+mazda,navajo,Navajo,13901,mpv,1991-1994
+mazda,protege,Protege,5410,car,1990-2003
+mazda,rx_7,RX-7,5497,car,"1981-1991,1993-1996"
+mazda,rx_8,RX-8,2073,mpv,2004-2012
+mazda,tribute,Tribute,1860,mpv,"2001-2006,2008-2011"
+mclaren,540c,540C,26672,car,2009-2021
+mclaren,570gt,570GT,26674,car,2009-2021
+mclaren,570s,570S,26673,car,2009-2021
+mclaren,600lt,600LT,26675,car,2017-2021
+mclaren,620r,620R,27471,car,2020-2021
+mclaren,625c,625C,26669,car,"2009-2016,2020-2021"
+mclaren,650s,650S,26670,car,"2009-2016,2020-2021"
+mclaren,675lt,675LT,26671,car,"2009-2016,2020-2021"
+mclaren,720s,720S,26676,car,2017-2023
+mclaren,750s,750S,33635,car,2024-2027
+mclaren,765lt,765LT,29623,car,2022
+mclaren,artura,ARTURA,32272,car,2023-2027
+mclaren,elva,ELVA,29624,car,2022
+mclaren,gt,GT,26679,car,2017-2023
+mclaren,gts,GTS,34579,car,2025-2027
+mclaren,mp4_12c,MP4-12C,6029,car,"2009-2016,2020-2021"
+mclaren,p1,P1,10239,car,"2009-2016,2020-2021"
+mclaren,senna,SENNA,26677,car,2017-2021
+mclaren,senna_gtr,SENNA GTR,26678,car,2017-2021
+mercedes_benz,190,190,14013,car,1983-1993
+mercedes_benz,240,240,14774,car,1981-1983
+mercedes_benz,260,260,17602,car,1983-1989
+mercedes_benz,280,280,14773,car,1981-1982
+mercedes_benz,300,300,14014,car,1981-1993
+mercedes_benz,350,350,17599,car,1983-1991
+mercedes_benz,380,380,14775,car,1981-1985
+mercedes_benz,400,400,17597,car,1992-1993
+mercedes_benz,420,420,17600,car,1983-1991
+mercedes_benz,500,500,14015,car,1983-1993
+mercedes_benz,560,560,17601,car,1986-1991
+mercedes_benz,600,600,17598,car,1992-1993
+mercedes_benz,a_class,A-Class,24879,car,2019-2022
+mercedes_benz,amg_gt,AMG GT,5881,car,2016-2026
+mercedes_benz,b_class,B-Class,2113,car,"2011-2012,2014-2022"
+mercedes_benz,c_class,C-Class,2085,mpv,1994-2026
+mercedes_benz,cl_class,CL-Class,2678,car,1998-2014
+mercedes_benz,cla_class,CLA-Class,2083,car,2014-2027
+mercedes_benz,cle,CLE,33769,car,2024-2027
+mercedes_benz,clk_class,CLK-Class,2822,car,1998-2009
+mercedes_benz,cls_class,CLS-Class,2082,car,2005-2023
+mercedes_benz,e_class,E-Class,2081,car,1994-2027
+mercedes_benz,eqb_class,EQB-Class,30230,mpv,2022-2025
+mercedes_benz,eqe_class_sedan,EQE-Class Sedan,30229,car,2023-2026
+mercedes_benz,eqe_class_suv,EQE-Class SUV,31097,mpv,2023-2027
+mercedes_benz,eqs_class_sedan,EQS-Class Sedan,29045,car,2022-2026
+mercedes_benz,eqs_class_suv,EQS-Class SUV,30265,mpv,2023-2027
+mercedes_benz,esprinter,eSprinter,33099,mpv,2024-2027
+mercedes_benz,g_class,G-Class,2131,mpv,"1999,2002-2027"
+mercedes_benz,gl_class,GL-Class,2130,mpv,2006-2016
+mercedes_benz,gla_class,GLA-Class,2084,mpv,2015-2026
+mercedes_benz,glb_class,GLB-Class,26498,mpv,2020-2026
+mercedes_benz,glc_class,GLC-Class,5885,mpv,2016-2026
+mercedes_benz,gle_class,GLE-Class,5886,mpv,2016-2026
+mercedes_benz,glk_class,GLK-Class,2132,mpv,2010-2020
+mercedes_benz,gls_class,GLS-Class,14005,mpv,2016-2026
+mercedes_benz,l1013,L1013,14081,truck,1981-1990
+mercedes_benz,l1113,L1113,14082,truck,1981-1990
+mercedes_benz,l1116,L1116,14083,truck,1981-1990
+mercedes_benz,l1117,L1117,14087,truck,1981-1990
+mercedes_benz,l1316,L1316,14084,truck,1981-1990
+mercedes_benz,l1317,L1317,14088,truck,1981-1990
+mercedes_benz,l1319,L1319,14093,truck,1981-1990
+mercedes_benz,l1418,L1418,14085,truck,1981-1990
+mercedes_benz,l1419,L1419,14089,truck,1981-1990
+mercedes_benz,lp1219,LP1219,14092,truck,1981-1990
+mercedes_benz,lp1419,LP1419,14090,truck,1981-1990
+mercedes_benz,lps1525,LPS1525,14091,truck,1981-1990
+mercedes_benz,m_class,M-Class,2129,mpv,"1995-2011,2016-2019"
+mercedes_benz,metris,Metris,11451,mpv,2016-2023
+mercedes_benz,ml_class,ML-Class,13819,mpv,2012-2015
+mercedes_benz,r_class,R-Class,2939,mpv,2006-2013
+mercedes_benz,s_class,S-Class,2086,car,1994-2026
+mercedes_benz,sl_class,SL-Class,2079,car,"1994-2009,2011-2027"
+mercedes_benz,slc_class,SLC-Class,11452,car,2017-2020
+mercedes_benz,slk_class,SLK-Class,2080,car,1998-2016
+mercedes_benz,slr_mclaren,SLR McLaren,2936,car,2004-2009
+mercedes_benz,sls_class,SLS-Class,2087,car,2011-2022
+mercedes_benz,sprinter,Sprinter,1703,mpv,2010-2027
+mercury,capri,Capri,13962,car,"1981-1986,1989-1994"
+mercury,cougar,Cougar,5191,car,"1981-1997,1999-2002"
+mercury,grand_marquis,Grand Marquis,1792,car,1981-2011
+mercury,lynx,Lynx,14195,car,1981-1987
+mercury,marauder,Marauder,25134,car,2004
+mercury,mariner,Mariner,1815,mpv,2005-2011
+mercury,marquis,MARQUIS,14201,car,1981-1986
+mercury,milan,Milan,1793,car,2006-2011
+mercury,montego,Montego,2366,car,2005-2007
+mercury,monterey,Monterey,2555,mpv,2004-2007
+mercury,mountaineer,Mountaineer,1816,mpv,1997-2010
+mercury,mystique,Mystique,6733,car,1995-2000
+mercury,sable,Sable,2365,car,"1986-2005,2008-2009"
+mercury,topaz,Topaz,13963,car,1984-1994
+mercury,tracer,Tracer,6732,car,1988-1999
+mercury,villager,Villager,5258,mpv,1993-2002
+mercury,zephyr,Zephyr,14620,car,1981-1983
+mini,clubman,Clubman,1765,car,"2008-2014,2016-2024"
+mini,cooper,Cooper,1761,car,2002-2010
+mini,cooper_convertible,Cooper Convertible,1767,car,2004-2027
+mini,cooper_coupe,Cooper Coupe,1886,car,2012-2015
+mini,cooper_roadster,Cooper Roadster,1925,car,2012-2015
+mini,countryman,Countryman,1880,mpv,2011-2027
+mini,hardtop,Hardtop,1862,car,2009-2027
+mini,paceman,Paceman,1928,car,2013-2019
+mitsubishi,3000gt,3000GT,5423,car,1991-1999
+mitsubishi,cordia,Cordia,14455,car,1983-1988
+mitsubishi,diamante,Diamante,5425,car,1992-2027
+mitsubishi,eclipse,Eclipse,2166,car,1990-2012
+mitsubishi,eclipse_cross,Eclipse Cross,17617,mpv,2018-2026
+mitsubishi,endeavor,Endeavor,2167,mpv,2004-2011
+mitsubishi,expo,Expo,5422,car,1992-1996
+mitsubishi,galant,Galant,2165,car,1985-2012
+mitsubishi,i_miev,i-MiEV,2339,car,2012-2018
+mitsubishi,lancer,Lancer,2164,car,2002-2017
+mitsubishi,lancer_evolution,Lancer Evolution,5809,car,"2003-2006,2008-2015"
+mitsubishi,lancer_sportback,Lancer SportBack,5808,car,"2004-2005,2009-2017"
+mitsubishi,mighty_max,Mighty Max,14572,mpv,1985-1996
+mitsubishi,mirage,Mirage,2342,mpv,"1985-2002,2014-2027"
+mitsubishi,mirage_g4,Mirage G4,13842,car,2017-2027
+mitsubishi,montero,Montero,2318,mpv,"1985-1990,1994-2006"
+mitsubishi,montero_sport,Montero Sport,5755,mpv,"1991-1993,1997-2004"
+mitsubishi,outlander,Outlander,2163,mpv,2003-2026
+mitsubishi,outlander_sport,Outlander Sport,13867,mpv,2011-2027
+mitsubishi,precis,Precis,14423,car,1988-1994
+mitsubishi,raider,Raider,1950,mpv,1993-2010
+mitsubishi,rvr,RVR,2336,mpv,2011-2022
+mitsubishi,sigma,Sigma,14445,car,1989-1990
+mitsubishi,sp,SP,14577,mpv,1985-1986
+mitsubishi,space_wagon,Space Wagon,14442,mpv,1987-1988
+mitsubishi,spx,SPX,14573,mpv,1987-1990
+mitsubishi,starion,Starion,14446,car,1983-1990
+mitsubishi,tredia,Tredia,14454,car,1983-1988
+mitsubishi,van,Van,14449,mpv,1987-1990
+mitsubishi,wagon,Wagon,14443,mpv,1989-1990
+nissan,200sx,200SX,14385,car,"1981-1988,1995-1998"
+nissan,240sx,240SX,5565,car,1989-2001
+nissan,300zx,300ZX,5566,car,1983-1996
+nissan,350z,350Z,2303,car,2003-2009
+nissan,370z,370Z,1906,car,2009-2022
+nissan,altima,Altima,1904,car,1993-2027
+nissan,altra,Altra,17616,car,1998
+nissan,altra_ev,Altra-EV,5756,car,"1999-2002,2004"
+nissan,ariya_hatchback,Ariya Hatchback,30884,car,2023-2024
+nissan,ariya_mpv,Ariya MPV,36667,mpv,2025-2027
+nissan,armada,Armada,1915,mpv,"2002-2015,2017-2027"
+nissan,axxess,Axxess,11509,car,1990-1991
+nissan,cube,Cube,2341,mpv,2009-2014
+nissan,frontier,Frontier,1919,mpv,1998-2027
+nissan,gt_r,GT-R,1890,car,2009-2027
+nissan,juke,Juke,1912,mpv,2011-2018
+nissan,kicks,Kicks,22791,car,2018-2024
+nissan,kicks_mpv,Kicks MPV,35389,mpv,2025-2027
+nissan,kicks_play,Kicks Play,35324,car,2025-2027
+nissan,leaf,Leaf,1905,car,2011-2027
+nissan,maxima,Maxima,2302,car,"1981-2014,2016-2023"
+nissan,micra,Micra,17817,car,1985-1991
+nissan,murano,Murano,1914,mpv,"2002-2007,2009-2027"
+nissan,nissan_z,Nissan Z,30039,car,2023-2027
+nissan,nv,NV,1922,truck,2011-2027
+nissan,nv200,NV200,1918,mpv,2013-2027
+nissan,nx,NX,11506,car,1991-1993
+nissan,pathfinder,Pathfinder,1911,mpv,1986-2027
+nissan,pickup,Pickup,5748,mpv,1981-1997
+nissan,pulsar,PULSAR,13524,car,1981-1990
+nissan,quest,Quest,1917,mpv,"1993-2009,2011-2017"
+nissan,rogue,Rogue,1913,mpv,2008-2027
+nissan,rogue_select,Rogue Select,18137,mpv,2014
+nissan,rogue_sport,Rogue Sport,17214,car,2017-2022
+nissan,sentra,Sentra,1907,car,1982-2027
+nissan,sentra_classic,Sentra Classic,17615,car,"1991-1992,1995"
+nissan,stanza,Stanza,11508,car,1981-1992
+nissan,stanza_wagon,Stanza Wagon,14329,mpv,1986-1989
+nissan,titan,Titan,1920,mpv,2002-2027
+nissan,van,Van,14272,mpv,1987-1990
+nissan,versa,Versa,1894,car,2007-2027
+nissan,versa_note,Versa Note,1898,car,2014-2020
+nissan,x_trail,X-Trail,2323,mpv,2005-2006
+nissan,xterra,Xterra,1916,mpv,2000-2015
+oldsmobile,achieva,Achieva,9089,car,1992-1998
+oldsmobile,alero,Alero,8955,car,1999-2004
+oldsmobile,aurora,Aurora,8957,car,"1995-1999,2001-2003"
+oldsmobile,bravada,Bravada,8920,mpv,1991-2004
+oldsmobile,custom_cruiser,Custom Cruiser,14176,car,1981-1993
+oldsmobile,cutlass,Cutlass,9068,car,"1981,1997-1999"
+oldsmobile,cutlass_calais,Cutlass Calais,14341,car,1981-1991
+oldsmobile,cutlass_ciera,Cutlass Ciera,14552,car,1982-1996
+oldsmobile,cutlass_cruiser,Cutlass Cruiser,14561,car,1981-1983
+oldsmobile,cutlass_salon,Cutlass Salon,22444,car,1985-1987
+oldsmobile,cutlass_supreme,Cutlass Supreme,9096,car,1981-1997
+oldsmobile,delta_88,Delta 88,14553,car,1981-1988
+oldsmobile,eighty_eight_88,Eighty Eight (88),9066,car,1989-1999
+oldsmobile,firenza,Firenza,14473,car,1982-1988
+oldsmobile,intrigue,Intrigue,8988,car,1998-2002
+oldsmobile,lss,LSS,9067,car,1996-1999
+oldsmobile,ninety_eight_98,Ninety Eight (98),14175,car,1981-1996
+oldsmobile,omega,Omega,14550,car,1981-1984
+oldsmobile,regency,Regency,9065,car,1997-1999
+oldsmobile,silhouette,Silhouette,8921,mpv,1990-2004
+oldsmobile,toronado,Toronado,14181,car,1981-1993
+peterbilt,200,200,9723,truck,1992-1996
+peterbilt,210,210,2796,truck,1997-2023
+peterbilt,220,220,2802,truck,1997-2027
+peterbilt,250,250,35733,truck,1992-1996
+peterbilt,310,310,9727,truck,1981-1996
+peterbilt,320,320,2045,truck,1986-2023
+peterbilt,325,325,2795,truck,1997-2027
+peterbilt,330,330,2043,truck,1997-2027
+peterbilt,335,335,2042,truck,1997-2027
+peterbilt,337,337,2797,truck,1997-2027
+peterbilt,340,340,2789,truck,1997-2023
+peterbilt,348,348,2798,truck,1981-2027
+peterbilt,349,349,9736,truck,1981-1996
+peterbilt,352,352,9734,truck,1981-1996
+peterbilt,353,353,9735,truck,1981-1996
+peterbilt,357,357,2039,truck,1986-2023
+peterbilt,359,359,9737,truck,1981-1996
+peterbilt,362,362,2047,truck,1981-2023
+peterbilt,363,363,2800,truck,1997-2023
+peterbilt,365,365,2790,truck,1997-2027
+peterbilt,367,367,2791,truck,1997-2027
+peterbilt,372,372,9719,truck,"1981-1984,1988-1996"
+peterbilt,375,375,9717,truck,1986-1996
+peterbilt,376,376,9720,truck,1988-1996
+peterbilt,377,377,9718,truck,1986-1996
+peterbilt,378,378,2040,truck,1988-2023
+peterbilt,379,379,2046,truck,"1985-2016,2022-2023"
+peterbilt,382,382,2801,truck,1997-2023
+peterbilt,384,384,2792,truck,1997-2023
+peterbilt,385,385,2041,truck,1992-2023
+peterbilt,386,386,2049,truck,1997-2023
+peterbilt,387,387,2048,truck,1981-2023
+peterbilt,388,388,2793,truck,"1992,1997-2023"
+peterbilt,389,389,2794,truck,1997-2027
+peterbilt,397,397,9738,truck,1981-1996
+peterbilt,476,476,9721,truck,1996
+peterbilt,477,477,9722,truck,1996
+peterbilt,520,520,13786,truck,2017-2027
+peterbilt,535,535,32284,truck,2022-2027
+peterbilt,536,536,32285,truck,2022-2027
+peterbilt,537,537,32286,truck,2023-2027
+peterbilt,548,548,32386,truck,2024-2027
+peterbilt,567,567,2788,truck,1997-2027
+peterbilt,579,579,2787,truck,1997-2027
+peterbilt,587,587,2799,truck,1997-2023
+peterbilt,589,589,30384,truck,2022-2027
+peterbilt,medium_duty_coe,Medium Duty COE,2044,truck,1997-2023
+peugeot,405,405,14340,car,1984-2027
+peugeot,504,504,14625,car,1981-1983
+peugeot,505,505,14339,car,1981-2027
+peugeot,604,604,14624,car,1981-1983
+plymouth,acclaim,Acclaim,14352,car,1981-1995
+plymouth,arrow,Arrow,15089,truck,1981-1982
+plymouth,breeze,Breeze,6496,car,1996-2000
+plymouth,caravelle,CARAVELLE,14408,car,1981-1988
+plymouth,champ,Champ,14761,car,1981-1982
+plymouth,colt,Colt,14353,car,1983-1994
+plymouth,conquest,Conquest,14410,car,1984-1986
+plymouth,gran_fury,GRAN FURY,14409,car,1981-1989
+plymouth,grand_voyager,Grand Voyager,14862,mpv,1988-2027
+plymouth,horizon,HORIZON,14398,car,1981-1990
+plymouth,laser,Laser,14359,car,1990-1994
+plymouth,neon,Neon,6495,car,1994-2027
+plymouth,prowler,Prowler,6673,car,"1997,1999-2027"
+plymouth,reliant,Reliant,14407,car,1981-1989
+plymouth,sapporo,Sapporo,14716,car,1981-1983
+plymouth,scamp,Scamp,15088,truck,1983
+plymouth,sundance,Sundance,14358,car,1987-1994
+plymouth,trailduster,Trailduster,15123,mpv,1981-1983
+plymouth,turismo,TURISMO,14406,car,1985-1988
+plymouth,voyager,Voyager,14861,mpv,1981-2027
+pontiac,6000,6000,14335,mpv,1981-1991
+pontiac,acadian,Acadian,22114,car,1981-1987
+pontiac,aztek,Aztek,8884,mpv,2000-2005
+pontiac,bonneville,Bonneville,8838,mpv,1981-2005
+pontiac,catalina,Catalina,22061,car,1981
+pontiac,fiero,Fiero,14471,car,1984-1988
+pontiac,firebird,Firebird,8986,mpv,1981-2002
+pontiac,firefly,Firefly,14169,mpv,1985-2000
+pontiac,g3,G3,4265,car,2008-2010
+pontiac,g5,G5,4259,car,2007-2010
+pontiac,g6,G6,4263,car,2005-2010
+pontiac,g8,G8,4264,car,2008-2010
+pontiac,grand_am,Grand AM,8840,mpv,1985-2005
+pontiac,grand_lemans,Grand Lemans,22059,car,1981-1983
+pontiac,grand_prix,Grand Prix,4262,mpv,1981-2008
+pontiac,gto,GTO,4993,car,2004-2006
+pontiac,j2000,J2000,22075,car,1982-1983
+pontiac,laurentian,Laurentian,22168,car,1981
+pontiac,lemans,Lemans,14170,mpv,"1981,1985-1993"
+pontiac,matiz,Matiz,6109,car,"2007,2010"
+pontiac,montana,Montana,33658,mpv,1999-2004
+pontiac,montana_sv6,Montana SV6,4589,mpv,2005-2009
+pontiac,parisienne,Parisienne,14467,mpv,1981-1989
+pontiac,phoenix,Phoenix,14549,car,1981-1984
+pontiac,pursuit,Pursuit,4777,car,2005-2006
+pontiac,safari,Safari,22106,mpv,1987-1989
+pontiac,solstice,Solstice,4260,car,2006-2010
+pontiac,sunbird,Sunbird,9140,mpv,1985-1995
+pontiac,sunbird_2000,Sunbird 2000,14548,car,"1981,1984"
+pontiac,sunburst,Sunburst,22116,car,1985-1987
+pontiac,sunfire,Sunfire,8839,car,1996-2005
+pontiac,t1000,T1000,14482,car,1981-1987
+pontiac,tempest,Tempest,22107,mpv,1987-1991
+pontiac,torrent,Torrent,4591,mpv,2006-2009
+pontiac,trans_sport,Trans Sport,11498,mpv,1990-1998
+pontiac,vibe,Vibe,2807,car,2003-2010
+pontiac,wave,Wave,4261,car,2005-2008
+porsche,718_boxster,718 Boxster,31222,car,2017-2025
+porsche,718_cayman,718 Cayman,31224,car,2017-2025
+porsche,718_spyder,718 Spyder,31223,car,"2020,2022-2025"
+porsche,911,911,7832,car,1981-2027
+porsche,918,918,8022,car,2015
+porsche,924,924,13848,car,"1981-1982,1985-1988"
+porsche,928,928,13847,car,"1981-1984,1989-1994"
+porsche,944,944,13846,car,1981-1991
+porsche,968,968,14080,car,1992-1994
+porsche,boxster,Boxster,7847,car,1997-2016
+porsche,cayenne,Cayenne,7895,mpv,2003-2027
+porsche,cayman,Cayman,7900,car,2006-2016
+porsche,macan,Macan,8031,mpv,2015-2027
+porsche,panamera,Panamera,7994,car,2010-2027
+porsche,taycan,Taycan,28090,car,2020-2027
+ram,1500,1500,13620,mpv,2013-2027
+ram,2500,2500,13621,mpv,2013-2027
+ram,3500,3500,13622,mpv,2012-2027
+ram,4000,4000,13623,mpv,2013-2023
+ram,4500,4500,13624,mpv,2013-2027
+ram,5500,5500,13625,mpv,2013-2027
+ram,cargo_van,Cargo Van,13907,mpv,2013-2016
+ram,promaster_1500,ProMaster 1500,13627,mpv,2014-2027
+ram,promaster_2500,ProMaster 2500,13628,mpv,2014-2027
+ram,promaster_3500,ProMaster 3500,13629,mpv,2014-2027
+ram,promaster_city,Promaster City,2050,mpv,2015-2027
+renault,18i,18i,36428,car,1981-1986
+renault,alliance,Alliance,36430,car,1983-1987
+renault,encore,Encore,36434,car,1984-1987
+renault,fuego,Fuego,36429,car,1983-1986
+renault,lecar,LeCar,36427,car,1981-1983
+rivian,edv,EDV,29437,truck,2022-2026
+rivian,r1s,R1S,29173,mpv,2022-2026
+rivian,r1t,R1T,28467,truck,2022-2026
+rivian,rcv,RCV,29345,truck,"2022,2024-2026"
+rolls_royce,camargue,Camargue,14260,car,1981-1987
+rolls_royce,corniche,Corniche,9825,car,"1981-1995,2000-2002"
+rolls_royce,cullinan,Cullinan,25883,mpv,2019-2027
+rolls_royce,dawn,Dawn,10289,car,2016-2021
+rolls_royce,flying_spur,Flying Spur,27698,car,1995
+rolls_royce,ghost,Ghost,1690,car,2010-2027
+rolls_royce,park_ward,Park Ward,9826,car,"1998-1999,2001-2002"
+rolls_royce,phantom,Phantom,1689,car,2004-2027
+rolls_royce,silver_dawn,Silver Dawn,9786,car,1995-1997
+rolls_royce,silver_seraph,Silver Seraph,9830,car,1999-2002
+rolls_royce,silver_spirit,Silver Spirit,9792,car,1981-1996
+rolls_royce,silver_spur,Silver Spur,9790,car,1981-1999
+rolls_royce,spectre,Spectre,32329,car,2024-2027
+rolls_royce,touring_limousine,Touring Limousine,9795,car,1993-1998
+rolls_royce,wraith,Wraith,1691,car,2014-2021
+saab,900,900,10049,car,1981-1998
+saab,9000,9000,10050,car,"1984-1985,1987-1998"
+saab,9_2x,9-2X,11604,car,2005-2009
+saab,9_3,9-3,2992,car,1999-2027
+saab,9_4x,9-4x,4094,mpv,2011-2012
+saab,9_5,9-5,2993,car,1999-2027
+saab,9_7x,9-7X,4603,mpv,2005-2009
+saturn,astra,Astra,4323,car,2008-2009
+saturn,aura,Aura,4336,car,2007-2010
+saturn,ion,Ion,4781,car,2003-2007
+saturn,l200,L200,8958,car,2003
+saturn,l300,L300,8852,car,2003-2005
+saturn,ls,LS,8995,car,2000-2002
+saturn,ls1,LS1,10997,car,2000-2002
+saturn,ls2,LS2,10998,car,2000-2002
+saturn,lw1,LW1,11000,car,2000-2002
+saturn,lw2,LW2,10999,car,2000-2002
+saturn,lw200,LW200,13757,car,2003
+saturn,lw300,LW300,13758,car,2003-2004
+saturn,outlook,Outlook,4596,mpv,2007-2010
+saturn,relay,Relay,4964,mpv,2005-2007
+saturn,sc1,SC1,8993,car,1991-2002
+saturn,sc2,SC2,8994,car,1991-2002
+saturn,sky,Sky,4335,car,2007-2010
+saturn,sl,SL,8990,car,"1994-1996,1998-2002"
+saturn,sl1,SL1,8991,car,1991-2002
+saturn,sl2,SL2,8992,car,1991-2002
+saturn,sl3,SL3,14186,car,1991-1993
+saturn,sw1,SW1,9024,car,1993-2001
+saturn,sw2,SW2,9070,car,1993-2001
+saturn,vue,Vue,4595,mpv,2002-2010
+shelby,cobra,Cobra,30569,car,2023-2026
+shelby,gt,GT,33560,car,2022-2026
+smart,eq_fortwo,EQ Fortwo,24758,car,2018-2027
+smart,fortwo,Fortwo,10424,car,2008-2027
+smart,fortwo_electric_drive,Fortwo Electric Drive,25775,car,2013-2015
+smart,smart,smart,2114,car,2000-2004
+spyker,c12,C12,8254,car,2002-2027
+spyker,c8,C8,8252,car,2002-2027
+spyker,d8d12,D8/D12,8255,car,2002-2027
+subaru,ascent,Ascent,24836,mpv,2019-2027
+subaru,b9_tribeca,B9 Tribeca,2320,mpv,2006-2014
+subaru,baja,Baja,2319,mpv,2003-2006
+subaru,brat,Brat,14245,mpv,1981-1986
+subaru,brz,BRZ,2238,car,2013-2027
+subaru,crosstrek,Crosstrek,13580,mpv,2016-2027
+subaru,dl,DL,18054,mpv,1981-1989
+subaru,forester,Forester,2234,mpv,1998-2027
+subaru,gl,GL,18055,mpv,1981-1989
+subaru,gl_10,GL-10,18056,mpv,1985-1989
+subaru,glf,GLF,18099,mpv,1981-1982
+subaru,impreza,Impreza,2235,mpv,1993-2027
+subaru,justy,Justy,14213,mpv,1987-1994
+subaru,legacy,Legacy,2232,mpv,1990-2027
+subaru,loyale,Loyale,14226,mpv,1990-1994
+subaru,outback,Outback,2233,mpv,2005-2027
+subaru,rx,RX,18059,mpv,1986-1989
+subaru,solterra,Solterra,30191,mpv,2023-2027
+subaru,standard,Standard,18081,mpv,1981-1987
+subaru,svx,SVX,6093,mpv,1992-1997
+subaru,trailseeker,Trailseeker,37354,mpv,2026-2027
+subaru,uncharted,Uncharted,37418,mpv,2026-2027
+subaru,wrx,WRX,2237,car,2015-2027
+subaru,xt,XT,17873,mpv,1985-1991
+subaru,xt6,XT6,17874,mpv,1988-1991
+subaru,xv_crosstrek,XV CrossTrek,2236,mpv,2012-2015
+suzuki,aerio,Aerio,3139,car,2002-2007
+suzuki,equator,Equator,3156,truck,2009-2027
+suzuki,esteem,Esteem,8564,car,1995-2002
+suzuki,forenza,Forenza,6106,car,2004-2008
+suzuki,forsa,Forsa,14597,car,1985-1988
+suzuki,grand_vitara,Grand Vitara,10291,mpv,1999-2027
+suzuki,grand_vitara_xl_7,Grand Vitara XL-7,10292,mpv,"2002,2006-2008"
+suzuki,kizashi,Kizashi,3157,car,2010-2027
+suzuki,reno,Reno,6107,car,2005-2008
+suzuki,samurai,Samurai,11605,mpv,1986-1996
+suzuki,sidekick,Sidekick,8572,mpv,1989-1998
+suzuki,sidekick_sport,Sidekick Sport,8574,mpv,1989-1998
+suzuki,swift,Swift,6105,car,"1989-2001,2004-2008"
+suzuki,sx4,SX4,3152,car,2007-2027
+suzuki,verona,Verona,10987,car,2004-2008
+suzuki,vitara,Vitara,8568,mpv,1999-2004
+suzuki,x_90,X-90,8575,mpv,1996-1998
+suzuki,xl7,XL7,3143,mpv,"2003-2005,2007-2027"
+tesla,cybercab,Cybercab,38037,car,2026-2027
+tesla,cybertruck,Cybertruck,33135,truck,2024-2027
+tesla,model_3,Model 3,17834,car,2017-2027
+tesla,model_s,Model S,1685,car,2012-2027
+tesla,model_x,Model X,10199,mpv,2016-2027
+tesla,model_y,Model Y,27027,mpv,2020-2027
+tesla,roadster,Roadster,2071,car,2008-2012
+tesla,semi,Semi,30834,truck,2023-2027
+toyota,4runner,4Runner,2216,mpv,1984-2027
+toyota,86,86,13602,car,2017-2020
+toyota,avalon,Avalon,2465,mpv,1995-2022
+toyota,bz,bZ,37150,mpv,2026-2027
+toyota,bz4x,bZ4X,30041,mpv,2023-2025
+toyota,bz_woodland,bZ Woodland,37355,mpv,2026-2027
+toyota,c_hr,C-HR,17213,mpv,"2018-2022,2026-2027"
+toyota,camry,Camry,2469,mpv,1983-2027
+toyota,camry_solara,Camry Solara,2803,car,1999-2009
+toyota,cargo_van,Cargo Van,3660,truck,1987-1989
+toyota,celica,Celica,3645,car,1981-2006
+toyota,corolla,Corolla,2208,car,1981-2027
+toyota,corolla_cross,Corolla Cross,29274,mpv,2022-2027
+toyota,corolla_im,COROLLA iM,15800,car,2017-2018
+toyota,corolla_matrix,Corolla Matrix,2466,car,2003-2013
+toyota,corona,Corona,14551,car,1981-1982
+toyota,cressida,Cressida,3655,car,1981-1992
+toyota,crown,Crown,31077,car,2023-2027
+toyota,crown_signia,Crown Signia,34866,car,2025-2027
+toyota,echo,Echo,3650,car,2000-2005
+toyota,fchv_adv,FCHV-adv,3155,car,2009-2010
+toyota,fj_cruiser,FJ Cruiser,2463,mpv,2007-2014
+toyota,gr86,GR86,29364,car,2022-2027
+toyota,gr_corolla,GR Corolla,31079,car,2023-2027
+toyota,grand_highlander,Grand Highlander,32304,mpv,2024-2027
+toyota,highlander,Highlander,2213,mpv,2001-2027
+toyota,land_cruiser,Land Cruiser,2211,mpv,"1981-2021,2024-2027"
+toyota,mirai,Mirai,10198,car,2016-2027
+toyota,mr2,MR2,3648,car,"1985-1989,1991-1995,2000-2007"
+toyota,paseo,Paseo,3649,car,1992-1999
+toyota,pick_up,Pick-Up,14263,mpv,1981-1995
+toyota,previa,Previa,9373,mpv,1991-1998
+toyota,prius,Prius,2209,car,2001-2027
+toyota,prius_c,Prius C,13823,car,2012-2020
+toyota,prius_prime_phev,Prius Prime (PHEV),21950,car,2017-2027
+toyota,prius_v,Prius V,13822,car,2012-2017
+toyota,rav4,RAV4,2217,mpv,1996-2027
+toyota,rav4_prime_phev,RAV4 Prime (PHEV),28070,mpv,2021-2027
+toyota,scion_fr_s,Scion FR-S,2315,car,2013-2016
+toyota,scion_ia,Scion iA,13603,car,2016
+toyota,scion_im,Scion iM,11501,car,2016
+toyota,scion_iq,Scion iQ,10241,car,2011-2015
+toyota,scion_tc,Scion tC,2207,car,2005-2016
+toyota,scion_xa,Scion xA,2206,car,2004-2006
+toyota,scion_xb,Scion xB,2210,mpv,2004-2015
+toyota,scion_xd,Scion xD,2933,car,2008-2014
+toyota,sequoia,Sequoia,2827,mpv,2000-2027
+toyota,sienna,Sienna,2468,mpv,1995-2027
+toyota,starlet,Starlet,14510,car,1981-1984
+toyota,supra,Supra,3647,car,"1981-1998,2020-2027"
+toyota,t100,T100,9374,truck,1993-1998
+toyota,tacoma,Tacoma,2223,truck,1995-2027
+toyota,tercel,Tercel,3644,car,1981-1999
+toyota,tundra,Tundra,2467,truck,1995-2027
+toyota,van,Van,14264,mpv,"1984-1989,1991"
+toyota,venza,Venza,3005,mpv,"2009-2017,2021-2024"
+toyota,yaris,Yaris,2464,car,2007-2020
+toyota,yaris_ia,Yaris iA,24949,car,2017-2019
+triumph,tr7,TR7,14711,car,1981
+triumph,tr8,TR8,14712,car,1981
+volvo,240_series,240 Series,14118,car,1981-1993
+volvo,260_series,260 Series,14659,car,1981-1982
+volvo,740_series,740 Series,14119,car,1981-1992
+volvo,760_series,760 Series,14121,car,1981-1990
+volvo,780_series,780 Series,14120,car,1981-1991
+volvo,850_series,850 Series,9343,car,1993-1997
+volvo,940_series,940 Series,9341,car,1991-1995
+volvo,960_series,960 Series,9342,car,1991-1997
+volvo,c30,C30,3144,mpv,2007-2013
+volvo,c40,C40,28818,mpv,2022-2024
+volvo,c70,C70,3129,mpv,"1998-2004,2006-2013"
+volvo,c70__c30,C70 / C30,28490,mpv,2012
+volvo,cab_behind_engine,Cab Behind Engine,14135,truck,1986-2027
+volvo,cab_over_engine_ht,Cab Over Engine HT,14126,truck,1986-2027
+volvo,cab_over_engine_lt,Cab Over Engine LT,14127,truck,1986-2027
+volvo,ec40,EC40,34313,mpv,2025-2027
+volvo,ex30,EX30,34308,mpv,2025-2027
+volvo,ex30_cc,EX30 CC,36146,mpv,2026-2027
+volvo,ex40,EX40,34314,mpv,2025-2027
+volvo,ex60,EX60,37967,mpv,2027
+volvo,ex90,EX90,34309,mpv,2025-2027
+volvo,f12_wf7_cab,F12 w/F7 Cab,14130,truck,1986-2027
+volvo,f6_wf7_cab,F6 w/F7 Cab,14131,truck,1986-2027
+volvo,s40,S40,3127,mpv,1999-2011
+volvo,s60,S60,1959,mpv,"2001-2009,2011-2027"
+volvo,s60_cross_country,S60 Cross Country,10208,mpv,2016-2018
+volvo,s70,S70,14125,car,1998-2000
+volvo,s80,S80,1960,mpv,1999-2016
+volvo,s90,S90,13798,mpv,"1998,2017-2027"
+volvo,v40,V40,14124,car,2000-2004
+volvo,v50,V50,3128,mpv,2005-2011
+volvo,v60,V60,1961,mpv,2015-2027
+volvo,v60cc,V60CC,10206,mpv,2015-2027
+volvo,v70,V70,3130,mpv,1998-2010
+volvo,v90,V90,13799,mpv,"1998,2017-2021"
+volvo,v90cc,V90CC,13800,mpv,2017-2027
+volvo,vs,VS,27152,truck,2019-2027
+volvo,vt,VT,27151,truck,2019-2027
+volvo,xc40,XC40,23714,mpv,2019-2027
+volvo,xc60,XC60,1962,mpv,2010-2027
+volvo,xc70,XC70,1963,mpv,2004-2016
+volvo,xc90,XC90,3132,mpv,"2003-2014,2016-2027"
+yugo,102_gv,"102, GV",24189,car,1986-2027
+yugo,yugo_45,Yugo 45,14333,car,1985
+yugo,yugo_55,Yugo 55,15158,car,1985
+yugo,yugo_65,Yugo 65,14334,car,1985

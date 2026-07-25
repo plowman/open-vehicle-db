@@ -1,13 +1,28 @@
-import functools
-import json
-import os
+"""
+Rebuild the data in data/ from the NHTSA vPIC API.
+
+    uv run ./scripts/update_car_data.py            # everything
+    uv run ./scripts/update_car_data.py toyota     # one make, for a quicker check
+
+Each step takes the current dataset and returns a new one, and nothing is written until every step
+has finished. A run that dies halfway through therefore leaves the committed data alone rather than
+replacing it with whatever it had managed to fetch.
+"""
+
+from __future__ import annotations
+
 import re
 import sys
-from collections import Counter, OrderedDict
+from collections import Counter, defaultdict
 from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime
+from dataclasses import dataclass, replace
+from datetime import datetime, timezone
 
 import requests
+from open_vehicle_db import storage
+from open_vehicle_db.changes import DatabaseChanges
+from open_vehicle_db.models import Make, Model, OrphanedStyle, Style, VehicleDatabase, VehicleType
+from open_vehicle_db.storage import Stats
 from requests.adapters import HTTPAdapter
 from tqdm import tqdm
 from urllib3.util.retry import Retry
@@ -26,7 +41,7 @@ VEHICLE_TYPE_ID_MAP = {
 
 PASSENGER_VEHICLE_TYPE_IDS = {2, 3, 7}
 
-CURRENT_YEAR = datetime.now().year
+CURRENT_YEAR = datetime.now(timezone.utc).year
 YEAR_RANGE = range(1981, CURRENT_YEAR + 2)
 
 # The API sits behind a rate limiter that answers with an HTML "403 Access Denied" page once it
@@ -80,8 +95,8 @@ def _fetch_in_parallel(fetch_one, items, description=None):
     """
     Map fetch_one over items concurrently, returning results in the original order of items.
 
-    Ordering matters: the JSON files are sorted so that changes are easy to read in a diff, so
-    results must not depend on which request happens to finish first.
+    Ordering matters: the CSV files are sorted so that changes are easy to read in a diff, so results
+    must not depend on which request happens to finish first.
     """
     items = list(items)
     with ThreadPoolExecutor(max_workers=MAX_CONCURRENT_REQUESTS) as executor:
@@ -91,130 +106,98 @@ def _fetch_in_parallel(fetch_one, items, description=None):
         return list(results)
 
 
-def slugify_string(input_string):
-    slug = input_string.strip()
-    slug = slug.lower()
-    slug = slug.replace(" ", "_")
-    slug = slug.replace(" ", "_")
-    slug = slug.replace("-", "_")
-    slug = re.sub("[^a-z0-9_]", "", slug)
-    return slug
+@dataclass(frozen=True, slots=True)
+class MakeVehicleType:
+    type_id: int
+    type_name: str
 
 
-def fetch_all_makes():
-    raw_makes_list = _make_api_request("/getallmakes")
+@dataclass(frozen=True, slots=True)
+class VehicleSpecification:
+    """
+    One row from the Canadian specifications endpoint.
 
-    all_makes = []
-    for make_data in raw_makes_list:
-        make_name = make_data["Make_Name"].strip()
-        make_slug = slugify_string(make_name)
-        all_makes.append(
-            {
-                "make_id": make_data["Make_ID"],
-                "make_name": make_name,
-                "make_slug": make_slug,
-                "models": {},
-                "first_year": None,
-                "last_year": None,
-            }
+    Only make_name and model_style are used to build the styles; the measurements are carried along
+    because they are the reason to be talking to this endpoint at all and are the obvious next thing
+    to publish.
+    """
+
+    make_name: str | None
+    model_style: str
+    hood_length_cm: int | None = None
+    back_length_cm: int | None = None
+    side_glass_max_height_cm: int | None = None
+    door_height_cm: int | None = None
+    max_width_cm: int | None = None
+    front_overhang_cm: int | None = None
+    rear_overhang_cm: int | None = None
+    overall_length_cm: int | None = None
+    overall_width_cm: int | None = None
+    overall_height_cm: int | None = None
+    wheelbase_cm: int | None = None
+    front_track_width_cm: int | None = None
+    rear_track_width_cm: int | None = None
+    curb_weight_kg: int | None = None
+    weight_distribution_pct: str | None = None
+
+
+def fetch_all_makes() -> list[Make]:
+    return [
+        Make.from_name(make_id=raw_make["Make_ID"], make_name=raw_make["Make_Name"])
+        for raw_make in _make_api_request("/getallmakes")
+    ]
+
+
+def fetch_types_for_make_id(make_id) -> list[MakeVehicleType]:
+    return [
+        MakeVehicleType(
+            type_id=raw_type.get("VehicleTypeId", -1),
+            type_name=raw_type["VehicleTypeName"].strip(),
         )
-
-    return all_makes
-
-
-def fetch_types_for_make(make_name):
-    raw_types_list = _make_api_request(f"/GetVehicleTypesForMake/{make_name}")
-    print(raw_types_list)
+        for raw_type in _make_api_request(f"/GetVehicleTypesForMakeId/{make_id}")
+    ]
 
 
-def fetch_types_for_make_id(make_id):
-    raw_types_list = _make_api_request(f"/GetVehicleTypesForMakeId/{make_id}")
+def fetch_models_for_make_id(make_slug: str, make_id: int) -> list[Model]:
+    """
+    Every model of a make, across the vehicle types this project keeps.
 
-    all_types = []
-    for make_type in raw_types_list:
-        all_types.append(
-            {
-                "type_id": make_type.get("VehicleTypeId", "<missing>"),
-                "type_name": make_type["VehicleTypeName"].strip(),
-            }
-        )
+    A handful of models are listed under more than one type, so these are collapsed by slug with the
+    last type winning. models.csv is keyed on (make_slug, model_slug) and cannot hold both.
+    """
+    models_by_slug = {}
+    # Multi-purpose Passenger Vehicles ("mpv") are SUVs, minivans, and the like.
+    for vehicle_type in VehicleType:
+        raw_models = _make_api_request(f"/GetModelsForMakeIdYear/makeId/{make_id}/vehicleType/{vehicle_type.value}")
+        for raw_model in raw_models:
+            model = Model.from_name(
+                make_slug=make_slug,
+                model_id=raw_model["Model_ID"],
+                model_name=raw_model["Model_Name"],
+                vehicle_type=vehicle_type,
+            )
+            models_by_slug[model.model_slug] = model
 
-    return all_types
-
-
-def _get_model_dict(raw_model, vehicle_type=None):
-    assert vehicle_type
-
-    return {
-        "model_id": raw_model["Model_ID"],
-        "model_name": raw_model["Model_Name"].strip(),
-        "vehicle_type": vehicle_type,
-        "years": [],
-        "model_styles": OrderedDict(),
-    }
+    return list(models_by_slug.values())
 
 
-def fetch_models_for_make_id(make_id):
-    models = []
-
-    raw_cars_list = _make_api_request(f"/GetModelsForMakeIdYear/makeId/{make_id}/vehicleType/car")
-    for raw_model in raw_cars_list:
-        models.append(_get_model_dict(raw_model, vehicle_type="car"))
-
-    raw_trucks_list = _make_api_request(f"/GetModelsForMakeIdYear/makeId/{make_id}/vehicleType/truck")
-    for raw_model in raw_trucks_list:
-        models.append(_get_model_dict(raw_model, vehicle_type="truck"))
-
-    # Multi-purpose Passenger Vehicles: SUV's, Minivans, etc.
-    raw_mpv_list = _make_api_request(f"/GetModelsForMakeIdYear/makeId/{make_id}/vehicleType/mpv")
-    for raw_model in raw_mpv_list:
-        models.append(_get_model_dict(raw_model, vehicle_type="mpv"))
-
-    return models
-
-
-def fetch_model_ids_for_make_and_year(make_id, year):
-    model_ids = []
+def fetch_model_ids_for_make_and_year(make_id, year) -> set[int]:
     models_in_year = _make_api_request(f"/getmodelsformakeidyear/makeId/{make_id}/modelyear/{year}")
-    for model in models_in_year:
-        model_ids.append(model["Model_ID"])
-
-    return model_ids
+    return {model["Model_ID"] for model in models_in_year}
 
 
-@functools.cache
-def make_produces_passenger_vehicles(make_id):
+def make_produces_passenger_vehicles(make_id) -> bool:
     """
     Return true if this make produces cars or trucks.
     """
     make_types = fetch_types_for_make_id(make_id)
-    make_type_ids = {make_type["type_id"] for make_type in make_types}
+    make_type_ids = {make_type.type_id for make_type in make_types}
 
     if not make_type_ids.issubset(VEHICLE_TYPE_ID_MAP.keys()):
         print(f"Found a new type?? {make_types}")
 
     # True if this make has any passenger vehicle types
     return bool(make_type_ids.intersection(PASSENGER_VEHICLE_TYPE_IDS))
-
-
-scripts_path = os.path.dirname(__file__)
-project_root = os.path.dirname(scripts_path)
-
-
-def path_to_file(*path_segments):
-    return os.path.join(project_root, *path_segments)
-
-
-def load_json(*json_path_segments):
-    json_path = os.path.join(project_root, *json_path_segments)
-    with open(json_path) as json_file:
-        return json.loads(json_file.read())
-
-
-def persist_json_file(data_dict, *json_path_segments):
-    json_path = os.path.join(project_root, *json_path_segments)
-    with open(json_path, mode="w") as json_file:
-        json_file.write(json.dumps(data_dict, indent=2, sort_keys=True))
 
 
 # These are hand-maintained lists, so they are kept packed rather than one make per line.
@@ -233,10 +216,8 @@ WHITE_LIST = {
 
 # This should contain all of the other makes which technically produce cars but which nobody has heard of
 BLACK_LIST = {
-    'sterling_motor_car', 'saw', 'bxr', 'zeligson', 'lancia', 'global_environmental_products_inc',
-    'vintage_microbus',
-    'ives_motors_corporation_imc', 'phoenix', 'protected_vehicles', 'laforza', 'western_star', 'volvo_truck',
-    'sutphen',
+    'sterling_motor_car', 'saw', 'bxr', 'zeligson', 'lancia', 'global_environmental_products_inc', 'vintage_microbus',
+    'ives_motors_corporation_imc', 'phoenix', 'protected_vehicles', 'laforza', 'western_star', 'volvo_truck', 'sutphen',
     'panther', 'thnk', 'mycar', 'frontline', 'thomas_built', 'consulier', 'grumman', 'autocar', 'morgan',
     'azure_dynamic_inc', 'vector_aeromotive_corporation', 'blue_bird', 'spartan_motors',
     'utilimaster_motor_corporation', 'freightliner', 'osprey_custom_4x4', 'mack', 'gruppe_b', 'crane_carrier',
@@ -246,8 +227,7 @@ BLACK_LIST = {
     'indiana_phoenix_inc', 'excalibur_automobile_corporation', 'international', 'rs_spider', 'lodal', 'polestar',
     'autokad', 'mosler', 'capacity_trucks', 'clenet', 'patriot_energy_services', 'jaspers_hot_rods_llc',
     'vision_industries', 'white', 'electric_mobile_cars', 'yester_year_auto', 'vironex', 'azure_dynamics',
-    'matrix_motor_company', 'phoenix_sports_cars_inc', 'asuna', 'usa_motor_corporation',
-    'mgs_grand_sport_mardikian',
+    'matrix_motor_company', 'phoenix_sports_cars_inc', 'asuna', 'usa_motor_corporation', 'mgs_grand_sport_mardikian',
     'pas', 'chanje', 'hmc', 'ev_innovations', 'beyond_roads', 'transpower', 'efficient_drivetrains_inc',
     'national_oilwell_varco', 'lite_car', 'precedent', 'envirotech_drive_systems_incorporated', 'renaissance',
     'fortunesport_ves', 'hino', 'workhorse', 'electric_vehicles_international', 'mini_big_trucks', 'autocar_ltd',
@@ -256,20 +236,17 @@ BLACK_LIST = {
     'tiger_truck_manufacturing', 'opel', 'moke_america', 'glickenhaus', 'cobra_cars', 'greenkraft',
     'global_fabricators', 'genesis', 'elgin_sweeper_co', 'truck_equipment_corporationtec',
     'hunter_automotive_group_inc', 'holden', 'sterling_truck', 'equus_automotive', 'collins', 'pagani',
-    'marmon_motor_co', 'mahindra', 'american_motors', 'faw_jiaxing_happy_messenger', 'simon_duplex', 'ic_bus',
-    'inzuro',
+    'marmon_motor_co', 'mahindra', 'american_motors', 'faw_jiaxing_happy_messenger', 'simon_duplex', 'ic_bus', 'inzuro',
     'orange_ev_llc', 'iron_guru_customs', 'bbc', 'scuderia_cameron_glickenhaus_scg', 'oshkosh',
     'smith_electric_vehicles', 'njd_automotive_llc', 'federal_motors_inc', 'jlg', 'warhawk_performance',
     'westfall_motors_corp', 'contemporary_classic_cars_ccc', 'maxim_inc', 'zhejiang_kangdi_vehicles_co',
-    'ottawa_brimont_corporation', 'jac_427', 'cx_automotive', 'whitegmc', 'e_one', 'boulder_electric_vehicle',
-    'lumen',
+    'ottawa_brimont_corporation', 'jac_427', 'cx_automotive', 'whitegmc', 'e_one', 'boulder_electric_vehicle', 'lumen',
     'korando', 'falcon', 'nanchang_freedom_technology_limited_company', 'heritage', 'merkur', 'caterpillar',
     'phoenix_motorcars', 'eagle', 'kimble_chassis', 'mcneilus', 'terrafugia', 'american_truck_company',
     'penske', 'rainier_truck_and_chassis', 'pierce_manufacturing', 'dennis', 'vintage_auto', 'byd', 'trident_motor',
     'steamroller_motorcycle_company_llc', 'winnebago_industries_inc', 'spv', 'brain_unlimited', 'koenigsegg',
     'allianz_sweeper_company', 'blackwater', 'us_specialty_vehicles_llc', 'jerr_dan', 'kimble', 'navistar',
-    'avera_motors', 'creative_coachworks', 'general_purpose_vehicles', 'stanford_customs', 'coda', 'coachworks',
-    'smit',
+    'avera_motors', 'creative_coachworks', 'general_purpose_vehicles', 'stanford_customs', 'coda', 'coachworks', 'smit',
     'crane_carrier_company', 'ud', 'czinger', 'classic_roadsters', 'faradayfuture_inc',
     'gullwing_international_motors_ltd', 'canadian_electric_vehicles', 'cami', 'kovatch_mobile_equipment',
     'diamond_reo', 'ucc', 'vintage_cruiser', 'crown_energy_technologies', 'spartan_motors_chassis', 'kubvan',
@@ -279,33 +256,33 @@ BLACK_LIST = {
     'diamond_heavy_vehicle_solutions', 'daytona_coach_builders', 'kepler_motors', 'stoutbilt', 'superior_coaches',
     'vintage_rover', 'mobile_armoured_vehicle', 'humvee', 'making_you_mobile', 'c_r_cheetah_race_cars',
     'calaveras_mfg_inc', 'world_transport_authority', 'costin_sports_car', 'solectria', 'rig_works',
-    'snowblast_sicard_inc', 'classic_sports_cars', 'bakkura_mobility', 'bluecar', 'sf_motors_inc'}
+    'snowblast_sicard_inc', 'classic_sports_cars', 'bakkura_mobility', 'bluecar', 'sf_motors_inc'
+}
 # fmt: on
 
-# Makes seen in the API that are on neither list.
+# Makes seen in the API that are on neither list. Reported once at the end of a run.
 grey_list = set()
 
 # Unparseable spec values from the Canadian specs endpoint, tallied and reported once.
 bad_spec_values = Counter()
 
 
-def make_is_whitelisted(make, warn_if_unlisted=False):
-    make_slug = make["make_slug"]
-    if make_slug in WHITE_LIST:
+def make_is_whitelisted(make: Make, warn_if_unlisted=True) -> bool:
+    if make.make_slug in WHITE_LIST:
         return True
 
-    if make_slug in BLACK_LIST:
+    if make.make_slug in BLACK_LIST:
         return False
 
     if warn_if_unlisted:
         # Only record it here. Printing the whole accumulated set on every miss is quadratic:
         # /getallmakes returns ~12,300 makes and almost none of them are listed.
-        grey_list.add(make_slug)
+        grey_list.add(make.make_slug)
 
     return False
 
 
-def fetch_vehicle_details(year=None, model=None, make=None):
+def fetch_vehicle_details(year=None, model=None, make=None) -> list[VehicleSpecification]:
     """
     Get the "Canadian" vehicle details for this year/model/make.
 
@@ -362,138 +339,115 @@ def fetch_vehicle_details(year=None, model=None, make=None):
             continue
 
         vehicle_specifications.append(
-            {
-                "make_name": raw_data.get("Make"),
-                "model_style": raw_data["Model"],
-                "hood_length_cm": raw_data["A"],
-                "back_length_cm": raw_data["B"],
-                "side_glass_max_height_cm": raw_data["C"],
-                "door_height_cm": raw_data["D"],
-                "max_width_cm": raw_data["E"],
-                "front_overhang_cm": raw_data["F"],
-                "rear_overhang_cm": raw_data["G"],
-                "overall_length_cm": raw_data["OL"],
-                "overall_width_cm": raw_data["OW"],
-                "overall_height_cm": raw_data["OH"],
-                "wheelbase_cm": raw_data["WB"],
-                "front_track_width_cm": raw_data["TWF"],
-                "rear_track_width_cm": raw_data["TWR"],
-                "curb_weight_kg": raw_data["CW"],
-                "weight_distribution_pct": raw_data["WD"],
-            }
+            VehicleSpecification(
+                make_name=raw_data.get("Make"),
+                model_style=raw_data["Model"],
+                hood_length_cm=raw_data["A"],
+                back_length_cm=raw_data["B"],
+                side_glass_max_height_cm=raw_data["C"],
+                door_height_cm=raw_data["D"],
+                max_width_cm=raw_data["E"],
+                front_overhang_cm=raw_data["F"],
+                rear_overhang_cm=raw_data["G"],
+                overall_length_cm=raw_data["OL"],
+                overall_width_cm=raw_data["OW"],
+                overall_height_cm=raw_data["OH"],
+                wheelbase_cm=raw_data["WB"],
+                front_track_width_cm=raw_data["TWF"],
+                rear_track_width_cm=raw_data["TWR"],
+                curb_weight_kg=raw_data["CW"],
+                weight_distribution_pct=raw_data["WD"],
+            )
         )
 
     return vehicle_specifications
 
 
-def fetch_passenger_makes():
-    make_id_make_map = {}
-    for vehicle_type in ["car", "truck", "mpv"]:
-        results = _make_api_request(f"/GetMakesForVehicleType/{vehicle_type}")
-
-        for result in results:
-            make_id_make_map[result["MakeId"]] = {
-                "first_year": None,
-                "last_year": None,
-                "make_name": result["MakeName"].strip(),
-                "make_slug": slugify_string(result["MakeName"]),
-                "make_id": result["MakeId"],
-                "models": {},
-            }
-
-    return make_id_make_map.values()
-
-
-def update_makes_file(target_make=None):
+def update_makes(database: VehicleDatabase, target_make=None) -> VehicleDatabase:
     """
-    Update makes_and_models.json with all of the NHTSA makes which currently produce cars or trucks.
+    Refresh which makes exist and what they are called.
 
-    Only the make identity is refreshed here. Models and years belong to update_models_files, so
-    they are carried over from the persisted file rather than being reset to empty.
+    Only make identity is decided here. Years come from update_models, so they are carried over from
+    the make already on file rather than being reset.
     """
-    persisted_makes = load_make_models_json()
-    persisted_makes_by_slug = {make["make_slug"]: make for make in persisted_makes}
-    possible_new_makes = []
+    makes_by_slug = {make.make_slug: make for make in database.makes}
 
-    makes_producing_passenger_vehicles = fetch_passenger_makes()
-    for make in tqdm(makes_producing_passenger_vehicles):
-        if make["make_name"] == "FISKER AUTOMOTIVE":
+    for make in fetch_all_makes():
+        if make.make_name == "FISKER AUTOMOTIVE":
             # This is a dumb name that doesn't match canada's name.
-            make["make_name"] = "Fisker"
-            make["make_slug"] = "fisker"
-        if make["make_id"] == 1033:
+            make = Make.from_name(make_id=make.make_id, make_name="Fisker")
+        if make.make_id == 1033:
             # Skip the generic "FISKER" make, which lists no cars for some reason.
             continue
-        if target_make and target_make != make["make_slug"]:
+        if target_make and target_make != make.make_slug:
             continue
 
-        make_slug = make["make_slug"]
-        persisted_make = persisted_makes_by_slug.get(make_slug)
-        if persisted_make:
-            # Keep whatever update_models_files / update_styles already worked out for this make.
-            persisted_make["make_id"] = make["make_id"]
-            persisted_make["make_name"] = make["make_name"]
-        elif make_slug in WHITE_LIST:
-            # New make which was not previously known
-            print(f"Adding a new make: {make}")
-            persisted_makes_by_slug[make_slug] = make
-        elif make_slug not in BLACK_LIST:
-            # Make which is not yet blacklisted
-            possible_new_makes.append(make)
-            print(f"Found an unlisted make which makes passenger vehicles: {make}")
+        if not make_is_whitelisted(make, warn_if_unlisted=True):
+            # There are too many random car brands, so we focus on just those making cars and/or trucks
+            continue
 
-    makes_and_models = sorted(persisted_makes_by_slug.values(), key=lambda make: make["make_slug"])
-    persist_json_file(makes_and_models, "data", "makes_and_models.json")
+        known_make = makes_by_slug.get(make.make_slug)
+        if known_make:
+            makes_by_slug[make.make_slug] = replace(known_make, make_id=make.make_id, make_name=make.make_name)
+        else:
+            print(f"New make: {make.make_name}")
+            makes_by_slug[make.make_slug] = make
 
-    for new_make in possible_new_makes:
-        print(f"Found a possible new make: {new_make}")
+    if grey_list:
+        # Nearly every one of the ~12,300 makes the API returns is an unlisted trailer or bus
+        # builder, so show a sample rather than the whole set.
+        sample = sorted(grey_list)[:20]
+        print(f"{len(grey_list)} makes are on neither the white nor the black list, e.g. {sample}")
+
+    return replace(database, makes=tuple(sorted(makes_by_slug.values())))
 
 
-def load_make_models_json():
-    return load_json("data", "makes_and_models.json")
-
-
-def update_models_files(target_make=None):
+def update_models(database: VehicleDatabase, target_make=None) -> VehicleDatabase:
     """
-    Update makes_and_models.json with the latest of makes and models.
+    Refresh the models of every make, along with the years each model and make was sold in.
 
-    The bulk of the work is one request per make per year, so those are issued concurrently. Years
-    are collected per model and sorted afterwards, since the requests do not finish in order.
+    The bulk of the work is one request per make per year, so those are issued concurrently. Years are
+    collected per model and sorted afterwards, since the requests do not finish in order.
     """
-    all_makes = load_make_models_json()
-    targets = [make for make in all_makes if not target_make or make.get("make_slug") == target_make]
+    targets = [make for make in database.makes if not target_make or make.make_slug == target_make]
+    target_slugs = {make.make_slug for make in targets}
+
+    # Models of makes this run is not touching are kept as they are; models whose make has gone away
+    # entirely are dropped.
+    known_slugs = {make.make_slug for make in database.makes}
+    models = [
+        model for model in database.models if model.make_slug not in target_slugs and model.make_slug in known_slugs
+    ]
+    makes = [make for make in database.makes if make.make_slug not in target_slugs]
 
     for make in tqdm(targets, desc="makes"):
-        models = fetch_models_for_make_id(make["make_id"])
+        fetched_models = fetch_models_for_make_id(make.make_slug, make.make_id)
 
         # 1981 is the earliest I see any models showing up in the API.
         model_ids_per_year = _fetch_in_parallel(
-            lambda year, make_id=make["make_id"]: set(fetch_model_ids_for_make_and_year(make_id, year)),
+            lambda year, make_id=make.make_id: fetch_model_ids_for_make_and_year(make_id, year),
             YEAR_RANGE,
         )
 
+        years_by_model_id = defaultdict(set)
         first_year = None
         last_year = None
-        for year, model_ids_in_year in zip(YEAR_RANGE, model_ids_per_year):
+        for year, model_ids_in_year in zip(YEAR_RANGE, model_ids_per_year, strict=True):
             if model_ids_in_year:
                 if not first_year:
                     first_year = year
                 last_year = year
 
-            for model in models:
-                if model["model_id"] in model_ids_in_year:
-                    model["years"].append(year)
+            for model in fetched_models:
+                if model.model_id in model_ids_in_year:
+                    years_by_model_id[model.model_id].add(year)
 
-        # Rebuild from scratch so that models the API no longer returns get dropped.
-        make["models"] = {}
-        for model in models:
-            model["years"] = sorted(set(model["years"]))
-            make["models"][model["model_name"]] = model
+        models.extend(
+            replace(model, years=tuple(sorted(years_by_model_id[model.model_id]))) for model in fetched_models
+        )
+        makes.append(replace(make, first_year=first_year, last_year=last_year))
 
-        make["first_year"] = first_year
-        make["last_year"] = last_year
-
-    persist_json_file(all_makes, "data", "makes_and_models.json")
+    return replace(database, makes=tuple(sorted(makes)), models=tuple(sorted(models)))
 
 
 not_alphanumeric = re.compile("[^A-Z0-9]")
@@ -542,22 +496,22 @@ def choose_matching_model_for_style(model_style_name, model_choices):
     return None
 
 
-def _fetch_styles_by_year(years):
+def _fetch_styles_by_year(years) -> dict[int, list[VehicleSpecification]]:
     """
     Fetch the Canadian specs for every make, one request per year.
 
-    Passing an empty Make returns every make for that year, so this needs one request per year
-    rather than one per make per year. Returns {year: [detail, ...]}.
+    Passing an empty Make returns every make for that year, so this needs one request per year rather
+    than one per make per year.
     """
     details_per_year = _fetch_in_parallel(
         lambda year: fetch_vehicle_details(year=year),
         years,
         description="style years",
     )
-    return dict(zip(years, details_per_year))
+    return dict(zip(years, details_per_year, strict=True))
 
 
-def _make_name_matches(make_name, detail_make_name):
+def _make_name_matches(make_name, detail_make_name) -> bool:
     """
     Replicate how the API's Make filter behaves, which is a case-insensitive substring match.
 
@@ -566,129 +520,98 @@ def _make_name_matches(make_name, detail_make_name):
     return make_name.upper() in (detail_make_name or "").upper()
 
 
-def update_styles(target_make=None):
-    all_makes = load_make_models_json()
-    all_orphaned_styles = {}
+def update_styles(database: VehicleDatabase) -> tuple[VehicleDatabase, list[OrphanedStyle]]:
+    """
+    Rebuild every style by matching the Canadian specs rows onto the models from update_models.
 
-    makes_with_years = []
-    for make in all_makes:
-        if target_make and make["make_slug"] != target_make:
-            continue
-        if not (make["first_year"] and make["last_year"]):
-            print(f"BAD MAKE missing first_year or last_year: {make}")
-            continue
-        makes_with_years.append(make)
+    Styles that no model name could be matched to are returned separately as a report on how well the
+    matching is doing, rather than being mixed into the data.
+    """
+    datable_makes = []
+    for make in database.makes:
+        if make.first_year and make.last_year:
+            datable_makes.append(make)
+        else:
+            print(f"BAD MAKE missing first_year or last_year: {make.make_slug}")
 
-    if not makes_with_years:
-        return
+    if not datable_makes:
+        return database, []
+
+    models_by_make = {make.make_slug: database.models_for_make(make.make_slug) for make in datable_makes}
 
     # One request per year covering every make, instead of one per make per year.
     all_years = range(
-        min(make["first_year"] for make in makes_with_years),
-        max(make["last_year"] for make in makes_with_years) + 1,
+        min(make.first_year for make in datable_makes),
+        max(make.last_year for make in datable_makes) + 1,
     )
     details_by_year = _fetch_styles_by_year(all_years)
 
-    for make in makes_with_years:
-        model_choices = make["models"].keys()
-        all_orphaned_styles[make["make_name"]] = {
-            "model_choices": list(model_choices),
-            "orphaned_styles": [],
-        }
-        for year in range(make["first_year"], make["last_year"] + 1):
+    # Keyed by (make_slug, model_slug, style_name). The endpoint lists a style once per year it was
+    # sold in, so years accumulate here and are frozen into Style objects at the end.
+    years_by_style = defaultdict(set)
+    orphan_counts = Counter()
+
+    for make in datable_makes:
+        models_by_name = {model.model_name: model for model in models_by_make[make.make_slug]}
+        for year in range(make.first_year, make.last_year + 1):
             for detail in details_by_year[year]:
-                if not _make_name_matches(make["make_name"], detail["make_name"]):
+                if not _make_name_matches(make.make_name, detail.make_name):
                     continue
-                model_style_name = detail["model_style"]
 
-                matching_model = choose_matching_model_for_style(model_style_name, model_choices)
-                if matching_model:
-                    model_styles = make["models"][matching_model]["model_styles"]
-                    years = model_styles.setdefault(model_style_name, {"years": []})["years"]
-                    # The API sometimes lists the same style twice in one year, which used to add
-                    # that year twice. Years are visited in ascending order, so this stays sorted.
-                    if year not in years:
-                        years.append(year)
-                else:
-                    all_orphaned_styles[make["make_name"]]["orphaned_styles"].append(model_style_name)
+                matching_model_name = choose_matching_model_for_style(detail.model_style, models_by_name.keys())
+                if matching_model_name is None:
+                    orphan_counts[(make.make_slug, detail.model_style)] += 1
+                    continue
 
-        style_data = OrderedDict()
-        for model_key in sorted(make["models"]):
-            style_data[model_key] = OrderedDict(make["models"][model_key]["model_styles"])
-        persist_json_file(style_data, "data", "styles", make["make_slug"] + ".json")
+                model = models_by_name[matching_model_name]
+                years_by_style[(make.make_slug, model.model_slug, detail.model_style)].add(year)
 
-    orphan_count = sum(len(values["orphaned_styles"]) for values in all_orphaned_styles.values())
-    print(f"Could not match {orphan_count} styles to a model. See data/all_orphaned_styles.json.")
-    if bad_spec_values:
-        print(f"Unparseable spec values, by value: {dict(bad_spec_values)}")
-    persist_json_file(all_orphaned_styles, "data", "all_orphaned_styles.json")
-
-
-def update_readme():
-    """
-    Update the readme with the latest stats.
-    """
-    make_models_data = load_make_models_json()
-    make_count = len(make_models_data)
-    model_count = sum(len(make_data["models"]) for make_data in make_models_data)
-    max_make_year = max(make_data["last_year"] for make_data in make_models_data)
-    min_make_year = min(make_data["first_year"] for make_data in make_models_data)
-
-    style_count = 0
-    make_slugs = [make_data["make_slug"] for make_data in make_models_data]
-    for make_slug in make_slugs:
-        make_style_data = load_json("data", "styles", f"{make_slug}.json")
-        for model in make_style_data:
-            for _ in make_style_data[model]:
-                style_count += 1
-
-    readme_content = open(path_to_file("README.md")).read()
-
-    # Replace the content after "## What it contains" but before "## How to use it" with new stats.
-    old_data = readme_content.split("## What it contains")[1].split("## How to use it")[0]
-
-    new_data = (
-        "\n"
-        f"* {make_count} makes, e.g.'Toyota'\n"
-        f"* {model_count} models, e.g. 'Prius V'\n"
-        f"* {style_count} styles, e.g. 'PRIUS V 5DR HATCHBACK'\n"
-        f"* Supports years from {min_make_year} to {max_make_year}\n"
-        f"* Last updated {datetime.now().strftime('%B %d, %Y')}\n"
-        "\n"
+    # Styles of makes that were skipped above are kept rather than quietly dropped.
+    skipped_slugs = {make.make_slug for make in database.makes} - {make.make_slug for make in datable_makes}
+    styles = [style for style in database.styles if style.make_slug in skipped_slugs]
+    styles.extend(
+        Style(make_slug=make_slug, model_slug=model_slug, style_name=style_name, years=tuple(sorted(years)))
+        for (make_slug, model_slug, style_name), years in years_by_style.items()
     )
 
-    print("=" * 100)
-    print("Old data:")
-    print(old_data)
-    print("=" * 100)
-    print("New data: ")
-    print(new_data)
+    orphaned_styles = [
+        OrphanedStyle(make_slug=make_slug, style_name=style_name, occurrences=occurrences)
+        for (make_slug, style_name), occurrences in orphan_counts.items()
+    ]
 
-    readme_content = readme_content.replace(old_data, new_data)
-    open(path_to_file("README.md"), "w").write(readme_content)
+    print(f"Could not match {len(orphaned_styles)} styles to a model. See data/orphaned_styles.csv.")
+    if bad_spec_values:
+        print(f"Unparseable spec values, by value: {dict(bad_spec_values)}")
 
-
-def update_everything():
-    # Order matters: models needs the makes, styles needs the models, the readme counts the lot.
-    update_makes_file()
-    update_models_files()
-    update_styles()
-    update_readme()
+    return replace(database, styles=tuple(sorted(styles))), orphaned_styles
 
 
-def update_single_make(make):
-    update_makes_file(make)
-    update_models_files(make)
-    update_styles(make)
+def update_everything(target_make=None) -> None:
+    # Order matters: models needs the makes, styles needs the models.
+    before = storage.load_database(missing_ok=True)
+    after = update_makes(before, target_make)
+    after = update_models(after, target_make)
+    after, orphaned_styles = update_styles(after)
+
+    changes = DatabaseChanges.between(before, after)
+    today = datetime.now(timezone.utc).date().isoformat()
+
+    # Nothing has touched data/ until this point, so a run that failed above leaves it intact.
+    storage.write_database(after)
+    storage.write_orphaned_styles(orphaned_styles)
+    storage.write_stats(Stats.describe(after, last_updated=today))
+    if not changes.is_empty:
+        storage.prepend_changelog(changes.to_markdown(heading=today))
+
+    print(f"{len(after.makes)} makes, {len(after.models)} models, {len(after.styles)} styles.")
+    print(f"Changes since the last run: {changes.summary_line()}")
 
 
-def main(args):
-    print(f"Running update_car_data with args: {args}")
-    # update_everything()
-    # update_single_make("delorean")
-    # update_single_make("shelby")
-    update_single_make("rivian")
-    update_readme()
+def main(args) -> None:
+    target_make = args[0] if args else None
+    if target_make:
+        print(f"Updating {target_make} only")
+    update_everything(target_make=target_make)
 
 
 if __name__ == "__main__":
